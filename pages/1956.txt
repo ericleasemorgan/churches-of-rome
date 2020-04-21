@@ -1,0 +1,485 @@
+{{Infobox church
+|image=
+|englishname = St Cecilia in Trastevere
+|latinname = Sanctae Caeciliae
+|dedication = St Cecilia
+|denomination = [[Roman Catholic Church|Roman Catholic]]
+|type = [[Titular church]]
+|titular = Carlo Maria Martini, S.J
+|built = 9th century, rebuilt in 18th century
+|architect = [[Ferdinando Fuga]], Bonoli
+|artists = Sebastiano Conca, Guido Reni, Stefano Maderno
+|address = 22 Piazza di Santa Cecilia <br>
+|phone = 06 71 88 626}}
+'''Santa Cecilia in Trastevere''' is a 9th century monastic and titular church and [[Minor basilica|minor basilica]] located at Piazza di Santa Cecilia 22 in [http://en.wikipedia.org/wiki/Trastevere Trastevere]. Pictures of the church at Wikimedia Commons are [http://commons.wikimedia.org/wiki/Category:Santa_Cecilia_(Rome)?uselang=it here]. There is an English Wikipedia page [[wikipedia:Santa_Cecilia_in_Trastevere|here]].
+
+The dedication is to St [https://en.wikipedia.org/wiki/Saint_Cecilia Cecilia], by tradition a 3rd century Roman martyr. She is the patron of musicians.
+
+IT IS REQUESTED THAT VISITORS REFRAIN FROM ACCOSTING NUNS OR CLERGY TO ASK FOR ACCESS TO CLOSED AREAS.
+
+==History ==
+===The saint===
+====Name====
+The name ''Cecilia ''(properly ''Caecilia'') simply means that the patron saint here was a female member of the ancient plebeian clan known as the [http://en.wikipedia.org/wiki/Caecilia_(gens) gens Caecilia]. She would have shared this ''nomen'' with all the other women of the ''gens, ''the name of which seems to derive from a blind (''caecus'') ancestor. Hence all the fanciful etymologies in the devotional literature are worthless and can be ignored, as this was not a personal name.
+====Historical status====
+The facts behind the legend of St Cecilia are not easy to discern. The revised Roman martyrology, [[2004]], has this carefully worded entry on her feast-day of 22 November:
+
+''Memoria sanctae Caeciliae, virginis et martyris, quae duplicem illam palmam Romae in coemeterio Callisti via Appia pro Christi amore consecuta esse traditur, cuiusque nomen titulus ecclesiae Transtiberinus antiquitus praebet. ''
+
+("The memoria of St Cecilia, virgin and martyr, who is described as having obtained this double palm for the love of Christ at the cemetery of Callistus on the Via Appia, and whose name occurs in an ancient Trastevere church titulus.")
+
+On 14 April there is this entry, not connected to the above:
+
+''Romae in coemeterio Praetextati via Appia, sanctorum Tiburtii, Valeriani et Maximi, martyrum. ''
+
+("At Rome, in the cemetery of Praetextatus on the Appian Way, [the commemoration of] the saints Tiburtius, Valerian and Maximus, martyrs.") 
+
+Both entries are listed in the index as of "uncertain date". See [[Catacomba di Pretestato]].
+====Legend====
+The Catholic Church now concurs with the opinion of historians that the legend or ''Acta ''of St Cecila and her three companions is a fictional romance of the early 5th century, and has edited liturgical texts accordingly. However in the past the story was very popular, and it has obviously influenced the artworks and devotional layout of her church.
+
+The legend states that Cecila was a young noblewoman who had taken a private vow of virginity before marrying a pagan called Valerian. With the help of her guardian angel, actively involved in her case, she persuaded him to agree to respect the vow and to go down the Appian Way to find a bishop called Urban living in the catacombs. He did so, was baptized and was hence martyred together with his brother Tiburtius and a soldier involved in their detention called Maximus whom they converted. Cecilia was later ordered to be killed by being suffocated in her own bath-house, but survived and then suffered a botched attempt at beheading which left her lingering for three days. In this period she donated her house to become a church, and after her death Urban buried her in the Catacombs of Callistus ([[Catacombe di San Callisto]]).
+
+The legend quickly became popular, and was translated into Greek so that St Cecilia is now venerated by the Eastern churches also.
+====What can be known, if anything====
+The reference to Urban the bishop could easily be taken to refer to Pope St [http://en.wikipedia.org/wiki/Pope_Urban_I Urban I] (222-230), and there is a traditional association with him and the area of the Appian Way around the third milestone (see [[Sant'Urbano alla Caffarella]]). Hence, some publications quote a date of around 225 for St Cecila's martyrdom. However, there was no persecution of the Church at Rome in his reign, since the emperor [http://en.wikipedia.org/wiki/Alexander_Severus Alexander Severus] had a policy of tolerance.
+
+The Greek menologies (i.e. martyrologies) place her martyrdom in the great persecution under the emperor [http://en.wikipedia.org/wiki/Diocletian Diocletian], at the start of the 4th century.
+
+There is a comment in a work called ''Miscellanea ''by Venantius Fortunatus (latter part of the 7th century), which indicates that the saint was martyred in the reign of [http://en.wikipedia.org/wiki/Marcus_Aurelius Marcus Aurelius], about the year 177. This surprisingly early date was supported by the famous historian and archaeologist [http://en.wikipedia.org/wiki/Giovanni_Battista_de_Rossi Giovanni Battista de Rossi], who also claimed to have pinpointed the original place of burial in the Catacombs of Callistus.
+
+The archaeological excavations under the church revealed much of interest, but nothing Christian that could be traced back to the period of the church's foundation, so there is no help there.
+
+In conclusion, historically St Cecilia can be taken as a martyr of uncertain date who left a tradition of burial at the Catacombs of Callistus, and an association with the site at Trastevere. Certain historians have suggested that these two sites concerned two Cecilias, with the one at the church simply being the original owner of the property where the ''titulus ''was founded. This is plausible for other ''tituli ''associated with obscure female martyrs, for example [[Santa Sabina]], but in the case of St Cecilia the tradition in the 5th century influencing the author of the legend seems to have been well established. Valerian and companions, on the other hand, are now thought to have had nothing to do with her.
+===First church===
+The date of the first church on the site is unknown, and the early history of the ''titulus Caeciliae'' is lost. The suggestion that it was founded in the 3rd century presumes the historicity of the legend. The first unambiguous documentary reference, apart from the legend, is in the list of priests attending a synod under Pope [http://en.wikipedia.org/wiki/Pope_Symmachus Symmachus] in 499, when it was one of three ''tituli ''or parish churches in Trastevere (the others being [[San Crisogono]] and the present [[Santa Maria in Trastevere]]). However, if the entry in the [https://en.wikipedia.org/wiki/Martyrologium_Hieronymianum Martyrologium Hieronymianum] can be dated to the early 5th century (not a foregone conclusion), then that is the earliest evidence.
+
+No remains have been discovered of this first church, leading to the suggestion that the rebuilding in the 9th century was on its exact footprint. (This is not as obvious as might first appear, because it meant that the church was not available for worship during the demolition and rebuilding.) However the baptistery of this church was found during the archaeological excavations, situated underneath the present Chapel of Relics. This dates from the first half of the fifth century.
+
+A house from the Imperial era was also found, part of which had been converted into the baptistery. The suggestion was obviously made that this was the original house where Cecilia lived and which was converted into a church. Unfortunately there was no evidence found that it was so converted, apart from the baptistery. This is a serious puzzle, leading to a theory that the church was only founded in the fifth century when the baptistery was provided.
+===Ninth century church===
+The present church was built by Pope [http://en.wikipedia.org/wiki/Pope_Paschal_I Paschal I] (817-824) in 821, and an autobiographical account by him of the finding of the relics of St Cecila is preserved in the [http://en.wikipedia.org/wiki/Liber_Pontificalis Liber Pontificalis]. His interest arose from his campaign to bring all known relics of the Roman martyrs from the catacombs to new shrines within the city walls; this was because the countryside around Rome was being overrun by marauders, and the catacombs were unsafe to visit. All but one of them ([[San Sebastiano fuori le Mura]]) were doomed to have their locations forgotten.
+
+According to the account, the location of the relics in the catacombs of Callistus had been forgotten but he was favoured with a dream featuring the saint who pinpointed the site for him. Her incorrupt body was promptly found in a coffin of cypress wood, wrapped in a shroud embellished with gold thread and with apparently blood-stained cloths balled up at her feet. The pope relates that he himself enshrined the relics and coffin in a marble sarcophagus under the altar of his new basilica, for which he provided an apse mosaic featuring a representation of himself. The interior of the coffin he had lined with silk fabric.
+
+In the same campaign the relics of SS Valerian, Tiburtius and Maximus were transferred from the catacomb of St Praetextatus and enshrined in another marble sarcophagus.
+
+The old baptistery was refurbished, and kept in use despite being over two metres below the floor surface of the new church. This indicates that the church was parochial, a status it kept until the early 19th century.
+
+The basilica was provided with a colonnaded atrium, which has gone, and in the centre of this was a placed a large ancient stone two-handled vase known as a ''cantharus ''(from the Greek κανθαρος). This is back in situ in the courtyard replacing the atrium, after a long career being sidelined.
+===Bath house===
+The present Chapel of the Bath, on the right hand side of the main church, poses a historical problem. Its latest possible date is in the 11th century, because the restored floor in ''opus sectile ''or early Cosmatesque work dates from then. Some scholars argue that the chapel was built by Pope Paschal (although there is  no direct evidence of this), and that the remains of the domestic bath-house preserved therein were either already known or were discovered in the building works. Did the bath-house influence the author of the legend, or the legend influence those who discovered the bath-house?
+
+A surviving documentary reference of 1073 mentions that an altar was consecrated "in her [Cecilia's] bath", which must be this chapel. If Pope Paschal incorporated the bath-house remains into his complex, the floor was probably at the same level as the baptistery (the basin which was used as the font was very likely to have been a plunge-pool for those using the bath). The 11th century work seems to have involved a re-structuring which raised the floor level to that of the church. Bits of the bath-house remains, especially flue bricks, were then moved up into the re-ordered chapel, and the chapel subsequently presented to visiting pilgrims as the bath-house.
+===Mediaeval additions, and monastery===
+There were several additions and alterations to the church in the 12th and 13th centuries. In the former century, the surviving portico and campanile were added in 1140. Also, the monastic cloister to the south-west of the church was built (the monastery seems to have been originally founded by Pope Paschal). Unfortunately, the construction of monastery buildings destroyed the atrium. The monastery was dedicated to SS Cecilia and Agatha.
+
+The ancient bapitstery was filled in, to raise the floor level to match that of the church.
+
+At the end of the 13th century a programme of embellishment of the interior was carried out, which involved frescoes on the walls and a new ''ciborium ''or baldacchino put up in 1283. The latter is intact, but of the former only a damaged work by [http://en.wikipedia.org/wiki/Pietro_Cavallini Pietro Cavallini] survives on the counterfaçade wall (this is part of a separate room over the entrance vestibule). It is known that there were other frescoes in the main nave from the evidence of small surviving fragments, and these seem to have been by Cavallini also or of his school. The whole project was executed between 1291 and 1293, and seems to have resulted in a fresco cycle featuring scenes from the Old and New Testaments.
+
+A [https://en.wikipedia.org/wiki/Cosmatesque Cosmatesque] floor was laid, and this has also gone.
+
+The monastery belonged to [https://en.wikipedia.org/wiki/Order_of_Saint_Benedict Benedictine] monks after its 12th century rebuilding, but here as elsewhere in Rome the monastic observance suffered a collapse by the start of the 14th century. As a result this monastery was closed, and the complex given to a monastic order called the [http://en.wikipedia.org/wiki/Humiliati Umiliati] in 1344. 
+===Nuns===
+The ''Umiliati ''had an unfortunate career, and lost possession of the monastery between 1419 and 1438. They then became seriously corrupt, and were definitively ejected in 1527. After a group of them tried to assassinate St [http://en.wikipedia.org/wiki/Charles_Borromeo Charles Borromeo] for daring to try and reform them, the male branch was punitively suppressed in 1571.
+
+The monastery was then given to the Benedictine nuns of the long-established monastery of [[Santa Maria della Concezione in Campo Marzio]] by Pope [http://en.wikipedia.org/wiki/Pope_Clement_VII Clement VII] (1523-1534). They provided a group of sisters as a nucleus of a new community, which started life in [[1530]]. The nuns have been here ever since.
+
+One outreach that the nuns had was to provide a venue for the newly founded ''Accademia di Santa Cecilia, ''a musical conservatory under the patronage of the saint. It was here from 1562 to [[1661]].
+
+In [[1586]], the nuns commissioned [[wikipedia:Niccolò_Circignani|Pomarancio]] to paint a (now lost) fresco cycle of the ''Life of St Cecilia ''in the apse below the (then larger) mosaic.
+===Pallia===
+The new community inherited a very important tradition. There used to be a Benedictine nunnery at [[Sant'Agnese fuori le Mura]], but in 1479 Pope [http://en.wikipedia.org/wiki/Pope_Sixtus_IV Sixtus IV] shut it down because the sisters had become corrupt. However, they had been responsible for the production of [http://en.wikipedia.org/wiki/Pallium pallia] and the nuns at ''Santa Cecilia ''inherited this responsibility on their foundation.
+
+A pallium is an ecclesiastical vestment, rather like a large stole, which is worn by the Pope and by certain privileged archbishops. They are woven from lambs' wool, the lambs being provided by the [http://en.wikipedia.org/wiki/Trappist Cistercian Trappists]. They are first taken to [[Sant'Agnese fuori le Mura]] to be blessed, and are then shorn and the wool given to the nuns. Their job is to spin and weave the pallia, which are then presented to the deacons at [[San Giovanni in Laterano]], who in turn pass them on the deacons of St Peter's. There, they are placed in a golden casket above the tomb of St Peter before being ceremonially placed on their recipients. ''San Giovanni ''is involved because the canons there are in charge of ''Sant'Agnese.''
+===Re-discovery of the relics===
+A Holy Year was proclaimed for 1600 and, in preparation, the titular of the church, Cardinal [http://en.wikipedia.org/wiki/Paolo_Emilio_Sfondrati Paolo Emilio Sfondrati], paid for a restoration of the interior. This focused on a re-ordering of the saint's shrine, and involved the disinterment of the relics in [[1599]] in the presence of witnesses. The marble sarcophagus was found to contain a wooden coffin lined with silk and with the body in a gold-embroidered shroud, just as described in the ''Liber Pontificalis. ''Pope [http://en.wikipedia.org/wiki/Pope_Clement_VIII Clement VIII ] was at the time bedridden, but he delegated Cardinal [http://en.wikipedia.org/wiki/Caesar_Baronius Caesar Baronius] to record the events and to supervise the exposition of the relics which took about five weeks. The famous archaeologist [http://en.wikipedia.org/wiki/Antonio_Bosio Antonio Bosio] also left a description.
+
+The sculptor [http://en.wikipedia.org/wiki/Carlo_Maderno Carlo Maderno] also attended the exposition, and then allegedly based his extant sculpture of the body on what he saw (he left an inscription stating this to be so). If he is to be believed, it raises an interesting question as to how the body was handled. The sculpture shows the saint lying on her side with her arms extended and her throat cut, as if she had been dropped to the ground. This is certainly not how she was laid out in her coffin, so (if Maderno is to be taken literally in his claim that he sculpted what he saw) those responsible for the exposition must have manipulated her remains so as to leave them in such as position. 
+
+It is clear from the witness statements that the body was [https://en.wikipedia.org/wiki/Incorruptibility incorrupt]. The Catholic Church no longer considers that this is automatically a sign of sanctity, after numerous cases reported in the forensic science literature of incorrupt bodies. Here, the formation of [http://en.wikipedia.org/wiki/Adipocere adipocere] is a plausible explanation for the incorruption. 
+
+Unfortunately, this restoration and tidying-up of the complex on behalf of the nuns resulted in the destruction of surviving fragments on the 9th century atrium, leaving the courtyard ranges looking much as they do now.
+
+In the 17th century the nuns excavated a burial crypt for themselves, which was the start of the exploration of the ancient remains under the church.
+
+===Eighteenth century restoration===
+
+The present appearance of the interior of the church is partly the result of a restoration performed on the orders of the titular cardinal, [http://en.wikipedia.org/wiki/Francesco_Acquaviva Francesco Acquaviva]. The campaign lasted from 1712 to 1728, and the supervising architects were Domenico Paradesi and Luigi Berrettoni. Some older elements were preserved, notably the baldacchino and apse mosaic, but a new ceiling vault in a restrained Baroque style was inserted. Also, galleries above the arcades were enclosed to form passages to a choir above the entrance; these features were for the use of the nuns. Since they were enclosed, they were not allowed into the body of the church.
+
+Tragically, the Cosmatesque floor was ripped up and replaced by boring terracotta slab work. Even worse, the Pomarancio frescoes in the apse were destroyed together with part of the mosaic.
+
+[http://en.wikipedia.org/wiki/Ferdinando_Fuga Ferdinando Fuga] was responsible for the remodelling of the façade in 1741, with its bombastic inscription in praise of the cardinal. Fortunately, he left alone a strip of mediaeval mosaic just under this. He may also have been responsible for the convent entrance block on the piazza, erected in 1742 and with an impressive propylaeum bearing the coat-of-arms of Cardinal [http://it.wikipedia.org/wiki/Troiano_Acquaviva_d'Aragona Troiano Acquaviva d'Aragona] who had inherited the cardinalate title from his uncle in 1733.
+===Nineteenth century restorations===
+
+The interior was again restored in [[1823]] by Cardinal [http://it.wikipedia.org/wiki/Giorgio_Doria_Pamphilj_Landi Giorgio Doria-Pamphilj Landi], a subsequent titular priest of the church. The problem that this restoration addressed was that the weight of the 18th century ceiling vault was proving too much for the ancient columns of the arcade. The unfortunate solution was to box the columns into thicker pillars, trabeate every other arch and infill its tympanum. This altered the appearance of the basilica much more radically than the 18th century works. The architect was [http://en.wikipedia.org/wiki/Pietro_Bracci Pietro Bracci].
+
+A major re-ordering of the parishes of the ''Centro Storico ''took place'' ''in 1824, under the bull ''Super Universam ''issued by Pope [https://en.wikipedia.org/wiki/Pope_Leo_XII Leo XII]. This suppressed the ancient parish attached to the church.
+
+The nuns lost their freehold to the government in 1873 but, unlike those in most other Roman convents at the time, the nuns here have managed to stay put.
+
+Excavations were undertaken under the church in 1899, under the guidance of Cardinal [http://en.wikipedia.org/wiki/Mariano_Rampolla Mariano Rampolla]. During the work remains of Roman edifices dating from the Republican and Imperial period were found, but some of the remains were then cleared for an expansion of the little semi-circular 9th century crypt or ''confessio''. This led to the large, richly decorated crypt now existing, the architect of which was Giovanni Battista Giovenale. The relics of the saints were moved to new shrines; the silver casket containing St Cecilia was not opened in the process.
+
+Archaeologists now wish that this crypt was not constructed, because of the damage done to the context. 
+
+In 1900, in the same restoration, the damaged fresco by Cavallino was discovered behind wooden panelling in the nuns' choir over the entrance vestibule.
+
+Cardinal Rampolla wished to restore the church to its presumed mediaeval appearance, but could do little apart from having the crypt built. If  he had succeeded, the church would have joined several others in the city which suffered ideological restorations between 1870 and the Second World War. The ceiling would have been removed, the plaster and stucco scraped off the walls to reveal any surviving mediaeval fresco fragments and the arcade columns exposed. See [[San Giovanni a Porta Latina]] for what the church would have ended up looking like.
+===20th century===
+
+The church courtyard was just empty space until [[1929]], with the ancient ''cantharus ''on a plinth at the right hand side being used as a plant pot. In that year, the yard was converted into a garden with the ''cantharus ''as the centrepiece of a pool surrounded by low formal box hedging. The latter did not last, and has been replaced by rose beds.
+
+In 1935 the convent was shared between the Benedictine nuns and a community of Franciscan Missionary Sisters of the Immaculate Heart of Mary, but the latter are apparently now at Via dei Genovesi 11/A nearby.
+
+Further work was done in excavating under the church in [[1958]], resulting in the present underground area, and the bapitstery under the Chapel of Relics was excavated in the 1980's and 1990's.
+
+In 1962 the sanctuary was restored, under the supervision of Igino Pineschi. The last restoration of the fabric was in 1990.
+===Cardinalate===
+As a ''titulus ''the cardinalate here is ancient, but the first named cardinal priest actually on record is Simon de Brion in 1261, who went on to become Pope [https://en.wikipedia.org/wiki/Pope_Martin_IV Martin IV]. Among the former titular cardinals of the church are [http://en.wikipedia.org/wiki/Adam_Easton Adam Easton] of Hertford, who is buried here (see below), and [http://en.wikipedia.org/wiki/Thomas_Wolsey Thomas Wolsey].
+
+The previous cardinal of the church was [http://en.wikipedia.org/wiki/Carlo_Maria_Martini Carlo Maria Martini], S.J., Archbishop of Milan, who died in 2012. The present one, [https://en.wikipedia.org/wiki/Gualtiero_Bassetti Gualtiero Bassetti], was appointed in 2014. 
+
+[[File:2011_Caecilia_front.jpg|thumb]]
+
+==Exterior ==
+===Layout and fabric===
+In plan and in its fabric the church remains a 9th century basilica. It has a central nave with two side aisles, separated by arcades with twelve ancient columns each (now hidden inside pillars). There is a semi-circular external apse, but no transept or side apses. The apse originally had three round-headed windows, traces of which can be seen from the outside.
+
+At the entrance there is an add-on [http://en.wikipedia.org/wiki/Post_and_lintel trabeated] mediaeval loggia with a single-pitched tiled roof hiding behind a parapet. This loggia leads into an entrance vestibule, over which is a room which used to be the nuns' choir. Between the vestibule and main nave is an arcade with four ancient columns, again enclosed in pillars. To either side of the vestibule is a small square ancillary room, the right hand one entered from the vestibule and the left hand one from the left hand aisle. These are within the ancient plan of the church, and look like guard chambers. The left hand room is now the access to the underground areas.
+
+Because the monastic cloister is immediately against the left hand side wall of the church, there are no external chapels there. However, on the right hand side there are several ancillary structures. Firstly, opening off the second bay of the aisle, is a narrow corridor with two doors on its right. The first leads through a tiny antechamber to the ''Cappella del Crucifissione ''(which is actually adjacent to the right hand ancillary chamber of the entrance vestibule), and the second opens into St Cecilia's Bath-House.
+
+The left hand wall of this corridor is party to the adjacent ''Cappella Ponziano, ''which is rectangular, and beyond that is the Chapel of the Relics which is square. Then comes a set of ancillary rooms, which include an entrance to the crypt through a door at the end of the right hand aisle. The ''Cappella Rampolla ''is a modern addition at the end of a corridor leading from this door.
+
+The Romanesque campanile is over the lower end of the right hand aisle, and the external chambers itemized above (except the far ancillary rooms) are under a pitched and tiled roof which also covers the right hand aisle. The central nave has its own pitched and tiled roof, and the left hand aisle has its own lower roof.
+
+If you go round to the Via Acilia at the back of the church, you can see the ancient wall of the apse which has a 
+
+[[File:2011_Cecilia_back_end.jpg|thumb|Church from the back.]]
+
+decorative brick cornice. The structural fabric of the church is re-used Roman brick, visible here. Above the apse, in the gable, is a round window which lights the void in between the nave ceiling and the roof.
+
+===Campanile ===
+The Romanesque brick campanile was erected in 1140, and is typical of the period. There are five storeys above the aisle roofline, separated by decorative dentillated cornices. The first storey has a row of three shallow recesses in the form of arches, and this is a common design feature of these campanili. The second storey has two arched orifices on each face, and the third one three; each archivolt has a double arc of bricks with the lower one recessed, and the archivolt springers of both storeys are connected by a string course. The fourth and fifth storeys contain the bells, and both have an arcade of three arches on each face separated by limestone columns with block capitals. There is a very shallow tiled pyramidal cap, and an unusual set of four finials on the corners in the form of cubes with little pyramidal caps.
+
+The campanile has had a slight lean for a long time.
+===Entrance block===
+The entrance block facing onto the Piazza di Santa Cecilia is impressive. The architect is thought to have been Fuga, although there seems to be doubt about this.
+
+It has four storeys, two storeys of which back onto the entrance propylaeum which has three portals. This has four fully round Doric columns on high plinths and with garlanded capitals, and these hide four shallow pilasters in the same style. Above is a entablature with its frieze decorated with triglyphs, and with posts above the column capitals. The two inner posts support a split segmental pediment, into which is inserted the coat-of-arms of Cardinal [http://it.wikipedia.org/wiki/Troiano_Acquaviva_d'Aragona Troiano Acquaviva d'Aragona] being supported by a pair of putti. Two other putti are above the outer pair of posts. These four putti were sculpted by Agostino Corsini.
+
+The side portals are rectangular, and above each is a panel bearing a stucco relief of palm branches in a crown. This is an emblem of martyrdom. The central portal is arched, with a molded archivolt and a strap finial on the keystone. Above is a winged putto's  head.
+
+This entrance is exactly on the major axis of the church. As a result, before the 20th century layout of the garden you could stand in the piazza and view the statue of St Cecilia under the main altar by looking across the courtyard and through the open door of the church. The ''cantharus'' now blocks the view.
+
+When the convent was flourishing, this block housed the chaplains and domestic servants.
+
+As you go through the archway into the courtyard, you pass an ancient Roman ''cippus ''on your right, commemorating Pomerius Urbanus and dating to the year 75. It was put here in 1900.
+===Courtyard===
+
+In front of the church is a beautiful courtyard. It is especially nice in the spring, when the flowers are in bloom, and the roses are impressive in season. The garden was laid out as an initiative by Cardinal [http://en.wikipedia.org/wiki/Bonaventura_Cerretti Bonaventura Cerretti] in [[1929]].
+
+In the centre is a rectangular pool with a large stone vase, a [http://en.wikipedia.org/wiki/Kantharos cantharus], which is ancient. Its provenance is unknown, but it was obtained for the new church by Pope Paschal.  The original location was here, but it was moved to the right side of the courtyard in the Middle Ages and only put back in 1929. The origin of the design is a genre of Greek pottery wine vessel, which is thought not to have been for ordinary drinking but for toasts and libations in religious rituals. However the model of the sculpture here was not in pottery, but metal.
+
+This courtyard used to be a colonnaded atrium, provided by Pope Paschal. The mediaeval convent buildings on each side that replaced it are picturesque, but of little architectural interest. The visible structures are 15th century.
+
+When Fuga restored the façade, he lowered the surface of the courtyard so that the level matched that of the floor of the church.
+===Façade===
+
+The façade above the loggia was designed in 1725 by Ferdinando Fuga, who had been commissioned by Francesco Cardinal Acquaviva d'Aragona, titular priest of the church 1709-1724. The cardinal's coat-of-arms is displayed in the tympanum of the pediment, incorporating a cardinal's hat.
+
+The external entrance loggia is mediaeval, erected in the 12th century but altered by Fuga. It has four ancient Ionic columns, the inner pair of pink granite from [http://en.wikipedia.org/wiki/Aswan Aswan] in Egypt and the outer pair of [http://en.wikipedia.org/wiki/Pavonazzo_marble pavonazzetto] marble from what is now [http://en.wikipedia.org/wiki/%C4%B0scehisar Iscehisar] in Turkey. These were looted from a very high status context. The ends of the loggia have a pair of Corinthian pilasters clad in a grey-veined marble, the cladding having been added by Fuga.
+
+The columns and pilasters support an entablature with a rather idiotically boastful inscription on the frieze. It merely reads: ''Franciscus, titu[lus] Sanctae Caeciliae car[dinalis] de Aquaviva. ''However the architrave below this is a strip of 12th century mosaic in a vine tendril pattern, the dominant colours being blue and gold with spots of red. The scrollwork is embellished with flowers and little animals, and also with little tondi containing portrait busts. These are tentatively identified as St Cecilia twice, and SS Agatha, Tiburtius, Urban and Lucius. Over the central portal is an alpha-omega monogram with a cross.
+
+The solid balustrade above the entablature was added by Fuga, and has five flaming urn finials.
+
+The church façade above the loggia fronts the central nave only; the aisles have no frontages (the right hand side is occupied by the campanile, and the left hand side by the internal access to the nuns' choir). There are six pilasters in a derivative Composite style, two pairs at the outer corners and the other two between three large rectangular windows with molded frames. These light the nuns' choir. Above each window is a scallop shell and curlicue motif. The entablature above has a blank frieze, and the crowning triangular tympanum has the cardinal's coat-of-arms in it as mentioned. 
+
+The composition is flanked by a pair of gigantic incurved volutes, which are echoed to a smaller scale on the central finial on the pediment. This finial has a form that imitates those on the parapet of the campanile. There are six flaming torch side finials accompanying it.
+
+A [[1599]] woodcut of the church by Girolamo Francino survives, and this shows that the façade used to have a large central ''oculus ''(round window) flanked by a pair of round-headed windows. The tympanum of the pediment had a smaller ''oculus, ''matching one still to be found at the other end of the church.
+===Loggia===
+
+Several interesting medieval tomb slabs and inscriptions, as well as fragments of sculpture, can be seen attached to the walls of the loggia. They repay examination, especially the Gothic grave slabs which include one of Battista Ponziani dating from 1480 and with an effigy of her in contemporary dress. These slabs were once laid in the floor, as you can tell from the wear that they have suffered.
+
+Other slabs with epigraphs are ancient, and were found in the excavations.
+
+The intricate early Baroque funerary monument at the right hand end of the loggia is worth more than a glance. It is of [http://en.wikipedia.org/wiki/Paolo_Emilio_Sfondrati Paolo Emilio Sfondrati], the cardinal who arranged the exhumation of St Cecilia in 1599 and who died in 1618. It has been attributed to [http://en.wikipedia.org/wiki/Carlo_Maderno Carlo Maderno], and certainly looks as if it could have been by him. However, the present received opinion is that the work is by [http://en.wikipedia.org/wiki/Girolamo_Rainaldi Girolamo Rainaldi], with the statuary by [http://en.wikipedia.org/wiki/Pietro_Bernini Pietro Bernini] who was father of the famous Gian Lorenzo. Over the bust of the deceased is a relief showing the discovery of the relics of St Cecilia.
+
+The monument was moved to here in 1957 because it was obstructing the entrance to the Ponziani Chapel. This was unfortunate, because being outdoors has caused the stonework to weather.
+===Convent===
+
+The working convent, occupied by the black-habited Benedictine nuns of St Cecilia, has its original core adjacent to the church on the left hand side. There, the rather small and square mediaeval cloister is immediately on the other side of the left hand side wall of the church, and has arcades on all four sides together with an old well in the garth. 
+
+However the main ranges are on either side of the courtyard, and also flanking the nuns' vegetable garden which is to the south.
+
+The convent is private.
+
+==Interior==
+===Entrance vestibule===
+There are three entrance doors, the central one being much larger than the other two. The mediaeval doorcases are molded, in ''pavonazzetto ''marble.
+Once inside, you find yourself in a shallow vestibule separated from the main nave by an arcade of five arches. These are of different sizes, with the central one being largest, the two flanking it narrower (these are now trabeated, with infilled tympani), and the outer two narrower still.
+
+To the right of the main door is the tomb of Cardinal [http://en.wikipedia.org/wiki/Adam_Easton Adam Easton] of Easton in Norfolk, England (died 1398), who was titular of this church. (Beware of erroneous renderings of his surname as Hertford or Hartford.) As a cardinal he was improsoned and almost executed by Pope [http://en.wikipedia.org/wiki/Urban_VI Urban VI], who was arguably a lunatic, but was spared through the personal intervention of King [https://en.wikipedia.org/wiki/Richard_III_of_England Richard II] of England. As well as his own coat-of-arms, the monument displays that of the [https://en.wikipedia.org/wiki/House_of_Plantagenet House of Plantagenet] (which was the English royal family at the time), and this might have been in gratitude. The monument was made by [http://en.wikipedia.org/wiki/Paolo_Romano Paolo Romano], and was only finished several decades after the cardinal died. It is in the form of a Gothic tomb-chest, with a recumbent effigy on top. Note that the chest has spiral columns at its corners; formerly there was a canopy supported by similar columns, when the monument was at its original location near the apse.
+
+On the opposite side is the tomb of Cardinal [http://it.wikipedia.org/wiki/Niccol%C3%B2_Forteguerri Niccolò Forteguerri] (died 1473), partly by [https://en.wikipedia.org/wiki/Mino_da_Fiesole Mino da Fiesole]. It is a very attractive Gothic composition, with another recumbent effigy shown on a bier and with a relief carving above of the Madonna and Child in a [http://en.wikipedia.org/wiki/Aureola mandorla]. (This is the object of some popular devotion.) The monument had been dismantled and the bits dispersed, but was reunited and restored in 1891. Mino did the Madonna, but the pair of saints flanking her (SS Nicholas and Cecilia) are not by him.
+
+The vault is decorated with a representation of SS Cecilia, Valerian, Stephen, Urban and Laurence, surrounded by vistas and with depictions of hermit saints. These frescoes are thought to have been by [http://en.wikipedia.org/wiki/Fabrizio_Parmigiano Fabrizio Parmigiano] and Marzio Ganassini.
+===Nave===
+At first glance, the main nave may disappoint. This is partly because the roof of the church is rather low in proportion to its width, so the shallow curved vault of the ceiling is slightly oppressive. (The basilica of [[San Pietro in Vincoli]] has the same design flaw.) Also, the marble floor in light and dark grey is rather miserable (the mediaeval Cosmatesque floor was a sad loss), and the stucco work on the side walls rather formulaic and boring. The decor of the walls and ceiling is in light grey and white, with some gilded highlights.
+[[File:Santa Cecilia in Trastevere interior.jpg|thumb|250px]]
+The nave has eleven bays, originally separated by twelve Corinthian columns in the arcades on each side. Because the church has no presbyterium or transept, the final bay has been sequestered for the sanctuary. Since the restoration ordered in 1823 by Cardinal [http://it.wikipedia.org/wiki/Giorgio_Doria_Pamphilj_Landi Giorgio Doria-Pamphilj Landi], titular priest of the church 1818-1837, these columns have been encased in squat Doric pillars.
+
+The archivolts of the arcades are molded, and every other arch is infilled with a tympanum bearing either an eagle within a wreath with palm branches or a mitre with flower bouquets. Above the capitals of the pilasters on each side are strapwork corbels which support a cornice, and a higher cornice bears the springers of the ceiling vault. In between is a row of large grated apertures in the form of Baroque cartouches (some long, some almost circular), and these give light to galleries leading from the convent buildings to the nuns' choir over the entrance. Between these apertures are crossed palms and lilies in stucco.
+
+The ceiling vault has lunettes over round-headed windows, one over each arch of the arcade, and these give all the natural light in the church interior.  The centre of the vault has a large fresco by [http://en.wikipedia.org/wiki/Sebastiano_Conca Sebastiano Conca] from about 1727, depicting the ''Coronation of St Cecilia in Heaven''. Note the organ being played, her attribute as patron of musicians (in mediaeval times, she was thought to have been its inventor). In the audience are SS Valerian, Tiburtius and Urban.
+
+At either end the vault has yet more epigraphs proclaiming Cardinal Francesco Acquaviva.
+
+If you go into  the nave and look back, you will see the nuns' choir over the entrance vestibule. The frontage has a truncated ogee curve, with windows so that the nuns could see into the church.
+===Left hand aisle===
+As mentioned, at the bottom end of the left hand aisle is a room which now contains the entrance to the underground excavations for paying visitors. Here also you can buy guidebooks and postcards.
+
+The paintings of saints in niches, in both aisles, are part of the Sfondrati restoration and were executed between 1600 and 1603. The commission was carried out by a team of artists comprising Giovanni Zanna, Tarquinio Ligustri, Marco Tullio and Vincenzo Conti. Zanna did the putti in the vault.
+
+To make up for the relative lack of side chapels, the aisles of this church contain several altars. This aisle contains three along it, and one at the far end. They are, as you walk along:
+
+SS [https://en.wikipedia.org/wiki/Saint_Stephen Stephen] and [http://en.wikipedia.org/wiki/Lawrence_of_Rome Lawrence], deacons and martyrs. The altarpiece of the saints is by [http://en.wikipedia.org/wiki/Giuseppe_Ghezzi Giuseppe Ghezzi], of 1676. He was a prominent member of the ''Accademia di San Luca, ''and so was a well-known contemporary artist in Rome.
+
+St [http://en.wikipedia.org/wiki/Andrew_the_Apostle Andrew the Apostle]. The altarpiece is by [http://en.wikipedia.org/wiki/Giovanni_Baglione Giovanni Baglione], who seriously did not get on with Caravaggio, and was painted in [[1601]]. 
+
+There is a monument here for Cardinal [http://it.wikipedia.org/wiki/Lorenzo_Magalotti_(cardinale) Lorenzo Magalotti], by [http://en.wikipedia.org/wiki/Guglielmo_della_Porta Guglielmo della Porta] in [[1538]].
+
+St [http://en.wikipedia.org/wiki/Agatha_of_Sicily Agatha], the other patron of the monastery. The artist responsible for the altarpiece is unknown, although it is in the style of the [https://en.wikipedia.org/wiki/Giuseppe_Cesari Cavalier d'Arpino]. The saint is shown being martyred with bare breasts, a reminder of the horrible legend that she had them cut off the day beforehand -only to have St Peter put them back miraculously in the night.
+
+Here is a monument for Cardinal [http://en.wikipedia.org/wiki/Giacomo_Luigi_Brignole Giacomo Luigi Brignole], by Salvatore Revelli in 1855.
+
+SS Peter and Paul, at the far end. This is by Baglione again, and was included in his 1601 commission.
+
+There is a marble copy on the wall here of the account by Pope Paschal of the finding of the body of St Cecilia. Also there is an enclosure doorway leading into the present nuns' choir, which has an altarpiece depicting a Crucifixion between SS Ursula and Cecilia. This chapel is private.
+===Right hand aisle===
+As well as the entrances to the external chapels, this aisle contains two altars along it and one at the far end. They are:
+
+St [https://en.wikipedia.org/wiki/Benedict_of_Nursia Benedict], because the nuns are Benedictine. The altarpiece of the saint is by [http://en.wikipedia.org/wiki/Giuseppe_Ghezzi Giuseppe Ghezzi], of 1676.
+
+St [http://en.wikipedia.org/wiki/Mary_Magdalene Mary Magdalen]. The altarpiece is attributed to Giovanni Baglione, but an alternative attribution is to the school of Muziano. The saint is shown doing penance in the Judaean desert.
+
+Here there is a monument to Cardinal [http://it.wikipedia.org/wiki/Giuseppe_Maria_Feroni Giuseppe Maria Feroni]. The design was by Giovanni Battista Ceccarelli, the bust was by Andrea Lebrun and the putti were by Tommaso Righi. The work dates to 1767.
+
+St [http://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux Teresa of the Child Jesus], at the far end. She is here because she mentioned how much she liked the church when she visited Rome. The marble statue of her here was installed by Cardinal Ceretti in 1925, after she had been canonized.
+
+The apparition of St Cecilia to Pope Paschal, and his subsequent discovery of her body in the catacombs in the 9th century, is depicted in a poorly preserved 13th century fresco at the end of this aisle. This used to be in the loggia, but was moved here to preserve it in 1785. It used to be part of a larger scheme depicting the legend of St Cecilia, but the rest was destroyed together with further scenes showing the martyrdoms of SS Vincent, Laurence and Stephen the Holy Deacons. Drawings of the complete cycle fortunately survive.
+
+Here is the entrance to the crypt, nowadays kept locked.
+===Sanctuary===
+The present layout of the sanctuary was overseen by [https://en.wikipedia.org/wiki/Giacomo_della_Porta Giacomo della Porta] in 1600. The floor is raised, and hence is bounded by a low wall in polychrome marble work. The famous statue by Maderno is inserted into a central rectangular niche in this, and has a three-sided balustrade enclosing the space in front of it with a pair of open-work bronze gates allowing access. The floor within this enclosure is of ''opus sectile ''work, with a central porphyry tondo bearing an inscription commemorating Cardinal Paolo Sfondrati, titular priest of the church 1591-1618 (don't mistake this for the epigraph by Maderno mentioned below).
+
+The sanctuary wall cuts off the final structural bay of the nave. Along its top are bronze pomegranates shown spilt open, which are here because the fruit was a family symbol of Cardinal Francesco Acquaviva. One hopes that he was naïve instead of having a sick sense of humour, because a split pomegranate is an ancient erotic symbol of Venus (if you can't work it out, this is not the place to explain). These bronze pomegranates can be found elsewhere in the church.
+
+Stefano Maderno's beautiful effigy inspired several other similar works in Rome, for example the altar effigy at [[Sant'Anastasia]].  Cardinal Paolo Sfondrati re-opened her tomb in 1599, and when he found her body intact and incorrupt he asked Maderno to make a sculpture of her. The sculptor left an inscription (now difficult to make out), 
+
+[[File:Santa Cecilia in Trastevere tomb.jpg|thumb|250px]]
+
+testifying that she was depicted just as he saw her. This leaves a historical problem, since she was found in a coffin within a sarcophagus whereas Maderno depicts her lying on her side with her throat slit and with her head wrapped.
+
+The effigy is in [http://en.wikipedia.org/wiki/Parian_marble Parian marble], which contrasts effectively with the blackness of the niche in which it is placed. The carving, especially the attention paid to the drapery, is extremely lifelike. However, the sculptor's wish to obey the Classical canon as regards the depiction of feet has led him to carve a foot which is anatomically improbable -the big toe is shorter than both the second and third. The 19th century sculptor who provided a copy for the Catacomb of San Callisto corrected this.
+
+Some people wonder whether the statue has a face. The answer is yes, but you can't see it.
+
+Maderno added bronze relief panels to each side of his sculpture, depicting SS Cecilia, Valerian, Urban, Tiburtius, Maximan and Lucy. He was also responsible for the bronze angels above the main effigy. The actual casting of the bronze work here and elsewhere in 1600 was by Domenico Ferrerio and Orazio Censore.
+
+The Gothic canopy was made, and signed, by [[Arnolfo di Cambio]] in 1293. It is supported by four columns of black and white marble, and has intricate Cosmatesque decoration around and on its little statues. The figures on the corners are the four saints of the church -Tiburtius is shown seated on a horse. In the spandrels are two prophets holding scrolls, four evangelists with their symbols and two wise virgins with lit lamps. In the triangular pendentives are little wheel windows flanked by angels. These angels and the wise virgins are thought not to have been by Arnolfo, but to be of his school.
+
+There is a good Paschal candlestick in the form of a twisted barley-sugar columns with Cosmatesque inlay to the right of the ciborium.
+
+The triumphal arch of the apse is flanked by a pair of busts in large niches, over long dedicatory inscriptions. These are by Giuseppe Mazzuoli of 1725, and are of Popes [http://en.wikipedia.org/wiki/Pope_Innocent_XII Innocent XII] and [http://en.wikipedia.org/wiki/Pope_Clement_XI Clement XI].
+
+If you go to [[San Saba]] on the Aventine, you will find an ancient basilica with no ceiling and an open roof, just like this one used to be. There, you will see a small oculus in the roof gable above the apse, and in the triangle of the gable some mediaeval frescoes. Exactly the same arrangement exists here, except that the ceiling now conceals it. You have to get into the attic to see the frescoes!
+
+===Apse mosaic===
+
+The apse mosaic is in [http://en.wikipedia.org/wiki/Byzantine_art Byzantine] style, and was executed in about 820. The original composition also covered the wall surrounding the apse, where the papal busts are now.
+
+The work shows Christ holding a rolled-up scroll and giving a blessing, while being pointed at by the Hand of God the Father. Christ wears a Roman toga in cloth-of-gold with a [http://en.wikipedia.org/wiki/Laticlave laticlave] or wide purple stripe, the latter being a sign of high rank. He is flanked to the left by St [http://en.wikipedia.org/wiki/Paul_the_Apostle Paul], St Cecilia and Pope Paschal I (with a miniature model of the church, identifying him as the builder, and a square halo showing that he was still alive when the mosaic was made). On the right are St Peter, St Valerian and St [https://en.wikipedia.org/wiki/Agatha_of_Sicily Agatha]. The two women are depicted as Byzantine princesses; the white dots on their garb represent pearls, and their red shoes are a sign of the highest rank. St Cecilia is wearing a crown to indicate that she is the church's patron, and has her hand on the pope's shoulder which amounts to an appeal by the later for her grateful protection.
+
+At either end of the composition is a date-palm, with the left hand one having a phoenix sitting in it as a symbol of the Resurrection.
+
+Below, twelve lambs are shown leaving Jerusalem and Bethlehem and approaching the Lamb of God. These are the apostles. The central Lamb of God is standing on a hexagonal device, which probably represents the font of baptism.
+
+Below, there is a long inscription in gold on dark blue. Interestingly, the words are run together as they might have been in a contemporary hand-written book -instead of being separately given as is familiar in ancient monumental epigraphs. The Latin is bad in places:
+
+''Haec domus ample micat variis fabricata metallis, olim quae fuerat confracta sub tempore prisco, condidit in melius Paschalis praesul opimus. Haec aulam Domini formans fundamine claro, aurea gemmatis resonant haec dindima templi, laetus amore Dei hic coniunxit corpora sancta. Cecilia et socris rutilat hic flore iuventus, quae pridem in cryptis pausabant membra beata, Roma resultat ovans, semper ornata per aevum.''
+
+The wall of the apse below the mosaic is panelled in pale green veined marble framed in red marble, which is the result of a modern restoration. A portrait of St Cecilia from the school of [http://en.wikipedia.org/wiki/Guido_Reni Guido Reni] used to hang here, and was flanked by decorative diapering. A depiction of Our Lady by [http://en.wikipedia.org/wiki/Annibale_Carracci Annibale Carracci] was there before the Reni painting.
+
+Before the 18th century restoration, the mosaic was larger and also occupied the upper part of the apse wall. There was a figure of the Madonna and Child here, with processions on either side of virgins above, and male figures below. Below this mosaic panel was the cycle of frescoes on the life of St Cecilia by Pomarancio.
+===Chapel of the Crucifixion===
+
+The Chapel of the Crucifixion has a doorway in the right hand side of the entrance vestibule, and also access through the first door on the right in the right hand aisle. It contains a fresco altarpiece of the Crucifixion thought to be 14th century, with an unusual majolica tiled altar frontal of the 18th century depicting SS Andrew, Cecilia and Valerian. The latter was brought here from the nearby deconsecrated church of [[Sant'Andrea dei Vascellari]]. The chapel itself was fitted out in 1600.
+
+On the left hand wall is another 15th century fresco showing Our Lady being venerated by SS [http://en.wikipedia.org/wiki/Scholastica Scholastica] and [https://en.wikipedia.org/wiki/Saint_George George]. These frescoes were brought here from elsewhere, the Crucifixion apparently being on the wall of a nearby house and the Madonna from the monastery.
+===Chapel of the Bath===
+The first doorway off the right-hand nave mentioned above leads into a blind corridor, on the walls of which are paintings of penitent saints in landscapes by [https://en.wikipedia.org/wiki/Paul_and_Mattheus_Brill Paul Brill]; this Flemish artist specialized in landscapes.  At the blind end of the corridor is a statue of St [http://en.wikipedia.org/wiki/Saint_Sebastian Sebastian] by [http://en.wikipedia.org/wiki/Lorenzetto Lorenzetto], who died at Rome in 1541. The relief of the Madonna and Child is of the school of Mino da Fiesole.
+
+Opposite the chapel entrance is a tondo showing ''The Marriage of SS Cecilia and Valerian ''by [http://en.wikipedia.org/wiki/Guido_Reni Guido Reni].
+
+The Chapel of the Bath or ''Balneum Ceciliae ''is reached via a doorway in the right wall of this corridor, and has been claimed as St Cecilia's bath-house for at least a thousand years. The floor and altar have Cosmatesque decoration; the former is 11th century, but was re-laid in the 1600 restoration. Note the grilles giving a view of the ancient remains below, from which came the fragments of ancient terracotta steam pipes attached to the walls. 
+
+The altarpiece, ''The Beheading of St Cecilia, ''is an early work by Reni and was exectuted in 1603. To the right are scenes involving SS Cecilia and Valerian possibly by [http://en.wikipedia.org/wiki/Andrea_Lilio Andrea Lilio], while other scenes featuring St Cecilia used to be attributed to Pomarancio but are now considered to be anonymous.
+
+The statue of St Sebastian was originally provided by a Sienese goldsmith called called Alessandro de' Turchi in [[1597]], but was installed here as a memorial to Cardinal Sfondrati in 1620 by Maderno.
+===Cappella Ponziani===
+
+The ''Cappella Ponzani'' or ''Ponzianica'' is structurally mediaeval and seems to have been added in the late 13th century. It was the funerary chapel of the Ponzianica family, to which belonged the husband of St [http://en.wikipedia.org/wiki/Frances_of_Rome Francesca Romana]. Hence the chapel is now dedicated to her; she often came to this church to worship. There was a restoration in 1957.
+
+The entrance is closed off with a grille, but you can look through this to see frescoes of the school of Pinturicchio, all executed by [http://en.wikipedia.org/wiki/Antonio_del_Massaro Antonio da Viterbo] nicknamed ''Il Pastura''. The work was done in 1470. The vault has the Eternal Father with the four evangelists, while the side walls have saints. SS Jerome and Sebastian are on the left, and SS George and Catherine of Alexandria are on the right. The altarpiece fresco depicts Our Lady with SS Stephen and Francesca. The altar frontal is Cosmatesque in style.
+===Chapel of Relics===
+
+The 18th century Chapel of Relics was designed by [http://en.wikipedia.org/wiki/Luigi_Vanvitelli Luigi Vanvitelli]. He also painted the musician angels in the vault, and ''The Angel Appearing to SS Cecilia and Valerian ''on the right hand wall. These are his only known painted works, as he is better known as an architect.
+
+The relics after which the chapel is named are now kept at the Vatican.
+===Cappella Rampolla===
+The ''Cappella Rampolla ''almost amounts to a separate building, and is a narrow rectangle with a separate apsed presbyterium. It is accessed down a corridor from the far end of the right hand aisle. 
+
+It was created as the funerary chapel of Cardinal Rampolla, and the monument to him here is by [http://it.wikipedia.org/wiki/Enrico_Quattrini Enrico Quattrini] of [[1929]]. You can see it at the end of the corridor beyond the gate. The centrepiece is a trompe l'oeil depiction of the crypt for which the cardinal was responsible, revealed by an angel drawing back a marble curtain while a statue of the cardinal looks in. The lushness of the neo-Baroque design is unusual for the date.
+
+To the right of the tomb (and invisible from the gate) is a fresco of the cardinal with Pope St Pius X.
+
+His successor as cardinal, Cerretti, is also commemorated here by a bas-relief which is by Carlo Quattrini of 1936.
+
+The present appearance of the chapel is the responsibility of the famous early 20th century architectural historian [http://it.wikipedia.org/wiki/Antonio_Mu%C3%B1oz Antonio Muñoz], and was finished in the same year. He was responsible for "de-baroquing" several ancient churches, but was not able to get his hands on this one.
+===18th century choir and Cavallini fresco===
+
+The church has an upper gallery over the entrance, originally possibly reserved for the use of women and which was made into the nuns' choir in the 18th century by inserting a screen wall with windows.
+
+In this rather restricted space you can see a damaged fresco by [http://en.wikipedia.org/wiki/Pietro_Cavallini Pietro Cavallini], ''Christ at the Last Judgment Attended by the Heavenly Court, ''which was painted in about 1293 and is a fragment of a larger composition. This is the only surviving painting by Cavallini (apart from a water-colour), and ranks as among one of the most important art-historical works in the world. A mosaic attributed to him can be seen in the nearby [[Santa Maria in Trastevere]].
+
+This painting is now considered by art critics to demonstrate a turning-point in the history of Western art. Up to then in Italy, mediaeval painting was derivative of the Byzantine style but here we have the evidence for the beginning of the return to the Classical style of ancient Rome. In fact, this one painting is cited as proof of the existence of an entire late 13th century style, ''Roman Naturalism, ''which is hypothesized as being one of the main inspirations for the Renaissance art that emerged in the cities of northern Italy in the following century. A depiction of it is here: [http://www.connie-madson.com/artmovements/artpics/byzantine/fullres/pietro%20cavallini%20-%20the%20last%20judgment%20(detail).jpg [3]]    
+
+[[File:Cav.jpg|thumb|Cavallini fresco detail.|203x203px]]
+
+The central part of the work features the Last Judgment, with Christ in a mandorla accompanied by angels. The brush-strokes in the multi-coloured angels' wings repay close examination. Our Lady and St John the Baptist flank this composition, while to each side are seated the Twelve Apostles on thrones. Below, in the centre is the Cross with the Instruments of the Passion, and this is flanked by angels blowing trumpets. To the left are the damaged remains of an Annunciation, and to the right fragments of the Ladder of Jacob and the Deception of Isaac by Jacob.
+
+The work was abandoned in the 18th century restoration, and covered by wooden panelling until it was rediscovered in 1900.
+
+As the nuns live in strict enclosure, the choir is not accessible to casual visitors. However, the nuns now realize the importance of the work and the interest shown in it, and have regularized access by payment. See below under "Access" for details about opening times.
+
+==Underground==
+===Crypt===
+The nuns have regularized the access to the underground areas. When they are open, there should be someone (often one of the sisters) to sell you a ticket in the room at the bottom end of the left hand aisle. 
+
+The original crypt was a small semi-circular room which was most likely dug as a ''confessio ''when the 9th century church was built. The nuns are on record as having extended this in order to provide space for burials in the 17th century. 
+
+The present ornate crypt was a new construction,  ordered by Cardinal [http://en.wikipedia.org/wiki/Mariano_Rampolla Mariano Rampolla del Tindaro], titular priest of the church 1887-1913. The architect was Giovanni Battista Giovenale, who executed the project between 1899 and 1901 as a place to re-enshrine the sarcophagi holding the relics of SS Cecilia, Valerian, Tibertius and Maximus. Alleged relics of Popes Urban I and [http://en.wikipedia.org/wiki/Pope_Lucius_I Lucius I] were also enshrined here. The relics are behind a grille.
+
+The decoration is neo-Byzantine in style, and luminously colourful in contrast with the dusty ancient remains surrounding the crypt. The mosaic work was executed by Giuseppe Bravi. Three longitudinal rows of grey granite derivative Composite columns (a total of twelve, with a further eighteen against the walls) support an arcaded vault with rosettes on the archivolts and seraphs and scrollwork in the vaulting. The imitation Cosmatesque floor is good. The statue of St Cecilia is by Cesare Aureli.
+
+The relics of the saints are in urns under the main altar. St Cecilia is on top, then come Valerian, Maximus and Tiburtius in the middle and Lucius and Urban at the bottom. The altar is flanked by a pair of small chapels dedicated to St Cecilia and St Agnes with realistic mosaic depictions in the style of Beuron.
+
+The crypt is visible to visitors to the underground, but not accessible since there is a metal railing blocking access.
+===Ancient Roman remains===
+The ancient Roman structures around the crypt are difficult for the casual visitor to interpret, and even the archaeologists are not in full agreement. However, there are many interesting fragments of pottery, architectural elements and inscriptions displayed on the walls. Apart from the baptistery (not apparently accessible to unaccompanied visitors), there are no signs of early Christian activity to examine down here.
+
+The earliest remains are Republican, under the east side of the central nave and dating from the late 2nd century BC. They consist of a wall with several columns and piers, all in the local [http://en.wikipedia.org/wiki/Tufa tufa] and with the wall in ''opus quadratum ''(squared blocks). The early excavators labelled this the ''domus, ''but it looks more like a utilitarian building such as a warehouse or ''horrea. ''Next to this, under the church's loggia, are remains of what might have been a private house with a surviving wall in ''opus reticulatum ''and a floor in ''opus signinum ''with a decorative triple meandering curve in white limestone ''tesserae. ''This structure would have been 1st century BC.
+
+These two structures were converted in the early part of the 2nd century AD into what was called the ''insula ''by excavators, but which was apparently a fairly high status family home. The original entrance was on the Via Anicia, and an entrance staircase survives with a guard-chamber. A room was inserted into the old ''horrea, ''and this had eight brick-lined cylindrical pits inserted into the floor. Historians formerly guessed that these pits belonged to a ''corarium ''or tannery recorded as having been in the locality, but the present consensus rejects this. The brickwork seems not to show signs of the corrosion that tanning would have caused. Rather, they are now thought to have been storage silos for foodstuffs. 
+
+In a nearby room there is a domestic pagan shrine consisting of a niche with a tufa relief of [http://en.wikipedia.org/wiki/Minerva Minerva] in front of an altar. The sides of the niche have a pair of identical terracotta panels of the ''Campana ''type, depicting a Dionysian scene. Such shrines would have been found in all pagan Roman homes.
+
+Don't miss noticing the mediaval tomb slab on display, with a Cosmatesque cross.
+===Baptistery===
+Under the Chapel of the Relics are the remains of a large room with an apse and a mosaic floor; this room was restored in the 3rd century. In the 4th it was transformed by the addition of a large basin, and the re-laying of the floor around it with new mosaics; this basin might have been the plunge-pool for the bath-house adjacent to the south. 
+
+When this room was converted into a bapitistery in the 5th century, the basin was transformed into a font with a hexagonal exterior (see the mosaic in the apse) and a circular interior and was revetted with marble slabs. There was a lead pipe serving as a water inlet, and this has the names of both SS Cecilia and Chrysogonus on it. It seems that there was some sort of joint administration of the two basilicas at the time.
+
+Some of the walls were rather crudely decorated with frescoes depicting curtains (''vela''), and these were renewed when the baptistery was renovated by Pope Paschal. The actual proof that this was a baptistery lies in the discovery of three fragments of an epigraph on a marble door lintel or architrave, which refers to the sacrament of baptism.
+===Problems with the archaeological evidence===
+The baptistery is clear evidence that there was a church hereabouts by the 5th century. It is still claimed that the 2nd century AD house under the present church could have been the actual home of St Cecilia converted into a ''titulus, ''but there are serious problems with this. 
+
+Firstly, the excavators found no signs of Christian activity in the house earlier than the insertion of the baptistery, contrary to what one would expect if it were a ''titulus ''beforehand. This is negative evidence, but more worrying is the undisturbed existence of the pagan shrine. This would have been removed by Christian worshippers using the building.
+
+It is feasible that the basilica built by Pope Paschal was not on the site of the older church, but that the latter awaits discovery nearby -perhaps adjacent to the baptistery on the other side.
+
+==Access==
+The church was advertised as open to visitors in 2017:
+
+Dalily from 10:00 to 13:00, and 16:00 to 19:00.
+
+The underground areas should be accessible when the church is open, unless there is no one available to supervise access. There is a charge for entry (2017 2,50 euros). The access is now at the bottom end of the left hand aisle.
+
+In recent years there has been a guided tour of the underground area, on the last Saturday of the month at 10:00 (not July, August). This gives you a chance to see the baptistery, and to have the excavated remains explained. It was well worth attending. There was a charge. The guide in 2013 was Neda Parmeggiani, who has co-authored a book on the excavations.
+
+I recommend trying to see Cavallini's fresco in the choir. The viewing times for this are:
+
+Weekdays 10:00 to 12:30. (There used to be viewing on Sundays 11:15 to 12:15, but this was stopped recently). The times have been fluctuating slightly and -as usual in Italy- if nobody turns up the custodian is liable to go off early. So, try to arrive earlier rather than nearer the end.
+
+Only a limited number of people are allowed to enter the choir at any one time, and it might close earlier than the scheduled time. My advice is that you try to be there early, so that you can get in line to enter the choir as soon as it opens. There is an entrance fee of 2-5 euros, which is in addition to what you pay to enter the underground areas. The access is from the courtyard outside.
+
+Given that the viewing arrangements for the underground areas and the Cavallini fresco are now regularized, it is requested that visitors do not accost any of the nuns or clergy to ask for access to these, if this is not already being provided.
+
+Unfortunately, the subsidiary chapels off the right hand aisle are now usually kept gated, and are inaccessible to ordinary visitors. If you have serious interest, it is worth while asking the nun on duty in the shop at the bottom of the left hand aisle -but don't expect anybody to be available to unlock gates for you on the spot.
+==Liturgy==
+The conventual liturgy is as follows, according to the monastery website:
+
+Weekdays: Lauds 6:45, Mass 7:20, Sext 13:00, Vespers 19:15.
+
+Sundays and Solemnities: Lauds 7:15, Terce 8:30, Mass 10:00, Sext 13:00, Vespers 19:15.
+
+On Sundays and Solemnities Mass and Vespers are sung, with Gregorian chants, by the Benedictine nuns (if numbers permit).
+
+Visitors are now not allowed in church during Mass, and should not wander about during the Divine Office, nor take photos of the nuns while they are worshipping. (People do, but only barbarians.)
+==Bibliography==
+Neda Parmegiani and Alberto Pronto: ''S. Cecilia in Trastevere: Nuovi Scavi e Ricerche. ''Pontificio Istituto di Archeologia Cristiana, 2004.
+
+Patrizia Marchetti: ''Santa Cecilia in Trastevere. ''Gangemi, 1999.
+
+''Santa Cecilia in Trastevere. ''Palomba Editori 2007.
+
+Anna Maria Panzera and Mario Bagordo: ''La Basilica di S. Cecilia. ''Nuove Edizione Romana, 2001. (In English.)
+
+Caroline Goodson: ''The Rome of Pope Paschal I. ''Cambridge 2010.
+==External links==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=860 Official diocesan web-page]
+
+[http://it.wikipedia.org/wiki/Basilica_di_Santa_Cecilia_in_Trastevere Italian wikipedia page]
+
+[http://www.santacecilia.org/ Church's website]
+
+[http://www.benedettinesantacecilia.it/ Monastery's website]
+
+[http://nolli.uoregon.edu/map/index.html?xurl=62.249&yurl=-21.797&surl=2000 Nolli map (look for 1121)]
+
+[http://www.sacred-destinations.com/italy/rome-santa-cecilia "Sacred Destinations" web-page with gallery]
+
+[http://www.sacred-destinations.com/italy/rome-santa-cecilia/photos "Sacred Destinations" larger gallery]
+
+[http://www.flickr.com/photos/dealvariis/sets/72157619595303532/ "De Alvariis" gallery on Flickr]
+
+[http://www.romaspqr.it/roma/CHIESE/Chiese_Medievali/S_Cecilia_Trastevere.htm Roma SPQR web-page with gallery]
+
+[http://www.romeartlover.it/Vasi145.html "Romeartlover" web-page]
+
+[http://www.romartguide.it/italiano/schedemusei/basilica_santacecilia.html "Romartguide" web-page]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=453 Info.roma web-page with gallery]
+
+[http://www.info.roma.it/associazione_eventi.asp?ID_evento=45 Info.roma page on sotterranei]
+
+[http://www.catholic-hierarchy.org/diocese/d1c07.html List of cardinals]
+
+[http://www.medioevo.roma.it/html/architettura/chiese-int/chiese-i13.htm#ceci Medioevo.roma article]
+
+[http://www.medioevo.roma.it/html/arte/Cavallini01.htm Article on Cavallini on Medioevo.roma]
+
+[https://www.youtube.com/watch?v=wtcXPVClPaQ Youtube video: Serata con Cecilia] (there are several short videos of the church on Youtube.)
+
+[https://www.youtube.com/watch?v=-3gzxLBQIYM Youtube video of Cavallini fresco]
+[[Category:Catholic churches|Cecilia in Trastevere]]
+[[Category:Dedications to St Cecilia|Cecilia in Trastevere]]
+[[Category:Titular churches|Cecilia in Trastevere]]
+[[Category:Trastevere|Cecilia in Trastevere]]
+[[Category:18th century]]
+[[Category:Convent churches and chapels]]
+[[Category:Minor basilicas]]

@@ -1,0 +1,45 @@
+{{Infobox church|
+name=  |
+image=  |
+caption= |
+englishname=  Holy Cross in Montecitorio|
+dedication= Holy Cross|
+denomination= [[Roman Catholic]]|
+type= |
+clergy=  |
+titular= |
+national= |
+built= Mediaeval|
+consecrated= |
+architect= |
+artists= |
+address= Via degli Uffici del Vicario 30|
+phone= |
+fax = |
+e-mail= |
+url= |
+}}
+'''Santa Croce a Montecitorio''' is a deconsecrated former convent church is at Via degli Uffici del Vicario 30 in the rione [https://it.wikipedia.org/wiki/Colonna_(rione_di_Roma) Colonna], opposite the south-west corner of the Camera di Deputati.
+
+The dedication was to the [http://en.wikipedia.org/wiki/True_Cross Holy Cross].
+==History==
+
+The convent was founded in 1300 for [https://en.wikipedia.org/wiki/Third_Order_of_Saint_Francis Franciscan Tertiary] nuns, and was originally located near the Antonine Column. However, the convent later divided and the original site became an enclosed convent of Poor Clares while those who remained tertiaries moved to this site.
+
+Pope [http://en.wikipedia.org/wiki/Pope_Pius_V Pius V] restored the little monastery with the help of nuns from [https://en.wikipedia.org/wiki/Perugia Perugia] (''Le Perugine'') just before his death in [[1572]], and the two branches of the original convent were reunited.
+
+The church is on record as being tiny. 
+
+The monastery was suppressed in 1673, and the nuns transferred to [[San Bernardino da Siena ai Monti]]. They seem to have been replaced for a time by a community of women disciples of St Philip Neri, the ''Filippine'', but these later founded the convent of [[San Filippo Neri all'Esquilino]].
+
+The Nolli map of 1748 does not show anything here. However, the building on the site contains remains of the original convent including the church.
+
+==External links==
+[http://penelope.uchicago.edu/Thayer/I/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/churches/_Texts/Armellini/ARMCHI*/2/Colonna.html Armellini (p. 313)]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=3692 Info.roma web-page]
+[[Category:Catholic churches]]
+[[Category:Deconsecrated churches]]
+[[Category:Colonna]]
+[[Category:16th century]]
+[[Category:Dedications to the Holy Cross]]

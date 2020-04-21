@@ -1,0 +1,427 @@
+{{Infobox church|
+image= |
+caption= |
+englishname= Ancient St Mary's|
+dedication= [[Blessed Virgin Mary]]|
+denomination= [[Roman Catholic]]|
+type= |
+clergy= None|
+titular= |
+national= |
+built= 6th century, original fabric 1st century|
+consecrated= |
+architect= |
+artists= |
+address= 1 Largo Romolo e Remo<br>(Forum Romanum archaeological site)|
+phone= |
+fax = |
+e-mail= |
+url= }}
+'''Santa Maria Antiqua''' is a ruined but restored 6th century church in the [[wikipedia:Roman_Forum|Roman Forum.]] Pictures of the church at Wikimedia Commons are [[commons:Santa_Maria_Antiqua|here]]. There is an English Wikipedia article with photos and plan [[wikipedia:Santa_Maria_Antiqua|here]].
+
+The dedication is to the [[Blessed Virgin Mary]], under the aspect of her [https://en.wikipedia.org/wiki/Assumption_of_Mary Assumption].
+
+Also see [[Oratorio dei Quaranta Martiri]].
+
+== Status ==
+The church is often described as "ruined". However, it has a roof on it and contains a consecrated altar (installed in 1955). So, it counts as a church even though there is no regular liturgical activity here.
+
+==History==
+
+=== Origins of building ===
+The church was founded in what was once part of a monumental architectural approach to the imperial palace on the [https://en.wikipedia.org/wiki/Palatine_Hill Palatine]. This was at the back of the [http://en.wikipedia.org/wiki/Temple_of_Castor_and_Pollux Temple of Castor and Pollux] (now comprising the famous three columns standing alone).
+
+The complex layout, begun by the emperor [http://en.wikipedia.org/wiki/Domitian Domitian] in the late 1st century, was based on an enormous covered access ramp (''rampa imperiale'') that ran up the side of the hill. The part that was converted into a church was just to the south of the bottom end of this, and originally comprised a square atrium followed by a ''quadriporticus'' (a little courtyard surrounded by covered walkways or loggias) and finally a row of three chambers. The central of the three, which is larger, is called the ''[https://en.wikipedia.org/wiki/Tablinum tablinum].''
+
+It used to be speculated that this ensemble was the possible headquarters of the [https://en.wikipedia.org/wiki/Athenaeum_(ancient_Rome) Athenaeum] founded by Emperor [https://en.wikipedia.org/wiki/Hadrian Hadrian], but the true site of this has now been located and so it was most likely part of the reception facilities for palace visitors. 
+
+To the west of the church is a large hall, part of the same reception complex. This used to be described as the Temple of the Divine Augustus, but this completely speculative guess is now discredited (the temple is most likely under the hospital of [[Santa Maria della Consolazione]]). So, this ''Domitianic Hall'' was probably the main waiting room for arrivals at the palace entrance, while the church ensemble was the processing suite for those actually to be allowed in.
+
+The restorers at the start of the 21st century found very scant traces of what is thought to have been an original 1st century fresco decorative scheme. 
+
+=== First frescoes ===
+In the mid 6th century the edifice is described as having been converted into a guardhouse to protect this main approach to the palace, still then regarded as the headquarters of the Emperor at Rome even if he was based at Constantinople. However, this seems to depend on the mistaken idea that the original function was substantially different -the distinction between a palace gateway reception suite and a guardhouse is now rather too subtle to bother.
+
+The walls of the ''tablinum'' were decorated with Christian murals in this period, however, so there must have been a makeover of some sort. One has survived, and is one of the oldest depictions of Our Lady in Rome. It is known that this was executed before the conversion into a church, because the apse was cut into it.
+
+It has been suggested that the guardhouse fresco work was in imitation of the guardhouse at the Imperial Palace at Constantinople.
+
+The historical context of this restoration is interesting. The Empire had lost effective control of Italy to the [https://en.wikipedia.org/wiki/Ostrogoths Ostrogoths] in 476 (the mythical "End of the Roman Empire" as imagined by western European historians), and the Gothic kings ruled under the pretence of being the Emperor's representative in Italy. Emperor [https://en.wikipedia.org/wiki/Justinian_I Justinian I] (527-65) rejected this, and re-imposed direct rule in 554 after the [https://en.wikipedia.org/wiki/Gothic_War_(535%E2%80%93554) Gothic War]. The imperial palace on the Palatine had been the Gothic king's residence, and the restoration of the guardhouse was in the context of the arrival of a governor under the authority of the imperial [https://en.wikipedia.org/wiki/Exarch exarch] at [https://en.wikipedia.org/wiki/Ravenna Ravenna] (the capital of Italy).
+
+=== Conversion into church ===
+The complex's new appearance did not last for long, as the building was probably converted into a church within a couple of decades during the reign of Emperor [http://en.wikipedia.org/wiki/Justin_II Justin II] (565-78).   
+
+The four brick piers holding up the roofs of the ''quadriporticus ''loggias were replaced with four granite columns having capitals, the original loggias at each side of the ''quadriporticus'' were converted into two side aisles and an apse was carved out of a solid brick wall at the back of the ''tablinum. ''Two coins of Justin under one of the columns give a ''terminus a quo ''date for the remodelling, although of course the work might have been done later than his reign. 
+
+This was the second Christian church known to have been founded in the Roman Forum, after [[Santi Cosma e Damiano|Santi Cosma e Damiano.]] Its first documentary reference is from 635, in a pilgrim's guide called  ''De Locis Sanctis Martyrum quae Sunt Foris Civitatis Romae et Ecclesiae quae Intus Romae Habentur. ''
+
+<nowiki> </nowiki>At some unknown date, perhaps at its foundation, the church became a [http://en.wikipedia.org/wiki/Diaconia diaconia]. In other words, it existed as a base for the Church's charitable outreach to the public. The earliest reference to this status is in the ''Itinerarium Einsiedeln ''of the late 8th century. 
+
+=== Fresco embellishment ===
+The recent restoration revealed that the church walls had been embellished with mosaics, although only fragments of backing plaster have survived.
+
+After the 6th century guard-house murals pre-dating the church, the first cycle of fresco decoration was executed during the time of Pope St [https://en.wikipedia.org/wiki/Pope_Martin_I Martin I] (649-653). The painting included the sanctuary and much of the nave. Also, he erected a ''schola cantorum ''or choir enclosure in the body of the nave -see [[San Clemente]] for an extant example.
+
+According to earlier scholars, Pope St Matin ordered the fresco cycle in response to the decisions of the [https://en.wikipedia.org/wiki/Lateran_Council_of_649 Lateran Council of 649], principally rejecting the Imperial theology of [http://en.wikipedia.org/wiki/Monothelitism Monotheletism] . For his stand against the government ideology he was exiled and martyred, but the connection between this and the work he commissioned here is speculative.
+
+The fine ''[https://en.wikipedia.org/wiki/Opus_sectile opus sectile] ''flooring has been ascribed to this period, although there are revisionist doubts.
+
+Pope [https://en.wikipedia.org/wiki/Pope_John_VII John VII] (705-7) commissioned further extensive fresco work, notably in the sanctuary and in the so-called Chapel of Medical Saints (the right hand back room). This chapel was probably a healing shrine.  
+
+Pope John was one of the popes of the so-called [https://en.wikipedia.org/wiki/Byzantine_Papacy Byzantine Papacy], a thoroughly tendentious and deliberately misleading historical term for a period when the papacy was a client of the Roman Emperor at [https://en.wikipedia.org/wiki/Constantinople Constantinople]. For political reasons later mediaeval popes wished to conceal the fact that citizens of Rome, including the pope, considered themselves imperial subjects of the Emperor at Constantinople from 330 until 752. The modern historiographical distinction between "Roman" and "Byzantine" Empires derives ultimately from this later papal re-writing of history, and had no validity at the start of the 8th century. 
+
+Pope John was the son of Plato, a Greek who was the ''Cura Palatii Urbis Romae, ''or the custodian of the Palatine palaces on behalf of the Emperor who owned them. The ''cura ''was answerable to the Exarch at Ravenna (the capital of the imperial province of Italy at the time), who himself answered to the Emperor in Constantinople.'' ''Perhaps as a result, the pope was able to build a palace for himself on the Palatine Hill -which has left no trace, and the location is unknown. This explains his especial favouring of the church and of the [[Oratorio dei Quaranta Martiri|Oratorio dei Quaranta Martiri.]] The presence of the Greek-speaking expatriate civil servants in the imperial headquarters also on the Palatine accounts for the Eastern style of the fresco work undertaken.
+
+The ''Oratorio dei Quaranta Martiri'' was a separate place of worship to the north, on the other side of the ramp leading to the Palatine. However, it was probably administered as part of the church.
+
+Just at the accession of Pope [https://en.wikipedia.org/wiki/Pope_Zachary Zacharias] (741-752), a nobleman called Theodotus, the Pope's ambassador to the court of the [https://en.wikipedia.org/wiki/Franks Franks], sponsored the decoration of the namesake Chapel of Theodotus (the left hand back room). The figure of the pope was overpainted onto that of his predecessor, Pope [https://en.wikipedia.org/wiki/Pope_Gregory_III Gregory III], giving an unusual precision to the dating of this work. This chapel was a shrine for SS [https://en.wikipedia.org/wiki/Quriaqos_and_Julietta Quiricus and Julitta], who have their own church in Rome -[[Santi Quirico e Giulitta]]. 
+
+Pope [https://en.wikipedia.org/wiki/Pope_Paul_I Paul I] (757-767) ordered the final re-decoration of the apse, and substantial fresco work in the side aisles. 
+
+The final extant 8th century frescoes are in the atrium, and date from the reign of Pope [https://en.wikipedia.org/wiki/Pope_Adrian_I Adrian I] (772-795). His remodelling included an ''endonarthex ''or entrance lobby in front of the ''schola, ''created by inserting two walls either side of the entrance.
+
+=== Early Middle Ages ===
+It is unknown as to when the church became monastic. The frescoes in the adjacent ''Oratorio dei Quaranta Martiri, ''commissioned by Pope John, give a more overt witness to expatriate [https://en.wikipedia.org/wiki/Byzantine_Rite Byzantine-rite] monks being here in the early 8th century than do those in the main church. The latter mostly concerns Biblical and local Roman sanctoral themes, but a clue is the presence of a depiction of St [https://en.wikipedia.org/wiki/Euthymius_the_Great Euthymius the Great] in both church and oratory. The veneration of this great monastic founder of the Holy Land hints that the monastery was founded here by refugee monks from the [https://en.wikipedia.org/wiki/Judaean_Desert Judaean Desert].
+
+Also, a rather subtle argument follows from the size and layout of the church. The ''schola ''fills the central nave, and there is little room for a congregation. This arrangement seems appropriate for a monastic church with limited pastoral obligations (beyond that of the putative healing shrine).  
+
+Expatriate monks of the Byzantine and other Eastern rites, fleeing Islam and [https://en.wikipedia.org/wiki/Byzantine_Iconoclasm iconoclasm], dominated monastic life in Rome in the 7th to 9th centuries. This fact was maliciously airbrushed from received history in the 11th century, especially after the Great Schism of 1054, and replaced with the anachronistic myth that Roman monasticism had always been [https://en.wikipedia.org/wiki/Order_of_Saint_Benedict Benedictine]. The latter arrived in Rome in the late 9th century at the earliest.
+
+The archaeologists seem not to have been very interested in where the monks actually ate and slept, but the Domitianic Hall to the right (west) of the church seems the obvious edifice to have been converted for the purpose.
+
+The atrium served as a graveyard in the 8th and 9th centuries, and when excavated was completely filled with graves.
+
+The church was apparently made unusable in 847, when a major earthquake undermined the imperial buildings overlooking the Forum and the church was presumed buried under rubble. However, the surviving fabric (especially the far chambers which would have taken the brunt of an avalanche) seem not to show much evidence of catastrophic collapse. The earthquake is now thought to be the event that destroyed the Forum as a functioning civic centre. A new church, known as ''Santa Maria Nova'' (now [[Santa Francesca Romana]]) was built near the Arch of Titus as a replacement. 
+
+=== Oblivion ===
+The atrium survived the disaster, and apparently became part of a monastery again. This time, the monks were of the Latin rite and might have been Benedictine. They roofed the atrium, building a central brick pier to hold up the roof, and commissioned frescoes for what was now apparently their main place of worship. These date from the 10th and 11th centuries. This remodelling was apparently treated as a new church, with a dedication to St [https://en.wikipedia.org/wiki/Anthony_the_Great Anthony of Egypt].
+
+This replacement church was thought to have been completely buried in 1084, when nearby buildings collapsed during a fire started by the [https://en.wikipedia.org/wiki/Norman_conquest_of_southern_Italy Normans] who sacked Rome that year. However, this is also a surmise and archaeological evidence is wanting. 
+
+In 2013, Severino suggested that some the ''[https://en.wikipedia.org/wiki/Opus_sectile opus sectile] ''flooring, assumed to be 6th century, was actually [https://en.wikipedia.org/wiki/Cosmatesque Cosmatesque] work. This revisionist thesis would imply that the entire church was still in use in the early 12th century.
+
+There is a major problem with this. The larger problem lies in the massive raising of the ground level of the Forum, between its putative abandonment as a civic centre and the 15th century when depictions emerge. This issue has not been adequately addressed by historians and archaeologists. The depth can be judged from the extant church ruins, which were completely buried and had a 17th century church on top. This fill could not have resulted from natural flooding, as the drainage basin is too small, and must have come about through the clearance and scavenging of ruined buildings. The conversion of the Viminal and Coelian Hills from close-packed urban neighbourhoods to vineyards (by Byzantine-rite monks?) had a lot to do with it.
+
+So, if ''Santa Maria Antiqua ''was still a functioning church in the 12th century, how did it get buried in only one century? See below.
+
+=== Santa Maria Liberatrice ===
+In the thirteenth century a new church was built on top of the ruin, in the same way that the present basilica of [[San Clemente]] is on top of the original one. However, the two churches were not on the same plan -the new one had the same alignment, but stood further to the front (north). This indicates that the ground level of the Forum had risen to the top of the ruins of the old church by then.
+
+By this time a curious legend had grown up, which involved Pope St [http://en.wikipedia.org/wiki/Pope_Sylvester_I Sylvester] I (314-35) chaining up a dragon which had been living in the Forum and terrorising the city. So, the locality was called “Liberatrice” (the Liberation from the dragon), and the church was initially called ''Santa Maria Libera nos a Poenis Inferni'', or "St Mary Free us from the Pains of Hell", which became ''Santa Maria Liberatrice'' or "St Mary Liberator". (It was also called ''San Silvestro in Lago ''in the 16th century, but this was an invention.)
+
+In about 1300 a convent was established here by Mother [http://ca.wikipedia.org/wiki/Santuccia_Terrebotti Santuccia Terrebotti], who had founded a reformed congregation of [http://en.wikipedia.org/wiki/Order_of_Saint_Benedict Benedictine] nuns located at what later became [[Sant'Anna dei Falegnami]]. The nuns remained until 1550, when they moved to join their sisters at the mother house. This was probably owing to the difficulties experienced after the [http://en.wikipedia.org/wiki/Sack_of_Rome_(1527) Sack of Rome] in 1527.
+
+After the departure of these nuns, the complex was taken over by the [http://en.wikipedia.org/wiki/Olivetans Olivetan] Benedictine oblate nuns at [[Santa Maria Annunziata a Tor de’Specchi]] as a small daughter convent. This was appropriate, since the nearby ''Santa Francesca Romana ''was a major monastery of Olivetan monks. They remained in possession until the end.
+
+The mediaeval church was restored and mostly (but not totally) rebuilt in the Baroque style to a design by [http://en.wikipedia.org/wiki/Onorio_Longhi Onorio Longhi the Elder] in 1617. He was also responsible for [[San Carlo al Corso]], and at ''Santa Maria Liberatrice'' was inspired to create a scaled-down version of the great façade of the [[Gesù]] by [http://en.wikipedia.org/wiki/Giacomo_della_Porta Giacomo della Porta]. 
+
+=== Rediscovery ===
+In 1702, the apse of the old church (now underground) was inadvertently discovered by gardeners digging in the nuns' garden at the back of the church. An excavation was conducted, and a strange watercolour executed by Francesco Valesio. This shows the apse with its frescoes as if it was in a quarry not down a pit, and ignores the existence of the church in front.   
+
+Unfortunately Pope [https://en.wikipedia.org/wiki/Pope_Clement_XI Clement XI] was not interested, and ordered the pit to be filled in. However, scholars now knew of the existence of the frescoes and small-scale investigations continued under the church for the next two centuries.
+
+=== Destruction ===
+The important church of ''Santa Maria Liberatrice'' survived until 1900, as the ancient ruins of the Forum were uncovered around it during the 19th century. There are several photos of it, latterly marooned high up as the excavators reached the imperial street level around it. 
+
+The order was issued to demolish the church in that year. This was owing to an ideological and nationalistic interest in ancient Rome on the part of both the Italian government and the archaeological establishments, rather than as a result of any archaeological need. The rushed work took two years, and the edifice proved so well constructed that high explosive had to be used by the archaeologist [https://en.wikipedia.org/wiki/Giacomo_Boni_(archaeologist) Giacomo Boni]. No proper survey was done before or during the work, and it is on record that mediaeval frescoes were discarded in the rubble.
+
+The tragedy was compounded by Boni actually being a good archaeologist for his time, with an interest in stratigraphy which he didn't (or wasn't allowed to) demonstrate here.
+
+=== Decay ===
+Paradoxically, the uncovering of the remains of ''Santa Maria Antiqua'' in this way led to the steady deterioration of its frescoes, as they were left exposed to the open air. The tragedy was that the remains of the older church could have been excavated under the newer one without need of demolition, as in ''San Clemente'', and they would have been better preserved subsequently.
+
+The consolidation of the frescoes after their unearthing involved painting them with wax and securing the edges with cement and brass pins. When corrosion of all three elements set in, the results were horrid.
+
+Joseph Wilpert wrote a book on the church in 1910, including hand-tinted photographic plates which are useful in judging the deterioration since then. In that year, a roof was erected over the church (not the atrium) to try and improve matters by keeping the rain off the frescoes.
+
+Intermittently from 1945 to 1957, conservation work was done on the frescoes but the technology was not really up to the task. In desperation, some frescoes (about twelve per cent of the total) were detached and taken elsewhere.
+
+In 1955 an altar was set up, making this a real church again.
+
+The situation became so embarrassingly bad that the church was permanently closed to visitors in 1980.
+
+=== Restoration ===
+For two years from 1985, the actual fabric was strengthened and the concrete barrel vaulting over the side aisles was repaired. However, effective restoration of the frescoes had to wait until the creation of the [http://www.wmf.org/project/santa-maria-antiqua-church S. Maria Antiqua Project] which was funded by the Italian government and the [http://en.wikipedia.org/wiki/World_Monuments_Fund World Monuments Fund.] This began the restoration in 2004, and was finally completed in 2016. 
+
+A promise was made that the frescoes removed for safekeeping would be re-installed. 
+
+In the summer of 2016, an exhibition was held here entitled ''Santa Maria Antiqua. Tra Roma e Bisanzio. ''This closed in September, and the scope of future public access is (November 2016) "under review". 
+
+As part of this, the venerated icon of Our Lady of Consolation (see next section) was brought from [[Santa Francesca Romana]] and put on view on March 31. It remained here until October 31, when it was taken back in procession. Part of the celebration involved a Mass on the altar at ''Santa Maria Antiqua, ''claimed to be the first since 847. 
+
+== Icon ==
+The icon of the Madonna and Child which can be seen in the apse above the altar of the church of [[Santa Francesca Romana]] dates to the 12th century, and is of the Tuscan school. According to tradition, it was brought from Troas on the Hellespont by a crusader from Rome called Angelo Frangipani in 1100.
+
+In 1950, it was being purged of an 1805 overpainting. Examination during this restoration revealed that the 12th century work had in turn been painted over an earlier version, which is probably from the 6th century, and might well have come from ''Santa Maria Antiqua'' rather than from Troas. It is one of the most ancient icons of Our Lady in existence, and the claimed as the oldest in Rome (the one at [[Santa Maria in Trastevere]] is a contender, as is the "Palimpsest Icon" in ''Santa Maria Antiqua'').
+
+The style of the work has been erroneously described in modern publications as [http://orthodoxwiki.org/Panagia_Glykophilousa Glykophilousa] from the Greek for "sweet affection", but is actually an early version of the [https://en.wikipedia.org/wiki/Hodegetria Hodegetria] or "one showing the way". Our Lady is pointing to the Child with her hand, and he is giving a blessing with one hand while holding a scroll in the other (''Glykophilousa ''icons show the two of them cheek-to-cheek). 
+
+The two paintings were detached from one another, and the older one is now kept in the sacristy of ''Santa Francesca Romana''. The display of it in ''Santa Maria Antiqua ''during the summer of 2016 was the first time that it has been on open public display, and fairly certainly the first time it has returned to that church after its putative removal after the earthquake of 847.
+
+It has the title of ''Madonna del Conforto ''-"Our Lady of Consolation"''.''
+== Exterior ==
+
+=== Ancient setting ===
+The church has always been surrounded by other structures, and so even now is not very obvious.
+
+In ancient times, Domitian's late 1st century palace portal reception suite was round the back (south) of the [https://en.wikipedia.org/wiki/Temple_of_Castor_and_Pollux Temple of Castor and Pollux], which the Italians tend to call the ''Tempio dei Dioscuri. ''(This has left the famous set of three standing columns.) The main access from the Forum was via a street running up the right hand side of the temple, identified as the ''Vicus Tuscus. ''At the back of the temple another short dead-end street ran left to the façade of what became the ''Oratorio dei Quaranta Martiri, ''although the function of this edifice in Domitian's time is uncertain. It might have been built as a guard-house, although its prominent location hints at an alpha-display function -perhaps it originally contained a statue of the emperor for visitors to venerate in preparation for the real thing (look at North Korea for a contemporary demonstration of this sort of idiocy). 
+
+The reception suite occupied the south side of this dead-end street, facing the back of the temple. Looking at it, the first element on the right (west) is a very large hall. The ''Vicus Tuscus ''continued down the right hand side of this, where there was a row of little shops. The front of the hall had a ''porticus ''or arcaded covered walkway, which continued leftwards past the front of the later church to the actual entrance to the palace complex. (This walkway was later divided up by blocking walls). The hall might have been the general waiting room of the suite.
+
+(Beware of an old and erroneous misidentification of the hall with the [https://en.wikipedia.org/wiki/Temple_of_Divus_Augustus Temple of the Divine Augustus]. This undiscovered temple is most likely beneath the hospital of [[Santa Maria della Consolazione]].)
+
+The second element was the complex that became the church, separated from the hall by a party wall. This might have been the place where visitors actually entering the palace were vetted. It had an enclosed courtyard, called the ''atrium, ''and beyond that a ''quadriporticus. ''The latter was a little rectangular courtyard open to the air, surrounded on all four sides by covered walkways. The centre of the courtyard (called an ''impluvium'') had an octagonal pool -this can still be seen in the church. Finally, the far walkway contained doorways to a row of three chambers. The middle one was the largest, called the ''[https://en.wikipedia.org/wiki/Tablinum tablinum] ''and, if the reception suite theory is correct, this would have been the office of the head gatekeeper.
+
+A fourth chamber was behind the left side of the far wall of the large hall, and this had doorways into the hall and into the top right hand corner of the ''quadriporticus. ''It was to become the church's sacristy.
+
+The third element of the complex, to the extreme left, was the actual ramp that led to the top of the Palatine Hill. This runs up a shoulder of the hill, and doubles back in a hairpin before reaching the top. It occupies the left hand side of the church, and under it were cellars or storage chambers accessed from the atrium. 
+
+Behind the reception complex was the ''Horrea Agrippina, ''an ancient shopping mall on a different alignment (and not part of the Forum archaeological area).
+
+=== Fabric now ===
+The original fabric is in ancient brickwork, now nude although originally it would have been rendered or revetted.
+
+The ruins of the hall are impressive, although the right hand side has gone. Here also you can see the bases of the piers of the covered walkway in front of the hall, leading to the palace ramp portal on the left. Blocking walls, used to divide the walkway into separate loggias, have also left remains. The hall was subdivided to form a monastery, when the church was founded or soon after.
+
+The front wall of the church's atrium has the ''Oratorio del Quaranta Martiri ''standing in front of it, with the walkway to the ramp portal running between the two. This front wall has an intact arched portal. The atrium itself is bounded by the party wall of the hall to the right, and the revetting wall of the ramp to the left. These survive to an impressive height, and also constitute the side walls of the church ahead where they are higher than the church itself.
+
+The church's frontage is a brick wall with a large arched portal filled with a glass screen including the entrance doors, and with a pair of large vertical rectangular niches flanking the portal. The latter is noticeably off-centre to the left. The niches used to be side entrances leading into the aisles.
+
+The central nave of the church is covered with a pitched and tiled gabled roof dating from 1910, which has three large windows fitted under the gable at each end. This roof is surrounded by the flat roofing which covers the aisles, ''endonarthex'' and front sanctuary area (which the excavators called the [https://en.wikipedia.org/wiki/Bema bema]).
+
+The three back chambers was given a second storey in 1910, forming an ''[https://it.wikipedia.org/wiki/Antiquarium antiquarium]. ''This has its own gabled roof, aligned longitudinally, and has three large curve-topped windows overlooking the church's roof.
+
+The former sacristy, off to the top right of the church and behind the adjacent hall, is a roofless ruin although its walls stand to some height.
+
+== Atrium ==
+
+=== Fabric ===
+The atrium is entered through the remains of a loggia, created from the original walkway to the palace ramp by the insertion of a blocking wall to the right of the portal which abuts one of the brick arcade piers.
+
+The atrium is a square courtyard without a roof, and was roofless for most of its career. However, from the mid 9th to the mid 11th centuries it was a monastic church in its own right and was roofed. The church dedication then was to St [https://en.wikipedia.org/wiki/Anthony_the_Great Anthony of Egypt]. The massive central brick pier which used to support the roof was removed in the 1902 excavation.
+
+Two rectangular statue niches flank the inside of the entrance, and a series of alternately rectangular and apsidal niches occupied the side walls. However those on the left used to include two exits to store-chambers under the palace ramp, but these were blocked up when the church was in use. In contrast, when the atrium was a monastic church two passages were cut through niches in the right hand wall to allow direct access to the monastic quarters in the hall next door.
+
+Before becoming a church in the 9th century, the atrium was the monastery's graveyard and the yard surface was packed with graves. Some ''loculi ''or grave-slots were cut into the walls, and also into the walls of the loggia outside. 
+
+=== Atrium frescoes ===
+The frescoes in the atrium are of five periods. One fresco each survives from Pope [https://en.wikipedia.org/wiki/Pope_John_VII John VII] (705-7) and Pope [https://en.wikipedia.org/wiki/Pope_Paul_I Paul I] (757-767). Some are of the remodelling of Pope [https://en.wikipedia.org/wiki/Pope_Adrian_I Adrian I] (772-795), and others are of the 10th and 11th centuries. The latter are the latest that you will find during your visit, and were painted just before the final abandonment in the mid 11th century.
+
+The description is clockwise from the entrance.
+* The niche to the right of the portal depicted three female martyrs; SS [https://en.wikipedia.org/wiki/Agnes_of_Rome Agnes] and [https://en.wikipedia.org/wiki/Saint_Cecilia Cecilia] have been identified. (Pope Adrian.)
+* On the right hand side wall near the corner was originally a ''Madonna and Child with Four Saints, ''being venerated by Pope Adrian. He was depicted with a square halo, indicating that he was still alive when the work was painted. This fresco was detached and was kept in the right hand side aisle of the church before the recent restoration -it is liable to stay there, out of the weather. The original location was above a fresco imitation of hanging curtains (there is more of this in the church). (Pope Adrian.)
+* ''Christ in Majesty, ''with a suppliant. (11th century.)
+* Two saints (11th century). They were painted over two grave ''loculi ''cut into the wall.
+* Monastery passage. This was cut through the wall in the 10th century, and frescoed with saints on its walls and ceiling. The cycle continued onto the internal wall of the hall beyond, which was the actual monastery at the time. (10th century.)
+* A bishop. (Pope Adrian.)
+* The far left hand apsidal niche was a shrine to St Cyrus of Alexandria. He was a martyred doctor of medicine, venerated with his fellow sufferer John as SS [https://en.wikipedia.org/wiki/Cyrus_and_John Cyrus and John] (see their Roman church of [[Santa Passera]]). Beware of his being called "St Abbacyrus" -"Abba" is a Coptic honorific. In the fresco he holds medical equipment, and has a cavity in the niche sill which was either for a lamp or contained a venerated relic associated with him. (Pope Paul.)
+* Above the shrine: ''Christ Accompanied by SS Cyrus and John ''(10th century.)
+* A depiction of St [https://en.wikipedia.org/wiki/Anthony_the_Great Anthony of Egypt], with a Latin text: "Where St Anthony is assaulted by demons" (Webb 2001). Animals and birds were depicted below. (10th century.)
+* A near left apsidal niche, actually blocking an ancient cellar doorway, was a shrine to St Anthony and had scenes from his life. (10th century.)
+* A large ''Madonna and Child, ''with a suppliant couple. The woman has a square halo. (Pope John.)
+* In the niche to the left of the portal: Three male saints (matching the female ones on the other side of the portal at the start of this list). (Pope Adrian.)
+
+==Interior==
+
+=== Fabric ===
+The present state of the church gives a very tatty but fairly accurate impression of its original appearance.
+
+On entering, you find yourself in the ''endonarthex ''or entrance lobby, which has a modern concrete barrel vault. A pair of wide brick arches lead from this into the side aisles -these are old, having been inserted by Pope [https://en.wikipedia.org/wiki/Pope_Adrian_I Adrian I] (772-795). 
+
+In front, the central nave is bounded by four L-shaped piers, which provide its corners and support the gabled roof. The aisles are separated from it by three arches on each side, each arcade having shallow original brick archivolts supported by a pair of Corinthian columns scavenged from some ancient building and bounded by a pair of brick pilasters. The columns stand on cubical box-piers. The 1910 roof is open, in timber, but the aisles have concrete tunnel vaults.
+
+The central nave is entirely occupied between the piers by the foundations of the ''schola cantorum, ''which is not well preserved. In the middle is the octagonal outline of the decorative pool that pre-existed the church -this used to be mistaken for the base of an ambo or pulpit installed by Pope John.
+
+The far end of the church mimics the entrance ''endonarthex as'' what amounts to a transept, in that the central nave is prolonged by a single-bay sanctuary having a barrel vault with a pair of original arched portals leading into the ends of the side aisles. The archaeologists called this part of the church a [https://en.wikipedia.org/wiki/Bema bema], although this is a misnomer in the Eastern Church tradition.
+
+The transept sanctuary bay or ''bema'' leads into the sanctuary proper, which has an apse. It has a pair of side doors leading into the chapels at the ends of the side aisles, the ''Chapel of Theodulus ''(actually the Chapel of SS [https://en.wikipedia.org/wiki/Quriaqos_and_Julietta Quiricus and Julitta]) to the left, and the ''Chapel of the Medical Saints ''(thought to have been a healing shrine) to the right. The top end of the right hand aisle, amounting to the right hand end of the transept, has a doorway to the former sacristy to the right.
+
+The left hand aisle has a brick altar, with a marble-lined relic chamber. Beyond this is a slab from Pope John's ambo or pulpit, with his dedication inscription in Greek and Latin around the edge: "John, the slave of Holy Mary". This slab is out of place; it was thought that the ambo was in the centre of the nave where the pool was, but this is mistaken.
+
+The church's flooring was in ''opus sectile, ''meaning that it was in polychrome marble inlaid in geometric patterns. Much of it survives, especially in the sanctuary and ''bema,'' but a suspicion has been flagged up that the 1910 restorers were too creative in their restoration -old photos seem to bear this out.
+
+=== Tombs ===
+The right hand side aisle wall had several ''loculi ''or tomb-slots. In addition, someone privileged was buried under the floor of the Chapel of Theodulus (himself?) and others occupied four re-used carved marble sarcophagi buried under the floor of the left hand aisle.
+
+Three of the sarcophagi have pagan motifs, and especially attractive is one which has a portrait of the deceased in a tondo supported by two flying Victories with billowing drapery. One bath-tub shaped sarcophagus is Christian, however, and is 4th century. It's in the near end of the left hand aisle. This so-called Jonah [http://en.wikipedia.org/wiki/Sarcophagus sarcophagus] has eight figurative depictions in high relief on its front (left to right):
+* A ship with two sailors.
+* The prophet [https://en.wikipedia.org/wiki/Jonah Jonah] having been vomited onto dry land by the sea-monster (a symbol of resurrection).
+* (Above) Three sheep on the roof of a booth.
+* A woman ''[https://en.wikipedia.org/wiki/Orans orans].''
+* A seated man with a scroll.
+* Christ the Good Shepherd.
+* The Baptism of Christ.
+* Two fishermen with a net (SS Peter and Andrew?).
+
+=== Frescoes ===
+
+==== Overview ====
+The description of the [[fresco]]es in the interior depends on the list given by Webb 2001 (see bibliography).
+
+The surviving frescoes are the result of several different projects, and the newer ones were often painted on top of the older, creating several [https://en.wikipedia.org/wiki/Palimpsest palimpsests] which document the changing styles in early medieval Roman art. The whole interior was one entirely frescoed, and must have been spectacular when intact.
+
+There is a heavy influence from the [https://en.wikipedia.org/wiki/Byzantine_art Byzantine] style, not only in the artwork but also allegedly in the materials themselves that were used: "Many of the painted plasters are characterised by a high binder (lime) ratio and by the presence of vegetable fibres (wheat straw or husk) in the mix. This particular composition, rather unusual for Rome, confirms the Byzantine tradition or even the Eastern provenance of several workshops involved in the decoration of the church" [http://151.12.58.41/?q=en/node/133 (Soprintendenza Speciale per i Beni Archeologici di Roma)]. This is one of the reasons that ''Santa Maria Antiqua'' fascinates scholars, but care should be taken with the argument. What was unusual for Rome need not automatically have been an Eastern method.
+
+Several of the walls have dado frescoes depicting hanging curtains. These are called ''vela ''(singular ''velum'')'', ''and are common in early Roman Christian fresco survivals. The real curtains would have been prestige items, functioning to insulate cold walls in winter and also to alter the acoustics of church interiors.
+
+The description below goes anticlockwise to the right of the entrance, and then deals with the frescoes on the piers and the ''schola.'' 
+
+==== Right hand aisle ====
+The right hand aisle wall frescoes are poorly preserved, but seem to have depicted a series of New Testament events. They were commissioned by Pope Paul I (757-67). Visible are (from the bottom of the aisle to the top):
+* In an apsidal niche are the Three Holy Mothers: St Anne with Our Lady, Our Lady with the Christ-Child and St Elizabeth with St John the Baptist.
+* Three faces at a rectangular window, apparently surrounded by flames (this detail is speculative).
+* The lower part of a set of three figures.
+* Three men holding circular objects, tentatively identified as the Magi.
+* The ''Nativity. ''This follows the Byzantine canon, and depicts Our Lady lying down with a swaddled baby and St Joseph standing to the left.
+* A saint.
+Before the recent restoration, a detached fresco from the right hand side of the atrium was being kept here. It depicts a ''Madonna and Child with Four Saints, ''being venerated by Pope Adrian.
+
+==== Chapel of Medical Saints ====
+The chapel at the end of the right hand aisle was frescoed under Pope John VII (705-7), and seems to have been a healing shrine. The walls are frescoed with a series of saints, there being originally seven (one lost) on the entrance wall, six on the right hand wall, five on the back wall and one surviving on the left hand wall. The descriptions are left to right.
+* Entrance wall: St John (of SS [https://en.wikipedia.org/wiki/Cyrus_and_John Cyrus and John], medical saints);  St [https://en.wikipedia.org/wiki/Celsus_and_Marcionilla Celsus of Antioch]; St Cyrus; destroyed; unidentified; SS [https://en.wikipedia.org/wiki/Saints_Cosmas_and_Damian Cosmas and Damian] (also medical saints).
+* Right hand wall: Unidentified (St Jonas?); St Barachisius (see SS [http://magnificat.ca/cal/en/saints/saints_jonas_and_barachisius.html Jonas and Barachisius]); St [https://en.wikipedia.org/wiki/Dometius_of_Persia Dometius]; unidentified; St [https://en.wikipedia.org/wiki/Saint_Pantaleon Pantaleon] (another medical saint).
+* Back wall: St Cosmas (again), St Cyrus (again), St [https://en.wikipedia.org/wiki/Saint_Stephen Stephen the Protomartyr]; St [https://en.wikipedia.org/wiki/Procopius_of_Scythopolis Procopius]; St Damian (again).
+* Left hand wall: Only an unidentified woman saint has survived.
+
+==== Bema ====
+The archaeologists have called the transept crossing the ''bema. ''It had three lowish screen walls dividing it from the top ends of the side aisles and from the central nave, and these served to define the sanctuary area. These walls are rather ruined now, but fresco work of the reign of Pope John survives in two places:
+* Right hand wall, inner side. There are two scenes, separated by panels with geometric motifs. The far scene is of ''David Triumphant Over Goliath ''(1 Sam 17:49), and Goliath is named. The near scene shows ''The Illness of King Hezekiah ''(Is 38:1ff), with the prophet Isaiah telling him ''Dispone domui tuae, quia morieris ''("Provide for your household, for you are going to die").
+* Front wall, nave side. [https://en.wikipedia.org/wiki/Judith_beheading_Holofernes Judith and Holofernes]''.''
+==== Sanctuary side walls ====
+The archaeologists call the central back chamber the sanctuary, although liturgically the church's sanctuary area included the ''bema. ''
+
+The restorers found evidence that the walls were originally panelled in decorative polychrome stone ''[https://en.wikipedia.org/wiki/Opus_sectile opus sectile] ''revetting displaying geometric patterns, which was removed for the frescoes. They also thought that this was itself a replacement of the original revetting put up when the edifice was built in the 1st century.
+
+The side walls of the chamber have Pope John frescoes in four registers, with traces of a purely decorative fifth one above them. The first is a dado depicting ''vela ''or curtains, which runs round the entire chamber. The second comprised portraits of the twelve apostles (including St Paul instead of St Matthias) in circular tondi -three have been lost. St Paul is known to be the first on the left, as his iconography is very distinctive. St John the Evangelist is a young man third on the left, with possibly St Andrew between them. St Peter is the last on the right, with his curly hair. Identification of the others is uncertain -St Bartholomew might be the furthest on the left, and St Philip and St Thomas the third and fourth on the right.
+
+The third and fourth registers depicted Gospel scenes, several of which are lost and others almost so. In chronological order:
+* Left wall, upper: ''The Nativity ''(almost gone), ''The Adoration of the Magi.''
+* Right wall, upper: ''The Presentation, The Flight into Egypt.''
+* Left wall, lower: ''The Last Supper, The Betrayal in Gethsemane, The Carrying of the Cross.''
+* Right wall, lower: ''Peter and John at the Tomb, Doubting Thomas, Appearance of the Risen Christ at the Sea of Galilee, Appearance of the Risen Christ to the Apostle, The Road to Emmaus.''
+To the left of the doorway in the right hand wall is a survival of an earlier fresco cycle commissioned by Pope St Martin I (649-53). It shows St [https://en.wikipedia.org/wiki/Saint_Anne Anne] holding Our Lady as a little girl, with a title in Greek.
+
+==== Sanctuary apse ====
+The apse contains a fresco commissioned by Pope Paul I (757-67), depicting ''Christ in Majesty. ''He is depicted enthroned, and being venerated by the pope with a square halo (hence alive when this was painted). Christ is accompanied by two very odd animals called ''[https://en.wikipedia.org/wiki/Tetramorph tetramorphs], ''each of which combines the symbols of the four Gospels: lion, ox, man, eagle.
+
+==== Sanctuary back wall ====
+The back wall of the sanctuary, around the apse, has a very impressive but badly preserved fresco cycle commissioned by Pope John and in four registers above the dado which here imitated marble revetting''. ''The left hand side, flanking the apse, has been almost completely destroyed but is presumed to have matched the right hand side.
+* Above the dado'' ''was an epigraph in Greek, written in white on red. Too much has gone for a guess to what it said.
+* The second register depicted eight [https://en.wikipedia.org/wiki/Doctor_of_the_Church Doctors of the Church]. Of the four on the right one has been lost, but the survivors are (left to right): St [https://en.wikipedia.org/wiki/Augustine_of_Hippo Augustine], St [https://en.wikipedia.org/wiki/Basil_of_Caesarea Basil], St [https://en.wikipedia.org/wiki/Gregory_of_Nazianzus Gregory Nazianzen]. The lost second one might have been St [https://en.wikipedia.org/wiki/Ambrose Ambrose] (who historically pairs up with St Augustine). This register contains the famous ''Three-Layer Palimpsest. ''The first layer depicts ''Our Lady the Queen, ''and is the oldest fresco in the church -mid 6th century. It actually pre-dates the church, as the apse cuts through it. Over this was painted an ''Annunciation, ''late 6th century, and finally the Doctors just mentioned. See below.
+* The third register depicted four popes. The two on the right are: John VII (with a square halo) and [https://en.wikipedia.org/wiki/Pope_Leo_I Leo the Great]; to the right, unknown ([https://en.wikipedia.org/wiki/Pope_Gregory_I Gregory the Great] is a good guess) and Martin I. 
+* ''Adoration of the Crucified. ''Above the apse is a monumental fresco, the left half now destroyed but fairly intact when it was discovered in 1702. Christ crucified is in the centre, and above him are the choirs of angels. A Greek epigraph is to the right of the cross, quoting Old Testament prophecies concerning the Messiah. The nations on earth are represented at the bottom.
+
+==== The Palimpsest ====
+The palimpsest fresco to the right of the apse is the most important and famous work of art in the church. To view it, binoculars are useful. There are three discernible figurative layers, in order of age (the restorers found trace evidence of a fourth fresco scheme, which is undateable):
+* ''Our Lady, Queen. ''This was painted very shortly after 554, when the Empire returned to Rome, and displays an accomplished late Classical style (compare the apse mosaic at [[Santa Pudenziana]]). Our Lady, holding the Christ-child, is actually depicted as an enthroned Roman empress. She is dressed in purple, with a stole encrusted with enormous pearls and gems and with a matching crown. The throne is also thus encrusted, with a scarlet cushion. She is attended by two women in white robes fringed in gold; the one on the left is destroyed, and the right hand one is offering something in a bowl. Compare this fresco with the mosaic depiction of Empress [https://en.wikipedia.org/wiki/Theodora_(6th_century) Theodora] at  [https://en.wikipedia.org/wiki/Basilica_of_San_Vitale San Vitale, Ravenna] and with a similar fresco in the underground basilica of [[San Clemente]].
+* ''Annunciation. ''It is thought that this was painted after the church was fitted out. You can see much of the angel above the attendant just mentioned, and the lucky survival of a fragment of Our Lady's face floats to the top right of the Queen's halo.
+* ''St Gregory Nazianzen. ''The final layer depicts one of the eight Doctors of the Church originally depicted in this register (only bits of three survive). They are on a blue background, and the mid-8th century style is now Byzantine. St Gregory's face is just to the right of the Queen's, and he has a Greek label "St Gregory the Theologian" which is is name in the East. (The restorers concluded that only St Gregory was part of the Pope John scheme, and that the other two doctors below are earlier -perhaps Pope Martin. If so, then the fresco seems to have been overpainted with the same theme.)
+For a visual online display of the palimpsest, see [http://archeoroma.beniculturali.it/santa-maria-antiqua/sites/default/files/stratigrafia_en_0.swf here].
+
+==== Chapel of Theodotus ====
+At the end of the left aisle is the Chapel of Theodotus, actually a shrine to the martyrs SS [http://en.wikipedia.org/wiki/Quiricus_and_Julietta Quricus and Julitta]. The restorers are justly proud of what has been accomplished here, although a lot of the fresco work has vanished. 
+
+The sponsor was a nobleman called Theodotus, the ambassador to the court of the [https://en.wikipedia.org/wiki/Franks Franks] of Pope [https://en.wikipedia.org/wiki/Pope_Zachary Zacharias] (741-752). 
+
+This rectangular room has two entrances, the main one from the end of the aisle being embellished with a pair of rather crude fresco date palms on its jambs. The right hand wall has a near side entrance from the ''bema, ''and the archaeologists have pecked at the fabric to demonstrate that the doorway was narrowed before the fresco cycle was painted. In the same wall at the far end is a rectangular niche -this might have been just a broom-cupboard or something similar. 
+
+The original decoration was decorative polychrome stone ''opus sextile ''revetting in geometric patterns, and the backing tiles for this are visible. The date is thought to be 2nd century, a little later than the actual construction of the chamber. When the fresco cycle was commissioned, the lower registers of this revetting was removed to make room but the upper ones were left. When the church was abandoned, the rest of the revetting was carefully scavenged -this is evidence against the old idea that the church was buried in rubble during the 847 earthquake. 
+
+The walls have a ''velum ''dado which runs round the interior. The side walls have one register, above which was originally revetting, but the back wall has two. 
+* To the left of the main entrance is a dedication fresco, showing Theodotus kneeling before SS Quiricus and Julitta. 
+* The left hand side wall and the far end of the right hand side wall have eight scenes from the legend of the martyrdom of SS Quiricus and Julitta.  
+* The near end of the right hand side wall show the Madonna and Child being venerated by a family which is presumed to be that of Theodotus. The top of the fresco is lost, but the two children have square haloes which indicate that they were alive when painted. 
+* To the right of the main entrance are four unknown saints, three women and a man. The epigraph reads ''Quorum nomina Deus scit ''("God knows their names"), so the fresco artist painted genuine unknowns. It is unclear as to why, but this might be evidence that the Church in Rome was already looking in the [[Catacombs of Rome|catacombs]] for forgotten martyrs. 
+* The lower register of the back wall spent a long time detached and stored elsewhere, but is back in place. It shows Our Lady as an Empress being venerated by SS Peter and Paul, Quiricus and Julitta, Pope Zacharias and Theodotus. The last-named is holding a model of the chapel to indicate that he was the founder. The figure of the pope was overpainted on that of his predecessor, so the dating of the fresco cycle is fairly accurate at 741. (A modern mosaic version of this fresco is at [[Santa Maria Liberatrice a Monte Testaccio]].) 
+* In the niche above in the far wall is a ''Crucifixion'' scene. Christ is dressed in a blue garment with Roman bands of rank. He is flanked by Our Lady and St [http://en.wikipedia.org/wiki/John_the_Evangelist John the Evangelist], and two smaller figures. One is labelled as [http://en.wikipedia.org/wiki/Saint_Longinus Longinus], the Roman soldier who pierced Christ's side, and the other is holding up a sponge soaked in vinegar. The sides of the niche have a pair of palm trees, echoing the entrance. 
+The end wall of the left hand side aisle had a fresco on the right hand side of the chapel doorway, depicting ''The Three Young Men in the Furnace ''(Dan 3:19-27). For some reason the archaeologists detached this and put it in the right hand aisle.
+
+==== Left hand side aisle ====
+The left hand aisle contains a enormous, very impressive fresco commissioned by Pope Paul I (757-67). It has three registers, above the usual ''velum ''dado:
+* At the very far end of the aisle wall, near the chapel, is a pair of naked figures standing in water -or on ice, if this is a fragment of a depiction of the [https://en.wikipedia.org/wiki/Forty_Martyrs_of_Sebaste Forty Martyrs of Sebaste] (see [[Oratorio dei Quaranta Martiri]]).
+
+* The first register is a long line of saints, with Christ enthroned in the middle of the line. The saints to his left (far end of the aisle) are Eastern, and those to his right (near end) are Western. Usefully, they have labels. Beginning at the far end outside the Chapel of Theodotus, we have: SS [https://en.wikipedia.org/wiki/Erasmus_of_Formia Erasmus of Antioch], [https://en.wikipedia.org/wiki/Saint_Nicholas Nicholas], [https://en.wikipedia.org/wiki/Athanasius_of_Alexandria Athanasius], [https://en.wikipedia.org/wiki/Epiphanius_of_Salamis Epiphanius], [https://en.wikipedia.org/wiki/Cyril_of_Alexandria Cyril of Alexandria], [https://en.wikipedia.org/wiki/Pope_Peter_I_of_Alexandria Peter of Alexandria], [https://en.wikipedia.org/wiki/Basil_of_Caesarea Basil], [https://en.wikipedia.org/wiki/Gregory_of_Nazianzus Gregory Nazianzen] and [https://en.wikipedia.org/wiki/John_Chrysostom John Chrysostom]. Then comes Christ, followed by Pope St [https://en.wikipedia.org/wiki/Pope_Clement_I Clement], Pope St [https://en.wikipedia.org/wiki/Pope_Sylvester_I Sylvester], Pope St [https://en.wikipedia.org/wiki/Pope_Leo_I Leo], Pope St [https://en.wikipedia.org/wiki/Pope_Alexander_I Alexander], St [https://en.wikipedia.org/wiki/Saint_Valentine Valentine], St [https://en.wikipedia.org/wiki/Abundius Abundius], St [https://en.wikipedia.org/wiki/Euthymius_the_Great Euthymius], (label lost -St [https://en.wikipedia.org/wiki/Lawrence_of_Rome Lawrence]?), St [https://en.wikipedia.org/wiki/Sergius_and_Bacchus Sergius], Pope St [https://en.wikipedia.org/wiki/Pope_Gregory_I Gregory] and St [https://en.wikipedia.org/wiki/Sergius_and_Bacchus Bacchus](?). SS Sergius and Bacchus had a church in the Forum -[[Santi Sergio e Bacco al Foro Romano]].
+* The second and third registers comprise a series of panels depicting Old Testament scenes. The chronological order is from the bottom of the aisle to the top, with the upper (fragmentary) register first: ''Cain Kills Abel ''(Gn 4:8), ''The Animals Enter the Ark ''(Gn 7:9), ''The Flood ''(Gn 7:17-20), ''Noah Sacrifices to God ''(Gn 8:20). Then comes the lower register: ''Sacrifice of Isaac ''(Gn 22:10), ''Jacob's Ladder ''(Gn 32:24-30), ''Jacob Wrestles with the Angel ''(Gn 32:24-30), ''Joseph Recounting His Dream to His Father and Brothers ''(Gn 37:10), ''Joseph Sold to the Midianite Traders ''(Gn 37:28), ''Joseph Bought by Potiphar and Tempted by his Wife ''(Gn 39:1-7), ''Joseph in Prison ''(Gn 39:20), ''Feast of Pharaoh ''(Gn 40:20-21).
+* At the near end of the aisle wall is a blocked ancient doorway that led to the void underneath the palace ramp. This has two Pope John frescoes: Left side, the Madonna and Child with SS Peter and Paul and a suppliant (most likely the person who commissioned the fresco). Right side: ''The Harrowing of Hell.''
+
+==== Piers ====
+The four L-shaped piers that form the corners of the central nave have Pope John frescoes:
+* Bottom right. This pier has an interesting little shrine comprising an apsidal niche with busts of the Madonna and Child. Below is ''Daniel in the Lions' Den, ''and to the left is a bishop (?) venerating Our Lady.
+* Top right (right of the sanctuary). ''Christ in Majesty. ''Below are the [https://en.wikipedia.org/wiki/Woman_with_seven_sons Maccabean Martyrs], and to the right St [https://en.wikipedia.org/wiki/Saint_Barbara Barbara]. These works are of the reign of Pope Martin I (649-53). Further to the right are five saints, a Pope John fresco.
+* Top left (left of the sanctuary). A fragment of the ''Madonna and Child. ''On the far side, Christ with four saints, on the right hand face St [https://en.wikipedia.org/wiki/Demetrius_of_Thessaloniki Demetrius]. These are of Pope Martin again, but the pier also had a Pope John fresco of the Annunciation. The archaeologists detached this -it used to be hung on the bottom left hand pier which has lost its frescoes.
+
+==== Columns ====
+The columns used to have full-length figures of saints. Two survive.
+
+==Note on Temple of Castor and Pollux==
+A famous landmark set of three isolated columns, supporting a fragment of entablature, are just to the north of the church and have featured in depictions of the Forum since mediaeval times. They are one of the rather short list of Forum ruins which have always been (at least in part) above ground level.
+
+They are part of the [http://en.wikipedia.org/wiki/Temple_of_Castor_and_Pollux Temple of Castor and Pollux].
+
+The interesting thing about them is that the rest of the temple was demolished to its foundations, so how did this threesome survive? One possibility is that the earthquake in 847 caused a lateral seismic wave which pulled down all the columns on one side, dragging the roof off instead of collapsing it and hence leaving the three columns intact on the other side. However, a recent alternative theory is that they were part of another church in early medieval times, and hence were preserved from ruination. Documentation seems lacking.
+
+== Access ==
+The church is part of the ''Foro Romano e Palatino ''archaeological site, which requires a ticket purchase for access. 
+
+The recent restoration project has now been completed. In the summer of 2016, the church was open as part of an exhibition called ''Santa Maria Antiqua. Tra Roma e Bisanzio. ''This required no surcharge on the overall ticket. Also, the ''Oratorio dei Quaranti Martiri ''and the ''Rampa imperiale ''were open -although the latter gave no access to the Palatine (it lead to a viewing platform, then you had to come back down again). 
+
+Unfortunately, free access to the church did not continue after the closure of the exhibition in September 2016. This was owing to concerns about the fragility of the frescoes, so now (June 2018) visiting is by guided tour only. See the "Co-op Culture" website [https://www.coopculture.it/heritage.cfm?id=4 here].
+
+Please note that the little building with the pitched and gabled roof which features in photos is protecting the [[Oratorio dei Quaranta Martiri]], which was a separate little church just to the north of ''Santa Maria Antiqua''. To get to the latter, you pass to the right of this building and go through an archway in a ruined wall (this usually has a barrier to prevent free access). The frescoed walls are under the modern roof straight ahead. 
+
+== Liturgy ==
+A Mass was celebrated here on the 31 October 2016, and is claimed to have been the first one here since 847.
+
+Don't hold your breath for the second one.
+
+== Bibliography ==
+For a comprehensive bibliography see [http://archeoroma.beniculturali.it/santa-maria-antiqua/?q=node/9 here].
+
+The basic scholarly apparatus for the frescoes has been:
+
+Gordon Rushforth: ''The Church of S. Maria Antiqua, ''MacMillan 1902.
+
+Joseph Wilpert: ''Sancta Maria Antiqua, ''1910.
+
+Wladimir de Grüneisen: ''Sainte-Marie-Antique, le caractère et le style des peintures du VIe au XIIIe siècle.'' Bretschneider, 1911.
+
+Guglielmo Matthiae: ''Pittura romana del medioevo, ''1965.
+
+Per Jonas Nordhagen: <em>The Frescoes of John VII (D.C. 705-707) in S. Maria Antiqua in Rome, </em>1968.
+
+A revisionist speculation on the flooring:
+
+Nicola Severino: ''Il pavimento musivo della Basilica di Santa Maria Antiqua. Un nuovo contributo per la sua datazione e attribuzione. ''Bollettino Telematico dell'Arte, 2013 (an online copy is [http://www.bta.it/txt/a0/06/bta00669.html here]).
+
+The best introduction to the post-imperial history of the Forum is:
+
+David Watkin: ''The Roman Forum, ''Profile 2009.
+
+A good introduction to the church, with a plan and a detailed list of the frescoes, is:
+
+Matilda Webb: ''The Churches and Catacombs of Early Christian Rome, ''Sussex 2001.
+
+==External links==
+(Copyright enforcement seems to be restricting the online display of images, and some galleries have been removed.)
+
+[http://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Antiqua Italian Wikipedia article]
+
+[http://archeoroma.beniculturali.it/santa-maria-antiqua/?q=en Church's website]
+
+[http://www.romeartlover.it/Vasi54.htm "Romeartlover" web-page]
+
+[http://www.italianways.com/santa-maria-antiqua-a-pearl-of-art-rediscovered-in-rome/ "Italian Ways" web-page]
+
+[https://www.avvenire.it/chiesa/pagine/a-santa-maria-antiqua-messa-dopo-1-169-anni Article on the 2016 Mass]
+
+[https://www.youtube.com/watch?v=DGFcytPWKSs Short Youtube video]
+
+[https://www.youtube.com/watch?v=LkdOwt8WiYA Treccanichanel Youtube video] (has taster of virtual reality reconstruction.)
+
+[https://www.youtube.com/watch?v=QZYrb5DQS3g Youtube video of Chapel of Theodosius] 
+
+[https://www.youtube.com/watch?v=OQSN07wKmv4 Ugaccio Youtube video][[Category:Catholic churches|Maria Antiqua]]
+[[Category:Dedications to the Blessed Virgin Mary|Maria Antiqua]]
+[[Category:6th century]]
+[[Category:Ruined churches]]
+[[Category:Forums and Palatine]]

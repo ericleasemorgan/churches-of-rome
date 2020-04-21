@@ -1,0 +1,83 @@
+{{Infobox church|
+
+image=  |
+
+caption= |
+
+englishname= Basilica of the Gordiani|
+
+dedication= Unknown|
+
+denomination= [[Roman Catholic]]|
+
+type= Ruined|
+
+clergy=  |
+
+titular= |
+
+national= |
+
+built= 4th century|
+
+consecrated= |
+
+architect= |
+
+artists= |
+
+address= Villa Gordiani, Via Prenestina|
+
+phone= |
+
+fax = |
+
+e-mail= |
+
+url= }}
+'''Basilica dei Gordiani '''is a ruined 4th century palaeochristian basilica in the archaeological park of [[wikipedia:Villa_Gordiani|''Villa Gordiani'']], at the ancient third milestone on the Via Prenestina. It is located in the south-east corner of the section of the park north of that road. Pictures on Wikimedia Commons of the ruins in the park, including the basilica, are [https://commons.wikimedia.org/wiki/Category:Villa_Gordiani_(Rome)?uselang=it here].
+==History==
+
+=== Villa ===
+The basilica is part of a complex archaeological layout, which lacks historical documentation before the Middle Ages.
+
+The Villa of the Gordiani was one of the largest ancient Roman suburban villas, comparable in size to the [https://en.wikipedia.org/wiki/Villa_of_the_Quintilii Villa of the Quintili] on the Appian Way. By tradition the builders were the emperor [https://en.wikipedia.org/wiki/Gordian_I Gordian I] and his two successors of the same name, who reigned from 238 to 244. The surviving fabric is around this date, although there is no firm evidence of the identity of the builders. A much earlier, Republican villa was incorporated into the layout.
+
+The most impressive surviving part of the villa is a bath complex including a large domed octagonal hall which was converted into a fortified tower in the 13th century by building on top of the dome. This was the original ''Tor de' Schiavi, ''named after the family responsible. Most of it has collapsed, but a large shard still stands to a considerable height. The hall contains a central pier which the mediaeval builders inserted to support the added tower.
+
+=== Basilica ===
+The history and identity of this basilica are both unknown, but it is one of the six ''circiform'' basilicas located in the inner suburbs of Rome and is very similar to those known to date to the first half of the 4th century such as [[San Sebastiano fuori le Mura]]. 
+It is located just east of a ruined circular mausoleum (often erroneously referred to as the ''Tor de' Schiavi''), but is not attached to it or aligned with it and so differs from the layout at [[Santi Marcellino e Pietro ad Duas Lauros]]. 
+
+The mausoleum itself is thought to have belonged to an unknown member of the family of the emperor [http://en.wikipedia.org/wiki/Constantine_the_Great Constantine], and the basilica would have been built at a later date. 
+
+The other five ''circiform'' basilicas are over catacombs. Despite searches, this one seems not to be. There is a small catacomb nearby, on the Via Rovigno d'Istria, but there is no positive evidence that this was Christian.
+
+The villa complex was excavated between 1956 and 1960. The basilica was targeted by another excavation in 1983-4, in order to try and determine its character. No evidence that it functioned as a church was found -rather, the interior was occupied by many graves dug into the bedrock and roofed with tiles.
+==Layout==
+''Circiform ''means that the plan of the basilica imitated that of an ancient Roman circus. Hence, it has the shape of an elongated U with a wall across the entrance end which is slightly skew to the axis of symmetry (running away from right to left). There is a line of rectangular internal piers exactly following the external wall, parallel to each side and then round the semi-circular end so as to form two aisles and an ambulatory. The presumed nave has ten of these on each side, while the presumed sanctuary has a total of nine around the curve. The first pair of the latter had a cross-wall joining them.
+
+The five other known examples in Rome of ''circiform ''basilicas are: [[San Sebastiano fuori le Mura|San Sebastiano fuori le Mura,]] [[San Lorenzo fuori le Mura]], [[Santi Marcellino e Pietro ad Duas Lauros]], [[Via Ardeatina, Basilica Anonima della|Basilica Anonima della Via Ardeatina]] and [[Sant'Agnese fuori le Mura -Basilica Constantiniana]].
+
+There are serious issues with the traditional reconstruction of these ''circiform'' basilicas as church buildings with a high roofed nave with lower aisles. 
+
+Firstly, the skew façade on this example is not a result of incompetent surveying, but is replicated at ''Santi Marcellino e Pietro'' and ''San Sebastiano''. An ancient Roman circus such as the [http://en.wikipedia.org/wiki/Circus_Maximus Circus Maximus] had the wall backing the start and finish positions of the racers on a skew to the major axis, so as to give exactly the same distance for a race to those racing around the outside of the curve to those racing inside. Why these basilicas should have this feature is a puzzle. It ensured that everyone processing from the left hand aisle entrance around the apse to the right hand entrance would walk the same distance, but why was this important in a church? 
+
+Secondly, and more tellingly, the nave piers do not face each other. If the central nave were roofed, this would make the roofing very awkward. Hence, it seems that this edifice at least was some sort of covered and arcaded processional way with the central portion open to the sky. It is possible that the inner apse beyond the cross-wall was roofed, and this might have been the actual church.
+
+Alternatively, it might not have been a church at all but simply a funerary enclosure. See the present ''Quadriporticus ''at [https://en.wikipedia.org/wiki/Campo_Verano Campo Verano] for a modern example.
+
+== Remains ==
+The foundations of the basilica are outlined in mown grass in a parkland setting, and are the most accessible and understandable of any of the original ''circiform ''basilicas.
+
+Many of the square piers survive as low plinths, but some have been preserved as high as the arch springers. These show that the structure originally had an internal arcade. The piers have a core of concrete revetted by courses in so-called ''opus mixtum, ''which comprises courses of tufo ashlar blocks alternating with two courses of red brick creating a striped effect. The springers of the arches only survive where they do as amorphous concrete cores.
+==External links==
+[http://www.romeartlover.it/Preneste.html#Tor%20de%27%20Schiavi "Romeartlover" web-page]
+
+[http://www.marcianum.it/marcianum/allegati/750/Archeologia_Cristiana_2%20(architett%20paleo%20e%20biz)%20p.2.pdf Plans of the basilicas (scroll down)]
+
+[http://www.sovraintendenzaroma.it/i_luoghi/roma_antica/aree_archeologiche/villa_dei_gordiani City's web-page]
+[[Category:Catholic churches]]
+[[Category:Outside the walls - North-East]]
+[[Category:Ruined churches]]
+[[Category:4th century]]

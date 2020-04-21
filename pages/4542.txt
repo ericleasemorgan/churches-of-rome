@@ -1,0 +1,67 @@
+{{Infobox church|
+englishname = Oratory of St Caesarius on the Palatine |
+dedication = St Caesarius|
+denomination = [[Roman Catholic]]|
+type = Demolished|
+built = 9th century|
+address = Domus Augustana, Palatine}}
+'''Oratorio di San Cesareo in Palatio''' is a convenient label in referring to part of the ''Domus Augustana, ''the official residence of the Emperor on the [http://en.wikipedia.org/wiki/Palatine_Hill Palatine Hill], in which evidence of Christian liturgical activity was uncovered during archaeological excavation. The remains seem to date to the late 8th or early 9th century, and their interpretation is a matter of continuing scholarly controversy.
+
+The dedication was to St [http://en.wikipedia.org/wiki/Caesarius_of_Africa Caesarius of Terracina].
+==Received tradition, and early sources==
+
+The tradition is that the oratory here was founded in the 5th century, when Emperor [http://en.wikipedia.org/wiki/Valentinian_III Valentinian III] transferred the relics of SS Caesarius and Julian to a chapel attached to his residence on the Palatine. (Julian was a legendary companion of St Caesarius, who has now been deleted from the [http://en.wikipedia.org/wiki/Roman_Martyrology Roman Martyrology].)
+
+However the first documentary reference dates to 603, when Pope Gregory the Great referred to an ''oratorio Sancti Cesarii intra Palatio ''as a place where the official artistic representation of the Emperor [http://en.wikipedia.org/wiki/Phocas Phocas] and his wife was enshrined after its acclamation by the Roman Senate (which fades from history immediately afterwards). Then the ''Liber Pontificalis ''for the year 687, during the election of Pope [http://en.wikipedia.org/wiki/Pope_Sergius_I Sergius I], has ''oraculum beati Caesarii Christi martyris, quod est into suprascriptum palatium.''
+
+==What happened to the palace?==
+The question of the antiquity of the oratory rests on that of the fate of the imperial palace. The argument of Hülsen (1927) is that the two texts quoted above refer to an oratory at the Lateran, and that the Palatine was already abandoned. Augenti (1996) points out that there is no other evidence for any such oratory at the Lateran at the time, and that the word ''palatium ''was not used for the Lateran then.
+
+It is clear from the sources that the imperial palace was used as a residence by the [http://en.wikipedia.org/wiki/Ostrogothic_Kingdom Gothic kings] ruling in Rome, 493-553. However, evidence for its use by any exarch (the local representative of the emperor at Constantinople) after the reconquest of Rome by the Empire is very thin. It amounts to one seal of an exarch named Paul, known to have governed Rome 723-6, which was discovered in excavation. After 553, the exarchs lived in Ravenna and were only to be found in Rome on visits.
+
+The scholarly consensus seems to be that at least the ''Domus Augustana ''remained as a functional public building complex until the end of the 8th century. Its final ruination was probably in [[847]]. There was a massive earthquake in Rome in that year, and the argument is persuasive that this finally destroyed both the Forum and the Palatine as architectural ensembles.
+
+Augenti's thesis is that the Palatine was slowly "Christianized" from the mid 4th century, but a review of his book (see bibliography) points out that the evidence for this on the hill itself is non-existent before the 9th century.
+
+==Byzantine-rite monastery==
+The first mention of the [http://en.wikipedia.org/wiki/Byzantine_Rite Byzantine-rite] monastery, apparently founded by monks exiled from [http://en.wikipedia.org/wiki/Constantinople Constantinople] by [http://en.wikipedia.org/wiki/Iconoclasm iconoclasm], occurs in 825 in a work entitled ''Translatio Sancti Marcellini e Petri ''by one Eginard. 
+
+At the time Byzantine-rite clerics were common and influential in Rome, including in the Curia, and there were other monasteries of the rite such as [[San Saba]]. Since the city never abandoned the cash economy, the monks probably made a living by producing high-value items of religious art such as icons in the Byzantine style, and also probably began the looting of the palace for ''spolia''. (Recent excavations in the Forum show that the buildings there were being quarried in this way at the time, and that workshops producing luxury items had been set up in the ruins. See the exhibition at the Crypta Balbina museum displaying the results of the excavations.)
+==The monastery and the Palatine in the Middle Ages==
+In the following century the monks on the hill were joined by [http://en.wikipedia.org/wiki/Order_of_Saint_Benedict Benedictines] at what is now [[San Sebastiano al Palatino]], but was then known as ''Santa Maria in Pallara. ''Otherwise, apart from the monks and their cats the Palatine was apparently uninhabited in the Middle Ages. This contrasted sharply with the bustling neighbourhood that existed in the Forum until the early 16th century, and the reason was the water supply. After the aqueducts were ruined, the only way to obtain fresh water on the hills was to dig very deep wells and monasteries were among the few institutions with the wealth and organisation to manage this.
+
+At the start of the 11th century, a noble family called the Frangipani laid claim to a large part of the hill, and remained in possession for over half a millennium. They notoriously converted the Arch of Titus in the Forum to the gatehouse into their domain. However, they left the monastery alone and this would have been Benedictine as well from about that time. (The Byzantine-rite monasteries in Rome had all closed by the early 11th century.) However, it was still referred to as ''San Cesario Graecorum ''in that century and only took the name of ''San Cesario in Palatio ''in the 12th century (the first reference is from 1116).
+
+The institution survived in some form until at least 1320, when it was listed in the Catalogue of Turin as having one priest (which meant that it had the status of a church, not an oratory), and belonged to an ''Ordo Saccitarum. ''It is not clear whether these were the so-called [http://en.wikipedia.org/wiki/Brothers_of_Penitence Brethren of Penance], a mendicant order.
+==End==
+The church and monastery vanished in the early 15th century; the circumstances are unknown. The locality was thoroughly forgotten, so that in 1600 when the church of [[San Cesareo in Palatio|San Cesareo]] on the Via Appia was granted a cardinalate title, it was renamed ''San Cesario in Palatio ''which is, confusingly, still its official name.
+==Rediscovery==
+The documented remains were excavated by Alfonso Bartoli under the ''Villa Mills'' (the present Palatine Museum) in 1907 during the clearance of the palace ruins. 
+
+He identified part of the ruins as an oratory, and another part as a portion of the monastery. However, this left the problem of whether there was a full-scale church on the site. Based on an old plan by Pirro Ligorio, Hülsen proposed in 1927 that a circular church had been built in the so-called Stadium in the palace, and that the granite columns still scattered over the ground there had belonged to it. This hypothesis is very tenuous, and is rejected by Augenti who casts aspersions on the accuracy of Ligorio's plan (which has a note that the church was dedicated to St Andrew).
+
+It remains probable that the actual church of ''San Cesareo ''was located somewhere else in the palace, and that what was discovered was a minor oratory. Byzantine-rite monasteries even now have a main church, and then several minor churches elsewhere in the complex.
+==What was discovered==
+Bartoli discovered Byzantine-style frescoes, which he ascribed to the end of the 8th century or shortly afterwards. These were in a room off the south-west corner of the so-called ''Peristyle ''to the east of the Museum, which extended under the latter building. This room had been provided with a small apse, on which was painted a seated figure accompanied by standing figures with haloes. There were other standing figures noted, including one in the ''orans ''position.
+
+Bartoli also identified an 8th century ''arcisolium ''or burial niche to the south-west of the above, which he ascribed to the monastery, together with a wall with more fresco fragments.
+==Nuns==
+Oddly, a monastery did exist on the site in the 19th century. The ''Villa Mills ''was occupied from 1856 by a community of [http://en.wikipedia.org/wiki/Order_of_the_Visitation_of_Holy_Mary Visitation] nuns who used to be at [[Santa Maria dell'Umiltà]] until they were ejected by [https://en.wikipedia.org/wiki/Roman_Republic_(19th_century) Roman Republic] in 1849. 
+
+The monastic community remained in residence until 1905, when it was given notice to quit by the government in order to further archaeological activity. It is now resident at [[Madonna di Guadalupe e San Francesco di Sales]] in Collatino.
+
+==Bibliography==
+*[http://it.wikipedia.org/wiki/Mariano_Armellini Mariano Armellini]: ''Le Chiese di Roma dalle loro origini sino al secolo XVI'', Rome 1887, p.187
+*Mariano Armellini: ''Le chiese di Roma dal secolo IV al XIX'', Rome 1891, p.518 ([http://penelope.uchicago.edu/Thayer/I/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/churches/_Texts/Armellini/ARMCHI*/2/Campitelli.html Text online] on the website of Bill Thayer).
+*Andrea Augenti: ''Il Palatino nel Medioevo, Archeologia e Topografia (Secoli V-XIII), ''Rome 1996, p. 50ff.
+*[http://it.wikipedia.org/wiki/Christian_H%C3%BClsen Christian Hülsen]: [http://penelope.uchicago.edu/Thayer/I/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/churches/_Texts/Huelsen/HUECHI*/2/C.html ''Le chiese di Roma nel Medio Evo'', Florence 1927], p. 232
+*Dale Kinney: Review of Augenti's book in "Brynmawr Repository" ([http://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1008&context=hart_pubs Text online]).
+==External links==
+[http://it.wikipedia.org/wiki/Chiesa_di_San_Cesareo_in_Palatio Italian Wikipedia page]
+[[Category:Catholic churches]]
+[[Category:9th century]]
+[[Category:Dedications to St Caesarius]]
+[[Category:Demolished churches]]
+[[Category:Forums and Palatine]]
+[[Category:Convent churches and chapels]]
+[[Category:Oratories]]

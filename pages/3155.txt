@@ -1,0 +1,56 @@
+{{Infobox church|
+name=  |
+image=  |
+caption= |
+englishname=  St Blaise of the Ditch|
+dedication= Blaise|
+denomination= [[Roman Catholic]]|
+type= Deconsecrated and demolished|
+clergy=  |
+titular= |
+national= |
+built= Mediaeval|
+consecrated= |
+architect= |
+artists= |
+address= Piazza del Fico|
+phone= |
+fax = |
+e-mail= |
+url= |
+}}
+'''San Biagio della Fossa''' was a mediaeval (11th century?) confraternity church at the east end of the Piazza del Fico, near [[Santa Maria della Pace]]. This is in the rione [https://it.wikipedia.org/wiki/Ponte_(rione_di_Roma) Ponte].
+
+The dedication was to St [http://en.wikipedia.org/wiki/Saint_Blaise Blaise].
+==History==
+A bull of Pope [https://en.wikipedia.org/wiki/Pope_Urban_III Urban III] of 1186, which listed the churches dependent on the parish church of [[San Lorenzo in Damaso]], probably mentions this one as ''Ecclesia Sancti Blasi Achariorum. ''This is the earliest possible historical reference.
+
+Later on, the church had the name ''de Scorticlariis. ''The name ''de Fossa ''occurs firstly in the 15th century; the word is Latin for ditch or trench. However, alternative contemporary names were ''de Trivio ''and ''alla Pace. ''
+
+There was a restoration in 1541.
+
+In 1569 it was mentioned as still dependent on ''San Lorenzo, ''as it did not have its own font. However, in 1626 it acquired the territory of the suppressed parish of [[San Nicola dei Lorenesi]] and became a full parish for exactly a century. Meanwhile, there was another restoration in [[1658]]. 
+
+In [[1726]] the parish was suppressed and the territory divided between [[Santi Simone e Giuda]] and [[San Tommaso in Parione]], whereupon the church was restored again and handed over to a confraternity of warehousemen (''Confraternita dei Magazzinieri'').
+
+By the time of the Nolli map of 1748 the confraternity in possession was known as the ''Confraternita degli Osti, ''and the Vasi Itinerary reveals that the members were involved in the wine trade, both wholesale and retail.
+
+The church was deconsecrated during the French occupation, and demolished in 1813 because of its poor condition.
+==Location==
+The church was to the west of the south end of the Vicolo degli Osti which preserves the name of the confraternity. The entrance was on this vicolo, and the left hand wall was along the street to the west. 
+
+When the church was demolished the opportunity was taken to widen the street and so extend the piazza, so the street frontage of the modern building now there runs approximately along the major axis of the church.
+==Appearance==
+This was a long church in proportion to its width, and was not very small in floor area. There were two pilasters on each side wall supporting the ceiling and flanking the two side altars, and a truly tiny apse which must have been completely filled by the main altar.
+
+The [[1658]] restoration provided a fresco over the entrance featuring the patron saint, executed by [http://it.wikipedia.org/wiki/Paolo_Guidotti Paolo Guidotti] . He was also responsible for the altarpiece of the right hand side altar, depicting ''St Nicholas Venerating the Madonna and Child, ''while a disciple of his was responsible for the main altarpiece showing ''St Blaise Removing a Bone from the Throat of a Child. ''The left hand side altar had an altarpiece showing ''Our Lady of Sorrows ''which was a copy of a work by [http://en.wikipedia.org/wiki/Annibale_Carracci Annibale Carracci]. 
+==External links==
+[http://it.wikipedia.org/wiki/Chiesa_di_San_Biagio_della_Fossa Italian Wikipedia page]
+
+[http://nolli.uoregon.edu/map/index.html?xurl=68.256&yurl=86.522&surl=2000 Nolli map (look for 592)]
+[[Category:Catholic churches]]
+[[Category:Demolished churches]]
+[[Category:Dedications to St Blaise]]
+[[Category:Rione Ponti]]
+[[Category:Confraternity church or chapel]]
+[[Category:11th century]]

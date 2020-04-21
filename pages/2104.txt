@@ -1,0 +1,39 @@
+#REDIRECT [[Sant'Orsola della Pietà]]
+{{Infobox church|
+name= Sant'Orso|
+image=  |
+caption= |
+englishname= St Ursus |
+dedication= St [[Ursus]]|
+denomination= [[Roman Catholic Church|Roman Catholic]]|
+type= |
+clergy= |
+titular= |
+national= |
+built= |
+consecrated= |
+architect= |
+artists= |
+address= |
+phone= |
+fax = |
+e-mail= |
+url= |
+}}
+
+
+'''Sant'Orso''' was dedicated to St Ursus. It was demolished in [[1886]], when the Corso Vittorio Emanuele II was lengthened.
+
+
+==History==
+
+The church is mentioned in [[Mirabilia]], where it is said to be located in what used to be the secretariat of Nero. This does not make much sense, but excavations have revealed remains of what it thought to the ''schola quindecimvirum sacris faciundis'', the offices of the pagan priesthood responsible for certain games (ludi saeculares).
+
+The church is listed in the Catalogue of Turin (c. 1320) as having 3 black monks (monachos nigros). Most likely, this refers to Benedictines.
+
+In a bull from Pope [[Urban III]] in [[1186]], it is called ''S Urso in Ponto''. In the 15th century, the name was changed to ''Santa Ursula'', probably because St Ursus was not well known, and there was a mix-up of the kind that is common to the period. A catalogue from [[1492]] mentioned it as ''S. Ursi alias Ursulae'', while in [[1555]] it is simply called ''S Ursulae''.
+
+{{DEFAULTSORT:Orso}}
+[[Category:Catholic churches]]
+[[Category:Dedications to St Ursus]]
+[[Category:Demolished churches]]

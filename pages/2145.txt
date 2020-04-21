@@ -1,0 +1,344 @@
+{{Infobox church|
+name= Santo Stefano Rotondo al Celio|
+image=  |
+caption= |
+englishname= St Stephen's Rotunda at the Coelian|
+dedication= St Stephen the Protomartyr (St Stephen of Hungary, unofficial)|
+denomination= [[Roman Catholic Church|Roman Catholic]]|
+type= [[National church]], [[Titular church]]|
+clergy= |
+[[titular]]= Cardinal Wetter|
+national= Hungarian|
+built= 5th century, restored in 1453|
+consecrated= |
+architect= Bernardo Rosselino|
+artists= Il Pomarancio, Antonio Tempesta|
+address=7 Via di Santo Stefano Rotondo
+00184 Roma|
+phone= 06 48 19 333 /
+06 70 49 37 17|
+fax = |
+e-mail= |
+url= |
+}}
+'''Santo Stefano Rotondo al Celio''' is the 5th century [https://en.wikipedia.org/wiki/Hungary Hungarian] national church, which is titular and has the status of a [[minor basilica]]. It is located at Via di Santo Stefano Rotondo 7, on the summit of the [http://en.wikipedia.org/wiki/Caelian_Hill Caelian Hill] in the rione [https://en.wikipedia.org/wiki/Monti_(rione_of_Rome) Monti]. Pictures of the church at Wikimedia Commons are [[commons:Category:Santo_Stefano_Rotondo_(Rome)|here]]. There is an English Wikipedia page [[wikipedia:Santo_Stefano_Rotondo|here]].
+
+The primary dedication is to St [http://en.wikipedia.org/wiki/Saint_Stephen Stephen the Deacon], but there is an apparently informal secondary dedication to St [http://en.wikipedia.org/wiki/Stephen_I_of_Hungary Stephen of Hungary].
+
+==History==
+===Castra Peregrina===
+Back in the days of the imperial city, the Caelian hill was entirely built up. The summit seems to have been occupied by barracks and villas owned by [http://en.wikipedia.org/wiki/Patrician_(ancient_Rome) patricians], while down the slope towards the Colosseum were multi-storey tenements or ''insulae'' occupied by [http://en.wikipedia.org/wiki/Plebs plebs]. The present road network is substantially different from that which pertained back then, with the notable exception of the present Via di Santo Stefano Rotondo and the ''Clivus Scauri''. This line of road probably originated with a Stone Age trackway running along the summit of the hill from the Palatine, in which case it is one of the oldest things in the city and millennia older than the little village of wooden huts called Rome that grew up in the 8th century BC.
+
+The actual site of the church was occupied by the ''Castra Peregrina'', which was the set of barracks housing Roman soldiers detached from provincial legions for special service in the city. They were originally used for supply and postal duties, but by the 2nd century were also a police force. The government found them useful for beating up troublemakers, because they had no worries about revenge being taken on their families. The camp was excavated next to the church in 1902, and also beneath the church from 1969 to 1975. Two 2nd century buildings were uncovered, and very interestingly the one under the church had a ''Mithraeum''. This shrine for the worship of [http://en.wikipedia.org/wiki/Mithraic_mysteries Mithras] had been re-ordered in the 3rd century, and was one of the largest in Rome. It produced some interesting frescoes, including one of the [http://en.wikipedia.org/wiki/Lunar_deity Moon Goddess] (probably a version called ''Sin''), and fragments of a statue of Mithras.
+
+The camp is known to have still functioned in the 4th century, and its clearance for the church would have needed the special authorization of the emperor. This is thought to have been given by [http://en.wikipedia.org/wiki/Valentinian_III Valentinian III] (425-55). The siting of the church over the Mithraeum might have been deliberate, as apparently early Christians had a special hatred for Mithraism and there is evidence that the one at [[Santa Prisca]] was vandalized by them. The same thing may have happened here, as the Mithraeum was certainly still in use at the end of the 4th century and the cult statue seems then to have been smashed in situ.
+
+===Foundation of the church===
+
+The first church was considered to have been consecrated in the time of Pope St [http://en.wikipedia.org/wiki/Pope_Simplicius Simplicius] (468-483) to hold the relics of St Stephen, deacon and protomartyr of the Church. His alleged tomb had been discovered at Kafr Gamala in the Holy Land in 415, where the monastery of [http://en.wikipedia.org/wiki/Beit_Jimal_Monastery Beit Jimal] now is. However, recent [http://en.wikipedia.org/wiki/Dendrochronology dendrochronology] dating on surviving original roof timbers indicates that the trees they came from were felled in 455. Hence the project was probably initiated by Pope St [http://en.wikipedia.org/wiki/Pope_Leo_I Leo the Great] (440-61), who certainly founded another church dedicated to St Stephen -[[Santo Stefano Protomartire a Via Latina, Basilica di|Santo Stefano Protomartire a Via Latina]]. In the foundations were found two coins of the emperor [http://en.wikipedia.org/wiki/Libius_Severus Libius Severus] (461-5), indicating the start of actual construction in the early 460's.
+
+Pope Simplicius also founded a church dedicated to the saint at the pilgrimage complex of [[San Lorenzo fuori le Mura]].
+
+It should be noted that no documentary record has survived of any relics of St Stephen being kept here. Also, it is wholly unknown as to how the three churches dedicated to him in 5th century Rome related to each other.
+
+The documentary evidence for the church's foundation is also non-existent, and we don't know why it had such a strange plan. It was the first circular church in Rome, and so it has been thought that it was modelled on the ''Anastasis'' of the [http://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre Holy Sepulchre] in Jerusalem. This is not as straightforward as first appears. The diameter of ''Santo Stefano'' now is almost exactly the same as that of the ''Anastasis'', but the former used to be a larger and more complex building (see next section). 
+
+The church appears among the ''tituli'' in the synod list of 499 as ''Sancti Stephani in Coelio Monte ''with a priest named Marcellus, and this is the first documentary reference. It has also been thought (without evidence) that it may have been financed by the patrician Valeriani family, whose estates covered large parts of the Caelian Hill. St [http://en.wikipedia.org/wiki/Melania_the_Elder Melania the Elder], a member of this family, was a frequent pilgrim to Jerusalem and died there, so the family had connections to the Holy Land.
+
+===Original layout and form===
+The original plan and architectural form were amazingly complex, and raise many unanswered questions about the building's original function. See an isometric drawing [https://commons.wikimedia.org/wiki/File:SStefanoRotondoVsec.png here], and a plan [https://commons.wikimedia.org/wiki/File:Santo_Stefano_Rotondo_Rome_plan_1.jpg here].
+
+The plan was based on four nested circles, on which was superimposed a Greek cross with wide arms. These arms ran from the second to the outermost circles. Proceeding from the centre outwards, firstly there was the extant circle of twenty-two [http://en.wikipedia.org/wiki/Ionic_order Ionic] columns supporting a [http://en.wikipedia.org/wiki/Post_and_lintel trabeation] (no arcade) and having an [http://en.wikipedia.org/wiki/Ambulatory ambulatory] behind them. This colonnade supported in turn the central drum, of brick and having a low and light conical tiled roof. A dome would have been impossible, as the colonnade would have been too weak to support it. The drum originally had a run of twenty-two arched windows immediately above the roofline of the adjacent ambulatory.
+
+The second circle was occupied by a second colonnade, of thirty-six columns and eight piers, which marked the outer limit of the inner ambulatory and which supported an arcade. This colonnade is now occupied by the outer wall of the church, in which the columns are still embedded. From this circle, the cross-arms ran north-east, north-west, south-east and south-west to the fourth, outer circle which was occupied by the original outer wall. Each of these cross-arms had its own pitched and tiled roof, joined onto the roof of the inner ambulatory mentioned. The columns of the second colonnade which formed the four entrance portals of these cross-arms are taller than the rest, as can still be seen.
+
+The third circle, just within the outer wall, was marked by barrel-vaulted arcades forming outer ambulatories running just within the outer wall in between the cross arms. Another interpretation has these arcades as solid walls. In between these arcades (or walls) and the second colonnade further in were either four open courts, the favoured interpretation, or four unlit roofed chambers. Whatever these were, they were each entered through the second colonnade, or through two triple side-entrances from the flanking cross-arms.
+
+When the building was first conceived, each section of outer wall in between the cross-arms had two entrance doorways, eight in all. Before or just after it was finished, however, six doors were blocked up and only the two flanking the north-east cross arms were left. There was originally no entrance vestibule outside the outer wall.
+
+If the third circle was occupied by solid walls, anybody entering through one of these doors would have been faced with a blank wall. He or she would have had to turn right or left into one of the cross-arms to make an entrance. This would have made the building into a simple [http://en.wikipedia.org/wiki/Labyrinth labyrinth].
+
+The original decoration was rich. The original flooring of the rotunda has been excavated, and was of precious marble slabs ([http://en.wikipedia.org/wiki/Cipollino_marble cipollino] was used) laid in a pattern which included a cross radiating out to the cross-arms. Evidence of the use of [http://en.wikipedia.org/wiki/Opus_sectile opus sectile] and of marble wall revetting was also found.
+
+On the other hand, the recent restoration revealed that the original building standards were rather poor. As a result, the edifice has had a long history of instability and disrepair which affected how it was treated in subsequent centuries.
+
+===Interpretation of original design===
+Romans would have been very familiar with circular [http://en.wikipedia.org/wiki/Mausoleum mausolea] or temples, and later converted several into churches. For example, of the temples the [http://en.wikipedia.org/wiki/Pantheon,_Rome Pantheon] was converted into the church of [[Santa Maria ad Martyres]] at the start of the 7th century. Of the mausolea, [[Santa Costanza]] only became a church in the 13th century although [[Santa Maria Genitrice a Via Appia]] was one by the 9th. However, there was no Roman precedent for ''Santo Stefano'' in its original form, and it is not easy to find one elsewhere. The ''Anastasis ''of the Holy Sepulchre was not then a church, but a mausoleum over the Empty Tomb and only had one colonnade and ambulatory. The [http://en.wikipedia.org/wiki/Church_of_the_Holy_Apostles Church of the Holy Apostles], founded at [http://en.wikipedia.org/wiki/Constantinople Constantinople] by the emperor [http://en.wikipedia.org/wiki/Constantine_the_Great Constantine], was the first one to be shaped like a Greek cross, and was imitated at Milan by [http://en.wikipedia.org/wiki/Ambrose St Ambrose] at the end of the 4th century. The best that architectural historians have been able to do is to suggest that ''Santo Stefano ''was a combination of these two inspirations.
+
+How the building was originally used is an even greater mystery. Historians of Roman [http://en.wikipedia.org/wiki/Liturgy liturgy] have failed to come up with any sensible suggestion as to how it could have functioned as a church, so perhaps it was not originally intended as one but as a large pilgrimage venue for the veneration of relics instead. The suggestion that the building design focused on a shrine of St Stephen in the centre is a reasonable one, but this begs the question as to what the cross arms were for. Were there four other holy relics to be displayed there? Nobody knows.
+
+The blocking of six of the eight original entrance doors indicates that the project aims were reviewed very early on. This alteration destroyed the eightfold symmetry that the first scheme had, and introduced a major axis passing through two cross-arms and flanked by the two surviving doors. Since the church had a priest in 499 it must have had an altar by then, and this may originally have been in the cross-arm opposite the entrances.
+
+===Middle Ages===
+
+According to a now lost epigraph, the church was decorated in a restoration by Pope [http://en.wikipedia.org/wiki/Pope_John_I John I] (523-526) and continued by Pope [http://en.wikipedia.org/wiki/Pope_Felix_IV Felix IV] (526-530). Mosaics and marble work were mentioned, and the ''opus sectile'' fragments discovered in excavations may have come from this restoration. The inscription read:
+
+''Opus quod Basilicae beati martyris Stephani deflui a Johanne ep[iscop]o marmoribus inchoatum iuvante Domino Felix Papa addito musivo splendore storiche plebi Dei perfecit''.
+
+In the mid 7th century [http://en.wikipedia.org/wiki/Pope_Theodore_I Pope Theodore I] (642-9), from Jerusalem and probably a Greek, fitted out the north-eastern cross arm as a shrine-chapel for the martyrs SS [http://en.wikipedia.org/wiki/Primus_and_Felician Primus and Felician]. This is the first recorded example of the relics of martyrs being transferred from their original burial place (in this case, on the Via Nomentana fourteen miles from Rome) to within the city walls. He commissioned a mosaic, which survives, and buried his father here. The latter had been a bishop in the Holy Land.
+
+If there actually was an important relic of St Stephen in the church at the beginning, its early loss was not recorded.
+
+===12th century restoration===
+
+There was a major restoration and re-ordering of the edifice in the 12th century, which was ordered by Pope [http://en.wikipedia.org/wiki/Pope_Innocent_II Innocent II] (1130-1143). It is fairly clear that the motivation was to save the building from collapse. Firstly, an arcade of three transverse arches supported by Corinthian columns were built within the central space to support the roof and walls of the rotunda. Then, fourteen of the original twenty-two windows in the drum were walled up. Most importantly, it is now considered that it was in this restoration that the outer wall and arcades, together with three of the cross-arms, were demolished. The chapel of SS Primus and Felician was left alone. If this interpretation is correct, then the second colonnade was then blocked up to form the outer wall line as it now exists. The original opinion is that the demolition took place in the 16th century restoration, but it seems that the blocking walls were taken apart and rebuilt more firmly then and this is what caused the confusion for historians. The original marble revetting was apparently re-used, and also an altar was erected in the church's centre if it wasn't already there.
+
+The 12th century restoration also provided the present entrance portico, and an adjacent monastery. By this time the Caelian hill would have become rural. The first bird's-eye-views of the city of the 16th century shows the church surrounded only by vineyards, and this seems to be what the hill was used for throughout the Middle Ages. After the collapse of the aqueducts the citizens would have drunk wine in preference to any water they could find, on the understanding that it is better to be drunk than dead.
+
+=== Ruination ===
+The first religious order to have charge of the complex were the [http://en.wikipedia.org/wiki/Canons_Regular_of_the_Lateran Canons of the Lateran], who must have had very little to do there. The famous Renaissance humanist [https://en.wikipedia.org/wiki/Flavio_Biondo Flavio Biondo] wrote about the church while it was under their charge, about 1430, because he was under the delusion that it was a converted pagan temple. He mentioned marble-revetted walls and [http://en.wikipedia.org/wiki/Cosmatesque Cosmatesque] decoration (both all now gone), and added that the church lacked a roof. It seems that the central drum was open to the sky. So, by the middle of the 15th century the church was ruinous.  
+
+===15th century restoration===
+
+A major restoration was ordered by Pope [http://en.wikipedia.org/wiki/Pope_Nicholas_V Nicholas V] in 1453. The work was carried out by [http://en.wikipedia.org/wiki/Bernardo_Rosselino Bernardo Rosselino], who was advised by [http://en.wikipedia.org/wiki/Leon_Battista_Alberti Leon Battista Alberti]. Rosselino has been the one blamed for destroying the outer zone of the church, but this is now thought to have been unfair as explained above. He re-packed the outer wall in between the former arcade in order to try and make it weatherproof (in the event, not permanently). 
+
+What he did do, which was not so forgivable, was ruthlessly to clear out the medieval furnishings including ancient epigraphs. He also removed the surviving marble revetting. The latter probably ended up in some other church or private villa of a well-connected person.
+
+=== Paulines ===
+In the following year, the church and monastery was granted to the [http://en.wikipedia.org/wiki/Pauline_Fathers Order of St Paul the First Hermit], also known as the Pauline Fathers. This monastic congregation was founded in Hungary in 1250, and had as its patron an Egyptian hermit of the early 4th century (see [http://en.wikipedia.org/wiki/Paul_of_Thebes St Paul of Thebes]). They became popular in eastern Europe in the later Middle Ages, although they are not well known in western Europe. At Rome, they were originally at [[San Salvatore in Onda]] before moving here.
+
+From 1541 to 1649, most of [http://en.wikipedia.org/wiki/History_of_Hungary_during_Ottoman_administration Hungary was part of the Ottoman Empire]. This caused the Pauline Order to decline seriously, and by the mid 16th century the monastery was moribund. However, a scheme was mooted then by the Hungarian [http://en.wikipedia.org/wiki/Society_of_Jesus Jesuits] (especially by [http://en.wikipedia.org/wiki/Stephan_Sz%C3%A1nt%C3%B3 Stephan Szántó]) for a seminary to train priests for Hungary, and they were granted the complex in [[1579]]. By then, there was only one Pauline monk left living there. Unfortunately, the new Hungarian College was hopelessly underfunded and lasted only one year before being united with the German College to form the [http://en.wikipedia.org/wiki/Collegium_Germanicum_et_Hungaricum German-Hungarian College] (''Collegium Germanicum et Hungaricum)''. 
+
+The Pauline Order revived especially after the Hapsburg Empire conquered Hungary, and established themselves at the church of [[San Paolo Primo Eremita]]. They are now at [[Santi Urbano e Lorenzo a Prima Porta]].
+
+=== Augustinian friars ===
+A community of reformed Augustinian friars, ancestors of the [https://en.wikipedia.org/wiki/Discalced_Augustinians Discalced Augustinians], was briefly in residence here while the Hungarian seminary project was in hand. They started as a group of reform-minded enthusiasts at the great Augustinian friary at [[Santa Maria del Popolo]], which left and set up an experimental community here before moving to [[San Paolo alla Regola]]. The Jesuits seemed to have done them a favour and had them in as temporary tenants.
+
+=== Jesuits ===
+The Society of Jesus (Jesuits) remained in charge of the consolidated German-Hungarian College. In 1583 a cycle of frescoes were executed on the inner wall, showing the suffering of martyrs in graphic detail. Jesuit seminarians were encouraged to go here to see them, and contemplate the fate that might await them as they went off as missionaries. 
+
+The church did not otherwise have much of a rôle under the College, because the main church was at [[Sant'Apollinare alle Terme]] back then (it is now [[San Pietro Canisio agli Orti Sallustiani]]).
+
+There was a restoration in 1735, which involved overpainting some of the martyr frescoes after the damp had got to them.
+
+=== Hungarians ===
+The status of the church  changed radically in 1778, when the Hungarians lost their national church. This used to be a small basilica called [http://en.wikipedia.org/wiki/Santo_Stefano_degli_Ungheresi Santo Stefano degli Ungheresi] built at the end of the 8th century to the south of St Peter's. The location was the east side of Piazza di Santa Marta in the Vatican, but Pope [http://en.wikipedia.org/wiki/Pope_Pius_VI Pius VI] had it demolished to make way for his enormous new sacristy. 
+
+To compensate the Hungarian expatriates the pope declared ''Santo Stefano ''to be their national church instead, and arranged for a chapel dedicated to St Stephen of Hungary to be added (the church's main altar remained dedicated to St Stephen the Deacon). This was to remain a focus of Hungarian pilgrimages until the late 20th century (and again nowadays).
+
+However, this declaration did not give the Hungarians any rights or obligations as regards the edifice. Rome's other "national churches" presume both, so it has been claimed that ''San Stefano ''is not a "true" national church.
+
+===Modern times===
+
+There was another restoration in 1802 but, yet again, the church fell into disrepair as the 19th century progressed. The blocking of the outer arcade was not damp-proof, the problem being accentuated by the old bricks being slightly porous. (A coat of plaster render on the exterior walls would have helped). The inevitable result of this was that the frescoes peeled off the wall in places, and were hence re-painted here and there.  
+
+The college had no use for the little monastery attached to the church, and passed it on to the Carmelite nuns who had been expelled from [[Santa Teresa alle Quattro Fontane]] in 1880. It is now the Generalate of the ''Suore Missionarie del Sacro Costato. ''These sisters leased the building in 1953. 
+
+The problem with damp became very bad in the mid 20th century, and in [[1958]] a long-term programme of restoration was announced. The opportunity was taken to perform archaeological excavations under the church, and in 1973 a [https://en.wikipedia.org/wiki/Mithraeum Mithraeum] was discovered. The restoration process proved very slow, and took just on half a century with the restoration only declared to be completed in 2009. Till then, the church was usually kept closed to visitors. 
+
+The result has been very good. The floor has been lowered slightly and completely re-laid, the frescoes (hopefully) consolidated and the roofs of the drum and ambulatory renewed. The Hungarian chapel still needs attention (2015), but its floor has been re-laid by Hungarian craftsmen. The mosaic in the chapel of SS Primus and Felician has been consolidated. 
+
+The German-Hungarian College remains in possession of the church, which has no pastoral function. At present, it is part of the ''Centro Storico ''marriage circuit and so visitors may find it being used for weddings at weekends. Also, the number of Hungarian pilgrims has risen since the fall of Communism in Hungary and so the church has hence received welcome attention from Hungarian institutions and high-profile individuals.
+
+It was the intention to open the ''Mithraeum'' to visitors, with an entry charge, but as at 2015 problems have cropped up and it is now closed for the time being.
+
+=== Cardinalate ===
+The title of the church is ''San Stefano in Monte Celio.''
+
+Despite the title being ancient, the list of cardinals begins in the 12th century and is [http://www.gcatholic.org/churches/cardinal/287.htm here].
+
+The current titular of the church is H.E. Cardinal [http://en.wikipedia.org/wiki/Friedrich_Wetter Friedrich Wetter], Archbishop Emeritus of Munich and Freising.
+
+==Exterior==
+===Layout===
+The church is obviously basically round, but there are large annexed structures to the east. From north going clockwise, these are: The monastery, the entrance loggia, the Chapel of SS Primus and Felician and the Hungarian Chapel.
+===Aspect===
+
+The church has no civic profile, as it is hidden away behind trees and a high boundary wall. The small, unadorned rectangular gateway to the drive from the street helpfully has the church's name written over it, but is a nightmare to anyone who has to drive anything but a small car through the gap. As a result, tour buses park up in the Via della Navicella and force their passengers to walk.
+
+If you go east a little way down the Via di Santo Stefano Rotondo from this gateway, you will come to an archway in the wall. The land beyond belongs to the ''Ospedale Britannico'', but if the gate is open you can follow a path to the east of the church. Almost all photos of the exterior of the church are from this spot. (The hospital has an interesting heart-shaped chapel, difficult to view because it is several storeys up. See [[Cuore Materno di Maria]].)
+
+The exterior has had no decorative attention from renovators through the centuries after the 12th century restoration, and hence presents a simple and rather stark aspect. The exterior walling is all in red brick, with no embellishments except a dentillate cornice on the roofline of the drum. The windows of the drum have [http://en.wikipedia.org/wiki/Mullion mullions] forming two little arches and an [http://en.wikipedia.org/wiki/Oculus oculus] on top in each one, and you can see how most of the original row of windows were blocked up in the 12th century. The rows of little holes in the brickwork of the drum are putlog holes, for scaffolding.
+
+The drum itself is 22 metres wide and the same tall. The church is now 42 metres wide, and was 66 metres when first built.
+
+The outer wall of the church shows the colonnaded arcade which used to be here before it was blocked up; the arches of the arcade now contain either little oculi or larger lunettes and these light the church's ambulatory. There are regularly-spaced brick buttresses which mark the locations of the demolished cross arms.
+
+There is a little apse on the west side of the church, and this is the Blessed Sacrament chapel which was built in the 15th century. To the left of the entrance is the Chapel of SS Primus and Felician under its own pitched and hipped roof, and to the left of this is the Hungarian Chapel under a cat-slide roof.
+===Monastery===
+This was built in 1462 for the Paulines. It is an undistinguished building, consisting of two blocks joined at a shallow angle so as roughly to follow the curve of the church. They do not themselves abut on to the church, but an extension joins on to it on the north-east side. Together with the entrance vestibule, this creates a tiny courtyard which has well in it (the entrance to this is via a door immediately on the right inside the vestibule).
+
+Faustino Corsi writing in 1845 listed six ancient columns visible in the courtyard. Two were of grey granite, two of ''[https://en.wikipedia.org/wiki/Pavonazzo_marble pavonazzetto] ''marble and two of [https://en.wikipedia.org/wiki/Parian_marble Parian] marble.
+===Entrance loggia===
+The entrance loggia was provided in the 12th century restoration. It has an arcade of five open archways, separated by four ancient grey granite columns with [http://en.wikipedia.org/wiki/Impost_(architecture) imposts] but no capitals. Above the loggia is a [http://en.wikipedia.org/wiki/Parvise parvise] or large room with four tiny square windows, and this with the loggia is joined to the monastery on the right by a very narrow insert. The far side of this insert supports a bellcote of the 15th century, having two open arches for the bells intruding into a triangular pediment. Apparently the church never had a proper campanile.
+
+The entrance to the vestibule is not central in the loggia, but to the left. There are badly faded fresco panels on the walls to the sides and to the right of the door, in two registers which used to depict events from the life of St Stephen the Protomartyr but are now almost obliterated. The doorcase is in marble with the Keys of St Peter on the lintel, and above is a lunette enclosed by a matching marble archivolt. This contains a 19th century fresco of the ''Pietà.'' 
+
+The door enters into a corner of the vestibule, and you go through the latter to get into the church.
+
+==Interior==
+
+=== Vestibule ===
+[[File:Santo Stefano Rotondo.png|thumb|231x231px]]
+The rather bare vestibule has a whitewashed cross-vault with a fresco depiction of the Keys of St Peter within a wreath in the centre. The far side has a pair of identical rectangular marble portals placed side by side, and over these is an epigraph commemorating the restoration by Pope Nicholas V. Over this in turn is a little statue of St Stephen. The epigraph reads: ''Ecclesiam hanc protomartyris Stephani, diu ante collapsam, Nicolaus V Pon[tifex] Max[imus] ex integro instauravit, MCCCCLIII ''("This church of the protomartyr Stephen, beforehand fallen down for a long time, Nicholas V the pope rebuilt totally 1453").
+
+According to the archaeologists, there is an ancient column immured in the central pier created by the inner sides of the doorcases.
+
+=== Throne of St Gregory ===
+Just round the corner at the far left end of the vestibule, as you enter the main church, is a medieval [http://en.wikipedia.org/wiki/Cathedra cathedra] or episcopal throne formed by cutting down an ancient marble chair. It is basically a stool embellished with lions' paws, now elevated on a plinth with its separate little footstool underneath. By tradition Pope [http://en.wikipedia.org/wiki/Pope_Gregory_I Gregory the Great] gave a homily while sitting on it in this church and the epigraph on the plinth mentions this. It reads: ''In hac S. Stephani in monte Coelio ecclesia beatissimus Papa Gregorius primus homiliam recitavit quartam "In Evangelis", quae incipit verbis "Cum constet omnibus fratres carissimi quia Redemptor noster".'' 
+
+On it is visible what seems to be the maker's signature: ''Mag iohs ''which stands for ''Magister Johannes ''or "Master John". 
+
+It is now thought that this chair was part of the appurtenances of the central altar when it was installed in the 12th century restoration. With it would have been a ''schola cantorum ''or enclosure for the singers and clerics, but the actual layout of this is not known.
+===Layout===
+When you enter, you see a ring of Ionic columns supporting the drum and surrounding the main altar in the centre. Around this ring is an [https://en.wikipedia.org/wiki/Ambulatory ambulatory] which runs round the entire interior. To the left of the entrance is the external Chapel of SS Primus and Felician, flanked by a pair of sacristies, and beyond that is the Hungarian Chapel. Directly opposite the former chapel, inserted into the outer wall, is a little apse containing the former Blessed Sacrament chapel which is lit by a large oculus. To either side against the wall, at ninety degrees, are two other little side altars.
+
+=== Inner colonnade ===
+The inner colonnade originally had twenty-two ancient grey granite Ionic columns supporting a ''trabeation'' (or horizontal entablature), and it is fortunate that the drum never collapsed as a result. Arcading would have been stronger. The columns are not a matching set, having differing widths and heights so that the capitals and bases do not match either (it is thought that these are mediaeval rather than ancient). The entablature is in marble, and is molded. 
+
+The interior of the drum above ends in a flat raftered roof, and contains round-headed windows most of which are blocked. Those that are not have two lights with colonnette and ring mullions. The interior wall of the drum is unadorned, and whitewashed.
+
+In the 12th century, two much larger grey granite Corinthian columns were sourced and brought in to support an arcade of three relieving arches installed across the central space to prevent the drum from collapsing. Erecting these in the church must have been a very challenging engineering exercise. The outer arches are supported on piers also with Corinthian capitals, and to create these two of the original colonnade columns were walled up. They are still there. The central arch is larger with a single relieving round-headed opening in the screen wall above, while the side arches each have two.
+
+It is thought that the columns in the inner colonnade came from government builders's stores rather than being robbed from earlier buildings, but the large pair of grey granite columns in the triple archway were probably [http://en.wikipedia.org/wiki/Spolia spolia].
+
+The drum actually extends downwards below the roof of the ambulatory, giving an interesting architectural effect.
+
+=== Main altar ===
+The central altar was installed in [[1455]] by the Florentine artist [http://en.wikipedia.org/wiki/Bernardo_Rossellino Bernardo Rossellino], responsible for the 15th century restoration. This is on a raised area enclosed by a low octagonal sold stone screen, executed by [http://en.wikipedia.org/wiki/Niccol%C3%B2_Circignani Niccolò Circignani] in 1580. There are two opposite entrances to this, facing the Blessed Sacrament and SS Primus and Felician chapels, and the two middle sides in between these are butted against the arcade columns. The six sides without entrances each have two monochrome fresco panels showing scenes from the life of St Stephen of Hungary, which are labelled in Latin. The corners of the octagon each have two small relief panels depicting saints, and the two entrances are flanked by two more pairs. The entrance sides have reliefs of little dragons in between the saints.
+
+In 2009 the altar enclosure was provided with a celebrant's chair, a piece of modern sacred art in sheets of beaten and embossed bronze (or what looks like that metal).
+
+=== Tabernacle ===
+Older depictions before the 20th century show the altar with a fantastic, tall wooden tabernacle which was installed in 1613. The story behind it is that it was carved by a Prussian baker called Jan Gentner in response to a vow that he made in the church. It was removed from the altar to the vestibule in the 20th century, and after a period of neglect  has been restored and placed on a plinth in the right hand side of the ambulatory.
+
+It is in the form of a Baroque church, but like none existing because it has four storeys like a wedding-cake topped by a dome recalling that of St Peter's. The colour scheme is white and pale blue.
+
+=== Floor ===
+The floor is modern, laid after the archaeological excavations were finished. Much of it was down by 2009, but work was still in progress in 2013. It is an interesting design in its own right, formed by fitting together grey-veined marble tiles in various ways. The ones near the altar are closely fitted, but those in the ambulatory are separated by wide strips of cement with some areas in tiles of various shapes laid in what the English call crazy-paving. 
+
+The last style emulated that of the original floor, which the archaeologists have left exposed in some places. This had fragments of different coloured marbles laid in a semi-random way. Other areas had black and white geometric mosaic flooring.
+
+=== Outer wall ===
+The outer wall has the former outer arcade embedded in it, with most of the mainly Ionic columns being in view. There are thirty-six in total, including one apparently encased in the entrance pier, two free-standing at the entrance of the Chapel of SS Primus and Felician (these are Corinthian) and one free-standing at the entrance of the Hungarian Chapel. These columns support arcades, with banded archivolts now containing round windows (''oculi'') mostly with some lunette windows. Interspersed with the columns are eight piers, which you can tell are original by the way the archivolts spring from them. These mark the corners of the former cross-arms, and correspond with buttresses on the exterior wall. The columns are arranged in runs of five (within the former entrances of the cross arms) and six (in between).
+
+The four arches in the far side opposite the chapel of Primus and Felician, flanking the little apse, are taller and their four ribbed columns are Corinthian.
+
+Strangely, different authors of guidebooks and books on Roman churches have given various totals for the number of ancient columns in this arcade. Corsi somehow counted forty-two. The actual visible total is thirty-five, with one invisible.
+
+According to Corsi, the columns are mostly in grey granite with six being in ''marmo imezio, ''four in ''cipollino ''and six in ''marmo bigio. ''Some of the marble ones are fluted.
+===Martyrdom cycle===
+
+The outer wall all around its circuit is decorated with a fresco cycle of thirty-four large panels dating from [[1572]]-[[1585]], commissioned by Pope [http://en.wikipedia.org/wiki/Gregory_XIII Gregory XIII] and depicting ''The Sufferings of the Martyrs.'' They contain terrifying and realistic depictions of torture and suffering, and each panel has an explanatory epigraph in Latin and Italian. These name the emperors who ordered the executions, as well as giving appropriate quotations from the Bible. 
+
+The cycle begins to the left of the entrance with the Crucifixion, and follows with the [http://en.wikipedia.org/wiki/Massacre_of_the_Innocents Massacre of the Innocents] and the martyrdom of the apostles before continuing in chronological order. The doctrinal point being made in this arrangement is one given by St Paul, which is that the Crucifixion was, in itself, the wholly effective sacrifice for redemption -but that the subsequent suffering of believers for their faith is mysteriously part of it. The squeamish, and families with children, may not appreciate these frescoes. For others, they are a good aid in understanding the sufferings of the martyrs and the great sacrifices they made for the Faith. 
+
+From the 18th century they were also a popular tourist attraction, but the attention from the merely curious and morbid slackened off in the 20th century as tastes changed.
+
+Most of the fresco work is by [http://en.wikipedia.org/wiki/Niccol%C3%B2_Pomarancio Niccolò Pomarancio], but [http://en.wikipedia.org/wiki/Antonio_Tempesta Antonio Tempesta] painted the ''Massacre of the Innocents''. It has been thought that [https://en.wikipedia.org/wiki/Matteino_da_Siena Matteo da Siena] and [https://en.wikipedia.org/wiki/Matthijs_Bril Matthijs Bril] helped out with the landscape backgrounds, and that the panels featuring St [https://en.wikipedia.org/wiki/Polycarp Polycarp] and St [https://en.wikipedia.org/wiki/Margaret_the_Virgin Margaret of Antioch] were repainted by [https://it.wikipedia.org/wiki/Marcello_Leopardi Marcello Leopardi] in the 18th century.
+
+Others of these panels were repainted in the 19th century after damp destroyed the original paintwork. The latest restoration has been a consolidation primarily, so these panels are still mostly wrecked and difficult to work out.
+
+=== Side altars ===
+The three side altars in the main body of the church are now derelict. 
+
+The left hand one was dedicated to the Crucifix, and has an epigraph now propped up on top mentioning this and which also lists also a large number of saints. There is no crucifix here now, only the dark blue fresco backdrop with golden stars.
+
+The right hand side altar has a damaged fresco of ''The Flagellation of Christ.''
+
+The far chapel, in a little apse, apparently used to be the Blessed Sacrament Chapel and was dedicated to Our Lady. The altarpiece has been removed.
+
+=== Memorials ===
+The Jesuits viewed the installation of funerary monuments in their churches with some reserve. So, there are none on the walls of the main church. Armellini writing in 1891 noted a medieval memorial slab in the floor near the altar of the Crucifix belonging to Benedict, a priest of [[Santa Maria in Domnica]], and reading ''Archipr[esbyter] Benedictus Diac[oniae] S[an]c[ta]e Maria[e] Dom[n]ica[e]. ''He was in charge of the ancient ''diaconia ''or centre for charitable activities attached to that church.
+
+Angeli writing in 1900 noted another floor slab of a "bishop called Giovanni Lazo", 1525. He was actually a Hungarian archdeacon called János Lászai (or, in Hungarian, Lászai János -the language puts surnames first) from what is now Lascov in [https://en.wikipedia.org/wiki/Slovakia Slovakia] (then part of Hungary). He died in Rome as an apostolic penitentiary, that is, sacramental confessor under the direct authority of the Pope with responsibility for Hungarian pilgrims, in 1523. His slab was extracted from the floor by the recent restorers, and now lies loose on it on the far side of the altar. It bears his recumbent effigy in shallow relief.
+
+===Chapel of Primus and Felician===
+
+To the left of the entrance is the chapel of SS [http://en.wikipedia.org/wiki/St_Primus Primus and Felician]. This chapel was commissioned by Pope [http://en.wikipedia.org/wiki/Pope_Theodore_I Theodore I] (642-649), who used one of the cross arms of the 5th century edifice. The saints are depicted in a mosaic in the conch of the apse which the pope commissioned, and there are also wall frescoes depicting their martyrdom and burial executed by [http://en.wikipedia.org/wiki/Antonio_Tempesta Antonio Tempesta] in [[1586]]. 
+
+The unreliable legend states that they were brothers from a patrician family, who visited Christians who were being kept for execution in the Roman prisons. They were spotted, arrested and interrogated separately. The judge told Felician that his brother, at the time some eighty years old, had lapsed from the Faith. But they both persevered, and they were thrown to the lions together. At the amphitheatre they were miraculously kept safe when the lions refused to eat them, and were taken to ''Nomentum'' (present-day [http://en.wikipedia.org/wiki/Mentana Mentana]) where they were beheaded and buried. 
+
+There used to be a basilica over their shrine at Mentana, but Pope Theodore had their relics transferred to Rome -presumably when the basilica was destroyed. The legend obviously tries to take two genuine martyrs of ''Nomentum'', who died at the start of the 4th century, and link them with the city of Rome.
+
+The chapel was shrunk by the insertion of two side walls in the 12th century restoration, and thus two narrow rooms were created. You can see the doors to these in the side walls. The left hand wall reaches the ceiling and has three round-headed apertures high up, but the right hand one is only a screen and there is a wide gap between its top and the ceiling. When the monastery was inhabited by Paulinian monks the right hand room was their choir, which must have been a tight squeeze. The left hand room is the church's sacristy.
+
+The mosaic in the conch here is one of the rare examples from the 7th century in Rome -another is to be found in the Baptistery of [[San Giovanni in Laterano]]. The work shows the martyrs standing either side of a jewelled cross, on a golden background. They are on a green meadow, which is sprouting red roses. Over the cross is a tondo showing the head of Christ, which looks like a later addition. At the top is a small depiction of the starry heavens, with the hand of God the Father holding a wreath. Below the work is a mosaic epigraph recording the dedication of the chapel. 
+
+The present altar in polychrome marbles and jasper was designed and erected by [[wikipedia:Filippo_Barigioni|Filippo Barigioni]] in [[1736]], after the relics had been examined and re-enshrined. The anonymous fresco behind it, below the mosaic and on the curve of the apse wall, shows ''Christ and the Apostles. ''
+
+The frescoes by Tempesta on the side walls show scenes from the legend of the martyrs, and have kept better than those in the main church. To the right is an interesting depiction of [https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows Our Lady of Sorrows], which shows seven swords piercing her heart. Each sword has a little tondo with a scene of that particular Sorrow.
+
+On the left is a tablet recording the burial here of the Irish king [http://en.wikipedia.org/wiki/Donnchad_mac_Briain Donough O'Brien of Cashel and Thomond], son of [http://en.wikipedia.org/wiki/Brian_Boru Brian Boru], who died in Rome in 1064. On the right are two tablets bearing Latin verses in honour of the martyrs, below two screened rectangular apertures giving onto the right hand sacristy.
+===Hungarian Chapel===
+This was provided in 1778, and has been the national shrine of Hungary at Rome ever since. It was especially popular among expatriates when Hungary was under the Communists, since the heroic archbishop [http://en.wikipedia.org/wiki/J%C3%B3zsef_Mindszenty Josef Mindszenty] was the cardinal here.
+
+The chapel was designed by [https://it.wikipedia.org/wiki/Pietro_Camporese Pietro Camporesi]. It is on a rectangular plan with three bays, covered by a shallow curved vault with three lunettes on each side and on on each end. The decoration, now very shabby, is all in paint and is a late Baroque [https://en.wikipedia.org/wiki/Trompe-l%27%C5%93il trompe-l'oeil] evoking stucco and marble. Panels on the walls and the triangles between the lunettes in the vault are in pink, and contain [https://en.wikipedia.org/wiki/Grotesque grotesque] motifs. Over the altar is a fake "stucco" group of putti holding a wreath. The central panel is rectangular, enclosing an oval with the Dove of the Holy Spirit. All this fresco work was by Antonio Tempesta.
+
+The several paintings that used to be in this chapel have been removed, leaving empty frames. The altarpiece was ''The Annunciation ''by [https://it.wikipedia.org/wiki/Andrea_Pozzo Andrea Pozzo].
+
+The monument to the poet Bernardino Cappella is by [https://en.wikipedia.org/wiki/Lorenzetto Lorenzetto] 1524, assisted by [https://en.wikipedia.org/wiki/Raffaello_da_Montelupo Raffaello da Montelupo].
+
+The high-quality marble floor has recently been restored by craftsmen from Hungary.
+
+==Access==
+According to the church's website (June 2018), the church is open:
+
+Daily 10:00 to 13:00, 14:30 to 17:30 (15:30 to 18:30 in DST).
+
+The church is rather hidden away, up a driveway on the south side of the west end of the Via di Stefano Rotondo.
+
+The buses that go past the church (get off at Navicella -Villa Celimontana) are:
+
+81; Risorgimento (near St Peter's) via Torre Argentina and Piazza Venezia to the Lateran.
+
+673; Circo Massimo via Colosseum (south side), not very useful otherwise as it goes down side streets.
+
+117; From the Lateran only, get off at first stop. Beware -return journey has a different route which is nowhere near the church. You still have to walk some distance west of the stop.
+
+At present, the Mithraeum is closed to visitors.
+
+== Liturgy ==
+The church has no public pastoral ministry, and there is no regular Mass. However, it is available for liturgical events, including weddings, on request to the German-Hungarian College. The contact details are [http://www.santo-stefano-rotondo.it/index.php?option=com_content&view=article&id=2&Itemid=4&lang=it here].
+
+The College reserves the right to refuse permission for events that it considers inappropriate -the norms of worship of the Roman Catholic Church need to be respected.
+
+The patronal Solemnity of St Stephen the Deacon is celebrated on 26 December and this is the [[station church]] for that day, meaning that the Holy Father will usually celebrate Mass here.
+
+The feast of St Stephen of Hungary is celebrated as a Solemnity here on 16 August.
+
+SS Primus and Felician have their feast-day on 9 June.
+==External links==
+[http://www.vicariatusurbis.org/?page_id=188&ID=955 Official diocesan web-page]
+
+[http://it.wikipedia.org/wiki/Basilica_di_Santo_Stefano_Rotondo_al_Celio Italian Wikipedia page]
+
+[http://nolli.uoregon.edu/map/index.html?xurl=-69.343&yurl=-77.377&surl=2000 Nolli map]
+
+[http://www.santo-stefano-rotondo.it/ Church's website]
+
+[http://www.nuovipanorami.it/medioevo/stefanorotondo.htm "Nuovo Panorami" web-page] (article in Italian)
+
+[http://www.archeoroma.com/Celio/santo_stefano_rotondo.htm "Archaeoroma" web-page with small gallery]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=417 Info.roma web-page]
+
+[http://www.greatbuildings.com/buildings/San_Stefano_Rotondo.html "Greatbuildings" web-page] (has useful plan of former and present church superimposed)
+
+[http://www.romaspqr.it/roma/CHIESE/Chiese_Medievali/S_Stefano_Rotondo.htm Roma SPQR web-page with gallery]
+
+[http://www.romeartlover.it/Vasi52.htm#S. Stefano Rotondo "Romeartlover" web-page]
+
+[http://www.knowingrome.com/2009/03/basilica-di-santo-stefano-rotondo-al-celio/ "Knowingrome" web-page] (with useful bibliography)
+
+[http://viajarconelarte.blogspot.co.uk/2015/03/la-basilica-de-santo-stefano-rotondo-en.html "Viajarconelarte" blog page] (excellent, in Spanish)
+
+[http://www.sacred-destinations.com/italy/rome-santo-stefano-rotondo "Sacred-destinations" web-page] (good gallery)
+
+[http://www.panoramio.com/user/1704875?with_photo_id=31771062 Photos on Panoramio]
+
+[http://www.youtube.com/watch?v=5yEl8t8-yVk Youtube slide-show by Hewitts Villa Spaldi]
+
+[https://www.youtube.com/watch?v=dn_O1FpD6Ck Youtube slide-show by Pierfelice Licitra]
+
+[https://www.youtube.com/watch?v=CCTOyAJgcpw Youtube video by Luigi Manfredi]
+
+{{nationalchurches}}
+{{DEFAULTSORT:Stefano Rotondo al Celio}}
+[[Category:Catholic churches]]
+[[Category:Dedications to St Stephen of Hungary]]
+[[Category:Dedications to St Stephen the Deacon]]
+[[Category:5th century]]
+[[Category:Minor basilicas]]
+[[Category:Convent churches and chapels]]
+[[Category:National churches]]

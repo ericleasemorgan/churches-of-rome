@@ -1,0 +1,84 @@
+{{Infobox church|
+image= |
+caption= |
+englishname= SS Joachim and Anne at Tuscolano|
+dedication= Joachim and Anne|
+denomination= Catholic|
+type= |
+clergy= |
+titular= |
+national= |
+built= 1988|
+consecrated= |
+architect= |
+artists= |
+address= Via Bruno Rizzieri 120|
+phone= |
+fax = |
+e-mail= |
+url= }}
+'''Santi Gioacchino e Anna al Tuscolano''' is a late 20th century parish and titular church at Viale Bruno Rizzieri 120 in the south part of the suburban zone of [https://it.wikipedia.org/wiki/Torre_Maura Torre Maura], in between the Via Casilina and Via Tuscolana. Pictures of the church on Wikimedia Commons are [[commons:Category:Santi_Gioacchino_e_Anna_(Rome)|here]].
+
+== Name ==
+The dedication is to SS [http://en.wikipedia.org/wiki/Joachim Joachim] and [http://en.wikipedia.org/wiki/Saint_Anne Anne], parents of Our Lady.
+
+The cardinalate title is as given. However, the church itself is officially referred to as ''Santi Gioacchino e Anna'' (or, according to the Diocese, ''ed Anna'' which is a better style of Italian). This is because the Diocese has a policy of giving priority to parish churches in naming. However, there are several churches in the city with the same name so the cardinalate suffix is in general use.
+
+Note that there is confusion online between this church and [[Santi Gioacchino e Anna ai Monti]], which is not titular.
+
+== History ==
+The parish was established in 1982, in a suburban area called [https://it.wikipedia.org/wiki/Cinecitt%C3%A0_Est Cinecittà Est], and the new church begun immediately. It had been designed by [https://it.wikipedia.org/wiki/Sandro_Benedetti Sandro Benedetti] in 1979 in preparation for the project, and finished in a striking post-modern style in 1984.
+
+The church was made titular in 1988. The present cardinal priest is [https://en.wikipedia.org/wiki/Toribio_Ticona_Porco Toribio Ticona Porco], appointed in 2018 and replacing [http://en.wikipedia.org/wiki/Keith_Michael_Patrick_O'Brien Keith Michael Patrick O'Brien] who had died earlier that year. The latter had been deprived of his rights and responsibilities as a cardinal in 2015 owing to sexual scandal, and so held the title only until death.
+
+==Exterior==
+
+This work is arguably post-modern rather than modernist, because the design of the form is not primarily governed by the function. From the road one sees a clump of cuboidal and prismatic forms in white concrete, of varying height and completely lacking windows. They all have flat roofs, and also have odd greenish-black worm-like forms apparently clipped to their rooflines like draught excluders to doors. The effect is quite peculiar and rather alien, but very enjoyable.
+
+The design has pronounced verticality, which contrasts nicely with the overwhelmingly horizontal aspects of the rabbit-hutch apartment blocks surrounding the church.
+
+The plan and elevation is very difficult to describe, but is based on a T-plan with wide arms. Within this on the major axis in the plan is a rectangle made up of two squares, with a narrow strip in between. The first square, at the entrance at the bottom of the T, has three right-angled triangles added to the middles of its exterior faces. These define prismatic modules that rise higher in elevation than the rest of the square, and the one at the entrance end has the actual entrance inserted into it. The vertical apex of this triangle floats over the entrance, and provides a canopy. 
+
+From the entrance a concrete covered walkway with open sides and flat roof runs away diagonally, and its fascia facing the road has a dedicatory inscription: ''D[eo] O[ptimo] M[aximo], in honorem B[eatae] Mariae Virg[inis] parentum, sanctorum Ioachim et Annae''. This ends in a gateway formed of a very long concrete strip supported by two cuboidal concrete piers just within each end. Near the right hand end of this is a monumental metal cross-sculpture with spikes on its ends recalling the Crown of Thorns. 
+
+The second square also has triangles added to its sides in the plan, including within the narrow strip mentioned above so there are four of them instead of three. However the two triangles on the major axis are parts of two square towers which rise higher than the rest of the square, and form two smaller squares on the plan with their corners touching and their diagonals on the major axis. The two side triangles of the larger square impinge on rectangular transepts forming the crossbar of the T, and also rise higher than the rest of the square but not as high as the two towers. The transepts are low, but have a short triangular tower at each end.
+
+This description probably needs to be checked with Google Earth or the info.roma external link to be intelligible.
+
+There is a campanile to the right of the altar, a tall blank square white concrete tower with open square soundholes and a flat cap.
+
+==Interior==
+The geometric design, involving squares and right angled triangles, is replicated in the interior which has rough-cast concrete pillars and horizontal beams. The walls above these are mostly white. 
+
+Lighting is by windows on the inward-facing sides of the triangles, hence achieving the architect's apparent wish that not a single window is visible from outside.
+
+There are two notable artworks, of which the parish is proud. To the left of the entrance is the Chapel of Our Lady of Prayer, with a large (just over one metre tall) painted terracotta statue of her seated and praying over the prone Christ-child in her lap. This is thought to be 16th century.
+
+On the wall over the main altar is affixed a painted flat 13th century wooden crucifix by [https://en.wikipedia.org/wiki/Coppo_di_Marcovaldo Coppo di Marcovaldo].
+
+== Liturgy ==
+Mass is celebrated:
+
+Weekdays 9:00, 18:30 (with Vespers);
+
+Sundays and Solemnities 8:30, 10:00, 11:30, 18:30.
+
+==External links==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=297 Official diocesan web-page]
+
+[http://it.wikipedia.org/wiki/Chiesa_dei_Santi_Gioacchino_e_Anna Italian Wikipedia page]
+
+[http://www.parrocchie.it/roma/santigioacchinoeanna/ Parish website (has description of church)]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=4719 Info.roma web-page]
+
+[http://www.architettiroma.it/monitor/d/progetto.asp?id=1843 "Architettiroma" web-page]
+
+[https://romandespatches.blogspot.co.uk/2018/02/when-in-romesee-exterior-of-santi_7.html Roman Despatches - blog with gallery]
+[[Category:Catholic churches]]
+[[Category:Outside the walls - South-East]]
+[[Category:Parish churches]]
+[[Category:20th century]]
+[[Category:Titular churches]]
+[[Category:Dedications to St Joachim]]
+[[Category:Dedications to St Anne]]

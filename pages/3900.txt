@@ -1,0 +1,79 @@
+{{Infobox church|
+
+name=  Sant'Orsola della Pietà|
+
+image=  |
+
+caption= |
+
+englishname= St Ursula of Piety|
+
+dedication= Ursula|
+
+denomination= [[Roman Catholic]]|
+
+type= Deconsecrated and demolished|
+
+clergy=  |
+
+titular= |
+
+national= |
+
+built= 16th century|
+
+consecrated= |
+
+architect= |
+
+artists= |
+
+address= Corso Vittorio Emanuele (roadway at west end, by bridge)|
+
+phone= |
+
+fax = |
+
+e-mail= |
+
+url= |
+
+}} 
+'''Sant'Orsola della Pietà''' is a lost 16th century former parish church that used to stand at what is now the west end of the Corso Vittorio Emanuele, at the approach to the bridge of the same name. This is in the [https://it.wikipedia.org/wiki/Ponte_(rione_di_Roma) rione Ponte].
+
+The dedication was to St [http://en.wikipedia.org/wiki/Saint_Ursula Ursula].
+
+<h2 style="border-style: initial; border-color: initial;">History</h2>
+
+The church is mentioned in the [http://en.wikipedia.org/wiki/Mirabilia_Urbis_Romae Mirabilia Urbis Romae], a 12th century pilgrims' guide, where it is said to be located in what used to be the "secretariat of Nero". This does not make much sense, but excavations have revealed remains of what it thought to have been the ''Schola quindecimvirum sacris faciundis'', the offices of the pagan priesthood responsible for certain games (''ludi saeculares'').
+
+In a bull issued by Pope [http://en.wikipedia.org/wiki/Pope_Urban_III Urban III] in [http://romanchurches.wikia.com/index.php?title=1186&action=edit&redlink=1 1186], around the same time, it is referred to as ''Sancto Urso in Ponto''. By then, it was a long-established parish church dependent upon the basilica of [[San Lorenzo in Damaso]].
+
+It is then listed in the Catalogue of Turin (c. 1320), as having three black monks in charge (''habens tres monachos nigros''). Most likely this refers to [http://en.wikipedia.org/wiki/Benedictine Benedictines], although [http://en.wikipedia.org/wiki/Servite_Order Servite] friars are another possibility.
+
+In the 15th century the name was changed to ''Santa Ursula'', probably because St Ursus was not well known, and there was a mix-up of the kind that is common to the period. The [http://en.wikipedia.org/wiki/Ursus_of_Aosta St Ursus] concerned was probably the Irish missionary who was bishop of Aosta in the 6th century, although another saintly Ursus was bishop of Ravenna at the end of the 4th century. A catalogue from [http://romanchurches.wikia.com/index.php?title=1492&action=edit&redlink=1 1492] listed the church as ''Sancti Ursi alias Ursulae'', while by [http://romanchurches.wikia.com/wiki/1555 1555] it is simply called ''Sanctae Ursulae''.
+
+It was rebuilt in the 16th century, and the reconsecration confirmed it as dedicated to [http://en.wikipedia.org/wiki/Saint_Ursula St Ursula]. It is chiefly remembered as being the first church in Rome at which St [http://en.wikipedia.org/wiki/Philip_Neri Philip Neri] preached.
+
+It was, however, demolished when the Corso Vittorio Emanuele, Via Acciaioli and Ponte Principe Amedeo were built in [[1886]].
+
+<h2 style="border-style: initial; border-color: initial;">Location</h2>
+Before the new roads were built, the church was hidden away in alleyways between what is now called Via Paola and a lost street called Vicolo del'Oro which ran due east from [[San Giovanni dei Fiorentini]]. The main access was from the former street at the Palazzo Niccolini, and ran due south to widen into a rectangular open area running north to south. An arcade also running north to south divided this in two, and the entrance to the church was halfway down the western side of the west courtyard.
+
+Now, the footprint of the church is covered by the large orange building containing the ''Taverna Giulia'', just west of the bus station.
+==Appearance==
+The plan was a straightforward rectangle, with a little square apse. The interior side walls had no pilasters, and apparently no side chapels or altars.
+
+However, the interior was richly decorated. The walls were frescoed by [http://it.wikipedia.org/wiki/Girolamo_Siciolante_da_Sermoneta Girolamo Siciolante da Sermoneta], the ceiling by [http://en.wikipedia.org/wiki/Taddeo_Zuccari Taddeo Zuccari] and the main altarpiece was by Siciolante also. 
+
+This little church was a serious loss.
+==External links==
+* [http://nolli.uoregon.edu/map/index.html?xurl=102.039&yurl=99.355&surl=2000 Nolli map (look for 550)]
+
+* [http://penelope.uchicago.edu/Thayer/I/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/churches/_Texts/Armellini/ARMCHI*/2/Ponte.html Armellini (p. 334)]
+[[Category:Catholic churches]]
+[[Category:Deconsecrated churches]]
+[[Category:Demolished churches]]
+[[Category:Rione Ponti]]
+[[Category:Dedications to St Ursula]]
+[[Category:16th century]]

@@ -1,0 +1,124 @@
+{{Infobox church|
+
+name=  |
+
+image=  |
+
+caption= |
+
+englishname= St Zoticus|
+
+dedication= Zoticus|
+
+denomination= [[Roman Catholic]]|
+
+type= Ruined|
+
+clergy=  |
+
+titular= |
+
+national= |
+
+built= 4th century (catacombs), 11th century (church)|
+
+consecrated= |
+
+architect= |
+
+artists= |
+
+address= Via Nicolosi 51 (entry to driveway)|
+
+phone= |
+
+fax = |
+
+e-mail= |
+
+url= |
+
+}}
+'''San Zotico '''is a ruined complex, comprising a 11th century (?) basilica and 4th century [[Catacombs of Rome|catacombs]] including (unusually) a possibly genuine underground church. It to the east of the eponymous Via Catacombe di San Zotico in the [https://it.wikipedia.org/wiki/Borghesiana Borghesiana] zone, south-west of the suburb of Finocchio - the actual address seems to be Via Nicolosi 51, from which a dead-end lane runs south-west alongside the site. Apparently the locality is called ''Valle della Morte''
+
+<p style="border-style: initial; border-color: initial;">The site is in the municipality of Rome, but is part of the [https://en.wikipedia.org/wiki/Roman_Catholic_Suburbicarian_Diocese_of_Frascati diocese of Frascati.] The municipal boundary is very close.</p>
+
+<p style="border-style: initial; border-color: initial;">The dedication was to SS Zoticus and Amantius, obscure martyrs who were enshrined here.</p>
+
+== History ==
+
+=== Origins ===
+<p style="border-style: initial; border-color: initial;">The catacombs were established off the ancient [https://en.wikipedia.org/wiki/Via_Labicana Via Labicana], at the tenth milestone. The modern Via Casilina has replaced this road, but not on the same alignment -it runs some distance to the north.</p><p style="border-style: initial; border-color: initial;">There was a burial ground at this locality from the 3rd century, but the catacombs seem to have been begun around the year 300.</p>
+
+=== Saints ===
+The focus of the complex is an underground shrine, containing the tomb of two (or three) martyrs. 
+
+SS Zoticus and Amantius were listed in the ''Martyrologium Hieronymianum ''as having been buried here on 10 February, and the revised [https://en.wikipedia.org/wiki/Roman_Martyrology Roman Martyrology] (2001) has kept this entry and placed them in the [https://en.wikipedia.org/wiki/Diocletianic_Persecution persecution of Diocletian].
+
+However the developed legend (''Passio Zotici, ''early 8th century) has four martyrs, together with six anonymous companions. The identities of the other two, Irenaeus and Hyacinth (''Giacinto ''in Italian) are a problem. Hyacinth is listed in the oldest recension of the ''Martyrologium Hieronymianum ''as having been buried at the fourteenth milestone of the Via Labicana, not the tenth -however, later recensions alter this to the tenth and add Irenaeus.
+
+The presence of a 5th century fresco in the shrine-chamber, showing four men holding rolled-up scrolls, has been suggested as evidence that these four saints were originally interred here. However, the interpretation is uncertain -the fresco could be of the Evangelists. The actual remains of the martyrs' tomb also hints at a third burial, which could have been Irenaeus. The uncertainty has led to the deletion of him and Hyacinth from the revised Roman martyrology, together with their companions. The developed legend is that the group was a squad of soldiers martyred in the 2nd century, but this is fictional.
+
+=== Catacomb shrine ===
+The archaeologists discerned two zones in the catacombs, an older one dating perhaps to the early 4th century and a newer extension later in the same century. Underground burials seem to have ceased in the mid 5th century -this set of catacombs was not large.
+
+In the early 5th century, the original tomb chamber or ''cubiculum ''of the martyrs was enlarged and joined by several other ''cubicula, ''all closely packed with burials ''ad sanctos. ''This was clearly in response to a wish to be buried close to the relics of the martyrs.
+
+=== Underground church ===
+The main chamber of the shrine area was remodelled at some stage, and this is a rare example in the Roman catacombs of what might genuinely have been a fully underground church. (Familiar and, unfortunately, still influential, romantic fantasies of past centuries imagine that Mass was celebrated in the catacombs from the earliest times. This is rubbish.)
+
+The shrine was not part of the Roman suburban pilgrimage circuit in the early Middle Ages, but seems to have been a venue for the faithful of [https://en.wikipedia.org/wiki/Frascati Frascati] which is due south of here.
+
+The [https://en.wikipedia.org/wiki/Liber_Pontificalis Liber Pontificalis] entry for Pope [https://en.wikipedia.org/wiki/Pope_Leo_III Leo III] (795-816) describes him as restoring the ''cimiterium sancti Iutici, ''which is probably the set of catacombs here. He might have ordered this remodelling. At this time, it is fairly certain that a monastery was attached to the shrine although this is undocumented.
+
+A problem arises with the corresponding entry for Pope [https://en.wikipedia.org/wiki/Pope_Paschal_I Paschal I] (817-24), who is described as having taken the relics of the martyrs to his church of [[Santa Passera]]. This would have been in the context of a contemporary campaign at Rome to strip and abandon the suburban catacomb shrines of martyrs, but here it is clear that the shrine was not abandoned, and the cult of the martyrs did not transfer to ''Santa Passera. ''Perhaps the relics were divided -and, anyway, the shrine did not belong to Rome but to Frascati.
+
+=== Mediaeval monastery ===
+<p style="border-style: initial; border-color: initial;">A church here was mentioned in 1116 as belonging to the [https://en.wikipedia.org/wiki/Byzantine_Rite Byzantine-rite] monastery of [https://en.wikipedia.org/wiki/Grottaferrata Grottaferrata]. It was dedicated to SS Zoticus and Amantius, not to the four martyrs. By this time a little above-ground church had been built, probably in the previous century, and the ruins of this survive.</p><p style="border-style: initial; border-color: initial;">The archaeologists noted that the complex was in use until the end of the 12th century or a little longer, and that access to the underground shrine was being kept up. An epigraph found in the 18th century (now lost) stated that one ''Dominicus abbas ''had built a ''porticus ''and ''turris, ''so the monastery was apparently an abbey before it was abandoned. No records survive.</p><p style="border-style: initial; border-color: initial;">The date of final abandonment and the motive are unknown, but the early 13th century was a very disturbed period in Rome's history and the monastery might have been pillaged. The archaeologists did not notice any burning in the excavated mediaeval structures, however.</p>
+
+=== Excavations ===
+The first investigation in the catacombs was by Marc-Antonio Boldetti in 1715, who removed epigraphs (including the one mentioned above). He visited before the vaulting of the shrine chamber collapsed, which is thought to have happened in the later 18th century.
+
+The next to show an interest was Pietro Santovetti, a cathedral canon of Frascati, in 1847. He was followed by Giovanni Battista De Rossi and Henry Stevenson at the end of the century.
+
+However, a proper scientific archaeological survey only came in 1955, when Antonio Ferrua inspected the catacombs and (very fortunately) arranged for photographs to be taken.
+
+A disaster occurred in 1975, when a legal dispute over the ownership of the site left it unsecured, and as a result the catacombs were looted by so-called ''tombaroli ''(tomb-robbers). They pillaged architectural items from the shrine area.
+
+Finally, in 1998 Vincenzo Fiocchi Nicolai oversaw a series of campaigns to excavate the surface remains and to survey the catacombs. This lasted about ten years, since when the above-ground areas have been re-buried. There is nothing to see there now. The results were published in 2008.
+
+== Appearance ==
+The above-ground remains include a pre-Christian ancient surface cemetery, the rather irregular remains of the mediaeval monastery and a little church with a semi-circular apse.
+
+The catacombs are rather small, and the surveyed part is all on one level. However, the archaeologists noted the existence of a further zone which they did not explore.
+
+The galleries are excavated out of what is called the ''Villa Senni ''stratum of tufo stone. There is a single entrance staircase, leading to the oldest region which is herringbone style. This involves a single main passage, with side passages about every five metres. This first region is notable for having no ''[https://en.wiktionary.org/wiki/cubiculum cubiculi] ''or ''[https://en.wikipedia.org/wiki/Arcosolium arcosolia], ''but only ''[https://en.wikipedia.org/wiki/Loculus_(architecture) loculi]. ''This means that there were no special burial chambers or tombs, but only standard grave-slots in the walls of the passages.
+
+The second phase of the catacombs involved a lengthening of the main passage, to a total length of seventy metres. The side passages here are about nine metres apart, and the zone ends in a set of ''cubicula ''numbering five (two of these form a doublet).
+
+It is obvious that the tomb of the martyrs was the focus of the catacombs. A side passage on the right originally contained what De Rossi called a "table tomb". This was in between a ''loculus ''and an ''arcosolium, ''amounting to a large rectangular recess with the tomb-slots in the bottom covered by a stone slab (the "table"). This tomb was obviously of significance from its creation.
+
+Later, in the 5th century, this passage was radically widened to create a large crypt-chamber, ten by seven metres. Two double ''cubicula ''were excavated opposite the entrance from the main passage, and the walls were provided with ''arcosolia. ''One of the latter has a fresco of four men holding rolled-up scrolls, interpreted as the Evangelists or the resident saints. Another two ''cubicula ''were cut on the other side of the main passage, and several ''arcosolia ''were cut around the entrance staircase. All these were filled with burials, witnessing to the popularity of the martyrs.
+
+The crypt-chamber was provided with a ''lucinarium ''or light-shaft, the only one in these catacombs.
+
+The final form of the shrine-chamber was established probably in the 9th century, when it might have become a church. The archaeologists in the Fifties found evidence for four free-standing columns (not piers cut from the living rock), and a column base was found in situ. These columns would have supported the vault that collapsed in the 18th century. The walls were painted to imitate polychrome marble revetting.
+
+A block of stone was found with a cubical cavity, which might have been an altar with a cavity for relics.
+
+Unfortunately, the column base and this stone were looted in the Seventies.
+
+== External links ==
+<p style="border-style: initial; border-color: initial;">[http://it.wikipedia.org/wiki/Catacombe_di_San_Zotico Italian Wikipedia page on catacombs]</p>
+<p style="border-style: initial; border-color: initial;">[https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=7032 Info.roma web-page]</p>
+<p style="border-style: initial; border-color: initial;">[http://www.romasotterranea.it/catacombe-di-s--zotico.html "Roma Sotterranea" web-page]</p>
+<p style="border-style: initial; border-color: initial;">[http://www.mit.gov.it/mit/mop_all.php?p_id=04334 Aerial photograph of excavations]</p>
+[[Category:Catholic churches]]
+[[Category:Ruined churches]]
+[[Category:Outside the walls - South-East]]
+[[Category:Dedications to St Zoticus]]
+[[Category:Diocese of Frascati]]
+[[Category:4th century]]
+[[Category:Catacombs on Via Labicana]]
+[[Category:Catacombs]]
+[[Category:11th century]]

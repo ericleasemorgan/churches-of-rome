@@ -1,0 +1,519 @@
+{{Infobox church|
+
+name=  |
+
+image=  |
+
+caption= |
+
+englishname= Catacombe di Priscilla|
+
+dedication= Priscilla, Pope Sylvester I|
+
+denomination= [[Roman Catholic]]|
+
+type= |
+
+clergy=  |
+
+titular= |
+
+national= |
+
+built= 3rd century, 4th century, early 20th century|
+
+consecrated= |
+
+architect= |
+
+artists= |
+
+address= Via Salaria 430|
+
+phone= |
+
+fax = |
+
+e-mail= |
+
+url= |
+
+}}
+'''Catacombe di Priscilla '''is an important catacomb complex dating from the 3rd century, located at Via Salaria 430 in the [https://it.wikipedia.org/wiki/Trieste_(Roma) Trieste] quarter, but extending across the road into the [https://it.wikipedia.org/wiki/Villa_Ada_(Roma) Villa Ada] in the [https://it.wikipedia.org/wiki/Parioli Parioli] quarter. There is an English Wikipedia page [[wikipedia:Catacomb_of_Priscilla|here]].
+
+For an introductory article, see [[Catacombs of Rome]].
+
+Unlike other Roman catacombs which use the singular, this set is usually referred to in the plural in the Italian -''Catacombe di Priscilla.''
+
+WARNING  -THE CATACOMBS ARE CLOSED 24 JULY TO 20 AUGUST 2018.
+
+== Makeup ==
+The complex focuses on an extensive multi-nodal set of catacombs, begun in the first half of the 3rd century but mostly dating from the 4th century. It is accompanied on the surface by a restored early 4th century basilica, ''San Silvestro in Priscilla, ''dedicated to Pope St [http://en.wikipedia.org/wiki/Pope_Sylvester_I Sylvester] (314-335). This is in the Villa Ada, on the Viale Don Lorenzo Milani.
+
+The modern appurtenances consist of a former convent close by at Via di Priscilla 25, and the so-called ''Casa delle Catacombe ''over the catacomb entrance. The latter has been taken over as the convent, and the former is now deconsecrated. 
+
+The ''Casa ''chapel now also functions as a public dependent chapel of the parish of [[San Saturnino Martire]].
+
+== History ==
+[[File:2011_Priscilla.jpg|thumb|Convent buildings, with chapel belfry near centre.]]
+
+=== Origins ===
+
+==== Overview ====
+This set of catacombs was on the ancient [https://it.wikipedia.org/wiki/Via_Salaria Via Salaria Nova] which, from outside the [https://it.wikipedia.org/wiki/Porta_Salaria Porta Salaria] and before the bridge over the Aniane river, ran through a very extensive series of cemeteries in ancient times (first century AD onwards). The road resembled the more familiar Via Appia in having many mausolea, tombs and and burial places lining it on its approach to the city, as well as six known catacombs. All the surface (''ad divos'') funerary monuments are now completely destroyed as a result of suburban development.  
+
+''Santa Priscilla ''is the furthest known catacomb from the city. To get here from the city gate, the ancient traveller would pass [[Catacomba di Massimo (Santa Felicita)]], [[Catacomba di Trasone]], [[Catacomba dei Giordani (with Catacomba di Sant'Ilaria)]] and [[Catacomba anonima di Via Anapo]].  
+
+For this set of catacombs, three separate points of origin can be discerned which were established by the end of the 3rd century (two of them began with other functions, and the dates of first funerary use are controverted):
+
+==== Arenario ====
+The consensus is that the oldest area of the Christian catacombs is the ''arenario, ''meaning "sand-pit" but here referring to an underground ''[https://en.wikipedia.org/wiki/Pozzolana pozzolana] ''quarry. Quarrying was by digging rather ample and irregular tunnels, and when the enterprise was abandoned the tunnels were ready-made catacomb passages. Christian funerary activity began in the first half of the 3rd century, and was rather low-key and culturally impoverished -apart from the famous frescoes of the ''Cubiculum'' of the ''Velatio ''and the rather mysterious ''Arcosolium'' of the Madonna. About twenty ''arcosolia ''and ''cubicula ''were provided, also several hundred ''loculi. ''
+
+The haphazard nature of the quarrying activities left the tunnels with structural vulnerabilities, and in the 4th century there was much shoring up with masonry walls and piers. Fortunately, these concealed many of the ''loculi ''from plunderers and they were left intact for archaeologists to find.
+
+==== Cryptoporticus ====
+The second focus of development was not originally a funerary area at all, but was the underground or cellar facilities of a 2nd century villa. These consisted of a wide L-shaped underground gallery or [https://en.wikipedia.org/wiki/Cryptoporticus cryptoporticus], off which chambers were excavated or constructed using masonry walls partitioning a pre-existing void. One of these was an underground [https://en.wikipedia.org/wiki/Nymphaeum nymphaeum], octagonal in plan. Which of the other tomb chambers now opening off this gallery were also part of the villa is now impossible to discern. 
+
+This especially applies to the famous "Greek Chapel", which seems to have been the earliest funerary area here. It was open for burials in the first half of the 3rd century or perhaps the second half, but whether it was constructed then or converted from a villa cellar is still argued over. Also still being debated is the date of the first funerary activity, as a date in the latter 2nd century is still being quoted in publications. If so, this is the oldest Christian catacomb area known in Rome.
+
+However, the consensus is that the later date is correct. The problem with the earlier date is that it depends on certain stylistic considerations applied to the frescoes, and these in turn depend on a bad chronology developed in the 19th century at the catacombs of [[Santa Domitilla]]. The archaeologists at the latter place put too much trust in traditional hagiographical material in their dating of the catacomb frescoes there.
+
+Also, there was an understandable wish to apply the chronology developed from the evidence of frescoes at Pompeii -the so-called [https://en.wikipedia.org/wiki/Pompeian_Styles Pompeian Styles]- to those found at Rome such as those here. This made too many simplistic assumptions about the continuity and uniformity of painting fashions in ancient Rome.
+
+The wish to put the date of the frescoes in the latter 3rd century depends not on their style, but on the type of masonry used in constructing the chamber -''[https://en.wikipedia.org/wiki/Opus_vittatum opus vittatum]. ''
+
+==== Hypogeum of the Acilii ====
+The third node in the primitive catacomb system was the so-called ''Hypogeum of the Acilii, ''which is under the left hand side wall of the basilica of ''San Silvestro. ''
+
+The original excavators of this large rectangular chamber in 1888 found fragments of epitaphs belonging to members of the ''[https://en.wikipedia.org/wiki/Acilia_(gens) gens Acilii]. ''The most famous one, on display, reads:
+
+''M. Acilius V[?], c[larissimus] v[ir] , [....] Priscilla c[larissima] [femina].''
+
+A more specific family identification with the ''Acilii Glabriones ''is provided by:
+
+''Acilio Clabrioni ''[sic] ''filio.''
+
+Also, two epitaphs in Greek were found incorporating the ''Acilius ''nomen.
+
+Unfortunately, the epitaph fragments were found loose. The easy assumption on the part of the 19th century excavators that the chamber was a 2nd century hypogeum was challenged by a magisterial essay published by Paul Styger in 1931: ''L'Origine del cimitero di Priscilla sulla via Salaria ''(online [http://bazhum.muzhp.pl/media//files/Collectanea_Theologica/Collectanea_Theologica-r1931-t12-n1/Collectanea_Theologica-r1931-t12-n1-s5-74/Collectanea_Theologica-r1931-t12-n1-s5-74.pdf here]). He showed that the chamber was originally a cistern, and that the epitaphs had been dumped there when surface mausolea were cleared out during the construction of the basilica in the early 4th century. The actual location of the original mausoleum was indicated by Francesco Tolotti in 1970, in his ''Il cimitero di Priscilla: studio di topografia e architettura.''
+
+Despite all that, the name ''L'Ipogeo degli Acilii ''has been kept for the chamber. Its location had become the focus of the working catacombs after the basilica was built above it.
+
+==== Christian legend of the Acilii ====
+The first interesting point about the ''Acilii Glabrones ''is a remark by the ancient historian [https://en.wikipedia.org/wiki/Suetonius Suetonius], that [https://en.wikipedia.org/wiki/Manius_Acilius_Glabrio_(consul_91) Manius Acilius Glabro] (consul in AD 91) had been one of a group of senators and others executed by the emperor [https://en.wikipedia.org/wiki/Domitian Domitian] ''quasi molitores rerum novarum. ''This literally means "as builders of new things", and it is unknown what Suetonius meant. The novelties could have been political (proposed changes in the rules of government, perhaps) or religious -propagating newly fashionable sects. There was a surprisingly wide choice of the latter at the time, but Christianity was the only one to survive the fall of the Empire. As a result, from early mediaeval times scholars have surmised that the ''Acilii ''had converted to Christianity at the end of the 1st century AD. 
+
+The wife of Manius Acilius Glabro was Arria Plaria Vera Priscilla. The epitaph giving the names Acilius and Priscilla is datable to the 3rd century on paleographical grounds, so it is obvious that Priscilla was a feminine cognomen used by the family. It is reasonable to assume that the Priscilla in the name of the catacombs was one of them and the founder of the catacombs, although it is impossible to say whether she was the lady in the epitaph. 
+
+The old [https://en.wikipedia.org/wiki/Roman_Martyrology Roman Martyrology] listed her on 16 January, with the note that "she gave herself and her possessions to the service of the martyrs". However, there is no actual proof that she was a Christian. She might have been a pagan sympathetic to Christians, perhaps having them in her household, or she might have spotted a good business opportunity. The family villa could have been abandoned and dismantled because it had become surrounded by burial grounds, and a conversion of the property and its adjacent quarry to that purpose would have made perfect commercial sense. The uncertainty has led to her being deleted in the 2001 revision of the Roman Martyrology.
+
+==== Confusions over Priscilla ====
+The name ''Priscilla ''has the alternative form ''Prisca, ''and this has generated confusion since early mediaeval times.
+
+The first confusion is with the patron saint of [[Santa Prisca]] on the Aventine, an obscure figure who was claimed in legend as having been buried at the catacombs after an early career involving St Peter. 
+
+The second is to do with the foundation legend of [[Santa Pudenziana|Santa Pudenziana.]] This fictional romantic story, which may possibly preserve the names of real people, describes St [http://en.wikipedia.org/wiki/Saint_Pudens Pudens] as a Roman senator of the gens [[wikipedia:Acilia_(gens)|Acilia Glabriones]] who gave hospitality to [http://en.wikipedia.org/wiki/Saint_Peter St Peter] and was martyred in the pogrom of Christians ordered by [[wikipedia:Nero|Nero]]. He allegedly had two virgin daughters who were also martyred, SS [http://en.wikipedia.org/wiki/Pudentiana Pudentiana] and [http://en.wikipedia.org/wiki/Praxedes Praxedis] (who has the nearby church of [[Santa Prassede]] dedicated to her). The existence of the daughters is historically extremely problematic; "Pudentiana" probably derives from a corruption of the original titulus name as ''Titulus Pudentiana ''or "Pudentian Title".
+
+The point of all this is that Pudens is described as having a wife called Prisca or Priscilla. The confusion led to the two alleged daughters being venerated as martyrs in the catacombs in the early Middle Ages.
+
+The third confusion muddles St Priscilla with the wife of the married couple SS [https://en.wikipedia.org/wiki/Priscilla_and_Aquila Aquila and Priscilla], helpers of St Paul.
+
+These confusions led to the idea that the catacombs were the first headquarters of St Peter at Rome, a mythical status in competition with a similar idea attached to the catacombs of the [[Coemeterium Maius]].
+
+=== Martyrs ===
+The early mediaeval pilgrimage itineraries (7th century onwards) list the following martyrs venerated here. None of the genuine ones was particularly popular after the catacombs were abandoned.
+* Felix and Philip. These are of unknown date, and were subsumed into the legend of St [https://en.wikipedia.org/wiki/Felicitas_of_Rome Felicity] and her seven sons as two of the brothers. The legend is fictional, but the seven are listed together in the [https://en.wikipedia.org/wiki/Roman_Martyrology Roman Martyrology] on 10 July. Their tomb was the focus of Pope St Sylvester's basilica.
+* [https://en.wikipedia.org/wiki/Crescentius_of_Rome Crescentius]. The old Roman Martyrology for 14 September describes him as the eleven-year-old son of one St Euthymius, a Roman exile who died at [https://en.wikipedia.org/wiki/Perugia Perugia] during the [https://en.wikipedia.org/wiki/Diocletianic_Persecution persecution of Diocletian]. The orphan was then allegedly taken back to Rome to be martyred. The story is an 11th century confection, and St Crescentius's original details have been lost. He was deleted from the Roman Martyrology in 2001. 
+* Prisca, Pudentiana and Praxedis. These were venerated at separate underground shrines. Despite being listed in the early mediaeval pilgrimage itineraries, they are historically spurious and their existence at the catacombs by the 7th century is interesting evidence of pious historical forgery by the proprietors of the catacombs at an early date. The revised Roman martyrology lists them only as patrons of their respective churches ([[Santa Prisca]], [[Santa Pudenziana]] and [[Santa Prassede]]). 
+* "365 in one grave". This might well have been the result of an early discovery of a ''cubiculum ''packed with the bodies of the victims of an epidemic. See [[Santi Marcellino e Pietro ad Duas Lauros]] for a recent discovery illustrating this possibility. 
+* Fimitis (a woman), Semetrius, Maurus and Paul. Only their names are known. Maurus might be the martyr venerated at [[Catacomba di Trasone]] and listed here by mistake.
+<nowiki> </nowiki>For the notorious St Philomena, see below.
+
+=== Papal tombs ===
+Pope St [http://en.wikipedia.org/wiki/Pope_Sylvester_I Sylvester] (314-335) erected his basilica over the existing burial site of the martyrs Felix and Philip. He was buried in it himself, or in an adjacent mausoleum, and two of his predecessors were already interred in the locality.
+
+Several other popes were buried here, and this made the catacombs the second most important set at Rome after the [[Catacombe di San Callisto]].
+
+The popes were:
+* St [https://en.wikipedia.org/wiki/Pope_Marcellinus Marcellinus] (296-304). He was pope during the persecution of Diocletian, and has a shadow over his reputation as a result. Contemporary accusations were made that he had offered sacrifice in order to avoid martyrdom, and this seems to be corroborated by Pope St [https://en.wikipedia.org/wiki/Pope_Damasus_I Damasus] (366-84) not listing him as a pope at all. Later apologists over-compensated and concocted a fictional account of his martyrdom, but a hesitation is still detectable in the pilgrimage itineraries. Only the so-called ''Epitome'' lists him. The Roman Martyrology has deleted him, an uncommon instance of removal because of suspected unworthiness.
+* St [https://en.wikipedia.org/wiki/Pope_Marcellus_I Marcellus I] (308-9). He is the pope now enshrined at [[San Marcello al Corso]]. A very odd detail surfaces in the ''Itinerarium Salisburgensis, ''where he is listed as an ''episcopus ''in contrast to the other popes listed, who are ''papa. ''This has led to the suggestion that he was never elected as pope, but was an administrator of the Holy See until the Church was in the position of holding an election after recovery from persecution. This view was promulgated by [https://en.wikipedia.org/wiki/Theodor_Mommsen Theodor Mommsen], but was not supported by scholarly consensus. However, Amore in 2003 proposed that the shrine here was that of a bishop who had died while visiting Rome, and that he was later confused with the pope. 
+* St Sylvester I (314-35). He is now in his namesake church of [[San Silvestro in Capite]].
+* [https://en.wikipedia.org/wiki/Pope_Liberius Liberius] (352-66). He was not regarded as a saint by the Roman Church.
+* St [https://en.wikipedia.org/wiki/Pope_Siricius Siricius] (384-99)
+* St [https://en.wikipedia.org/wiki/Pope_Celestine_I Celestine I] (422-32).
+* [https://en.wikipedia.org/wiki/Pope_Vigilius Vigilius]. (537-55). His late interment was after the catacombs had closed for burials, and had become pilgrimage venues instead.
+
+=== Working catacombs ===
+In the 4th century, the catacombs experienced a massive expansion. A second, lower level was added with ''loculi ''only (no ''cubicula''), as well as a very small mezzanine level under the northern part of the ''arenario''. This new zone had its own staircase access -the present four sets of stairs between the two levels are later. The ''arenario ''itself experienced much expensive remedial work involving revetting walls and vaults in order to make the former quarry passages secure. 
+
+Also, it is obvious here that the larger tombs or ''arcosolia ''were being damaged or destroyed by the insertion of ''loculi. ''It is unknown as to how long the occupants of these re-cycled tombs expected them to be left in peace, but there is a hint here that owners of tombs were taking out leases with foreclosure clauses. Owing to embarrassment on the part of Christian scholars in the past over suggestions that the Christian administrators of the catacombs were destroying tombs, this point has not been much speculated upon.
+
+Pope St Damasus, the great promoter of the veneration of the catacomb martyrs, composed two epitaphs for the shrines here and had them inscribed on marble slabs. That to SS Felix and Philip read:
+
+''Qui natum passumque Deum repetisse paternas sedes atque iterum venturum ex aethere credit, iudicet ut vivos rediens pariterque sepultos, martyribus sancis pateat quod regia caeli respicit, interior sequitur si praemia Chisti. Cultores Domini Felix pariterque Philppus, hinc virtute pares, contempto principe mundi, aeternam petiere domum regnaque piorum. Sangiuine quod proprio Christi meruere coronas. His Damasus supplex voluit sua reddere vota.''
+
+("He who believes the God who was born and suffered and reclaimed the fatherly throne and will again return from heather to repay the living and buried together, may it be obvious that the kingly things of heaven have regard for the holy martyrs, and the secret rewards of Christ follow. The worshippers of the Lord, Felix together with Philip, paired in this virtue that they disdained the prince of the world and looked for the eternal dwelling and the kingdom of the pious. By their own blood they deserved the crowns of Christ. To these Damasus the supplicant wished to repay his vows.")
+
+The one for Pope St Marcellus read:
+
+''Veredicus rector lapsos quia crimina flere praedixit, miseris fuit omnibus hostis amarus. Hinc furor hinc odium sequitur discordia lites saeditio caedes solvuntur foedera pacis. Crimen ob alterius Christum qui in pace negavit, finibus expulsus patriae est feritate tyranni. Haec breviter Damasus voluit comperta referre Marcelli ut populus meritum cognoscere posuit.''
+
+("Because the truthful rector prescribed that the lapsed lament their crimes, he was a bitter enemy to all the wretched. From this fury, from this hatred followed; discord, quarrels, sedition, slaughter loosed the agreements of peace. He was expelled to the borders of his fatherland by a fierce tyrant through the accusation of another who had denied Christ in a time of peace. His Damasus wanted to compose briefly in reference to Marcellus so that the people might get to know his merits.")
+
+=== Decline ===
+The last burials were around the time of that of Pope St Celestine I, about mid 5th century. After that, only the shrines were maintained. It is estimated that about 40 000 individuals ended up being buried here.
+
+Pope Vigilius restored the shrines after vandalism that occurred during the [https://en.wikipedia.org/wiki/Gothic_War_(535%E2%80%93554) Gothic Wars], at the time of a year-long siege of Rome by the [https://en.wikipedia.org/wiki/Ostrogothic_Kingdom Ostrogoths] in 537.
+
+Pope Paul I transferred the relics of Pope St Sylvester to [[San Silvestro in Capite]] in 762, apparently because the basilica had become ruinous. However, Pope [https://en.wikipedia.org/wiki/Pope_Adrian_I Adrian I] (772-95) is on record as having restored it afterwards.
+
+The complex was abandoned in the 9th century.
+
+=== Forgotten? ===
+The romantic myth concerning the abandoned catacombs is that they were completely forgotten in the Middle Ages, and so had to be rediscovered by intrepid explorers and archaeologists from the 17th century onwards. This might have been true with some of them, but certainly not with all -including those here. What is true, is that nobody in the Middle Ages cared or was interested.
+
+The locals (the few that were here) would have been very conscious of the locations of the ''lucinaria ''or light-shafts, because of the risk of their animals falling into them. This local knowledge must have been available to [https://en.wikipedia.org/wiki/Julius_Pomponius_Laetus Pomponio Leto] (1428-97) and his crew of poseurs, who called themselves the ''Academia Romana ''and who modelled themselves on an ancient Roman school of philosophy. They are known to have indulged in 15th century [https://en.wikipedia.org/wiki/Urban_exploration urban exploration], because they left graffiti to prove it in certain catacombs- including those here.
+
+=== Rediscovery ===
+The catacombs were formally rediscovered at the end of the 16th century by [https://en.wikipedia.org/wiki/Antonio_Bosio Antonio Bosio], following the excitement generated by the discovery of the [[Catacomba anonima di Via Anapo]] nearby in 1578. He left his name in graffiti to prove his discovery.
+
+Unfortunately, the newly-discovered catacombs were regarded as more important as sources of moveable objects than as monuments in their own right. They were hence looted of frescoes, epigraphs, coins, lamps, glassware and, stupidly, the alleged relics of "martyrs" for which ''loculi ''were simply smashed open without regard for their antiquity. The moveable artworks and other items ended up in museums and private collections, mostly losing their provenance.
+
+The demand for "relics of martyrs" was being fuelled from the 17th century by the expansion of the Roman Catholic church in the New World, and the building of new churches as the population expanded in Europe. The Papacy intervened to discourage any private trade in such relics, and employed ''corpisantari'' -these workmen both guarded the catacombs, and explored them for relics. This was meant to be under the supervision of a priest, who looked for one or more of a list of symbols thought (on no actual archaeological evidence) to indicate a martyr -a little glass bottle, the depiction of a palm branch or the letter "M", for example. The occupants of anonymous graves were given names arbitrarily, and several of these "catacomb martyrs" are to be found under Baroque altars in Rome's churches.
+
+18th and early 19th century visitors, especially expatriates, did complain about the ignorance, illiteracy and indifference of these ''corpisantari, ''who had absolutely no interest in the historical aspects of the catacombs.
+
+The most famous of these spurious catacomb martyrs is St [https://en.wikipedia.org/wiki/Philomena Philomena]. 
+
+=== St Philomena ===
+In 1802, during a relic hunt in the catacombs, a ''loculus ''was found which was sealed with three tiles bearing the following inscription:
+
+''Lumena pax te cum fi.''
+
+On the face of it, this could have been read as sub-literate Latin for:
+
+''Lumina [et] pax tecum, fi[li/a], ''or "Lights and peace to you, O son/daughter", with no name being given.
+
+However, the clergy in charge of the discovery decided that the tiles had been cemented in the wrong order by an ignorant ''fossor ''(the ancient equivalent of a ''corposantaro, ''they thought), and so read:
+
+''Filumena pax tecum, ''which is better Latin for "Peace to you, Philomena".
+
+The tiles also bore little depictions of four anchors, a pine tree or fern frond and two roses. The fern was taken to be a palm branch, the roses to be lilies and so it was concluded that a virgin martyr had been discovered. The cementing of the tiles had a little glass perfume bottle pressed into it, which was (surreally) presumed to have contained some blood of the martyr.
+
+The remains were described as those of a young girl, which cannot now be confirmed as they were roughly handled and so disintegrated into small fragments. They were enshrined at [https://en.wikipedia.org/wiki/Mugnano_del_Cardinale Mugano del Cardinale] in 1805, and provided with a completely fictitious biography through the fertile imagination of one Sister Maria Luisa di Gesù (1799–1875), a Dominican tertiary from Naples who claimed a revelation from the saint herself. 
+
+The subsequent controversial career of the putative saint has had no connection with the catacombs, and no attempt has been made to promote her cult here. 
+
+The archaeologist [https://en.wikipedia.org/wiki/Giovanni_Battista_de_Rossi Giovanni Battista De Rossi] pointed out that the ''loculus ''was in a region of the catacombs dating from the 4th century, and hence after the latest persecution. He suggested that the tiles had been re-used, and deliberately muddled to make the inscription void. However, recent examination showed that they had no trace of a second application of cement as would be expected -they do seem to be original to the tomb. Given that, the evidence that "Philomena" was a martyr is so thin that no scholar takes her historical existence seriously.
+
+=== Modern times ===
+The first serious and systematic archaeological investigation was by De Rossi, and published in 1889. He noted the scanty basilica ruins in the following year. Subsequently, these ruins were rather hurriedly excavated in 1906 by [http://en.wikipedia.org/wiki/Orazio_Marucchi Orazio Marucchi], and the edifice rebuilt. It was primarily used as a display place for the epigraphs discovered; although an altar was provided, the building does not seem to have been reconsecrated.
+
+It was decided to make the catacombs a major pilgrimage destination, and to this end two separate but adjacent complexes were built in 1927. One was to be the actual pilgrimage centre, the ''Casa delle Catacombe. ''The other was a large convent, of five storeys and about 150 rooms. 
+
+Initially the idea was to staff the new facility with monks from the [https://en.wikipedia.org/wiki/Trappists Trappist Cistercian] monastery at the [[Catacombe di San Callisto]], but these were already reviewing their commitments and withdrew from the Roman catacombs in 1928. They were replaced here by the [https://it.wikipedia.org/wiki/Sorelle_dei_poveri_di_Santa_Caterina_da_Siena Sorelle dei Poveri di Santa Caterina da Siena], an active sisterhood were founded at Siena in 1873 by Bl [https://en.wikipedia.org/wiki/Savina_Petrilli Sabina Petrelli].
+
+This was an odd choice, as the foundation charism of the sisterhood involved the corporal works of mercy. As a result of this, the community set up at the catacombs quickly became dissatisfied and so the [https://it.wikipedia.org/wiki/Benedettine_di_Priscilla Benedictines of Priscilla] (''Benedettine di Priscilla'') broke away from the ''Sorelle'' in 1936. They were encouraged by the archaeologist [https://it.wikipedia.org/wiki/Giulio_Belvederi Giulio Belvederi] to aspire to a contemplative life and to a devotion to scholarship focusing on Church history. They have been in charge ever since.
+
+The Priscilla Benedictines have never formed a large congregation, and in the later 20th century it was decided that the convent was surplus to requirements. It was sold by the Holy See (the freehold owner) in 1974, and is now the ''Scuola di Perfezionamento per le Forze di Polizia. ''The nuns had the ''Casa ''remodelled to include new convent premises, the architect being Franco Franceschetti.
+
+According to the Diocese, the nuns now (2017) number 32 in three convents. The catacomb convent is the mother house. The sisters print publications on Christian archaeology, and also make vestments.
+
+A five-year campaign of restoration of the catacomb frescoes was completed in 2013.
+
+== Casa delle Catacombe ==
+
+=== Layout and fabric ===
+The present convent consists of a rather irregular complex of buildings located on a fairly steep slope running down from the main frontage on the Via Salaria to the back elevation on the Via di Priscilla. There are two basic units, a large four-storey main block to the south (right side of main frontage) and a smaller, rather oddly planned catacomb administration block to the north which also has four storeys with an additional attic storey. These blocks are connected by two covered corridors or cloister walkways, which enclose a small but attractive cloister garden (the only open space available to the nuns, which is a problem).
+
+Overall, the walls are rendered in a red ochre with simple string courses in yellow or grey. The roofs are pitched and tiled, at several different levels. The windows have raised frames, also in yellow or grey, and are either vertically rectangular, square, round-headed or round.
+
+The main frontage has no architectural distinction, and overall the design of the ''Casa'' is very vaguely neo-Baroque with little visual coherence.
+
+On going through the public entrance, you turn left for the catacomb reception and right for the chapel (the entrance of that is round the corner of the cloister). 
+
+=== Chapel ===
+The chapel is in the main convent block and has no architectural identity, but a little campanile or bell-cote is perched on the roof overlooking the cloister garden.
+
+The chapel sanctuary has a mosaic copy of the famous fresco of the ''Breaking of the Bread ''in the catacombs (see below). This occupies the entire back wall of the low, shallowly vaulted room. Unlike the original fresco which is in red, the mosaic here has a gold background.
+
+== Former convent ==
+To the east of the ''Casa ''or present convent is the former convent, sold off in 1974. Unlike the ''Casa, ''which is rather self-effacing, this is a huge and monumental complex set in large grounds containing many mature trees. It is readily apparent that it was originally designed as a monastery.
+
+The layout is unusual. It focuses on an octagonal cloister having the plan of a chamfered square, and with the major axis on a diagonal. The convent buildings form two four-storey wings each with an obtuse angle, one fitting around the far and far right hand diagonal sides of the cloister and the other abutting the left hand and left hand near diagonal sides. The chapel occupies the right hand diagonal side with another wing abutting its far end, while two lower wings are adjacent to the street in front of the chapel.
+
+The style is the same as that of the ''Casa, ''but with more attention to architectural details. The entrance gateway is a monumental arch with a tiled and gabled cap, leading into a courtyard paved in white and dull red with a fish-scale pattern. Straight ahead, the near side of the octagonal cloister is occupied by a single raised storey over an arcaded loggia, and to the right is the diagonally set façade of the former chapel.
+
+The chapel itself, now deconsecrated, has a three-bay nave with lower side aisles and a transeptal sanctuary with a raised roof. There is a structurally separate entrance bay occupying the width of the central bay only, with the gable of the chapel roof visible over its own lower flat roof. The single entrance is topped by an oversized lunette transom window.
+
+== Catacombs ==
+
+=== Arenario ===
+The tour of the catacombs starts in the oldest funerary area, a converted underground quarry where burials began in the first half of the 3rd century. You can see how the quarrying left irregular and fairly wide passages, which were shored up by masonry in the 4th century. Most of the ''loculi ''have been pillaged, but you can see some intact ones especially low down.
+
+The region contains several frescoed ''cubicula. ''As well as that of the ''Velatio, ''which you definitely will be shown, you may be fortunate enough to get the full tour and hence be shown the so-called ''Cubicolo dei Bottai ''on your way back to the exit stairway. This has a fresco on its far wall showing seven men rolling a large barrel to join two others. So, this ''cubiculum ''was possibly owned by a confraternity of barrel makers. The fresco has been defaced by a Bosio ''graffito'' in charcoal.
+
+=== Cubicolo della Velata ===
+This location is usually called the ''Cubiculum ''of the ''Velatio ''or "Cubicle of the Veiling" in English, using two Latin words but avoiding conjugation (in proper Latin, it should be ''Cubiculum Velationis''). The Italian means "Cubicle of the Veiled Woman".
+
+The small ''cubiculum ''has three ''arcosolia, ''which have been broken open and looted. Over each is a frescoed tympanum, and the ceiling has been carved as a shallow dome vault. The walls and vault were rendered in white, divided into panels by thin lines in red and green.
+
+The frescoes in this little ''cubiculum ''date from the latter 3rd century. The vault has a central tondo showing ''The Good Shepherd, ''shown carrying a sheep and accompanied by two more sheep and two trees with a pair of doves with olive twigs. The rest of the vault is frescoed with birds also: Two peacocks, two [https://en.wikipedia.org/wiki/Sandgrouse sandgrouse] (the Bible-English "quails") and four more doves on the springers. At the entrance there is a depiction of the prophet Jonah being vomited up by the sea monster -a symbol of the Resurrection. (Jonah 2:11). 
+
+The left hand tympanum shows ''The Sacrifice of Isaac ''(Genesis 22)''; ''the bottom part of the fresco was destroyed when a ''loculus ''was broken open. Visible are parts of Abraham, Isaac carrying the firewood and the bush containing the sacrificial ram. The right hand tympanum shows ''The Three Young Men in the Fiery Furnace, ''from the story in the Book of Daniel, chapter 3. They are shown in ancient Persian dress, with trousers -a garment for which the ancient Romans had serious contempt. The trio are accompanied by a dove holding an olive branch. 
+
+The back tympanum depicts a female ''[https://en.wikipedia.org/wiki/Orans Orans], ''presumably a young woman entombed here. Two milestones in her life are depicted to the sides. To the left is her marriage, with the groom holding the ''[https://it.wikipedia.org/wiki/Flammeum flammeum] ''or bridal veil after which the ''cubiculum ''is named. To the right she is depicted with her first child.  
+
+Early explorers thought that these two scenes were Marian, with the left hand group being ''The Coronation of Our Lady, ''but this is anachronistic. The first known explorer was Bosio, who left another charcoal ''graffito ''on this far wall fresco. 
+
+=== The Madonna and Child with Balaam ===
+The next item on the tour is a location that used to be a large ''arcosolium ''dating from about the years 220 to 230, which was mostly demolished in the later 4th century to make room for several ''loculi. ''
+
+The ''arcosolium ''was decorated with fine stucco work as well as frescoes, and so must have been the highest-status burial in the early catacomb. So, it is a puzzle as to why it was destroyed. One suggestion has been that it was the original shrine of a martyr who was moved elsewhere, but this sort of transfer did not happen in the 4th century. An alternative, unprovable hypothesis is that the 3rd century occupants were regarded with disfavour for some reason by the 4th century Church.
+
+The upper segment of the arch intrados of the ''arcosolium ''survives. Left to right, the remnant decorative scheme has three ''orantes ''in fresco'' ''followed by ''The Good Shepherd ''with two sheep and a pair of trees with red fruit -this work is in fine stucco relief with fresco detailing. Then comes the famous ''Madonna and Child with Balaam, ''which is claimed to be the oldest surviving depiction of the Madonna and Child as the primary topic of any artwork. This claim is made in contrast with earlier depictions of the [https://en.wikipedia.org/wiki/Epiphany_(holiday) Epiphany], one of which in these catacombs has been alleged (doubtfully) to be slightly older (see ''Cappella Graeca ''below).
+
+This claim needs qualification. The artwork of the fresco icon is actually of the Epiphany as well, as is obvious from the star over Our Lady (the [https://en.wikipedia.org/wiki/Star_of_Bethlehem star of Bethlehem]). The figure standing to the left of Our Lady is proportionally smaller as if standing behind her, and is pointing to the star. He is holding what seems to be a rolled scroll in his other hand, and so is identifiable as a prophet or teacher. The Biblical reference is Numbers 24:15-17, part of the story of [https://en.wikipedia.org/wiki/Balaam Balaam] and Beor. What the work does is to put the viewer in the position of the Wise Men from the East (the "Three Kings"), following the star to the Madonna and Child in fulfilment of the prophecy by Balaam.
+
+The fresco of Our Lady and the prophet is at ninety degrees to the stucco depiction of ''The Good Shepherd ''-their heads are pointing at him.
+
+The fresco work is decayed and was almost lost owing to crumbling plaster which has removed Our Lady's lower body, but has been well restored after previous ham-fisted attempts at conservation. 
+
+=== Cubicle of the Annunciation ===
+Beyond the ''arcosolium ''is a large ''lucinarium ''or light-shaft which penetrates all three levels at this point (including the little mezzanine). The warren of galleries around this, of varying widths, contains several tombs of children -and the guide might point these out on the way back to the exit. One of them has a painted epitaph reading:
+
+''Veric M undus''
+
+which is the name Vericundus with the mysterious letter M inserted. From the 17th century this use of the letter M was taken as proof that the tomb occupant was a martyr, but this is another example of hope exceeding good sense on the part of relic hunters. "M" could stand for ''memoria ''or ''monumentum ''instead, for example.
+
+There are several interesting frescoed ''cubicula ''here also, and the full tour shows the so-called "Cubicle of the Annunciation" (you might miss this). This is named after a ceiling fresco showing a woman seated on a chair and being addressed by a young man, taken to be the archangel Gabriel. (Lk 1:26-38). At this period, angels were not depicted with wings. The far wall has ''The Good Shepherd ''surrounded by flowers. The right hand ''arcosolium ''tympanum has the ''Resurrection of Lazarus, ''with the dead Lazarus standing in a box. This scene is surrounded by three others from the story of the prophet Jonah: Left, ''Jonah Thrown Into the Sea; ''right, ''Jonah Vomited by the Sea Monster; ''under, ''Jonah Sheltering Under the Vine. ''The vine is shown as a pergola, and seems to be bearing melons (the Hebrew word ''kikayon ''refers to an uncertainly identifiable quick-growing creeper with large leaves).
+
+This ''cubiculum ''has a low vault, and is entirely rendered in white with the surfaces divided up into panels by thin red and green lines. As well as the fresco scenes, the decoration includes flowers and a sea-monster.
+
+=== Cryptoporticus ===
+The tour should continue from the ''arenario ''through a narrow and slightly winding passage (number 4 in the catalogue) to the so-called ''cryptoporticus. ''
+
+This area was actually originally the set of cellars belonging to a 2nd century suburban villa. These consisted of a roughly square underground void or [https://en.wikipedia.org/wiki/Cryptoporticus cryptoporticus], off which chambers were excavated. One of these was an underground [https://en.wikipedia.org/wiki/Nymphaeum nymphaeum], octagonal in plan with a central pier and with four little apsidal niches originally for statuary. Others were cisterns, or cool-chambers for storage. Which of the extant tomb chambers now opening off this gallery were originally part of the villa is now impossible to discern. Masonry screen walls were inserted into the square area at some stage, probably at least in part when the ''cryptoporticus ''was converted to funerary use, and the result was an L-shaped gallery with two arms at right angles.
+
+After exiting passage number four, you emerge at the west end of the southern arm of the present ''cryptoporticus ''which runs to the east and then turns in a right angle to run north. The southern arm is wider, and is surprisingly ample compared to the usual narrow width of catacomb passages. Opposite the exit from passage number four is the entrance to the so-called ''Cappella Graeca. ''The other chambers on the south side of the southern arm are probably part of the 2nd century layout, although this is still disputed. The second one to the east contains the remnants of the ancient stairway to the ground floor of the original villa.
+
+It is now known that the void to the north side of this arm, and to the west side of the arm running north, were partitioned off by masonry walls to create separate ''cubicula. ''That is, the original ''cryptoporticus ''was not an angled gallery but a large roughly square cellar area with an arcade of three free-standing piers which are still discernible. The void is under a masonry vault with deeply incised lunettes over the entrances to subsidiary chambers.
+
+The southern arm was converted into an underground chapel in the later 20th century by the provision of a little altar consisting of a marble slab on an ancient Composite capital (this used to be in the ''Cappella Graeca, ''see below), but this is not now advertised as a regularly available place of worship for pilgrims.
+
+=== Cappella Graeca ===
+
+==== Function ====
+The ''Cappella Graeca ''is the chamber furthest west on the north side of the southern arm of the ''cryptoporticus. ''It was not a chapel where Mass was celebrated (early Christians did not do this in the catacombs), but is a large tri-apsidal ''cubiculum ''with facilities for holding ''[https://en.wikipedia.org/wiki/Refrigerium refrigeria] ''or feasts in honour of the deceased. This original pagan practice was imitated by Roman Christians up to the 5th century.
+
+The chamber was partitioned off from the ''cryptoporticus ''when it became a funerary space, and the masonry used -''[https://en.wikipedia.org/wiki/Opus_vittatum opus vittatum] -''suggests a date in the late 3rd century at the earliest. This conflicts badly with the traditional dating of the frescoes here to the first half of the 2nd century.
+
+The chamber used to contain a little altar on an ancient capital for the use of pilgrims celebrating Mass, but this has been removed to the ''cryptoporticus''.
+
+==== Fabric ====
+The plan of the chamber is in two parts. First there is a short "nave", with a shallow barrel vault (partly collapsed) framed by a pair of shallowly curved transverse arches springing from the side walls. The first of these is over the entrance portal. The left hand wall of this "nave" is living rock, but the right hand one is a partition built of courses of rough ''tufo ''blocks (this is visible where the render has fallen away).
+
+The "sanctuary" has a square saucer-vault, also collapsed, and three large ''arcosolia. ''The far and right hand ones are apsidal with conchs, but the left hand one is trapezoidal and has an arch over its entrance. The far one is in living rock, but the side ones are in masonry. Note that the exposed masonry in the right hand apse is in ''[https://en.wikipedia.org/wiki/Opus_vittatum opus vittatum] ''or courses of brick interposed between courses of ''tufo ''blocks -this is a worry to scholars, because this building technique is usually dated to the early 4th century and the "chapel" is meant to be a century older than that. This is a point of serious live debate.
+
+The original tomb apertures in the ''arcosolia ''would have contained sarcophagi -one in each. Unusually, the "chapel" has no ''loculi'' cut into the walls. The area of neat ashlar blocks in the back of the far apse is actually blocking an aperture originally looking out into a catacomb passage behind.
+
+A stone bench runs the length of the "nave" on the left hand side and continues in front of the left hand ''arcsolium.''
+
+==== Decorative scheme ====
+The intradoses of the three vault arches have fine vine-scroll stucco decorations. Otherwise, the entire interior was frescoed in two registers. The lower register imitates revetting in slabs of polychrome marble, and this runs round the entire interior. The upper register has figurative frescoes, which in the "nave" are on a white background and in the "sanctuary" are on red. The vaults of "nave" and ''arcosolia ''are in white, with fresco work on the former only, but that of the "sanctuary" was in red with vine-shoots (mostly now lost).
+
+==== Frescoes ====
+Although an earlier date is still being asserted, the consensus seems to be that the set of frescoes here are of the first half of the 3rd century at the earliest -this is based on stylistic grounds and, as mentioned already, there are worries that the work may have to be dated even later -to the second half of the century.
+
+Also, there are interesting hints that the cycle was found offensive in some ways to later users of the catacombs before their abandonment. The ''Phoenix ''and ''Fractio Panis ''frescoes were whitewashed over by them.
+
+The description starts from the counterfaçade wall (surrounding the entrance), and goes anticlockwise around the "nave" before describing the "sanctuary".
+
+Facing the counterfaçade, to the right of the portal is a depiction of ''The Three Young Men in the Fiery Furnace, ''from the story in the Book of Daniel, chapter 3 (claimed to be the oldest example of this popular catacomb theme). To the left of the portal is a standing figure pointing either at the portal or at the three young men, and over the portal (which is round-headed) is a tondo portrait. The identity of these two frescoes is uncertain. Over the arch sheltering the portal is a depiction of ''Moses Bringing Water Out of the Rock ''(Exodus 17:6)
+
+Where the entrance arch meets the right hand side wall is a little alcove, containing a very unusual fresco of ''The [https://en.wikipedia.org/wiki/Phoenix_(mythology) Phoenix] on its Pyre. ''This is a pagan mythological bird co-opted as a symbol of Christian resurrection. Somebody took offence at it when the catacombs were still in use, and had it whitewashed. It was only discovered in 1951.
+
+Over it, in the corner of the vault, is a female head crowned with blue flowers and within a ring tondo. This represents ''Summer, ''and it is thought that the other seasons were shown in the other three corners of the vault before its surface fell off.
+
+The right hand side wall shows ''[https://en.wikipedia.org/wiki/Susanna_(Book_of_Daniel) Susanna] Accused by the Elders. ''The figure on the left is thought to be Daniel. Above on the vault is a fragment of ''The Healing of the Paralytic ''(Matthew 9:2).
+
+The "sanctuary" arch depicts ''The Epiphany, ''with three Wise Men approaching the Madonna and Child.
+
+The left hand side wall continues with the Susanna theme. On the right the two elders are falsely swearing her guilt with their hands on her head, and to the right seems to be Susanna and Daniel celebrating her release.
+
+The "sanctuary" arch has on its other side a fresco of ''The Raising of Lazarus ''(it is easy to miss this, so do look). Below it is ''Noah in the Ark.'' 
+
+Over the far apse conch is the most famous fresco in the chamber, that of the ''Fractio Panis ''("The Breaking of the Bread"). This was also whitewashed by some ancient censor, and was rediscovered at the start of the 20th century. Unfortunately it has decayed, and is rather difficult to make out.
+
+It shows seven figures seated at a long curved banqueting table, with the bearded figure at the far left having his legs showing. This figure seems to be in the act of breaking a loaf of bread. To the right is a two-handled goblet and further to the right, two plates one apparently with a pair of fish and the other with five pieces of bread. To the left of the diners are three bread baskets, and to the right another four. One of the diners is a woman with a short veil.
+
+Catholic scholars in previous centuries were reluctant to label this scene as [https://en.wikipedia.org/wiki/Eucharist Eucharistic], for apologetic reasons -there is no altar. Protestant scholars, for obverse motives, have been keen to do so. The seven baskets of bread, together with the bread and fish on the table, allude to the ''[https://en.wikipedia.org/wiki/Feeding_the_multitude Multiplication of the Loaves and Fishes] ''which has a Eucharistic symbolism, and the goblet with the plate of bread also alludes to the Eucharist. However the meal here depicted could also have been an ''[https://en.wikipedia.org/wiki/Agape_feast agape], ''or a ''refrigerium ''in honour of the dead entombed here. The answer to which of these two it is, has to be a matter of opinion. However, a revisionist date in the latter half of the third century would mean that this cannot be a depiction of the Eucharist.
+
+Over the right hand apse is a depiction of ''Daniel in the Den of Lions, ''and over the left hand arch is ''The Sacrifice of Abraham. ''He is depicted as about to kill Isaac, who has crumbled away.
+
+==== Graffiti ====
+The otherwise blank walls of the two apses bear epigraphs. The right hand one is original, and is a pair of epitaphs in Greek -these give the name to the chamber. One says: "Obrimos to his sweetest cousin and fellow student Palladios, remembered kindly" and the other "Obrimos to his sweetest wife Nestoriana, remembered kindly".
+
+The far apse conch has the faded remains of an 18th century graffito -the year 1777 is clear. There is another graffito on the vault of the left hand ''arcosolium.''
+
+=== Ipogeo dei Acilii ===
+If the tour continues, and is not cut short, you will then be taken to the north arm of the ''cryptoporticus ''and either through the ''nymphaeum ''or through a spacious chamber next to it which is behind the right hand apse of the ''Cappella Graeca. ''From here two passages (numbers six and seven) lead to the ''Ipogeo dei Acilii. ''This region behind the ''Cappella'' contains many niches for sarcophagi and scanty traces of mosaic work is found here and there, so it was a high-status burial zone.
+
+Despite its name, the ''Ipogeo'' was not a tomb but an underground water cistern in which fragments of epitaphs from surface mausolea of the ''Acilii ''were found dumped. The chamber is a straightforward and rather grim barrel-vaulted space, with the walls rendered in cement. A consecrated altar is available for pilgrim Masses, and some epigraphs and fragments of sculpture from smashed sarcophagi are also on show (most of these are now in the basilica).
+
+Passage seven continues past the entrance of the ''Ipogeo ''as passage eight. Unusually, the ceiling of this is painted with red and green stars. You may be taken along here to view an ''arcosolium ''containing two frescoes of peacocks, obviously painted by an artist familiar with the bird's appearance. The guide may also point out a marble epitaph tablet in Greek, to Irene, Zoe and Marcellus (two Greek ladies and a Latin man).
+
+This zone also contains the main stairs to the second level of the catacombs, which are not part of any tour (see below).
+
+=== Shrine of St Crescentius ===
+Only one underground shrine-chamber of a martyr has been identified in these catacombs with any degree of confidence, that of St Crescentius. This is reached from passage eight, on the left beyond the ''Ipogeo ''and then right at the stairs up to the basilica (see below). The other ''cubicula ''in this area, notably ''M,'' contain graffiti indicating the proximity of the martyr's shrine.
+
+The identification is settled on the so-called ''Cubiculum N, ''which has a shallow barrel vault supported at each corner by an engaged column. These four columns were originally cut from the living rock, but were patched with brick. The far end is entirely occupied by a large ''arcosolium ''with an exceptionally big niche which obviously contained a sarcophagus.
+
+The decoration in here has, unfortunately, been very badly damaged and any shrine has been so utterly destroyed that not a fragment has been found. Scanty fragments of fresco on the left hand wall are apparently of ''The Raising of the Daughter of Jairus ''(Matthew 9:23), and a better-preserved fresco on the right hand wall shows ''The Three Young Men Refusing to Worship the Idol of Nebuchadnezzar ''(Daniel 3:16).
+
+=== Second level ===
+The second level, in contrast with the first which came into being rather haphazardly, was a carefully planned extension of the catacombs in the later 4th century. In fact, since it originally had its own stairway access it might have been under different original management.
+
+The present entrance stairway leads down to two fairly broad galleries at right angles. The one straight ahead leads to several ''cubicula ''and side-passages, and a left turn off it gives access to a long stairway leading down to a chamber containing a water reservoir. This would have supplied the water to make the cement for sealing the tombs after interments. 
+
+The gallery to the left at the bottom of the entrance stairs has an impressive herringbone layout, with regularly spaced side galleries opening off it at right angles. There are nineteen to the left, and twenty-one to the right. At the dead end is an ''arcosolium ''with a fresco of the ''Epiphany ''again, and on the way is the bottom of the large ''lucinarium ''or light-shaft'' ''already noted above.
+
+== Basilica di San Silvestro ==
+
+=== Access ===
+The rebuilt 4th century basilica is at ground level, but is only accessible as part of a catacomb tour. The access stairs are outside ''Cubiculum M.''
+
+=== History ===
+
+==== 1st century enclosure ====
+The first edifice here was a funerary enclosure dating from the end of the 1st century AD, which is reasonably surmised to be the original location of the epigraphs of the ''Acilii ''mentioned above. It was a large rectangular walled space on the same alignment as the present basilica, with a central open courtyard and two covered walkways and the long axis roughly east to west. The enclosure contained mosaic flooring and wells, and it is thought that the latter were fed by the ''Ipogeo ''cistern.
+
+==== First church? ====
+This funerary enclosure was partly demolished to make way for a simple rectangular vaulted brick edifice with its far wall on the line of the eastern wall of the enclosure. The cross-vault was supported by brick piers in the corners.
+
+This building was aligned with the allegedly already existing burial site of the martyrs Felix and Philip. This seems to have been a below-ground surface tomb adjacent to the east wall of the original enclosure, and hence just outside the far wall of the new building. The original function of the latter is uncertain.
+
+==== Sylvester's basilica ====
+The extant basilica was created by Pope St [http://en.wikipedia.org/wiki/Pope_Sylvester_I Sylvester] (314-335). The rest of the enclosure was demolished to clear the site, as was the far wall of the brick building. The ground level was dug away to isolate the tomb, and an apse built around it as part of the brick building. This left the martyrs' shrine in between the apse of the resultant basilica and its nave. Again, the question arises as to whether this was a church since no base of an altar was found. 
+
+Stair access to the catacombs was provided against the left hand wall. 
+
+==== Mausoleum ====
+Immediately in front of the entrance façade of the basilica another, slightly wider apsidal building was erected with an almost square plan and with the apse shallowly curved. This functioned as a mausoleum for many Christian burials attracted to the sanctity of the site, and the archaeologists found it fully occupied by these. The side walls each had four niches separated by thin engaged piers, so this edifice seems not to have been vaulted but to have had a truss roof. 
+
+This mausoleum had its own catacomb stairs, against the near wall. Its apse came very near, but did not touch, the near wall of the basilica and it seems that there was no internal connection between the two. 
+
+==== Later history ====
+The basilica later received the dedication of ''San SIlvestro'' after the pope, who was buried here. It is referred to by this name in pilgrimage itineraries of the early Middle Ages. 
+
+It is not known when it was abandoned, but the 9th century is likely. 
+
+==== Rebuilding ====
+The archaeologist [http://en.wikipedia.org/wiki/Giovanni_Battista_de_Rossi De Rossi]was the first to note the ruins, in 1890. Back then, only low remains of the walls were visible
+
+Systematic but hurried excavation was undertaken by [http://en.wikipedia.org/wiki/Orazio_Marucchi Orazio Marucchi ]in 1906, who revealed the adjacent mausoleum. Subsequently, the two edifices were rebuilt on their old foundations and an altar installed in the basilica. However, it was never re-consecrated (unlike the basilica at the catacombs [[Santa Domitilla]], which received a similar treatment). Rather, the main function of the two buildings was to display the epitaphs and sculptural fragments found in the catacombs.
+
+There has been a recent archeological investigation and restoration, completed in 2013.
+
+=== Exterior ===
+The two buildings are conjoined. They have blank walls of large pink bricks, and the roofs are pitched and tiled. The two apses have their own, lower tiled roofs, pitched in triangular sectors.
+
+The basilica apse has a little structure attached to the midpoint of its curve, with its own tiny pitched and tiled roof. This corresponds to a rectangular sub-apse in the ancient foundations, which has been treated as a "bishop's throne" niche in the rebuilding.
+
+Both buildings have three small round-headed windows high up, each with a ''transenna ''or pierced stone fenestration screen. This has eighteen circular apertures, arranged six by three. The front wall of the mausoleum has three more such windows -there is no door in the wall here.
+
+The roofline has a cornice, decorated with brick dentillation.
+
+The two edifices are connected by a very short passage, but this feature seems not to be supported by the archaeology.
+
+=== Interior ===
+[[File:Catacombe di Priscilla.png|thumb|261x261px]]
+The interiors of the two edifices are similar. Each has its walls in naked brickwork, and each has an open truss timber roof (the cross-vault of the basilica was not re-created). The apses have been provided with conchs. The floors in broken marble slabs set in red cement look old, but are not. Metal grilles have been inserted over voids in which some of the archaeology has been left exposed. Another grille covers the rectangular aperture in the apse thought to be the location of the original martyrs' shrine.
+
+The two interior spaces are connected by a large rectangular portal, almost square.
+
+The walls of the basilica have been used to display inscriptions recovered from the catacombs. Also here are copies of the two epigraphs by Pope [http://en.wikipedia.org/wiki/Pope_Damasus_I Damasus], one dedicated to SS Felix and Philip and the other to Pope [http://en.wikipedia.org/wiki/Pope_Marcellus_I Marcellus] (the originals are lost). Also preserved is the base of a small column with an inscription reading ''Martyrum Filicis Filippi, ''which is the only surviving remnant of the original shrine.
+
+The basilica is now a worshipping area available to pilgrim groups, and the mausoleum has a well laid-out display of sculptural fragments mostly of sarcophagi. This was inaugurated in 2013.
+
+The basilica apse has a wide round-headed recess at ground level. In this recess has been placed a so-called bishop's throne, a stone structure imitating ancient episcopal seats in other churches in Rome. 
+
+Foundations were found for a ''pergula'' or shrine-screen under the triumphal arch of the apse, formed of ''plutei ''or slabs of marble on edge, supported by low square pillars. The present set of beams above these is modern, but the two taller Corinthian pillars on either side which support it are original and have been re-erected. Two further column fragments have been tucked into the far corners of the nave, where the piers of the vaulting would have been in the original edifice. 
+
+== Access ==
+
+=== Catacombs ===
+This is one of the sets of catacombs in Rome with open access. You just turn up, buy a ticket and wait for a guided tour. The ticket price (2017) is eight euros.
+
+The basilica of ''San Silvestro'' is only usually visitable as part of a catacomb tour -it is not open to the outside, so you cannot visit it from the Villa Ada park.
+
+Opening times (catacomb website, June 2018) are:
+
+9:00 to 12:00, and 14:00 to 17:00. 
+
+Closed Mondays. There has been a month's closure in January in the past, and in 2018 it was announced that there would be a holiday closure from 24 July to 20 August.
+
+These catacombs rank at about the fourth most popular, after [[Catacombe di San Callisto]], [[San Sebastiano fuori le Mura]] and [[Santa Domitilla]]. A shortage of parking facilities for large coaches means that tour groups are not so prevalent. 
+
+The quieter ambience used to mean that you were unlikely to encounter the noisome routine practice at the busier catacombs, of shortening the tours in response to busy periods. Three problems have been remarked upon recently, however, which seem to be linked to a shortage of funds with which to pay tour guides (the nuns are now too few to do tours themselves): 
+* An inadequate number of guides has led to this practice of curtailing tours. Tours of only half an hour have been complained about, which must mean that only a quick view of the ''Velatio ''and ''Cappella graeca ''area is provided and the basilica area is missed out entirely.
+* You might wait a while for a tour in the language of your choice if it's not Italian. 
+* The closure times mentioned above are when the doors are locked, and not when the last tour starts. This might be more than half an hour beforehand.
+
+Routinely available languages are Italian, English, German, French and Spanish. Romanian and Portuguese tours have to be pre-booked, and might not be available.
+
+The Basilica of ''San Silvestro ''and the ''Hypogeum of the Acilii ''are now consecrated spaces, and pilgrimage Masses can be celebrated (booking in advance is needed, and obviously the priest needs to be able to show a ''celebret'').
+
+=== Casa chapel ===
+The convent chapel is accessible to the public for Mass.
+
+=== Former convent ===
+The former convent is now a police academy, and is private. You can glimpse the former chapel façade through the entrance gateway (to the right).
+
+== Liturgy ==
+As a public dependent Mass centre of the parish of [[San Saturnino Martire]], the chapel has a regular timetable of public Masses. These are not part of the devotional activity at the catacombs. The early morning Mass is conventual.
+
+These times are on the parish website, July 2018:
+
+Weekdays: 7:00;
+
+Sundays and Solemnities 7:30, 10:00, 11:00.
+
+== External links ==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=3693 Official diocesan web-page]
+
+[https://it.wikipedia.org/wiki/Catacombe_di_Priscilla Italian Wikipedia page]
+
+[http://www.catacombepriscilla.com/index_en.html Website of catacombs]
+
+[http://www.benedettinedipriscilla.it/ Website of nuns]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=4036 Info.roma web-page]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=5037&roma=Cappella%20dell'Ex%20Convento%20delle%20Suore%20Benedettine%20Di%20Priscilla Info.roma web-page of former convent]
+
+[http://www.romasotterranea.it/le-catacombe-di-priscilla.html Roma Sotterranea web-page]
+
+[http://romapedia.blogspot.co.uk/2013/11/catacomb-of-priscilla.html "Romapedia" blog page]
+
+[https://www.google.co.uk/maps/place/Catacombs+of+Priscilla/@41.9293071,12.509132,3a,75y,90h,90t/data=!3m6!1e1!3m4!1s04d5bcMiyxcAAAQJOCIaIA!2e0!7i13312!8i6656!4m5!3m4!1s0x0:0x6ac5a8c1e54625b!8m2!3d41.9296221!4d12.5085324 Virtual tour on Google Maps]
+
+[http://www.repubblica.it/speciali/arte/gallerie/2013/11/19/foto/restauro_catacombe_priscilla_roma-71399950/1/#1 "Reppublica" slide-show of restoration]
+
+[https://www.youtube.com/watch?v=WrMVl-Ag1oo "Museo di Priscilla" Youtube video]
+
+[https://www.youtube.com/watch?v=z_5AAk1jABI "Khan Academy" Youtube video]
+
+[https://www.youtube.com/watch?v=tCTVTE9HFS0 "TV2000 It" Youtube video]
+[[Category:Catholic chapels in larger buildings]]
+[[Category:Public chapels]]
+[[Category:Convent churches and chapels]]
+[[Category:Dedications to St Priscilla]]
+[[Category:19th century]]
+[[Category:Catacombs]]
+[[Category:Outside the walls - North-East]]
+[[Category:Dedications to St Sylvester]]
+[[Category:3rd century]]
+[[Category:4th century]]
+[[Category:Catacombs on Via Salaria Nova]]
+[[Category:Catholic churches]]

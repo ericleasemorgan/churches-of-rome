@@ -1,0 +1,38 @@
+#REDIRECT [[Sant'Urbano alla Caffarella]]
+{{Infobox church|
+name= Sant'Urbano alla Caffarella|
+image=  |
+caption= |
+englishname= St Urban |
+dedication= St [[Urban]]|
+denomination= [[Roman Catholic Church|Roman Catholic]]|
+type= |
+clergy= |
+titular= |
+national= |
+built= 2nd cent., |
+consecrated= 10th century|
+architect= |
+artists= |
+address= Via della Caffarella/Vicolo Sant'Urbano <BR> 00179 Roma|
+phone= 06 69 88 61 21|
+fax = |
+e-mail= |
+url= |
+}}
+'''Sant'Urbano alla Caffarella''' is dedicated to St Urban, who was Pope from [[222]]-[[230]]. Pictures of the church[http://www.gliscritti.it/gallery2/v/album_015/]
+==History==
+
+The building was originally a pagan temple, probably constructed on the orders of the 2nd century Athenian philanthropist Herodes Atticus. In the 10th century, the structure was modified and consecrated as a church.
+
+It was altered in the 17th century.
+==Exterior==
+
+The columns at the front of the building originally formed part of a portico, but walls were added in [[1634]].
+
+{{DEFAULTSORT:Urbano}}
+[[Category:Catholic churches]]
+[[Category:Dedications to St Urban]]
+[[Category:10th century]]
+[[Category:17th century]]
+[[Category:Outside the walls - South-East]]

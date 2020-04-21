@@ -1,0 +1,642 @@
+{{Infobox church|
+name= San Lorenzo fuori le Mura|
+image=  |
+caption= |
+englishname= St Lawrence outside the Walls |
+dedication= St [[Lawrence the Deacon]]|
+denomination= [[Roman Catholic Church|Roman Catholic]]|
+type= |
+clergy= Franciscan Capuchins|
+titular= |
+national= |
+built= 4th century, restored several times|
+consecrated= |
+architect= Virginio Vespagniani|
+artists= |
+address= 3 Piazzale del Verano<br> 00185 Roma|
+phone=06 49 15 11  |
+fax = |
+e-mail= |
+url= [http://www.basilicadisanlorenzo.org Official Site]|
+}}
+'''San Lorenzo fuori le Mura''' is one of the five [https://en.wikipedia.org/wiki/Major_basilica#Papal_basilicas papal basilicas] of Rome, as well as being a parish church served by Franciscan [[wikipedia:Order_of_Friars_Minor_Capuchin|Capuchins]]. It is at Piazzale del Verano 3, near an important bus and tram station in the Piazza San Lorenzo. This is in the [https://it.wikipedia.org/wiki/Tiburtino Tiburtino] quarter.
+
+The complex also contains the formerly important ''Catacomba di Ciriaca. ''See [[Catacombs of Rome]].
+
+The dedication is to St [[wikipedia:Lawrence_of_Rome|Lawrence]], the 3rd century deacon and martyr of Rome.
+
+== Status ==
+This used to be one of the "[[patriarchal basilicas]]", until that title was abolished in 2006. It is now classed as a papal basilica. However, and very confusingly, it is not a [[major basilica]] but a [[minor basilica]]. So, this is a papal minor basilica! 
+
+The church was formerly regarded as the Roman seat of the [[wikipedia:Latin_Patriarch_of_Jerusalem|Latin Patriarchate of Jerusalem]].
+==History==
+
+=== The patron saint ===
+After the apostles Peter and Paul, St Lawrence counts as the most distinguished of all the martyrs of Rome. 
+
+He died on 10 August 258, after the emperor [[wikipedia:Valerian_(emperor)|Valerian]] had sent an edict from the emperor's eastern front with Persia (where he was at war), ordering the execution of all the clergy of the Church of Rome. The emperor's motivation might have been the propitiation of the protecting deities of the Empire, as he was in serious difficulties on the campaign which were to lead to his capture by the Persians and a lingering death.
+
+It is clear that the immediate result of this edict was the arrest and execution of Pope [[wikipedia:Pope_Sixtus_II|Xystus II]] (not "Sixtus", an ancient error) and his council of administrators. The latter were the Church's [[wikipedia:Deacon|deacons]], who back then were very important people -the pope and his deacons were the equivalent of a modern company's board of directors. 
+
+By tradition, the pope and four deacons were arrested while celebrating Mass at the [[Catacomba di Pretestato|Catacombs of Praetextatus]] on the Appian Way, brought into the city and executed on 7 August. On the way, St Lawrence who was a fifth deacon met them at what is now the church of [[San Sisto Vecchio]]. The five were buried in the [[wikipedia:Catacomb_of_Callixtus|Catacombs of Callixtus]], and the four deacons later given names as the legend developed: Januarius, Magnus, Vincent and Stephen. They used to be depicted in frescoes inside the basilica. Two other deacons, Felicissimus and Agapitus, were separately killed and buried in the [[Catacomba di Pretestato|Catacombs of Praetextatus]] (their epigraph survives). The old Roman martyrology listed an eighth deacon in error, one "Quartus", whose existence depended on a bad manuscript reading ''diaconus quartus ''for ''diacones quattuor.''
+
+St Lawrence, as the surviving deacon, was now in charge of the Church of Rome, and promptly gave away its funds rather than have them seized. The later legend then described him as presenting some poor people to the city's prefect when required to hand over the treasure, and being imprisoned. He then allegedly converted an army officer called St Hippolytus who was in charge of the prison, before being roasted alive on a gridiron as a punishment for his insubordination. He was then buried in a catacomb owned by St [[wikipedia:Cyriaca|Cyriaca]] by a priest called Justin, and both of these as well as St Hippolytus were then martyred. The tomb became the site of the future basilica.
+
+The outline of the legend is accepted as genuine. That is, the edict by emperor Valerian immediately led to the execution of the pope and his deacons, but St Lawrence was kept alive for a few days in order that the authorities could use him to trace and seize the wealth of the Church. He managed to foil this, and so was martyred himself. Several patristic authors, such as Prudentius and SS Augustine, Ambrose and Leo, wrote about him with veneration. 
+
+However, the narrative details of his legend are now regarded as fictional. A persuasive explanation of the gridiron is that another bad manuscript described the saint as ''assus ''("roasted") instead of ''passus ''("defunct"), and it is fairly certain that the martyrs were beheaded in accordance with Roman law. The final form of the legend was concocted by St [[wikipedia:Ado_(bishop)|Ado of Vienne]], a notorious forger of legends, who co-opted the genuine earlier martyr St [[wikipedia:Hippolytus_of_Rome|Hippolytus of Rome]] as the prison governor. The names of the four deacons have been discarded in the revised [[wikipedia:Roman_Martyrology|Roman martyrology]], St Justin has been deleted completely and St Cyriaca is described as an early benefactress of the Church -not a martyr, nor anything to do with St Lawrence.
+
+=== St Lawrence's other churches at Rome ===
+St Lawrence was massively popular in Rome from early times. This is witnessed to by two of the ''tituli'' (the earliest parish churches) in the ''Centro Storico ''being dedicated to him -[[San Lorenzo in Damaso]] and [[San Lorenzo in Lucina]]. The latter has the relic of his gridiron.
+
+If you have a devotion to him, you can visit three other churches associated with his legend. [[San Lorenzo in Miranda]] was where he was tried, [[San Lorenzo in Fonte]] where he was imprisoned, and [[San Lorenzo in Panisperna]] where he was executed. His head was kept as a relic in the papal chapel of [[San Lorenzo in Palatio ad Sancta Sanctorum]]. There is one other surviving church dedicated to him, [[San Lorenzo in Piscibus]].
+=== The problem ===
+The major problem with the early history of the basilica is, that it's not certain how many churches were here in the early Middle Ages, where they were and who built them.
+
+The position before the second half of the 20th century was relatively straightforward, as follows: The emperor [[wikipedia:Constantine_the_Great|Constantine]] built a basilica "at" the tomb of St Lawrence between 314 and 335 (this is mentioned in the [[wikipedia:Liber_Pontificalis|Liber Pontificalis]], not a completely reliable source). This would have been the sanctuary of the present basilica, with its apse facing west. Then another church would have been built to the west by Pope [[wikipedia:Pope_Sixtus_III|Sixtus III]] (432-40), facing the other way with the apses of the two churches touching. Finally, Pope [[wikipedia:Pope_Honorius_III|Honorius III]] (1148-1227) would have combined the two churches into the present building. Simple.
+
+This consensus was blown out of the water when archaeologists discovered the foundations of the Constantinian basilica north of the present church in 1950. Since then scholars have struggled to reconcile the early documentary evidence with the archaeological and architectural data, and a secure consensus has not been reached. What is given below is hopefully a fair summary.
+
+=== The tomb ===
+After he was martyred in the year 258, St Lawrence was buried in catacombs on the ancient Via Tiburtina, under a field that once belonged to the emperor [[wikipedia:Lucius_Verus|Lucius Verus]] (hence ''[https://en.wikipedia.org/wiki/Campo_Verano Campo Verano]''). These had apparently been owned and operated by a wealthy lady called [https://en.wikipedia.org/wiki/Cyriaca Cyriaca], hence they are still named after her. The saint's original shrine was below ground, in a ''cubiculum ''or chamber of the topmost level (there are five in total).
+
+Cyriaca's name is Greek, and its Latin equivalent is Domenica. She is also associated with the church of [[Santa Maria in Domnica]], and is accepted as having been a patron of the Church around the year 200. She was probably dead by the time St Lawrence was martyred, and was later venerated as a martyr herself. This is unhistorical.
+
+=== The other saints ===
+There were other martyrs venerated in the complex from early times. The revised Roman Martyrology (2001) has these entries:
+* St Romanus, 9 August, about AD 258. The old Roman Martyrology describes him a soldier martyred after being baptised by St Laurence, but these biographical details have been deleted as unhistorical.
+* SS [https://en.wikipedia.org/wiki/Abundius_and_Irenaeus Abundius and Irenaeus], 23 August, of an uncertain date. They also were co-opted into the developed romantic legend of St Lawrence, being associated with St Hippolytus and this led to a spurious entry in the old Roman Martyrology. The latter also gave their feast-day as 26 August in error.
+
+===Circiform basilica===
+
+It is thought that, about the year 330, the emperor [[wikipedia:Constantine_the_Great|Constantine]] ordered the construction of a large funerary basilica south of the present church in what is now the cemetery. This was enormous, 99 metres long and 34 metres wide and was in the form of an ancient Roman [[wikipedia:Circus_Maximus|circus]] (the plan is technically called "circiform"). There was a central nave with aisles, and the west end was semi-circular. The aisles were separated by colonnades with twenty-four columns on each side, ending at the apse with L-shaped piers. A further six columns marked off the curve of the walkway joining the two aisles around the curve of the apse. 
+
+When the circiform basilica was built, a path and staircase was apparently provided which led from it to the shrine which was located down a short slope. The basilica might have been built to one side rather than over the shrine, because of worries about its foundations sinking into the catacombs.  
+
+What Constantine might also have done was to order an excavation into the catacomb in which the martyr was buried, which would have exposed his tomb to the open so that a shrine-edifice could be built around it. But this is a surmise. 
+
+However, there is serious recent doubt as to whether this circiform basilica was originally a church at all, instead of a funerary enclosure. This question derives from the revision of the status of the [[Sant'Agnese fuori_le_Mura_-Basilica_Constantiniana|Basilica Constantiniana]] at ''Sant'Agnese fuori le Mura''. The same reservation about function now applies to all the basilicas put up by Constantine, including [[San Giovanni in Laterano]] and [[St Peter's]]; it is thought that none of these might originally have been churches with altars for the celebration of Mass. 
+
+Here, the fact that the floor of the circiform basilica was originally almost completely covered with tombs supports the theory that it was originally a funerary enclosure, and might not have been fully roofed (see the modern ''quadriporticus ''in the neighbouring cemetery for an example of a funerary enclosure with an open central space, surrounded by covered walkways). Further suspicion arises from the archaeologists not finding any doorway or other connection allowing pilgrims direct access to the shrine from inside the basilica. 
+
+The floor tombs had been laid three layers deep, so this was a popular place for burials. 
+
+=== Papal tombs ===
+The cemetery attracted papal burials in the 5th century:
+* Pope [https://en.wikipedia.org/wiki/Pope_Zosimus Zosimus] (417-8).
+* Pope [http://en.wikipedia.org/wiki/Pope_Sixtus_III Sixtus III] (432-40). See below.
+* Pope [https://en.wikipedia.org/wiki/Pope_Hilarius Hilarius] (461-8).
+
+=== Sixtus III ===
+The entry in the ''Liber Pontificalis ''for Pope [http://en.wikipedia.org/wiki/Pope_Sixtus_III Sixtus III] (432-40) causes the major problem for interpreting the buildings on the site in the 5th century. It alleges that he erected a basilica dedicated to St Lawrence, with the permission of the emperor [[wikipedia:Valentinian_III|Valentinian III]]. Scholars have come up with various theories: 
+* "The pope actually built the ''circiform'' basilica, not the emperor Constantine". (This does not find favour with architectural historians.) The hypothesis was promulgated by Herman Geertman: ''La basilica major di San Lorenzo F. L. M., ''1976.  
+
+* "The pope converted the ''circiform'' funerary enclosure of Constantine into an actual church." (Ditto; the archaeologists found no evidence for such a conversion.) 
+
+* "The pope merely embellished or restored a putative pre-existing Constantinian shrine-edifice." (Again, there is no support in the archaeology.) 
+
+* "The pope built a church on what is now the nave of the present basilica." (This theory has lost favour. The archaeologists found no trace of an apse where it said that there should be one.) 
+
+* "The pope built a church elsewhere in the complex, on an unknown site". 
+
+* "The pope actually didn't build his basilica here at all, but somewhere else" -[[San Lorenzo in Lucina]] has been suggested. (This ducks the problem of the "two basilicas" -see below.) 
+
+=== 5th century developments ===
+The complex received serious attention in the later 5th century. The [https://en.wikipedia.org/wiki/Liber_Pontificalis Liber Pontificalis] records the following:
+* Pope [https://en.wikipedia.org/wiki/Pope_Simplicius Simplicius] (468-83) built a church here dedicated to St [https://en.wikipedia.org/wiki/Saint_Stephen Stephen the Protomartyr]. He had also completed the famous [[Santo Stefano Rotondo al Celio]], and it is unclear as to how or why the cult of the Protomartyr was attracting so much attention at Rome at the time. The church of [[Basilica di Santo Stefano Protomartire a Via Latina|Santo Stefano a Via Latina]] was only slightly earlier.
+* Pope [https://en.wikipedia.org/wiki/Pope_Felix_III Felix III] (483-92) allegedly built a church dedicated to St Agapitus, in later centuries identified with one of the other six deacons of the Roman church with St Lawrence. The original identity of this saint is very obscure, and there is confusion with St [https://en.wikipedia.org/wiki/Agapitus_of_Palestrina Agapitus of Palestrina].
+* Pope [https://en.wikipedia.org/wiki/Pope_Symmachus Symmachus] (498-514) built pilgrim hostels here, and there was also a papal palace as part of the complex by this time. It is thought that burials in the catacombs had ceased by then
+
+=== Two basilicas ===
+Some historical certainty concerning the churches here arises in the reign of Pope [[wikipedia:Pope_Pelagius_II|Pelagius II]] (579-[[590]]), who ordered a new church to be built actually over the shrine. This is the present sanctuary of the basilica, and was provided with an apse. The famous mosaic over the triumphal arch was originally over this apse, evidence of which was found by the archaeologists.
+
+However, the archaeologists did not find any evidence of a pre-existing shrine-edifice.
+
+In the 7th century pilgrimage itineraries there are references to two basilicas here, the ''major ''and the ''minor. ''The latter was clearly the Pelagian church, and the former was taken by scholars to have been the Constantinian basilica. There is, however, further doubt about the latter surmise. The archaeological evidence does not allow a date to be given for the abandonment of the latter building, and this might already have occurred. If so, the ''major ''might have been an otherwise undiscovered church built by Pope Sixtus. 
+
+=== Pilgrimage centre ===
+
+==== Overview ====
+Unlike some of the other ancient radial roads, which could tempt the 7th century pilgrim to travel for miles beyond the city walls to visit this or that shrine, the Via Tiburtina only had a set of shrines near the city gate, focused on ''San Lorenzo ''and the nearby [[Catacomba di Sant'Ippolito|Sant'Ippolito]] with their respective catacombs. Ultras could trek a long way to [[Santa Sinforosa]] and her alleged seven sons at the seventh milestone, but that shrine really belonged to [https://en.wikipedia.org/wiki/Tivoli,_Lazio Tivoli]. The seven sons seem to have been transferred to ''San Lorenzo ''by this period.
+
+Their names of the sons were: Crescens (AKA Crescentius or Crescentianus), Julian, Nemesius, Primitivus, Justin, Stacteus and Eugenius.
+
+==== ''Itinerarium Salisburgensis'' ====
+The ''Itinerarium Salisburgensis ''has the following: 
+
+''Pervenies ad ecclesiam s. Laurentii, ibi sunt magnae basilicae duae in quarum quis speciosiorem et pausat, et est parvum cubiculum extra ecclesiam in hoc occidentur. Ibi pausat s. Abundius et Herenius martyr via Tiburtina; et ibi est ille lapis quem tollent digito multi homines nescientes quid faciunt. Et in altera ecclesia sursum multi martyres pausant. Prima est Cyriaca, sancta vidua et martyr, et in altero loco s. Iustinus, et iuxta eum s. Crescentius martyr and multitudo sanctorum, longe in spelunca deorsum s. Romanus martyr. Postea ascendes ad ecclesiam s. Agapiti martyris et diaconi s. Syxti papa.'' 
+
+("You will come to the church of St Lawrence. Here there are two great basilicas, in the more beautiful of which he (Lawrence?) rests, and there is a small chamber outside the church. In this "they will be killed" ''[the text is apparently corrupt'']. There rests St Abundius, and Irenaeus the martyr on the Via Tiburtina, and there is the stone which many men took by hand not knowing what they were doing. And in another church above, many martyrs rest. The first is Cyriaca, the holy widow and martyr, and in another place St Justin, and next to him St Crescentius the martyr and a multitude of saints; some distance away in a cave below is St Romanus the martyr. Afterwards you ascend to the church of St Agapitus, martyr and deacon of Pope St Xystus.") 
+
+This demonstrates the difficulty of figuring out just how many churches were here in the 7th century. The "beautiful" one is Pope Pelagius's church. The reference to a "stone" is to one alleged to have been used in the martyrdom of St Stephen, and was presumably in the church dedicated to him although his name is not mentioned. St St Agapitus had a church of his own, known from elsewhere, and apparently so also did St Cyriaca (but is this St Stephen's church?). Two of the seven sons of St Symphorosa are mentioned. 
+
+==== ''Epitome'' ====
+The ''Epitome ''reads:
+
+''Iuxta viam Tiburtinam, prope murum civitatis, ecclesia est s. Ianuarii episcopi at martyris. Eademque via ecclesia est s. Agapiti, multum honorabilis martyrum corporibus. Et prope eandem viam ecclesia est s. Laurentii maior in qua corpus eius primum fuerat humatum, et ibi basilica nova mirae pulchritudinis, ubi ipse modo requiescit. Ibi quoque sub eodem altare Abundius est depositus et foris in portico lapis est, qui aliquando in collo eiusdem Abundi pendebat in puteum missi. Ibi Hereneus, Iulianus, Primativus, Tacteus, Nemeseus, Eugenius, Iustinus, Crescentianus, Romanus sunt sepulti, et s. Cyriaca, s. Simferosa et Iustina cum multis martyribus sunt sepulti. ''
+
+("Next to the Via Tiburtina near the city wall is the church of St Januarius bishop and martyr. On the same road is the church of St Agapitus, honoured by the bodies of many martyrs. And near the same road is the major church of St Lawrence in which his body was first buried, and there is the new basilica of marvellous beauty where he now rests. There also, under the same altar, Abundius is installed and outside in the portico is a stone which once hung from Abundius's neck when he was put down a well. There Irenaeus, Julian, Primitivus, Tacteus, Nemesius, Eugenius, Justin, Crescentianus, Romanus are buried, and St Cyriaca, St Symphorosa and Justina are buried with many martyrs.")
+
+This mentions the two basilicas, the ''major ''and the ''minor, ''as well as the separate church of St Abundius, already noted. There is another sacred stone featured here. In his fictional story the saint was martyred by being dropped into a sewer, and this stone was claimed as his weight. St Symphorosa and her seven sons are also described as being here -her presence is unlikely (see [[Santa Sinforosa]]). The St Justina mentioned is otherwise unknown.
+
+Next to the ''Porta Tiburtina, ''somewhere around the present Piazzale Sisto V, was a church dedicated to ''San Gennaro ''or St Januarius, probably not the St [https://en.wikipedia.org/wiki/Januarius Januarius] of Naples but a martyr enshrined at the [[Catacomba di Pretestato]]. The history of this church is not known. It features in a story of a vanishing corpse in the ''Dialogues of St Gregory the Great ''(dialogue four).
+
+==== Vita Hadriani I ====
+Pope [[wikipedia:Pope_Adrian_I|Adrian I]] (772-95) restored and made donations to the two basilicas, known as the ''Basilica ad corpus ''(clearly the Pelagian building) and the ''Basilica major ''dedicated to Our Lady by then. He also apparently built a covered portico at the entrance to the complex, which tradition mutated into an utterly impossible roofed walkway from the city gate. 
+
+He also restored the catacombs, and the church of St Stephen. The ''Vita ''has this about the church: 
+
+''Ubi corpus s. Leonis episcopi et martyris quiescit ''("Where the body of St Leo, bishop and martyr, rests"). 
+
+This comment has puzzled scholars for centuries. The reasonable surmise was that an expatriate bishop visiting Rome was killed in some disturbance, but his date and the circumstances are completely unknown. One guess is that he died in a riot resulting from the [https://en.wikipedia.org/wiki/Arian_controversy Arian controversy] in the 4th century. The old Roman martyrology listed him on 14 March, but he was deleted in the 2001 revision. 
+
+=== Origin of monasteries ===
+The original churches of the complex would have been served by secular priests, since monks did not perform sacerdotal duties in Rome before the reign of Pope [[wikipedia:Pope_Gregory_I|Gregory the Great]] at the end of the 6th century. The [[wikipedia:Order_of_Saint_Benedict|Benedictines]] used to claim that they had a monastery here from the 6th century, but this is certainly false (the traditional early history of the Order was a later mediaeval confection, some of it downright malicious). 
+
+However, it seems very likely that a monastic presence was established here by expatriate [[wikipedia:Byzantine_Rite|Byzantine rite]] monks in the 7th century. Unfortunately, documentation is entirely lacking for the foundation of the monastery attached to the shrine of St Lawrence.
+
+The church of St Stephen became the nucleus of a second monastery, staffed with Byzantine-rite monks when it was restored by Pope Leo IV (847-55). The full dedication was by then to SS Stephen and Cassian. It is unclear as to whether the latter was St [https://en.wikipedia.org/wiki/Cassian_of_Imola Cassian of Imola] or St [https://en.wikipedia.org/wiki/John_Cassian John Cassian].
+
+=== Summary description of 8th century complex ===
+Before the collapse of the Roman suburban pilgrimage network in the 9th and 10th centuries owing to the countryside being overrun by bands of marauders, the complex featured the following churches:
+* ''Basilica major, ''dedicated to Our Lady. The tentative consensus is that this was on an unknown site, rather than being the Constantinian basilica converted into a church. A very hesitant guess is that it was located to the east of the present basilica in what is now the cemetery, sharing a major axis with the following.
+* ''Basilica minor, ''dedicated to St Lawrence. This is the nave of the present basilica.
+* ''San Gennaro. ''A city gate church, outside the [https://en.wikipedia.org/wiki/Porta_Tiburtina Porta Tiburtina].
+* ''Sant'Agapito. ''Somewhere under the present Piazzale di San Lorenzo?
+* ''Santa Ciriaca. ''The present basilica has a chapel dedicated to St Cyriaca on the left hand side, and this may be the successor of her church once here.
+* ''Santi Stefano e Cassiano. ''Excavations in 1857 to the right of the basilica allegedly found traces of this monastery and church, but the archaeology there has been destroyed by the modern cemetery.
+
+=== Contraction ===
+The Church of Rome actually abandoned almost all its sacred sites outside the city walls in the 9th century, and brought within the walls the relics of the martyrs and saints formerly enshrined in the catacombs. This was because the countryside was overrun by various pirates and brigands who were liable to capture pilgrims for slavery. However that did not happen here, and a special and focused effort must have been made to protect pilgrims in between the basilica and city gate. 
+
+However, the complex was substantially reduced. Whether the basilica of Our Lady was the Constantinian basilica or an unknown church, it received its last historical mention in the middle of the 9th century and was then apparently abandoned. So were all the other churches listed above, except for the ''Basilica minor.''
+
+=== Laurentiopolis ===
+The Benedictines took over the monastery in the 10th century, the community being affiliated to the abbey of [[wikipedia:Cluny_Abbey|Cluny]] in France. The same thing happened at [[San Paolo fuori le Mura]], and in the 11th century there were twenty Benedictine abbeys in Rome.
+
+During the Middle Ages, the complex was isolated in open countryside and functioned pastorally only as a pilgrimage destination. However, much attention was given to it. Pope [[wikipedia:Pope_Clement_III|Clement III]] (1187-91) provided the campanile, the cloister and also a hospice for pilgrims (nobody would risk the trip back to the city in the dark). In 1200, the complex was finally given a protecting wall and the resulting small town was called ''Laurentiopolis''.  
+
+This work was possibly responsible for the loss of the original atrium or ''quadriporticus ''of Pope Adrian, which was in front of the present basilica and so isolated from the ''basilica minor''. 
+
+The tower of the convent (not the campanile, but at the far end of the basilica) is thought to be a survivor of this fortification. 
+
+=== Creation of present edifice ===
+Pope [http://en.wikipedia.org/wiki/Pope_Honorius_III Honorius III] (1148-1227) oversaw the creation of the present church. This was done by building an elevated tribune or platform above the shrine, on which the high altar stands, and filling in the space between it and the outer walls of the ''basilica minor ''of Pope Pelagius to a depth of two metres. Then, the apse of the old church was demolished and a new nave was added with an external portico. Oddly, this nave was not well aligned with the old church -there is a noticeable angle (unfortunately, some published plans ignore this). For this reason, some scholars have argued that the nave must have re-used the foundations of an earlier building -but the evidence does not allow us to confirm or deny this. 
+
+Structurally, the church has experienced little change since. However, the interior decoration and fittings certainly have. There is evidence that there once was a ''schola cantorum ''like that at [[San Clemente]], and at least the side aisle walls had frescoes.
+
+Unlike those at [[San Sebastiano fuori le Mura]], the catacombs seem not to have been a visitor attraction in the later Middle Ages.
+
+=== Renaissance ===
+Pope [[wikipedia:Pope_Sixtus_IV|Sixtus IV]] (1471-84) confirmed the possession of the monastery by the [[wikipedia:Canons_Regular_of_the_Lateran|Canons Regular of the Lateran]]. They would have been running the complex since the collapse of Benedictine life here, perhaps in the late 13th century.
+
+Cardinal [[wikipedia:Oliviero_Carafa|Oliviero Carafa]] (1492-1503) oversaw a restoration and decoration of the interior (unfortunately, all of the decorative elements were lost in the 19th century restoration). Every other window in the upper nave side walls was blocked at some stage, probably in this restoration. This window blocking was standard practice in old Roman churches where restorers were intending to install a ceiling or vaulting. Also, the windows in the façade were replaced.
+
+On the other hand, the decorative marbles and columns which were placed in front of the church by Pope Honorius were looted by Pope [[wikipedia:Pope_Leo_X|Leo X]](1513-21) for his family's ''palazzo''. The result was that the basilica was left facing onto what was little better than a rocky farmyard, and this was to cause concern. Apparently remnants of the portico of Pope Adrian I were to be seen here.
+
+=== Baroque restoration ===
+Scholarly interest in the complex awakened with the surveys of [https://it.wikipedia.org/wiki/Antonio_Bosio Antonio Bosio] in 1593. Back then, the basilica was surrounded by extant ruins and Bosio made some attempt at distinguishing the sites of the lost churches. Tragically, his interest coincided with a substantial expansion of the areas of vineyards outside the city walls. The effect of this was disastrous for archaeology, as ruins were cleared away to make way for vines and the stonework re-used in vineyard walls. All the ruins here met this fate.
+
+In 1624, the ceiling of the eastern part collapsed onto the baldacchino of the high altar, and seriously damaged it. The subsequent restoration was sponsored by Cardinal [http://it.wikipedia.org/wiki/Francesco_III_Boncompagni Francesco III Boncompagni.] The baldacchino was not restored to its previous mediaeval design, but was given a little dome rather like that of the ''Duomo ''at Florence. The ''confessio ''was also repaired, and given a balustrade with yellow Siena marble ball finials. The below-ground chapel of St Cyriaca, to the north of the basilica, was also given a Baroque re-fit in this project.  
+
+A 19th century watercolour of the resulting interior is viewable [http://preview2-riba.contensis.com/001Oldfolders/LibraryDrawingsAndPhotographs/OnlineWorkshops/RomingRome/14Aitchison.aspx here.] As well as the 17th form of the baldacchino, it shows the flat coffered wooden sanctuary ceiling with large octagonal coffers, the sanctuary walls with stencil frescoes in geometric designs and a decayed late 15th century of what looks like Our Lady being venerated by saints. On the far wall of the far gallery seem to be more frescoes of saints, and these would have been late 15th century as well. 
+
+People started to settle outside the city walls when public security improved in the 17th century, and the defensive wall was removed.
+
+In 1688, Cardinal [http://it.wikipedia.org/wiki/Giacomo_Rospigliosi Giacomo Rospigliosi] restored the roof and an epigraph of thanks to him survives in the portico.
+
+=== 18th century ===
+In 1704, it was proposed that a semicircular colonnaded arcade be built in front of the church to improve its dignity. A design was provided by Alessandro Galli, but was not executed. What ended up being put there in the event, was a column supporting the heraldic symbols of Pope [http://en.wikipedia.org/wiki/Pope_Clement_XI Clement XI] which was paid for by Cardinal [[wikipedia:Pietro_Ottoboni_(cardinal)|Pietro Ottoboni]]. In the process, the rocks lying about and the ruins of Adrian's portico were cleared away and the site levelled. Stone bollards with ball finials were arranged in a semi-circle, and flanking the column were two large plinths bearing the stylized mountains and star from the heraldic shield of the [[wikipedia:House_of_Chigi|Chigi]] family.
+
+A parish was erected in 1709, in response to suburban development along the Via Tiburtina.
+
+The first scientific explorations of the catacombs were by [https://it.wikipedia.org/wiki/Giovanni_Marangoni_(archeologo) Giovanni Marangoni] and his close friend [http://www.treccani.it/enciclopedia/marcantonio-boldetti_%28Dizionario-Biografico%29/ Marcantonio Boldetti].
+
+=== 19th century ===
+There was a restoration of the pilgrimage entrance (now closed) of the catacombs in 1821.
+
+In 1830 the present enormous neighbouring cemetery of [http://en.wikipedia.org/wiki/Campo_Verano Campo Verano] was opened for the Catholic population of Rome (formally consecrated in 1837), and the basilica has since often been known as ''San Lorenzo in Campo Verano. ''This cemetery was opened to all residents of Rome, regardless of religion, at the insistence of the government of Italy after 1870.
+
+In 1832, the convent had a re-fit and in the process the cloister frontages were altered.
+
+In 1855, the Canons of the Lateran were required to hand the basilica over to the Capuchins.
+
+Blessed Pope [[wikipedia:Pope_Pius_IX|Pius IX]] ([[1846]]-[[1878]]) commissioned Virginio Vespagniani to restore the church between 1857 and 1864. The pope had a great love for the basilica, and this was one of the most expensive church restorations that he commissioned. Part of the scope of the restoration was to provide a mortuary chapel for the pope, who wished to be buried here and not in St Peter's 
+
+Most of the basilica's Baroque decorative elements were removed as a result of this restoration. The façade was reconstructed, and a cycle of frescoes provided for the interior. This involved the loss of the late 15th century fresco work, which was apparently in a bad state. Most importantly, the sanctuary side aisles (the present ambulatory) were dug out to the original 6th century floor level and windows provided for the shrine's ''confessio ''looking out onto these. The Baroque ceilings were also removed, which was a pity. 
+
+The pope was buried in 1878 in the tomb chapel built for him in the east end as part of the work, after a famous funerary procession from the Vatican which involved the cortege being ambushed by anti-clerical rioters on the way. The carriages of the mourners, together with the hearse, had to arrive here at a trot after a lot of hostile language was exchanged but, apparently, little real bloodshed. The major significance of this was that those in power at the Vatican realised that the ordinary people of Rome had no intention of ever again having a pope as their ruler. So, they started to hope for a war in which the pope could return as ruler while accompanied by a foreign army. This nonsense only stopped in 1929, when the Vatican was given its independence.  
+
+Simultaneously, in this period the city of Rome started its massive suburban expansion that left the church's surroundings wholly urbanized and which also destroyed its original access route from the city. This, the Via di San Lorenzo, was also the original line of the ancient [[wikipedia:Via_Tiburtina|Via Tiburtina]] and started near the church of [[Sant'Antonio Abate all'Esquilino]], running eastwards in an almost straight line through the [[wikipedia:Porta_Tiburtina|Porta San Lorenzo]] along what is now the Via dei Rami. The building of Termini train station was the reason for its suppression.
+
+=== 20th century ===
+The cloister was restored in 1929, and the alterations of 1832 reversed.
+
+The church was seriously damaged during World War II, during a bombing raid on the city's railway yards on [[wikipedia:Bombing_of_Rome_in_World_War_II#Notable_raids|July 19, 1943]]. This was the only church in Rome to suffer during the war, apart from [[Santa Maria Consolatrice al Tiburtino]] which was still under construction, and which was damaged in the same raid. A large bomb fell just outside the portico, which was almost completely destroyed by the blast. Fortunately, the actual church frontage with its frescoes remained standing. Also, a smaller bomb penetrated the roof and exploded on the Cosmatesque floor. The church arcade columns and the entablatures were scarred by shrapnel, the 19th century frescoes were seriously damaged and the Fieschi tomb was shattered. 
+
+One fact that is not well publicised is that the British were pushing a serious proposal to subject Rome to area bombing. This was advocated by [[wikipedia:Winston_Churchill|Churchill]] on the advice of [[wikipedia:Sir_Arthur_Harris,_1st_Baronet|Arthur Harris]], who was in supreme command of the British area bombing campaign during the Second World War and who is arguably the most high-profile British war criminal of that particular war.
+
+The basilica was subsequently repaired, the work being completed in 1949. This restoration was extremely well done in its execution, but the interior fresco work and some of the floor were beyond repair.
+
+One major innovation in this restoration was the decision to unblock the blocked-up windows in the upper nave side walls, which has given the interior some much-needed natural lighting.
+
+Simultaneously, [https://en.wikipedia.org/wiki/Richard_Krautheimer Richard Krautheimer] supervised archaeological investigations in the catacombs which he published in 1952. He claimed to have located the shrine of SS Abundius and Irenaeus in them.
+
+=== 21st century ===
+Not much of note has happened here since, except that the number of pilgrims visiting the basilica fell off sharply during the latter part of the 20th century. 
+
+The situation now is that the Capuchins are suffering from the dearth of vocations which all the old-established Catholic religious orders are experiencing, and the community here now (2014) only numbers three. Also, the parish is in danger of becoming too small to be viable. Nothing will probably change for the time being, but the rumour is that the ecclesiastical vultures are starting to circle high in the sky.
+
+(2017) The Capuchins are still in charge, although one of the three priests here is an African and apparently the Diocese doesn't know which country he comes from. The Order is in serious difficulties. The Diocese does not list a convent here, which could (but need not) be taken as a hint that the Holy See is considering a change. A further verbal rumour is that the [https://en.wikipedia.org/wiki/Franciscan_Friars_of_the_Renewal Friars of the Renewal] might be involved.
+
+==Exterior==
+
+=== Layout and fabric ===
+As it stands, the church has an external loggia, then a nave with aisles of twelve bays, then a sanctuary of seven bays including a lower-level [[wikipedia:Ambulatory|ambulatory]] . Apart from the loggia, which has its own lower roof, the roof of the church sweeps in one run from above the entrance to the far end. Thus, it includes the slight bend halfway down the church. It may be the longest tiled roof on a Roman church. It is pitched and tiled, and is hipped at the ends.
+
+There is no transept, nor any external chapels attached to the church except a 19th century one tucked into the angle of the sacristy.
+
+=== Column ===
+The pink granite column in front of the portico, with a bronze statue of St Lawrence on top, is not the original Galli one but a replacement of 1865. The statue was by [http://it.wikipedia.org/wiki/Stefano_Galletti Stefano Galletti]. It stands on an impost supported by a limestone Doric capital, and the column itself stands on a high plinth.
+
+=== Convent ===
+The convent, with its rectangular cloister, is by the far right hand corner of the church. The frontage is visible through the railings to the right of the façade, beyond some trees. It is in brick, and is over an arcaded loggia of four wide arches. These are supported by three ancient Ionic columns of grey granite. Above each arch is an arcade of six windows, the arches separated by little marble columns with imposts.
+
+Over the north-east corner of the cloister, and visible from in front of the convent entrance loggia, is a mediaeval tower which is thought to have been part of the original fortified wall enclosing the basilica in the Middle Ages. This is now the ''Torre Funeraria, ''and its 19th century doorcase has the inscription ''Sepulcrum Capuccinorum ''and the year 1874.
+
+You can usually visit the cloister via the sacristy in the church.
+
+=== Campanile ===
+The brick campanile was built in the 12th century on the right hand side, to a simple design and strangely with its axis skew to the church's major axis. It used to stand alone, but now abuts onto the 19th century sacristy extension next to the church's right hand nave aisle. Above the first elevation, as high as the church's aisle, are five further storeys separated by projecting cornices and with a pyramidal cap. There are two arches on each side of the top four storeys. The last but one storey holds a clock, and the clock-face obscure the arches on the side facing west.
+
+The total height is thirty-one metres.
+===Façade===
+
+The church façade has been restored after the bombing to the architectural form thought to have been extant in the Middle Ages, but without the 19th century mosaics that used to cover the nave frontage above the portico. There is a photo of the old façade here. [http://it.wikipedia.org/wiki/File:San_lorenzo_prima.JPG [3]]. 
+
+The external portico, originally built in about 1220, has a sloping tiled roof and is supported by six ancient marble Ionic columns. Unusually for Roman churches using re-used columns, these are a matched set. The two outer ones are in ''bigio antico ''(grey) marble from Africa, the two middle ones on each side are in ''[[wikipedia:Pavonazzo_marble|pavonazzetto]]'' marble with incised spiral decoration. The two flanking the central portal are thicker and in white marble, and the spiral fluting runs in opposite directions on these two. 
+
+The original 17th century wrought iron railings were scrapped, and replaced by rather poor modern ones. 
+
+The columns hold up an entablature, and on the frieze of this there is [http://en.wikipedia.org/wiki/Cosmatesque Cosmatesque] decoration by the Vassaletti family of craftsmen. This repays examination, as the purple porphyry and green serpentine panels and geometric mosaic decoration are enlivened by panels over the central portal which had figurative mosaics. A Lamb of God in a roundel survives, and a fragment showing what is thought to be Pope Honorius III and [http://en.wikipedia.org/wiki/Peter_II_of_Courtenay Peter II de Courtenay] paying him homage (the identification is uncertain). The latter was the [[wikipedia:Latin_Empire|Latin emperor of Constantinople]], and this fragment depicts an event that took place in 1217. Mosaics lost in the bombing depicted St Lawrence, St Cyriaca and St Stephen, the last with four stones around his head. 
+
+The cornice of the entablature is carved with foliage, interspersed with lion-head dripstones and with a pair of monkeys at the ends.
+
+The top of the brick nave frontage above the portico roof is coved (the technical term is ''cavetto''), which is unusual and looks strange. The curve is a reminder of the lost frescoes that used to cover this wall, since it would have ensured that the frescoes at the top were not fore-shortened in the view of anybody in front of the portico. The churches of [[Santa Maria in Trastevere]] and [[Santa Croce a Via Flaminia]], for example, demonstrate this. The row of three brick-arched windows below the ''cavetto'' have stone fenestration (known as ''transennae'') made up of marble slabs pierced by circular holes in a geometric pattern. These are a restorer's guess, based on the genuinely old windows at the other end of the church. Before the air-raid, these windows were glazed. 
+
+If one looks at the 18th century Vasi engraving, however, one will see that the frontage has no cove, and pilasters separate the windows. These lost frescoes, and the coved wall which bore them, were 19th century and the replication of the cove after the bombing raid was a mistake. The windows were 15th century.
+
+=== Former façade frescoes ===
+The lost façade frescoes were executed in 1864 in the style of a mosaic with a gold background, executed by [http://www.treccani.it/enciclopedia/silverio-capparoni_%28Dizionario_Biografico%29/ Silverio Capparoni] and Alessandro Mantovani. The main register, flanking the three windows depicted the emperor Constantine with the popes Pelagius II, Sixtus III, Adrian I, Honorius III and Pius IX.  
+
+Above, on the ''cavetto, ''was depicted Christ the Saviour accompanied by SS Stephen, Hippolytus and Cyriaca on the left, and SS Lawrence, Justin and Cyrilla on the right. St Justin was, by tradition, a 3rd century Roman priest who helped administer the catacombs here and who was himself martyred. St Cyrilla, together with her mother St Tryphonia, were martyrs enshrined in the catacombs here. St Hippolytus was allegedly St Lawrence's jailer, and not the 3rd century Roman church writer.  
+
+=== Portico ===
+The portico floor is below ground level, and has three steps down. The portico itself contains three entrances to the church proper, the central one being larger.
+
+Two 13th century stone lions were moved here from outside the portico, and placed either side of the central door. These were standard items of decoration in mediaeval Roman churches, and examples of other pairs are at [[San Marco]] and [[San Lorenzo in Lucina]]. The ones here are guarding their lunches; on has a baby, the other a lamb. Great fun.
+
+=== Portico frescoes ===
+Inside, the walls have 13th century frescoes which have been reconstructed after the bomb explosion (they had already been touched up in the 19th century restoration). They consist of three tiers of distinct rectangular panels depicting scenes from the lives and martyrdoms of SS Lawrence and Stephen, and show evidence of continuing Byzantine influence. 
+
+The scenes depicted in these frescoes are as follows:
+
+Right hand side, top register:
+
+Pope St Sixtus II Commands St Lawrence to Distribute the Church's Wealth to the Poor. St Lawrence Washes the Feet of the Poor in the House of Narcissus. St Lawrence Heals a Blind Woman. St Lawrence Distributes the Church's Treasures to the Poor. Pope St Sixtus II Foretells the Martyrdom of St Lawrence. The Emperor Valerian Orders St Lawrence to Bring Him the Church's Wealth.
+
+Right hand side, middle register:
+
+St Lawrence Heals St Cyriaca. St Lawrence Is Flogged on the Orders of Valerian. St Lawrence Baptizes St Romanus, a Soldier Convert. The Emperor Has St Romanus Decapitated. The Emperor Orders the Martyrdom of St Lawrence. St Lawrence is Roasted on the Gridiron.
+
+Right hand side, lower register:
+
+St Hippolytus Arranges the Funeral of St Lawrence (three scenes). St Hippolytus Buries St Lawrence. St Hippolytus Exchanges the Sign of Peace with his Household Servants. St Hippolytus Receives Holy Communion.
+
+Left hand side upper register:
+
+St Stephen Preaches to the People. St Stephen is Stoned. St Stephen is Buried. The Recovery of the Relics of St Stephen (two scenes). The Relics of St Stephen are Brought into Jerusalem.
+
+Left hand side, middle register:
+
+The Veneration of the Relics of St Stephen. The Relics of St Stephen are Taken to Constantinople. Arrival at Constantinople. The Healing of a Demoniac. A Representative of the Emperor Justinian Directs the Sending of the Relics to Rome.
+
+Left hand side, lower register:
+
+The Transport of the Relics to Rome. The Arrival of the Relics at the Basilica, and the Healing of the Daughter of the Emperor. Greek Monks Try to Steal the Relics, and are Struck Blind. The Pope Authenticates the Relics.
+
+Left side wall:
+
+Here are eight panels depicting an 11th century apparition of SS Peter, Stephen and Lawrence to the Cluniac monk sacristan of the basilica, during which St Lawrence gave him a belt. The fourth upper panel shows the sacristan reporting the event to Pope [[wikipedia:Pope_Alexander_II|Alexander II]], giving him the belt. The bottom four panels show a liturgical celebration of the event, with the third panel depicting the mediaeval baldacchino (this evidence was used in the 19th century restoration). Also visible in the same panel is an angel liberating souls from Purgatory.
+
+Right side wall:
+
+The surviving eight panels (further lower ones have been lost, but traces remain) show a legend based in the early 11th century, during the reign of Emperor [[wikipedia:Henry_II,_Holy_Roman_Emperor|Henry II]]. A certain count of Saxony, also called Henry, was an extortionate and violent nobleman who did one good act in his life, that is he presented the basilica with a golden chalice. At his death, the angels and the demons quarrelled over his soul but St Lawrence successfully intervened on behalf of the former.
+
+=== Portico sarcophagi ===
+There are two ancient sarcophagi in the portico. Of special interest is the large one to the left, which has attracted much scholarly attention since the 18th century. The dubious legend is that Pope [http://en.wikipedia.org/wiki/Pope_Damasus_II Damasus II] was buried in this in 1048. It used to be in the church, but was moved out here in the 17th century restoration. 
+
+It is now thought that the carving is actually ancient, and was done in Greece in the neighbourhood of Athens. (Some have argued that the sarcophagus was re-carved in the 7th century, but there are no Christian symbols on it.) It is in the form of a bed, and has rich relief decoration with a grape-harvest as a theme. Putti are shown harvesting grapes, and there are also peacocks, chickens, hares and goats. 
+
+To the right is a much smaller sarcophagus, which is definitely Christian and is of the 4th century. Again, it used to be inside the church. The reliefs have Bible themes: The Sacrifice of Isaac, Moses Receiving the Ten Commandments, Moses Arrested (?), Daniel Killing the Dragon, The Healing of the Blind, The Multiplication of the Loaves, The Resurrection of Lazarus, The Healing of the Paralytic, The Imprisonment of St Peter, The Cananean Woman Seeking Her Daughter's Healing. The deceased, a lady, is shown in the centre of the front in an ''orans ''(praying) position. 
+
+Next to this sarcophagus is a gabled stone canopy supported by little columns, a remnant from a mediaeval tomb. 
+
+=== De Gasperi monument ===
+In the left hand side of the portico you will also find a monument over the statesman [[wikipedia:Alcide_De_Gasperi|Alcide De Gasperi]] (died 1954). It was executed by one of the leading sculptors of modern Italy, [http://en.wikipedia.org/wiki/Giacomo_Manz%C3%B9 Giacomo Manzù], and is an odd combination of a polished pink granite block bearing the name of the deceased, sitting on top of a white marble block with entangled tree branches and leaves carved in high relief. A separate relief tablet bearing the epitaph and a figure of a bishop has been affixed over the monument, unfortunately partly obscuring the frescoes behind. It reads: ''Ei qui pacem patriamque dilexit, lux requietis aeternae affulgeat ''("May the light of eternal rest shine on him who loved peace and the fatherland.")
+
+There is a photo of the monument [[wikipedia:Alcide_De_Gasperi#mediaviewer/File:Alcide_De_Gasperi_burial_in_San_Lorenzo.jpg|here]].
+
+=== Portico heraldry and epigraphs ===
+The side walls have some heraldry and epigraphs. On the right hand side wall are the shields of Pope Julius II and Cardinal Carafa, and an epigraph of thanks from the Canons to Cardinal Rospigliosi in 1688 when he fixed the roof. To the left, the arms of [[wikipedia:Kingdom_of_Aragon|Aragon]] (for some reason) and an epitaph to Fr Eugenio Godard. He was a priest from Rheims in France, who had the misfortune to die of cholera while on pilgrimage in 1867. The heraldry used to decorate the upper part of the façade before the 1867 restoration.
+
+The large free-standing stone slab to the right of the main entrance bears an epigraph of thanks, in Italian, from the people of Rome to Pope [[wikipedia:Pope_Pius_XII|Pius XII]] for his help in saving the city from destruction in the Second World War. His prayers, and his interventions especially with the Americans and against the British, were considered to have been decisive.
+=== Beggars ===
+This portico has been a professional begging pitch for centuries. In fact, St [[wikipedia:Frances_of_Rome|Frances of Rome]] used to beg here for her new nunnery. Anybody wanting to be left in peace to examine the portico, should be prepared to part with some loose change beforehand.
+
+WARNING. Don't be tempted to try begging here yourself, if you find yourself in need of money while at Rome. The beggars here are run by gangs, and you could end up in serious trouble from their minders.
+==Interior==
+
+===Fabric of nave===
+[[File:San Lorenzo fuori le Mura.png|thumb|220x220px]]
+The church of Our Lady built by Pope Honorius now serves as the nave. It has eleven large ancient [[wikipedia:Ionic_order|Ionic]] columns on either side, supporting two entablatures with modillions (little brackets) in their cornices. Above them, the upper nave walls are pierced by individual arched windows and are otherwise featureless. There is no ceiling. The columns near the entrance bear shrapnel scars from the bombing.
+
+The columns are of different stones, and are of different sizes and lengths. The church builders compensated for the latter by packing the bases as needed. There are five columns of red granite from [[wikipedia:Aswan|Aswan]] in Egypt, four of grey granite from [[wikipedia:Mons_Claudianus|Mons Claudianus]] in the Eastern Desert of Egypt and seven of [[wikipedia:Cipollino_marble|cipollino]] marble from Euboea in Greece. These were originally architectural items of extremely high status.
+
+The Ionic capital on the eighth column on the right, directly behind the ambo, is interesting. It has carvings of a frog and a lizard, which you should be able to see from the floor level. If there aren't too many people around, you may get permission to climb up on the pulpit to look more closely at it. A former theory about these unusual carvings is that they were the signatures of two Spartan slaves mentioned by the Roman historian Pliny as the architects of the [[wikipedia:Porticus_Octavia|Portico of Octavia]] - their names, ''Batrachos'' and ''Sauros'', meant 'frog' and 'lizard'. However, the capitals are now judged to have been carved for the church when it was built in the 4th century, and so the two little animals were copied by the sculptors. Nobody knows why. Perhaps they used an broken ancient capital as a template.
+
+The side aisle walls also have round-headed windows.
+
+=== Nave floor ===
+The nave floor is 12th century Cosmatesque work, of very high quality. The purple stone is imperial [[wikipedia:Porphyry_(geology)|porphyry]] from the Eastern Desert in Egypt (this stone was unique to that one quarry), and the dark green is [[wikipedia:Serpentine_group|serpentine]] from Sparta in Greece (known anciently as ''lapis lacedaemonius'').
+
+Unfortunately, the intricate figurative central panel was mostly destroyed in the bombing raid. This featured knights fighting on horseback, and was exactly targeted by the bomb that penetrated the roof. The replacement is a panel in the style of an ancient Roman mosaic floor, bearing an epigraph recording the restoration after the bombing. The triangular panels surrounding it, featuring fighting dragons and griffins, are original and were carefully re-assembled by the restorers from bits in the rubble.
+
+=== Roof ===
+The open roof has original 13th century timbers. The painted decoration on the beams, however, featuring fronds, is 19th century. Before 1864, there was a ceiling coffered in large octagons which matched one over the sanctuary. 
+=== Tomb of Cardinal Fieschi ===
+Just to the right of the main door is the tomb of [[wikipedia:Guglielmo_Fieschi|Guglielmo Cardinal Fieschi]], who died in 1256. He was laid to rest in an ancient sarcophagus, decorated with a superb marble relief depicting a pagan marriage feast. This is inserted into a niche flanked by a pair of marble Ionic columns, described as being of ''marmo Tasio ''from the island of Thasos Greece. These support an architrave, itself supporting an open screen of seven little columns with a second architrave. The architraves have Cosmatesque decoration. Above is an unusual open gabled canopy, inserted without a frontal into the niche above the second architrave. 
+
+The wall of the niche over the sarcophagus once had a fresco, but this is lost. It used to have Christ enthroned between SS Stephen, Pope St Sixtus II, St Lawrence and St Hippolytus. The entire tomb was blown to bits in the bomb attack and re-assembled, but the fresco was beyond recovery. 
+
+=== Fresco fragments ===
+In the right hand aisle are conserved fragments of 13th century frescoes which originally also used to be on the counterfaçade. One features four saints in traditional Byzantine court dress, identified as SS Lawrence, Hippolytus, Stephen and Eustachius. Another shows the Madonna and Child with a suppliant. The third is a fragment of a monk-saint.
+
+Further, the counterfaçade used to have another set of fresco panels featuring scenes from the life and martyrdom of St Laurence, which was arranged above and to the right of the Fieschi tomb. These are now completely lost, but a description was made in 1639 of eleven panels with a dedicatory inscription reading ''Hoc opus fieri Dns Matheus sci. Alberti pro anima sua.''
+=== Ambos ===
+Halfway down the the nave are two ambos or pulpits, which have superb Cosmatesque decoration. The one to the left is for the Epistle, and that to the right for the Gospel. The right hand one is more impressive, with two staircases and a frontage incorporating large porphyry (purple) panels and  serpentine'' ''(dark green) roundels. The ball finials at either end are unusual survivals. The pulpit itself has a relief carving of an eagle. 
+
+The yellow bits in the Cosmatesque decoration are ''giallo antico'', a coloured marble from what is now [[wikipedia:Chemtou|Chemtou]] in Tunisia which the ancient Romans regarded as precious. They ran out of supplies in the 3rd century, and most yellow marble in Rome actually comes from Siena. The genuine article has a much warmer yellow colour, shading towards mango or orange.
+
+By the far stairs of this ambo is a fine Cosmatesque Paschal candlestick. The candlestick has a twisted barley-sugar stem, a motif which, by tradition, dates from the Temple of Solomon. [[wikipedia:Solomonic_column|Solomonic columns]] occur in [[St Peter's]], and there are several other examples of this sort of candlestick in Rome. 
+
+It is thought that these two ambos are the surviving parts of a lost ''Schola cantorum, ''removed in the 17th century restoration. They would have been originally nearer the sanctuary. 
+
+=== Baroque funerary monuments ===
+At the end of the left hand aisle is a fine polychrome marble Baroque monument to Michele Bonelli 1604, with a bust. There is a photo of it [http://rubens.anu.edu.au/htdocs/bycountry/italy/rome/popolo/pics/0109/P10996.JPG here]. This monument used to be on the pier of the triumphal arch behind the statue, but was moved in the 19th century restoration.
+
+In the right hand aisle is a contrasting Baroque memorial to Giuseppe Rondinino, 1649 with a tondo portrait. The trophy of weapons is a reminder that he died fighting the Turks on Crete.
+=== Other nave furnishings ===
+The holy water stoups at the entrance bear the heraldry of Cardinal Alessandro Farnese, the future Pope [[wikipedia:Pope_Paul_III|Paul III]] (1534-49).
+
+To the left of the entrance is the 19th century baptismal font, which needed much restoration after the bombing. It has a little bronze statue of St John the Baptist on top.
+
+On the left hand side at the far end of the nave is a modern statue of St Lawrence. 
+
+=== 19th century frescoes ===
+During the 19th century restoration, the interior nave walls above the columns were covered with a cycle of eight large frescoes overseen by [[wikipedia:Cesare_Fracassini|Cesare Fracassini]]. The post-war restoration kept one, and re-hung it on canvas over the entrance. The rest are lost, because they were painted on large applied tiles rather than directly on the old wall surface and these shattered in the bomb blast. 
+
+The theme was the lives of [[wikipedia:Saint_Stephen|St Stephen]] and St Lawrence, who were both deacons and so were often venerated together. St Stephen was on the left, and St Lawrence on the right. The quality of the work was very high, with the scenes being realistically based on ancient Roman cityscapes (as well as these were known at the time). They often feature in old guidebooks and reproductions.
+
+The scenes were (starting at the triumphal arch on the right): ''St Lawrence Giving Alms to the Poor'', by Fracassini; ''St Lawence Displays the Poor as the Treasure of the Church, ''by Fracassini; ''The Martyrdom of St Lawrence ''by Francesco Grandi (1831-91), a Roman artist; ''The Funerary Procession of St Lawrence to the Catacombs ''by Grandi; (on the left) ''The Ordination of St Stephen to the Diaconate, ''by Fracassini; ''The Condemnation of St Stephen in the Synagogue, ''by Paolo Mei; ''The Martyrdom of St Stephen, ''by [[wikipedia:Cesare_Mariani|Cesare Mariani]]; ''The Funeral of St Stephen, ''by Mariani. This last artist stepped in after Fracassini died.
+
+The fresco over the entrance depicted ''The Triumph of the Martyrs ''by [[wikipedia:Francesco_Coghetti|Francesco Coghetti]] (1804-75), and depicted the Lamb of God flanked by SS Peter, Paul Stephen, Lawrence, Hippolytus and Pope Pelagius. The restorers replaced it with the surviving ''Ordination of St Stephen.''
+
+At the opposite end, over the triumphal arch, Fracassini painted the Madonna and Child with two angels and SS Lawrence, Stephen, Cyriaca and Justin. This survives intact. The prophets Isaiah and Daniel are in the spandrels.
+
+Also part of this decorative scheme, and now completely lost, were figures of saints in the arched recesses created by the blocking of half the upper nave wall windows. On the right were Popes Nicholas V, Damasus II, Pelagius II, Sixtus III, Pope St Sylvester, the emperor Constantine, Pope St Leo, SS [[wikipedia:Genesius_of_Rome|Genesius]], Cyrilla, Justin, Romanus, Irenaeus, Concordia and Crescentius. On the left were Popes Pius IX, Adrian I, Hilary, Zosimus, the emperor Valentinian II, SS Felicissimus, Agapitus, Januarius, Magnus, Vincent, Claudius (the alleged six other deacons of Pope St [[wikipedia:Pope_Sixtus_II|Xystus II]]; "Claudius" is also known as Stephen), Tryphonia, Hippolytus and Cyriaca.
+
+There were also decorative fresco panels in between the windows and the recesses, and tondi with portraits of martyrs above these by Luigi Bazzani. The nave entablatures also bore little decorative tondi. All are now gone.
+
+A photo showing what the church used to look like is [[commons:Category:San_Lorenzo_fuori_le_mura_(Rome)_-_Interior#mediaviewer/File:Anderson,_Roma_-_n._0110_-_S._Lorenzo_Fuori_le_Mura_-_Roma.jpg|here]].
+
+=== Chapel of St Tarcisius ===
+The right hand aisle ends at the chapel of St [[wikipedia:Tarcisius|Tarcisius]], a Roman martyr also probably a deacon. This was created and decorated by Vespagniani in the 19th century restoration, utilising the space occupied by the old sacristy after he built a new one next to the campanile. 
+
+This chapel contains the ''Burial of St Lawrence by St Cyriaca'' by [[wikipedia:Emilio_Savonanzi|Emilio Savonanzi]] of 1619 as its altarpiece. This large work is in a round-headed niche surrounded by polychrome decoration with the Lamb of God at the top. Under the altar is a reclining effigy of St Tarcisius.  
+
+On the left hand wall hangs a ''Beheading of St John the Baptist ''attributed to Giovanni Serodine, which used to be the altarpiece of a lost altar and which is not in a good state. 
+
+The entrance to the sacristy and the cloister is next to the chapel. 
+
+=== Chapel of St Cyriaca ===
+At the end of the left hand aisle is an entrance with stairs leading to the small below-ground chapel of St Cyriaca, who was a wealthy widow featuring in the legend of St Laurence as the owner of the catacombs in which he was buried. There is one entrance to these here, and another in the cloister. 
+
+The actual entrance is protected by a semi-circular balustrade with a good wrought iron railing gate. The decoration of this portal is Baroque, of the early 17th century, and includes a matching pair of funerary monuments by [http://en.wikipedia.org/wiki/Pietro_da_Cortona Pietro da Cortona]. These are of employees of Cardinal [[wikipedia:Francesco_Barberini_(1597–1679)|Francesco Barberini]], who sponsored the work, and are of Bernardo Guglielmi 1623 (a school professor who had given him legal advice) and Girolamo Aleandri 1629 (his secretary). The busts are good, that of the latter being attributed to [[wikipedia:François_Duquesnoy|François Duquesnoy]].  
+
+Over the entrance is a tablet bearing an epigraph reading ''D[eo] O[ptimo] M[aximo]. Haec est tumba illa, toto orbe terrarum coeleberrima, ex coemeterio S. Ciriacae matronae, ubi Sacrum si quis fecerit pro defunctis, eorum animas e Purgatorii poenis, Divi Laurentii meritis, evocabit. ''("To God the best and greatest. Here is that tomb, famous throughout the world, at the catacomb of the lady St Cyriaca, where if someone celebrates the Sacred [Mysteries] for the dead, their souls will be called from the pains of Purgatory by the merits of the holy Lawrence".)  
+
+The staircase down is flanked by a pair of 17th century marble bas-reliefs of souls in the flames of Purgatory, one being entitled ''Expectantes ''("those waiting") and the other, ''Donec veniat ''("until he comes"). 
+
+The little chapel itself is thought to be structurally part of the 6th century work by Pope Pelagius, and to have been guarding the pilgrimage entrance to the catacombs. The altar was restored in 1730, as its inscription states, and is dedicated to the Souls in Purgatory. The altarpiece is another marble relief depicting ''The Deposition, ''and the aedicule is embellished with re-used Cosmatesque work including a pair of twisted columns. 
+
+The walls have polychrome marble decoration, and the ceiling has geometric patterning in stucco. These features date from a restoration of 1676. 
+
+Unfortunately this chapel is very rarely to be found open, but you can peep through the iron gate. 
+
+=== Catacomb chapel ===
+The entrance to the catacombs from the chapel here leads into a semi-circular corridor, the walls of which have a pair of epigraph tablets recording the 1676 restoration. This leads into an underground chapel, beyond which are the catacomb galleries. The altarpiece of the altar is a bas-relief showing three busts, now labelled SS Stephen, Lawrence and Peter but fairly certainly originally depicting dead pagans. 
+
+In this chapel is also a bas-relief of the ''Annunciation, ''in honour of a restoration in 1821. 
+
+===Layout and fabric of shrine area===
+The sanctuary area of the basilica is on two levels. The high altar is on an elevated platform or tribune, accessed by a pair of staircases going up. The shrine itself is below the level of the nave floor, accessed again by stairs going down. Around the altar platform is an ambulatory or walkway, at the same level as the shrine and structurally functioning as side aisles. The walkway behind the tribune also functions as the shrine of Blessed Pope Pius IX -this used to be the entrance portico of the church of Pope Pelagius. 
+
+The upper side walls are supported by huge antique ribbed Corinthian columns in ''pavonazzetto'' marble, five on each side and two at the back. The first two have interestingly carved capitals, featuring ''genii ''with war trophies. (You can examine these fairly closely from the elevated tribune.) The columns support two side entablatures made up of miscellaneous antique carved stone beams which were formerly friezes and lintels, richly carved in foliate decoration. They are startlingly mismatched next to each other, but the builders of the original church did try to match those facing across the sanctuary.
+
+Above the entablatures are arcaded galleries with the arches on smaller ancient Corinthian columns, also in ''pavonazzetto, ''five on each side. Some of these are ribbed, others spirally fluted. In between are solid marble screen slabs called ''plutei, ''of a grey and white veined marble. The side galleries are connected by the far gallery over the papal shrine, which has three arches. 
+
+The two columns of this transverse gallery are described by Faustino Corsi in his ''Delle Pietre Antiche ''as ''rarissimo granito verde. ''Green granite is indeed rare. These columns came from the Eastern Desert in Egypt, the same regional source of the purple porphyry and grey granite in the church. The ancient name was apparently ''lapis ophytis'', and the stone is actually a [[wikipedia:Gabbro|gabbro]] not a granite. The columns stand on limestone box plinths embellished with a cross each from which hang an ''alpha ''and ''omega.''
+
+The sanctuary is unusual in having these galleries, which were either built for the use of women as in the Eastern tradition, or to provide an entrance from a higher level since the original church was built against the side of a hill. 
+
+Finally, above the arcades are round-headed windows with ''transennae''. Those'' ''in the windows of the end wall are apparently original.
+
+=== Shrine ===
+The shrine is below the high altar in a crypt or ''[[confessio]]'', and can be entered down the central stairs from the nave. Here, SS Lawrence and Stephen are enshrined. The latter's relics was brought here from Constantinople by Pope Pelagius II when he built his church, and some of the fresco panels in the portico depict the events. 
+
+The semi-circular raised portion of the nave floor in front marks out the site of the former apse of Pelagius's church. 
+
+The ''confessio ''was restored in the 17th century, and again rather radically in the 19th by Vespignani. The entrance to the ''confessio'' used to be protected by a white marble Baroque balustrade with large yellow marble ball finials. Unfortunately, Vespignani ripped this out and replaced it with a crude iron railing -a fairly uncommon example of ideological stupidity displayed as by this particular architect, who usually had more sensitivity. There is a strip of imitation Cosmatesque decoration below this railing, running over the ''confessio ''itself. 
+
+The staircase vestibule has polychrome marble revetting, and over the entrance to the actual ''confessio'' is an epigraph proclaiming the presence of the relics of SS Lawrence and Stephen, and the availability of an [[wikipedia:Indulgence|indulgence]] to those praying here. 
+
+The shrine itself is in an original 13th century iron cage, surrounded by six ancient black and grey marble Ionic columns which support the ceiling.  There is a seventh skinny column round the back, which looks like ''marmo tasio.'' The shrine itself is a marble chest with more original Cosmatesque decoration, which was not restored. 
+
+The side walls, with arcaded window apertures containing grilles, were added in the 19th century refitting when the ambulatory was dug out. They reduced the size of the ''confessio'' There were more ancient columns down here before then -Corsi mentions twelve in various marbles''. ''The Cosmatesque paving down here is original, and you can see how the 19th century side walls were built on top of it.  
+
+=== Tribune ===
+The tribune or sanctuary area is accessed via a pair of staircases flanking the ''confessio. ''When you get up there, you meet one of a pair of stone lions on guard.
+
+Directly above the tomb is the free-standing high altar. This has a mediaeval ''ciborio'' or baldacchino with an inscription on the inside of the entablature naming the makers,  who were members of the Cosmati family, and dating the work to 1148. Four of the Cosmati signed it: Giovanni, Pietro, Angelo and Sassone, all sons of Paolo. This is one of the oldest signed works by the Cosmati. The inscription reads: 
+
+''+ Ioh[anne]s, Petrus, Ang[e]l[u]s et Sasso, filii Pauli marmorarii, hui[us] opus magistri fuer[unt] + Ann[o] D[omini] MCXLVIII. Ego Hugo, humilis abbas, hoc opus fieri feci. ''
+
+<nowiki> </nowiki>The four matched Corinthian columns of porphyry have intricately carved bases. They support the entablature with the inscription mentioned. However the canopy of this baldacchino is not original, but was added in the 19th century. The present form, having two tiers of little columns supporting a low conical roof with a lantern, is not original but a guess as to the mediaeval design. Before the 19th century there was a little egg-shaped Baroque dome instead, which was erected after a fall of the ceiling had seriously damaged the original baldacchino. 
+
+The altar is surrounded by a superb Cosmatesque pavement. You might notice that some of the roundels near the altar do not have discs, but instead are apertures closed with grilles of marble with a teardrop design. Before the 19th century restoration provided ventilation for the ''confessio, ''these were needed to allow candle fumes to escape. 
+
+At the end of the tribune is an episcopal throne, and a marble screen on either side. These are in white marble, and have more superbly intricate Cosmatesque decoration and panelling. The work bears the date 1254, but the ensemble has been heavily restored -especially the chair.
+
+=== Triumphal arch mosaic ===
+The nave and choir are separated by what was the triumphal arch of the apse of the church of Pope Pelagius II. This was left in situ when the two churches were combined, but the new roof was run over it without a supporting screen wall. Hence, there is now a gap between arch and roof left by the 19th century restorers when they removed the ceilings.
+
+On this, facing the high altar, is a large Byzantine-style mosaic provided when the church was built. This depicts ''Christ with Saints, ''and Pope Pelagius also features. He is the figure depicted without a halo, holding a model of his church. The other persons are SS Lawrence and Stephen, the Apostles Peter and Paul and the Roman martyr St Hippolytus. Only the figures of St Lawrence and Pope Pelagius II are mostly in their original state, whereas the others are heavily restored. The two cities on either side are Bethlehem and Jerusalem.
+
+This mosaic was meant to face the congregation before the church's orientation was reversed, and was above the (long-demolished) apse. The two windows in the mosaic used to open onto the outside.
+
+Above the mosaic is a Latin poem, which the 19th century restorers apparently re-arranged and tidied up. It reads:
+
+''Demovit Dominus tenebras, ut luce creata his quondam latebris sic modo fulgor ines angustos aditus venerabile corpus habebat, huc ubi nunc populum longior aula capit, eruta planities patuit sub monte recisa, estque remota gravi mole ruina minax. Praesule Pelagio martyr Laurentius olim templa sibi statuit, tam pretiosa dari mira fides gladios hostiles'' ''inter et iras pontificem meritis haec celebrasse suis. Tu, modo Sanctorum cui crescere constat honores, fac sub pace coli tecta dicata tibi.''
+
+The text continues on the archivolt below the mosaic:
+
+''Martyrium flammis olim Levita subisti, iure tuis templis lux beneranda dedit.''
+
+The underside of the arch is decorated with a chain of flowers.
+
+=== Ambulatory ===
+At the ends of the aisles are two staircases going down. These reach the original floor level of the first church, and at the far end is the original portico which was excavated and adapted as a chapel for the tomb of Blessed Pope Pius IX. He died and was buried here in [[1878]]. Before the 19th century, these areas of the church had their floors on the same level as the tribune but the restorers dug the fill out in order to install the chapel.
+
+The walls of the passageways display some ancient epigraphs, apparently discovered in the fill that was dug out. Also down here are small side altars with triangular pediments, which have lost their original altarpieces and are now disused (they were intended for the private Masses of the friars).
+
+You can see here how the restorers excavated under the floor of the tribune in order to rebuild the walls of the ''confessio, ''and provided square pillars to hold up the floor above.
+
+Unfortunately, sometimes you may find the metal gates at the tops of the stairs locked. 
+
+=== Chapel of Blessed Pope Pius IX ===
+The shrine of Blessed Pope Pius IX  was designed by [http://www.treccani.it/enciclopedia/raffaele-cattaneo/ Raffaele Cattaneo], and the mosaics were executed by [http://it.wikipedia.org/wiki/Ludovico_Seitz Ludovico Seitz]. The work was only completed in 1881. As well as complex geometric stencilling on a gold background, there are depictions of the saints whom the pope canonized as well as important events in his pontificate (the [[wikipedia:First_Vatican_Council|First Vatican Council]], the proclamation of the dogma of the [[wikipedia:Immaculate_Conception|Immaculate Conception]]). There is also a rather odd depiction of ''The Five Continents Paying Homage to the Pope.''
+
+The pope used to have a simple stone memorial here, until he was beatified in 2000. Then his relics were exhumed, and are now within a recumbent mannequin in a glass box under the altar.
+
+On the wall opposite the altar is a white marble slab pierced with small holes, which bears a brown iron stain. The tradition is that the corpse of St Lawrence was laid out on this, and that the stain is blood.
+
+=== Sacristy ===
+At the end of the right hand aisle is the entrance to the uninteresting 19th century sacristy. This has a barrel vault with a pair of incised lunettes for each bay, which also have a pair of round-headed windows in each side wall. Walls and vault are all in white. The sacristy altar is dedicated to St Francis of Assisi, and has a statue of him. The exit to the cloister is to the left of this.
+
+The altar frontal is the only thing in the sacristy worth examining. It looks like 17th century Baroque, in polychrome marble inlay, and if so then came from a former side altar in the church.
+
+There used to be a small shop here selling postcards and guide-books, and at the start of the 21st century some of the postcards were approaching their golden anniversary. There should be a church custodian here, who could be asked as to whether anything is still for sale.
+
+== Cloister ==
+Walk through the sacristy, and you'll reach the late 12th century Romanesque [[wikipedia:Cloister|cloister]] through the door to the left of the altar. (Sometimes the cloister is closed to visitors, in which case there should be a notice and the custodian should warn you.)
+
+The cloister is an important architectural monument in its own right. It is one of the earliest monastic cloisters in Rome to survive intact, being erected in the reign of Pope [[wikipedia:Pope_Clement_III|Clement III]] (1187-91). It is suspected that it was erected on an earlier, smaller cloister dating to the earlier part of the 12th century. Evidence for this is twofold. Firstly, the staircase vestibule in the north-east corner is of a completely different style and is in brick and tufa instead of brick only, and also six columns were recently found walled up in the east gallery, with the bases lower than the present floor level.
+
+The plan is rectangular (actually slightly trapezoidal), with the major axis north to south. The walls of the ranges are in bare red brick, topped by an ornamental stone cornice with dentillations and modillions. There are two brick pilasters on the long sides and one on the short sides, which divide up the arcades. 
+
+Each arcade has five arches, and each arch has a double brick archivolt, the lower one being recessed and the upper one edged by a strip of continuous thin molding. These arches are supported by small antique columns with rectangular cushion capitals having protruding dripstones. Seven of the ten arcades have the central column twinned. However, the central arcades on the long sides each have one arch slightly larger than the others, to allow for a garth garden entrance, and this arch is on a pair of twinned columns. The last arcade is in a completely different style, and has two large arches with simple archivolts springing from a massive, dumpy grey granite column without a capital but with a slab impost.
+
+The north and west ranges have arcaded loggias, with the columns in the same style as the arcades below but with simple archivolts. These were walled up in 1832, but unblocked in 1929.
+
+The west end of the north range, the one with the two large arches, is also the vestibule for the entrance staircase to the upper floors of the convent. This staircase has a vault supported by a twin of the massive granite column just mentioned.
+
+Most of the columns are in ''marmo imezio, ''sourced by the ancients from Mount Hymettus near Athens. The black inclusions are bitumen. However there is one column in [[wikipedia:Cipollino_marble|cipollino]] marble from the island of Euboea in Greece (the one with green veins of mica), one in ''nero antico ''which is'' ''the ancient ''lapis niger ''from what is now Chemtou in Tunisia (the same ancient source as ''giallo antico''), and one in ''alabastro cotognino ''which is an alabaster from Egypt often used in Pharaonic times. This is the one with carved leaf decoration in the arch into the garth from the east long side.
+
+On the ambulatory walls are many fragments of sculpture and epigraphs from the catacombs below. Most are Christian (not all), and a few are in Greek. Also from the catacombs are fragments of three Christian sarcophagi; one has a relief of the ''Adoration of the Magi ''on it. A fourth sarcophagus is pagan, and features the ''Triumph of Cybele ''and the ''Return of Bacchus, ''the latter with elephants. There is also a mediaeval tomb canopy from the church, having a gabled top supported on little columns (you saw another one of these in the church portico, and they would have covered recumbent effigies now lost).
+
+A fragment of the bomb that exploded in the basilica is also kept here, together with the case of another bomb that fortunately proved a dud.
+
+The garth garden is very attractive. The Capuchin friars were noted for their garden here in the early 19th century, being keen plant collectors. The 1929 restoration got rid of some trees that were endangering the foundations, and there was a replanting in the latter part of the 20th century. The paths converge on a little central pool with goldfish, dividing the area into sectors which used to be edged with neat box hedging. This has declared independence, but the other shrubs and plants have matured well. Look for the miniature pomegranate in fruit, if you are there in autumn.
+
+== Catacomba di Ciriaca ==
+There is an entrance to the ''Catacomba di Ciriaca'' is in this cloister, although the old pilgrims' entrance is in the Chapel of St Cyriaca and has already been described under that heading. The way in here was intended for the resident clergy.
+
+The catacombs descend to five levels, which make them one of the largest sets in Rome with the [[Catacombe di San Callisto]] and [[Catacomba dei Giordani (with Catacomba di Sant'Ilaria)|Catacomba dei Giordani]] which share this feature.  
+
+Most of the inscriptions that have been found there are now on view in the cloister, and there is apparently not much of interest left underground. This is for the best, since the catacombs have been badly damaged by excavations in the adjacent cemetery and are, in effect, abandoned. (There are recent stories of individual friars giving impromptu tours for personal friends -however, this is against Vatican rules.) 
+
+Earlier descriptions point out that there are few paintings, but that these include two "remarkable" ''arcosolia. ''In one, that of Zosimianus, Christ is shown between two apostles and also judging the deceased. The other, of a woman, shows her being taken into heaven and also ''The Giving of the Manna, The Denial of Peter, The Wise and Foolish Virgins ''and ''The Star of Bethlehem ''(with a Wise Man or, perhaps, the prophet [https://en.wikipedia.org/wiki/Balaam Balaam]). 
+
+There is another set of catacombs nearby, dedicated to [http://en.wikipedia.org/wiki/Hippolytus_of_Rome St Hippolytus]. These are on the other side of the Via Tiburtina, and are a completely separate network. See the Wiki page on [[Sant'Ippolito]] for details. The reason why two separate sets of catacombs operated here is because they were separate businesses originally. The tour-guides in the catacombs nowadays object to the idea that the ancients ran them for profit rather than primarily as a social service, but any cleric in charge of a parish cemetery will appreciate the point.
+
+==Access==
+The basilica is open (parish website, June 2018):
+
+Daily 7:00 to 12:00, 16:00 to 19:00. Beware of the long lunch break.
+
+Non-worshipping visitors are no longer permitted in the church during liturgical celebrations, so please plan your visit around the times of the liturgy given below. Because the church lies at the gates of the [http://en.wikipedia.org/wiki/Campo_Verano Campo Verano], one of Rome's active cemeteries, funeral requiems are frequently held here and these might also interfere with your visit.
+
+Many guide books and online tourist pages list the church as open at 15:00. This is wrong. Further back in time it used to be open all day, but this has not occurred for many years.
+
+Bus route number 71 gets there from Piazza San Silvestro, and tram number 3 from Porta San Giovanni. 
+
+== Liturgy ==
+Mass is celebrated (parish website, June 2018):
+
+Weekdays 8:00, 18:30,
+
+Sundays 9:30, 11:00 and 18:30.
+
+There is Exposition of the Blessed Sacrament at 21:00 on Thursdays -this is in the convent chapel, not in the basilica.
+==External links==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=20 Official diocesan web-page]
+
+[http://it.wikipedia.org/wiki/Basilica_di_San_Lorenzo_fuori_le_mura Italian Wikipedia page]
+
+[http://en.wikipedia.org/wiki/San_Lorenzo_fuori_le_Mura English Wikipedia page.]
+
+[https://www.basilicadisanlorenzo.com/ Parish website]
+
+[http://commons.wikimedia.org/wiki/Category:San_Lorenzo_fuori_le_mura_%28Rome%29 Pictures of the church at Wikimedia Commons.]
+
+[https://www.flickr.com/photos/dealvariis/sets/72157618441934563/ "De Alvariis" gallery on Flickr -exterior]
+
+[https://www.flickr.com/photos/dealvariis/sets/72157618444653841/ "De Alvariis" gallery on Flickr -interior]
+
+[https://www.flickr.com/photos/dealvariis/sets/72157618530833058/ "De Alvariis" gallery on Flickr -cloisters]
+
+[http://www.novaera.it/roma/viaggiovita/slor.htm Historical article in Italian]
+
+[http://romeartlover.tripod.com/Vasi46sl.html "Romeartlover" web-page]
+
+[http://www.sacred-destinations.com/italy/rome-san-lorenzo "Sacred destinations" web-page]
+
+[http://www.romasegreta.it/rubriche/s-lorenzo-fuori-le-mura.html "Roma Segreta" web-page]
+
+[http://www.sacred-destinations.com/italy/rome-san-lorenzo-photos/ Large photo gallery] (the thumbs have corrupted.)
+
+[http://www.gliscritti.it/gallery3/index.php/album_074?page=1 Gli Scrtti gallery]
+
+[http://www.romaspqr.it/roma/Basiliche/S-Lorenzo_fuori_le_mura.htm SPQR article, with groundplan (in Italian)]
+
+[http://www.angolohermes.com/luoghi/lazio/roma/s_lorenzo_fm/s_lorenzo_fm.html "L' Angelo di Hermes" article, with photos (Italian)]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=4047 Info.roma web-page]
+
+[http://www.antika.it/004812_roma-basilica-di-san-lorenzo-fuori-le-mura.html "Antika" web-page]
+
+[http://thierry.jamard.over-blog.com/article-rome-san-lorenzo-fuori-le-mura-dimanche-17-janvier-2010-44699457.html Thierry-Jamard blog with good photos] (in French)
+
+[http://www.itacafreelance.it/portfolio/il-chiostro-di-s-lorenzo-fuori-le-mura/ "Italicafreelance" on the cloister]
+
+[http://it.wikipedia.org/wiki/Catacomba_di_San_Lorenzo Italian Wikipedia page on the catacombs of St Cyriaca ]
+
+[http://it.wikipedia.org/wiki/Catacomba_di_Sant%27Ippolito Italian Wikipedia page on the catacombs of St Hippolytus]
+
+[https://romandespatches.blogspot.co.uk/2018/04/when-in-romevisit-san-lorenzo-fuori-le.html Roman Despatches - blog with gallery]
+
+
+
+{{sevenchurches}}
+{{DEFAULTSORT: Lorenzo fuori le Mura}}
+[[Category:Catholic churches]]
+[[Category:Dedications to St Lawrence the Deacon]]
+[[Category:16th century]]
+[[Category:18th century]]
+[[Category:Outside the walls - North-East]]
+[[Category:Minor basilicas]]
+[[Category:Parish churches]]
+[[Category:6th century]]
+[[Category:Catacombs]]
+[[Category:Catacombs on Via Tiburtina]]

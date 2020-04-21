@@ -1,0 +1,85 @@
+{{Infobox church|
+name= San Gregorio Nazianzeno|
+image=  |
+caption= |
+englishname= St Gregory Nazianzen |
+dedication= St Gregory Nazianzen|
+denomination= [[Roman Catholic Church|Roman Catholic]]|
+type= |
+clergy= |
+titular= |
+national= |
+built= 8th century|
+consecrated= |
+architect= |
+artists= |
+address= 45 Piazza Campo Marzio <br> 00186 Roma|
+phone= |
+fax = |
+e-mail= |
+url= |
+}}
+'''San Gregorio Nazianzeno''' is an 11th century former monastic church located on the Vicolo Valdina, which runs east of the Piazza Firenze in the rione Campo Marzio. Picture of the church on Wikimedia Commons [[commons:File:Campo_Marzio_-_S._Gregorio_Nazianzeno.jpg|here]].
+
+The dedication is to St [https://en.wikipedia.org/wiki/Gregory_of_Nazianzus Gregory Nazianzen], Archbishop of [https://en.wikipedia.org/wiki/Constantinople Constantinople] and [https://en.wikipedia.org/wiki/Doctor_of_the_Church Doctor of the Church], who died in 389.
+
+(See also [[Santa Maria in Campo Marzio]].)
+==History==
+===Origins===
+
+This is a church of ancient foundation, as documentary evidence exists of its existence in the reign of Pope [https://en.wikipedia.org/wiki/Pope_Leo_III Leo III] (795-816) who gave it a silver box.
+
+The foundation story is that some [https://en.wikipedia.org/wiki/Byzantine_Rite Byzantine-rite] nuns of the convent of St Anastasia in Constantinople fled to Rome after being persecuted by the [https://en.wikipedia.org/wiki/Iconoclasm iconoclast] government, and were granted a property here by Pope [https://en.wikipedia.org/wiki/Pope_Zachary Zacharias] (741-52). They brought a miraculous icon of Our Lady and the relics of St Gregory Nazianzen with them, and he was enshrined in the nunnery's chapel.
+===Benedictine nuns===
+
+The monastery became [https://en.wikipedia.org/wiki/Order_of_Saint_Benedict Benedictine], and was already so at the date of its first documentary reference in 937. Back then, the church was dedicated to Our Lady and St Gregory Nazianzen.
+
+On topographical evidence, the original monastery was in the Vicolo Valdina with its main entrance by the church. However, when the nuns re-built their complex from the 11th century they put their cloister here with the rebuilt church in the north-east corner.
+
+They also built (or re-built) a separate church dedicated to Our Lady near the south-west corner, this being standard practice in early monasticism where each altar had its own separate building instead having them all in one big church. This arrangement is still the usual one in Byzantine-rite monasteries. The surviving bell-tower and fresco fragments in the church are 12th century.
+
+In 1505 the church was restored, and the body of St Gregory disinterred and put in a new shrine. It did not stay there long, because in 1580 it was moved to St Peter's. The other church became the focus of the monastery as [[Santa Maria in Campo Marzio]], and it was this that was rebuilt as the convent church in 1685 with the nunnery taking the name. St Gregory's church became little more than an oratory.
+===Modern times===
+
+When the nunnery was confiscated by the Italian government in 1873 after over 1100 years of existence, the complex was used as a state archive store and the church was deconsecrated. However, the site was later taken over by the ''Camera dei Deputati'' to provide office accommodation for the deputies and this led to the church being restored and re-consecrated in 1987. It now functions as a chapel for the Camera deputies.
+
+The nunnery complex is now known as the ''Complesso di Vicolo Valdina''.
+
+==Exterior==
+
+The church is small (14m by 7m), and is an aisleless nave with an integral apse. It demonstrates its ancient foundation by breaking into the plan of the adjacent cloister.
+
+The façade is simple, with a gable containing a clock. There is a large rectangular window above the door, and three smaller windows in a row below the gable. The latter belong to domestic apartments of the monastery, above the actual church on the ground floor.
+
+The spectacular Romanesque brick bell-tower dates to the 12th or 13th century, is structually part of the adjacent cloister range up to the level of the church's gable and then has four storeys separated by dentillate cornices. Each storey has three arches on each face, separated by white marble columns with imposts.
+==Interior==
+
+The original fittings have been entirely lost, so the surfaces are bare stonework and render.
+
+There is a barrel vault supported by a large, low arch on each side stretching almost the full length of the church. There are three small relieving arcs above each main arch.
+
+In the right wall can be seen five courses of ancient masonry in large limestone blocks, and in the left wall some brickwork is exposed with arc decorations. The only window is that over the door.
+
+Frescoes were discovered during the restoration, and are from the 11th and 12th centuries. The one in the conch of the apse is intact, and shows Christ Pantocrator flanked by SS Gregory Nazianzen and [https://en.wikipedia.org/wiki/John_Chrysostom John Chrysostom]. Elsewhere are depicted the Madonna and Child and SS [https://en.wikipedia.org/wiki/Basil_of_Caesarea Basil] and Peter. The altar is an ancient sarcophagus.
+==Access==
+Because of security issues, the church is inaccessible to casual visitors and the police will take an interest in anybody who gets too close. 
+
+However, the complex is also a cultural venue for exhibitions, concerts and congresses and some of these may be open to the public.
+
+==External links==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=705 Official diocesan web-page]
+
+[http://it.wikipedia.org/wiki/Chiesa_di_San_Gregorio_Nazianzeno Italian Wikipedia page]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=201 Info.roma web-page]
+
+[http://www.camera.it/100?sede_camera_descrizione=15&sede_camera=4 Article and photos from the Camera website]
+
+[http://www.camera.it/585?raccolta=133&rcgrp=Altri%20Palazzi&Altri+Palazzi+%2F+Complesso+di+Vicolo+Valdina Photo gallery]
+
+{{DEFAULTSORT:Gregorio Nazianzeno}}
+[[Category:Catholic churches]]
+[[Category:Dedications to St Gregory of Nazianzus]]
+[[Category:8th century]]
+[[Category:Campo Marzio]]
+[[Category:Convent churches and chapels]]

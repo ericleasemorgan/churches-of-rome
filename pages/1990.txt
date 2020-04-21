@@ -1,0 +1,92 @@
+ {{Infobox church|
+    name= San Gaspare del Bufalo |
+    image=  |
+    caption= |
+    englishname= St Gaspare del Bufalo|
+    dedication= St Gaspare del Bufalo|
+    denomination= [[Roman Catholic Church|Roman Catholic]]|
+    type= |
+    clergy= Missionaries of the Precious Blood|
+    titular= |
+    national= |
+    built= 1980|
+    consecrated= |
+    architect= Luigi and Antonio Nervi|
+    artists= |
+    address= Via Borgo Velino 1 <br>00179 Roma|
+    phone= 06 78 05 553|
+    fax = |
+    e-mail= |
+    url= www.parrocchie.it/roma/sangaspare/|
+    }}
+'''San Gaspare del Bufalo''' is a later 20th century parish and convent church with a postal address of Via Borgo Velino 1 in the [https://it.wikipedia.org/wiki/Tuscolano Tuscolano] quarter. However, the main entrance is on the Via Rocca di Papa. The ''Arco di Travertino'' metro station is nearby. Pictures of the church at Wikimedia Commons are [https://commons.wikimedia.org/wiki/Category:San_Gaspare_del_Bufalo_%28Rome%29 here].
+
+The dedication is to the native Roman priest St [http://en.wikipedia.org/wiki/Gaspar_del_Bufalo Gaspare del Bufalo] (1786-1837). His name in English is Caspar.
+
+==History==
+
+The parish was erected in 1961 by Pope St [http://en.wikipedia.org/wiki/Pope_John_XXIII John XIII], and placed in the care of the [http://en.wikipedia.org/wiki/Missionaries_of_the_Precious_Blood Missionaries of the Precious Blood] (nicknamed the ''Bufalini''). This congregation had been founded by St Gaspare, and has its headquarters at [[Santa Maria in Trivio]].
+
+The permanent church was designed in a distinctive and interesting modern style by [https://en.wikipedia.org/wiki/Pier_Luigi_Nervi Pier Luigi Nervi], and begun in 1976. Unfortunately he died in 1979, and the job was completed by his son Antonio. The church was consecrated in 1981.
+
+Most of the top-quality modern churches in Rome are in out-of-the-way suburbs needing tedious journeys to visit. This excellent building is unusual in being easy to visit by metro, and is well worth it.
+==Exterior==
+
+=== Layout and fabric ===
+The plan is based on a regular parallelogram which is almost square, with the major axis on the longer diagonal so that the entrance is in one acute-angled corner and the altar in the opposite one. Behind the altar is the external Blessed Sacrament chapel, on the plan of an octagon with a quarter cut out to a right angle so as to fit around the acute angle of the church.
+
+This chapel is abutted by a pair of flat-roofed sacristies, which in turn lead into the convent and parish accommodation. This includes two large wings arranged in a V and enclosing a courtyard behind the chapel.
+
+The frame and low walls of the are in reinforced concrete, and the steeply pitched pyramidal roof is covered in oxidised copper plates. 
+
+On the major axis the roof corners are rounded, but along the transverse axis is the most spectacular feature of the church. Two enormous concrete beams, placed closely together in parallel and shaped like a boomerang, start at the ground level either side of the church and sweep up over the roof to its peak. At the peak they are slightly rounded on top and bear a wire cross finial, but their corresponding undersides have a wider curve so as to give the boomerang effect. 
+
+Between the low concrete exterior walls and the roof is a row of horizontal rectangular stained glass windows on each side.
+
+=== Façade ===
+On the entrance side of the church there is a large lenticular (eye-shaped) stained glass window inserted into the roof just under the arch beam on this side, throwing light on to the altar. It has a sunburst design.
+
+The entrance is approached by a flight of steps, and is a simple pair of glass and metal doors sheltering under the acute angle of the roof eaves, which here form a floating porch. On each side of the angle of the eaves is a simple dedicatory inscription -''Parrocchia San Gaspare''.
+
+=== Campanile ===
+The unique detached campanile is to the left of the entrance, and is made up of seven concrete slab pillars placed together like organ pipes and supported on either side by a pair of diagonal concrete beams. The bells are hung from short beams between the outer pair of pillars and these diagonals.
+==Interior==
+
+The interior walls are rendered in white, and the worshipping space is dominated by the ribbed raw concrete underside of the roof. 
+
+The stained glass windows under the roofline have abstract designs dominated by yellow and blue. Behind the altar, in between the main church and the Blessed Sacrament chapel, is a pair of stained glass windows occupying the angle and having the theme of the Eucharistic elements. The glass is by Luciano Vinardi
+
+The sanctuary a bronze crucifix by [https://it.wikipedia.org/wiki/Raoul_Vistoli Raoul Vistoli], and the same artist is responsible for the accompanying figures on the walls either side of Our Lady and St Gaspare (not St John, as may be expected). 
+
+The distinctive fibreglass Stations of the Cross are by the Franciscan priest [http://www.comunecastelbaronia.it/wp-content/uploads/2010/10/Padre-andrea-martini.pdf Andrea Martini], who was also responsible for the tabernacle. 
+
+There is a ceramic depiction of St Gaspare in the Blessed Sacrament chapel.
+==Liturgy==
+Mass is celebrated:
+
+Weekdays 8:00, 9:00 (not July and August), 18:30 (19:00 Saturdays);
+
+Sundays and Solemnities 8:00, 10:00, 11:30, 19:00.
+
+There is Exposition of the Blessed Sacrament in the ferial chapel on weekdays 9:30 to 13:00 and 15:00 to 22:00 (19:00 Saturdays).
+
+St Gaspare del Bufalo is listed in the Roman martyrology on 28 December. Liturgically he is celebrated in particular calendars on 21 October, which is a Solemnity in this church and in any others dedicated to him or served by his congregation.
+
+==External links==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=153 Official diocesan web-page]
+
+[http://it.wikipedia.org/wiki/Chiesa_di_San_Gaspare_del_Bufalo Italian Wikipedia page]
+
+[http://www.sangaspareroma.altervista.org/ Parish website]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=4329 Info.roma web-page]
+
+[http://www.beweb.chiesacattolica.it/percorsi/percorso/999/Le+Chiese+moderne+di+Roma/chiesadiroma/11168/San+Gaspare+del+Bufalo Beweb web-page]
+
+{{DEFAULTSORT:Gaspare}}
+[[Category:Catholic churches]]
+[[Category:Dedications to St Gaspare del Bufalo]]
+[[Category:20th century]]
+[[Category:Outside the walls - South-East]]
+[[Category:Parish churches]]
+[[Category:Convent churches and chapels]]

@@ -1,0 +1,509 @@
+{{Infobox church|
+name= San Paolo fuori le Mura|
+image= Paolofuori_facade1.JPG|
+caption= Façade|
+englishname= St Paul's Outside the Walls|
+dedication= Paul the Apostle|
+denomination= [[Roman Catholic Church|Roman Catholic]]|
+type= Papal basilica|
+clergy= |
+titular= No|
+national= No|
+built= [[4th century]], much rebuilt from 1824|
+consecrated=  [[18 November]] [[324]]|
+architect= |
+artists= |
+address= 186 Via Ostiense<br>
+(Metro: Basilica San Paolo)|
+phone= |
+fax = |
+e-mail= |
+url= |
+}}
+<place lat="41.85868" lon="12.47643" zoom="16" width="250" />
+'''San Paolo fuori le Mura''' is a heavily restored 4th century [[Major basilica]] and  [https://en.wikipedia.org/wiki/Major_basilica#Papal_Basilicas papal basilica] dedicated to [https://en.wikipedia.org/wiki/Paul_the_Apostle St Paul] and containing his shrine. The postal address is Via Ostiense 184, in the [https://en.wikipedia.org/wiki/Ostiense Ostiense] quarter.
+
+== Status ==
+The status of the basilica is complicated, and can confuse.
+
+It is the third in dignity of the [[Major basilica|major basilicas]] of Rome, after [[San Giovanni in Laterano]] and [[St Peter's]],  and is the second largest church in Rome. It used to have the dignity of a [[patriarchal basilica]], being assigned to the [https://en.wikipedia.org/wiki/Patriarch_of_Alexandria Patriarch of Alexandria], but this dignity has been abolished and should no longer be referred to.
+
+The basilica and its attached monastery are part of Italy, but under the [https://en.wikipedia.org/wiki/Lateran_Treaty Lateran Treaty] of 1929 the area is "extra-territorial". This means that the Vatican is entirely responsible for its administration. 
+
+However, in practice the basilica and monastery are separately administered. The latter is governed by its own abbot, but the former is staffed by Vatican employees and the abbot has no administrative jurisdiction here apart from liturgical and pastoral concerns. The CEO of the basilica is an "archpriest" (''arciprete'') who in June 2018 was Cardinal [https://en.wikipedia.org/wiki/James_Michael_Harvey James Michael Harvey], and the abbot has the title of "Vicar for Pastoral Matters" (''Vicario per la Pastorale''). 
+
+Monk-guests from other Benedictine monasteries might appreciate a warning that the brethren have no free individual right of access to the basilica. This hardly matters when the basilica is open to the public or when the brethren are celebrating liturgically, but you cannot expect to remain on your own to pray in the basilica once the doors are locked. 
+
+==History==
+
+=== St Paul's tomb ===
+Contemporary documentary witnesses to the career of St Paul only occur in the New Testament. There, the ''Acts of the Apostles ''terminates by describing him as spending two years under house arrest at Rome after arriving there from Jerusalem in about the year 60 AD, 
+
+According to subsequent tradition, established less than a century later, St Paul was executed on the orders of the Emperor Nero about the 65 AD (or, at least, before 68 AD when the emperor killed himself). Modern scholars have speculated about what he did in the three missing years, but have absolutely no evidence to work on.
+
+Where the apostle was executed is now unknown. Still later tradition places his death at the present abbey of [[Santi Vincenzo e Anastasio alle Tre Fontane|Tre Fontane]], but there are serious problems with this. The execution scene is described as featuring the apostle's head bouncing three times after his neck was severed, with three springs of water welling up where it had hit the ground. Much more worryingly, the detail is added that his body spurted milk instead of blood -this bizarre feature seems to link the tale to a [https://en.wikipedia.org/wiki/Manichaeism Manichaean] rather than a Christian source. More to the point, the distance from the city seems excessive in leading away a prisoner for execution.
+
+Whatever, St [http://en.wikipedia.org/wiki/Paul_the_Apostle Paul] was buried in a cemetery at this site which is about two kilometres from the city walls by the road to [http://en.wikipedia.org/wiki/Ostia_Antica Ostia]. This was  apparently established by a female proprietor called Lucina, and was named after her. She might have been one of St Paul's patrons while he was at Rome, and so was able to reserve a burial plot for him, or might have simply sold a plot to him personally or to his representatives.
+
+A shrine, or ''cella memoriae'', was apparently soon erected, and many early Christians came to venerate the "Apostle to the Gentiles". 
+
+=== First church ===
+The first church here was, according to the ''[[Liber Pontificalis]]'', built by Emperor [http://en.wikipedia.org/wiki/Constantine_the_Great Constantine] and consecrated on [[18 November]] [[324]]. It was a small edifice, built either over the actual tomb of St Paul or his shrine -which is unclear, but the former is more likely. This is because the church was awkwardly fitted in between two ancient roads, the ''Via Laurentina'' and the ''Via Ostiensis,'' the junction of which used to be just to the north.  (The modern junction is to the south). Also, there are good indications that early Christians at Rome were very reluctant to move the entombed remains of venerated people (the major problem of SS Peter and Paul at [[San Sebastiano fuori le Mura]] notwithstanding). 
+
+This first edifice had two apses, one fitting into the present one and the other just under the present triumphal arch. 
+
+=== Building of present basilica ===
+Between 384 and 386, Emperors [http://en.wikipedia.org/wiki/Valentinian_II Valentinian II] , [http://en.wikipedia.org/wiki/Theodosius_I Theodosius I ] and [http://en.wikipedia.org/wiki/Arcadius Arcadius] demolished the church and built a large basilica. The architect was one Cyriades. According to the inscription on the triumphal arch, it was consecrated in [[390]] by [http://en.wikipedia.org/wiki/Pope_Siricius Siricius], and completed in [[395]] under Emperor [http://en.wikipedia.org/wiki/Honorius_(emperor) Honorius]. The Christian poet [http://en.wikipedia.org/wiki/Prudentius Prudentius] described it as being roofed with gilded bronze tiles.  Although heavily restored, not least after it was damaged by fire in the 19th century, the present basilica looks much the same as it did in the [[4th century]].
+
+The focus of the basilica was the pre-existing tomb or shrine of St Paul in the first basilica, and the road junction was diverted to accommodate the larger building.
+
+It was reported on December 7th 2006 that Giorgio Filippi, an archeologist and inscriptions expert at the Vatican Museums and working for the Vatican, had unearthed a marble sarcophagus dating from "at least [[390]]" as he supervised work to excavate the ancient crypt beneath the church. The sarcophagus has ''Paolo Apostolo Martyr'' (Paul Apostle Martyr) written on it, and is very likely to contain the remains of Saint Paul.
+
+In 2002 and 2003, Filippi had examined this sarcophagus after having removed pavement stones to access chambers below the basilica. Three vertical holes leading down to the lid were found, one of which is closed but thought to have lead directly into the sarcophagus. This was likely used to allow objects to come into contact with the remains of St. Paul in order to create secondary relics. These were popular in the late fourth century after Emperor Theodosius banned the trade of corporal relics. The New Testament states in Acts 19:11-12 "God did extraordinary miracles through Paul, so that even handkerchiefs and aprons that had touched him were taken to the sick, and their illnesses were cured and the evil spirits left them."
+
+=== Early Middle Ages ===
+Pope St [http://en.wikipedia.org/wiki/Pope_Leo_I Leo the Great] (440&ndash;[[461]]) restored the church after an earthquake, and it was he who, by tradition began the commissioning of series of papal portraits in the nave. About 50 years later, Pope St [http://en.wikipedia.org/wiki/Pope_Symmachus Symmachus] (498&ndash;514) ordered the reconstruction of the [[apse]] which was unsafe, and also opened a hostel for pilgrims. Several more restorations and changes were later carried out, under Pope St [http://en.wikipedia.org/wiki/Pope_Gregory_I Gregory the Great] (590-604) who raised the floor of the [[transept]]; Pope [http://en.wikipedia.org/wiki/Pope_Sergius_I Sergius I] (687-701) who repaired the roof and the hostel; Pope [[Hadrian I]] (772-95) who restored the [[aisle]]s and laid a new floor in the [[atrium]], and Pope [http://en.wikipedia.org/wiki/Pope_Leo_III Leo III] (796-816) who ordered the transept, roof and floors to be repaired again, and who also added the apse [[mosaic]].
+
+In the 7th century it was recorded that there were two monasteries attached to the church, one for monks and one for nuns. Pope [[Gregory II]] (715-31) re-founded the male monastery for [http://en.wikipedia.org/wiki/Benedictine Benedictine] monks, who have been in residence ever since. 
+
+A strange legend associated with Pope Hadrian is that he restored a colonnaded walkway which ran from the [https://en.wikipedia.org/wiki/Porta_San_Paolo Porta San Paolo] to the basilica. This structure is extremely unlikely to have existed, since it would have needed thousands of stone columns for its construction. It is thought that the legend arose from the provision of a colonnaded atrium by the pope.
+
+In 739 and 773 the [http://en.wikipedia.org/wiki/Lombards Lombards] plundered the church, and in 843 Muslim pirates sailed up the Tiber and thoroughly pillaged it. By tradition, they did not find the apostle's tomb in the process because Pope [http://en.wikipedia.org/wiki/Pope_Sergius_III Sergius III], forewarned, had walled it up. 
+
+As a result of all this, in 883 a set of defensive walls and towers encircling the church were completed. This created a little walled town known as "Johannipolis" (in Italian ''Giovannipoli''), or "City of John" after Pope [http://en.wikipedia.org/wiki/Pope_John_VIII John VIII]. The defence works were tested in 1083&ndash;[[1084]], when they withstood several attacks by [http://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor Emperor Henry IV]. 
+
+Meanwhile, in 937 the church was entrusted to the great reforming Benedictine abbey of [http://en.wikipedia.org/wiki/Cluny_Abbey Cluny] in France, which re-founded the monastery here as a dependency. Initially things did not go well, and its most famous superior, Hildebrand, had to restore and embellish the church around 1070 before he became Pope [http://en.wikipedia.org/wiki/Pope_Gregory_VII Gregory VII]. A<span style="font-style: normal; "> campanile was built at the entrance end of the left hand outer aisle, and a magnificent bronze door from </span>[http://en.wikipedia.org/wiki/Constantinople Constantinople]<span style="font-style: normal; "> </span><span style="font-style: normal; ">was provided for the main entrance in 1070. Before this the remnants of the monastic community were allegedly living in squalor, and allowing sheep to shelter from the weather in the semi-derelict basilica.</span>
+
+===High Middle Ages===
+In [[1115]] there was a serious fire, and Pope [http://en.wikipedia.org/wiki/Pope_Innocent_II Innocent II] had a wall with columns built along the major axis of the transept in order to support the unsafe roof. The transept was divided into two narrow aisles by this wall. During the reign of Pope [http://en.wikipedia.org/wiki/Pope_Innocent_III Innocent III] (1161-1216) the superb cloister was begun. Also in the 13th century the altar canopy was built, and a series of paintings on the main nave walls was executed by [http://en.wikipedia.org/wiki/Pietro_Cavallini Pietro Cavallini]. In 1325 the façade was provided with a mosaic.
+
+Disaster struck again in [[1349]], when an earthquake badly damaged the basilica and destroyed the bell-tower and part of the [[portico]]. Pope [http://en.wikipedia.org/wiki/Pope_Clement_VI Clement VI] had the damage repaired.
+
+During the "[http://en.wikipedia.org/wiki/Avignon_Papacy Babylonian Captivity] " of the popes at Avignon in France, 1305-78, the abbey and basilica formed the most important functioning eccesiastical institution in Rome, and the abbot was effectively the Pope's deputy there. The official residence of the popes, the [https://en.wikipedia.org/wiki/Lateran_Palace Lateran Palace], fell into ruin meanwhile.
+
+During the Middle Ages the abbey was under the special patronage of the kings of England, and as a result its coat of arms contains the device of the "[http://en.wikipedia.org/wiki/Order_of_the_Garter Order of the Garter]", the highest chivalric dignity conferred by the English crown. This was founded in 1348 by King Edward III, and the garter concerned was a stocking support dropped by one of his female courtiers at an official function.
+
+At the start of the 15th century, the basilica was again in bad repair. Major restorations started under Pope [http://en.wikipedia.org/wiki/Pope_Boniface_IX Boniface IX], when he allowed all donations to the church in return for [http://en.wikipedia.org/wiki/Indulgence indulgences] to be used for repairs. Pope [http://en.wikipedia.org/wiki/Pope_Martin_V Martin V] (1386-1481) continued the work, and in 1426 the work was intensified under the rector of the church, Gabriele Condulmer, later Pope [http://en.wikipedia.org/wiki/Pope_Eugene_IV Eugene IV]. 
+
+Under Pope Martin the monastery was taken away from the control of the abbey of Cluny and entrusted to the reforming Benedictine congregation of [http://en.wikipedia.org/wiki/Justina_of_Padua St Justina], partly in order to remove unwanted French influence. In the process the monastery was made an abbey ''nullius'', meaning that it was its own diocese with the abbot simultaneously a bishop. This congregation was later known as the Cassinese when the abbey of [http://en.wikipedia.org/wiki/Monte_Cassino Montecassino] joined it.
+
+===Post-medieval period===
+In 1620 a chapel for the Blessed Sacrament was designed by [http://en.wikipedia.org/wiki/Carlo_Maderno Carlo Maderno], and built just to the right of the apse.
+
+In 1653 [[Francesco Borromini]] produced plans for a total restructuring of the church, at the request of Pope [http://en.wikipedia.org/wiki/Pope_Innocent_X Innocent X] . The basilica would have been given a Baroque makeover, with semi-circular pillared porticos at both ends. Due to a lack of funds, only the roof was renewed and this work was completed under Pope [http://en.wikipedia.org/wiki/Pope_Clement_X Clement X].
+
+At the end of the [https://en.wikipedia.org/wiki/Jubilee_(Christianity) Holy Year] of [[1700]], the Tiber flooded the area and the basilica could not be visited by pilgrims for the Jubilee indulgence. Its functions for the Jubilee were transferred to [[Santa Maria in Trastevere]]. This was the most famous of the many floods that the basilica suffered owing to its position, just by a meander of the river.
+
+The portico was rebuilt in [[1724]], in preparation for the Holy Year of 1725, by [http://it.wikipedia.org/wiki/Antonio_Canevari Antonio Canevari]. The former one, recently built by [http://en.wikipedia.org/wiki/Alessandro_Specchi Alessandro Specchi], had collapsed on 1 May 1724. The ancient [[narthex]] was demolished at this time, and columns from the early four-sided portico were removed. 
+
+At the same time, a series of other restorations were completed under Pope [[wikipedia:Pope_Benedict_XIV|Benedict XIV]]. A chapel dedicated to the Crucifix was built to the left of the apse, the apse mosaic was restored (bits of the original work were removed, and are on display near the sacristy) and the series of papal portraits were brought up to date. The idea of adding a new painting for every new pope was then established.
+===Appearance of the old basilica in c1800===
+Throughout the mediaeval and post-mediaval period, the basilica and monastery stood alone in open countryside. A serious problem that emerged as a result was malaria as an endemic disease, which made a pilgrimage here somewhat risky and persuaded the monastic community to move elsewhere in the summer months.
+
+Anybody visiting the basilica at the start of the 19th century would have been confronted by a Baroque-style façade, with an external loggia. This had seven entrance arches, the central one being flanked by piers with single Corinthian columns but the other piers having doubled columns. Above the loggia the frontage of the nave had three large arched windows over three smaller ones, and above the windows the frontage was coved before ending in a triangular pediment. This coving was so that the medieval mosaics on this frontage did not seem foreshortened to a viewer in front of the church (see [[Santa Maria in Trastevere]] for a surviving example of this). The coving had a tondo of Christ in majesty supported by angels, with the symbols of the evangelists on either side. In between the large windows were figures of Our Lady and SS Paul, Peter and John the Baptist.
+
+The campanile on the left hand side, at the end of the outermost aisle, had three storeys of increasing height. The first one was Romanesque, with paired arches, but the other two had a high Gothic arch on each face and dated from the medieval rebuilding
+
+Inside the nave columns were of marble, with Corinthian capitals. By tradition they had been pillaged from the Roman Forum, especially the [http://en.wikipedia.org/wiki/Basilica_Aemilia Basilica Aemilia]. Those of the main arcade were of [http://en.wikipedia.org/wiki/Parian_marble Parian marble] from Greece, and were ribbed. The four nearest the entrance had been walled in so as to buttress the façade. Other columns were of violet [http://en.wikipedia.org/wiki/Breccia breccia] and [http://en.wikipedia.org/wiki/Penteliko_Mountain Pentelic] marble. Two enormous Ionic columns of ''cipollino'' marble (white with pale green streaks), from the island of [http://en.wikipedia.org/wiki/Euboea Euboea] in Greece, supported the triumphal arch.
+
+Above the main nave arcades, below the clerestory windows, was the cycle of frescoes by Cavallini (twenty-two in all) featured scenes from the Old Testament on the left hand side and from the Acts of the Apostles on the right. The roof was open, having enormous transverse beams supporting a truly massive composite beam which stretched the length of the nave.
+
+There were, however, coved ceilings for the transept. As mentioned, this was divided by a screen wall with a large arch behind the tomb, and four smaller ones on each side supported by three columns of ''cipollino ''and granite. To the left of the apse was a Baroque chapel with an apse, and to the right another one without. Behind the apse was a third, peculiar chapel on a trapezoidal plan. The present Gregorian entrance portico did not exist, and the ends of the transept were occupied by two altars each.
+
+The medieval altar canopy had four columns of imperial [http://en.wikipedia.org/wiki/Porphyry_(geology) porphyry], purple with speckled white inclusions. This fabulously rare stone, which can be found in other churches in Rome, came from the one source in the Eastern Desert of Egypt known as the ''Mons Porphyrites''.
+
+The floors were of [http://en.wikipedia.org/wiki/Cosmatesque Cosmatesque] work, interspersed with many memorial inscriptions, and there were other memorials on the internal walls.
+
+===The fire of 1823===
+
+On the night between 15 and 16 July [[1823]], large parts of the basilica were damaged or destroyed by fire. It was probably started by a careless worker leaving a brazier burning while lead on the roof was being repaired. When the burning nave roof fell in, the temperature became so high that all the marble columns in the nave were calcined and the porphyry columns of the shrine exploded. It is said that Pope [http://en.wikipedia.org/wiki/Pope_Pius_VII Pius VII], who was very ill and died on 20 August that year, was never told what had happened, after advice from his most trusted fellows such as the Secretary of State, Cardinal Consalvi.
+
+During the fire, the western half of the left hand nave arcade collapsed. The other columns on this side, and all on the right hand side, were still standing and supporting the upper walls but surviving engravings show them to be very seriously damaged. The wall of the triumphal arch with its mosaic was standing, but the supporting columns were also compromised and collapse was expected. The arcades of the outer aisles were less seriously damaged, and the mediaeval campanile was intact as was the Baroque portico. Strangely, part of the roof of the left hand outermost aisle nearest the transept managed to survive.
+===The rebuilding===
+
+Pope [http://en.wikipedia.org/wiki/Pope_Leo_XII Leo XII] was elected on [[18 November]] 1823, and initiated a heated debate about how to restore the church. [http://en.wikipedia.org/wiki/Giuseppe_Valadier Giuseppe Valadier]<span style="font-style: normal; "> had been appointed architect at first, but his plans for radical changes were eventually rejected and he was removed from the project in November </span>1825<span style="font-style: normal; ">. He had initially proposed that the transept would become the church, and that the nave would be left unroofed as an ancient monument. However, the pope </span>decided to restore the basilica to its former glory, rather than replace it with a new church in a more modern style. As a result restoration work continued for almost a century, until 1930.
+
+The first architect to lead the actual rebuilding was [http://it.wikipedia.org/wiki/Pasquale_Belli Pasquale Belli.] Salvi, Paccagnini and Andrea Alippi were appointed as Belli's assistants. Work started in 1826, after a worldwide collection of funds had been taken. Belli demolished the triumphal arch after removing and storing the mosaic, and did the same to the portico and campanile. More controversially, he demolished the nave arcades and in the process destroyed the surviving frescoes by Cavallini. For this he has been condemned, but saving them would have meant a serious investment of time and money. Less forgivable was the ruthless clearing out of old memorials and inscriptions, including mediaeval ones. He also demolished the screen wall in the transept, and its end walls also. The triumphal arch was the first part of the church to be rebuilt, in 1829 using massive columns of Montórfano granite.
+
+Pope [http://en.wikipedia.org/wiki/Pope_Gregory_XVI Gregory XVI] took a great interest in the rebuilding; he was elected in 1831 at the time when the first of the eighty columns in the nave was erected. In [[1833]] [http://en.wikipedia.org/wiki/Luigi_Poletti_(architect) Luigi Poletti] became the new chief architect. He was assisted by Pietro&nbsp;Bosio, Pietro Camporese&nbsp;the Younger and [http://en.wikipedia.org/wiki/Virginio_Vespignani Virgino Vespigniani]. A new portico was added to the north end of the transept, which was roofed and became the church for the time being after the [[high altar]] was re-consecrated on [[5 October]] [[1840]] by Pope Gregory XVI. At that time, the nave was nowhere near completion, and so only the transept could be used. In 1845 two new chapels off the transept were built, bringing the total to four.
+
+However, work on the nave progressed so quickly that Pope [http://en.wikipedia.org/wiki/Pope_Pius_IX Pius IX] was able to perform a solemn consecration in [[1854]]. Many art historians were brutally critical of the result, complaining that little that was old was preserved and that the result looked like a train station (that jibe came from [http://en.wikipedia.org/wiki/Augustus_Hare Augustus Hare]). This was unfair, since the fire was so hot that even bronze melted on the entrance door and there was little left of the nave that was structurally sound. (Much salvaged stonework was, however, re-used as floor and wall covering.) On the other hand, it is correct to note that the present church nave, though magnificent, is a vast empty space with few devotional aids and in winter it can be painfully cold.
+
+A completely new campanile, on the site of the chapel behind the apse, was finished in 1860. Work on the façade took place between 1873 and 1884. The portico was started in 1890, and was only completed in 1928. The last work of restoration was the provision of a baptistry in 1931 (the church was parochial). This was the end of the rebuilding campaign, and little has happened to the fabric of the basilica since.
+
+===20th century===
+The isolation in open countryside of the basilica came to an end at the start of the 20th century, when an electric tramway was built down the Via Ostiense to terminate here. As a result, rather ugly suburban developments started The first metro railway (Linea B), opened in 1955, has a station near the basilica which is now surrounded by development except to the north.
+
+There a park preserves the view of the north side of the basilica, and is now called the ''Parco Ildefonso Schuster ''after Bl [https://en.wikipedia.org/wiki/Alfredo_Ildefonso_Schuster Ildephonsus Schuster], a saintly former abbot who became archbishop of Milan.
+
+The latter part of the 20th century was an absolute disaster for the <span style="font-size:14px;">Benedictine</span><span style="font-size:14px;"> abbey. An abbot elected in 1964, </span>[https://en.wikipedia.org/wiki/Giovanni_Franzoni Giovanni Franzoni]<span style="font-size:14px;">, apostatized and was laicized by Blessed Pope </span>[https://en.wikipedia.org/wiki/Pope_Paul_VI Paul VI] in 1976<span style="font-size:14px;"> (claiming subsequently to be a "dissident Catholic theologian" and "Christian Communist"). The community never recovered from this.</span>
+
+At the end of the 20th century, the ageing community began to fail definitively. This was not just owing to the Franzoni scandal, but was also part of the increasing difficulties being experienced by the Cassinese congregation of Benedictine monks, to which the abbey belonged. Vocations and morale had both collapsed.
+
+Abbot Luca Collino had to resign in 1996, and the Order of St Benedict came close to losing the church during the tenure of his successor, Paolo Lunardon. 
+
+=== 21st century ===
+The parish was suppressed in 2002. Its territory had become restricted after the creation of new suburban parishes out of its extent, but it is still very unusual for the Diocese of Rome to suppress a parish.
+
+According to a strong rumour, [http://en.wikipedia.org/wiki/Opus_Dei Opus Dei] was making a bid for the basilica at the start of the new millennium, but another candidate was a new monastic congregation at Vallechiara known as the [http://famigliamonasticafraternitadigesu.wordpress.com/ Monastic Family, Brotherhood of Jesus]. This was on the verge of taking over in [[2004]], but (fortunately for the Benedictines) some questionable details of its observance came to light in that year.
+
+Meanwhile, the Abbot Primate of the Benedictine Order appealed to monasteries worldwide to provide monks for a new, international monastic community and this appeal was successful. However, Lunardon had to resign and the territorial abbacy suppressed in 2005 before this measure could be implemented. Hence, the abbot here no longer has the equivalent status of bishop.
+
+The new abbot appointed (not elected) was Edmund Power, a monk of [https://en.wikipedia.org/wiki/Douai_Abbey Douai Abbey] in England. Under him, the revitalised community became well-known for its ecumenical outreach. It recovered well enough to elect its own abbot in 2015, who is Roberto Dotta.
+
+== Exterior ==
+
+=== Layout and fabric ===
+The basilica is very large, on a T-shaped plan and aligned from west to east (this is the usual alignment for Christian churches, but any visitor to Rome will notice that Roman churches don't seem obliged to comply)
+
+There is a long nave with aisles (Italian ''tre navate''), and this has ten bays with a half-bay at each end. Then comes a very wide transept, backed by a semi-circular apse. Flanking the apse are four external side-chapels, and a further two chapels occupy the ends of the transepts (these have no structural significance).
+
+The front of the church has a huge atrium or colonnaded courtyard on a square plan, which is flat-roofed. The left hand (north) end of the transept has an entrance lobby called the "Gregorian Portico", also flat-roofed.
+[[File:Picture 013.jpg|thumb|220x220px]]
+A tower campanile abuts the back of the apse. Either side of this runs a very odd screen wall, which conceals the apse and side chapels from the street. This has no structural significance, and seems to have been provided in order to prevent people creeping into the corners and doing what human beings do at night.
+
+The fabric is in brick, although this is concealed by a a greyish render on the exposed walls. The central nave walls each have ten proportionally small round-headed windows, matched by the side aisle walls. Three larger such windows occupy each of the transept ends, below the gable.
+
+The roof is pitched and tiled, with separate pitches at the same height for nave and transept. The apse conch has a semi-dome in metal.[[File:Facade_de_San_Paolo_fuori_le_mura.jpg|thumb|West Facade of the Atrium]]
+===Atrium===
+
+The original atrium had been demolished in the 14th century. When the church was rebuilt after the fire, it was decided to give it an atrium in the[[File:Giuseppe_Obici's_statue_of_St_Paul_in_the_Basilica's_atrium.jpg|thumb|248px|Statue of St Paul with his sword stands in the Basilica's atrium  ]] original style. The rebuilding took more than a century, but the result is very pleasing. It was designed by Luigi Poletti. Some alterations to the design were made by Virgino Vespagniani after Poletti's death in 1869, and it was finally constructed by Guglielmo Calderini in the years 1890–1928.
+
+Although it was built in the same style as the first atrium, it bears little resemblance to it since it is a much larger structure. The north and south side, 70 metres long, are covered on the outside by a travertine wall. The four corners have monumental propylaea, and the entrance façade has thirteen identical arches supported by Corinthian columns. There are a total of 150 such columns in the structure. The front (west) side has three rows of columns one behind the other, and on the inner side there are thirteen lunettes with paintings depicting ''Christ giving a blessing and the Apostles''. On the north and south sides, which have double rows of columns, there are painted medallions with various Christian symbols separated by polychrome marble revetting.
+
+The statue of St Paul in the atrium garden is by Giuseppe Obici, and was made in the 19th century It shows him holding the sword with which he was beheaded, and the Latin inscription on the plinth reads ''Predicatori veritatis, Doctori Gentium ''([Dedicated] to the preacher of the truth, to the teacher of the Gentiles).
+
+=== Campanile ===
+[[Image:Paolofuori_tower1.JPG|thumb|The bell-tower|thumb|250px]]
+The original bell-tower at the entrance was added in the 11th or 12th century. The first one was destroyed by an earthquake in 1349, and Pope Clement VI had a new one built. It survived the fire, but was destroyed during the rebuilding. It was replaced by a new structure by Luigi Poletti between [[1840]] and 1860, behind the apse and with a different look. It resembles a Roman tomb found in the south of France. It's 65 metres high, with five floors. The clock faces on the second level are by Mariano Trevellini, and were made in 1863. The upper three floors are laid out according to the canon of [http://en.wikipedia.org/wiki/Leon_Battista_Alberti Alberti], having the shapes, from bottom to top, of a square, an octagon and a circle. Their columns are arranged in the classical manner, with the heavy Doric style at the bottom, then the lighter Ionic style and on the top level Corinthian columns.[[File:BASILICA_of_ST_PAULS_Outside_the_Walls_-_Oct_2008_407_(800x672)_-_Copy.jpg|thumb|The "new" bell tower by Poletti, 1840-1860]]
+There are seven bells in the tower. Poletti placed four bells in it, all from the old church. Two were remelted in 1863 and 1930, and the other two, which dated to 1658, were kept here until 1959. That year, Blessed Pope John XXIII increased the number of bells to seven.
+
+=== Gregorian portico ===
+On the north side is a portico opening in on the north transept of the church. It is known as the Gregorian portico because it was built under Pope Gregory XVI (1831-1846) by Luigi Poletti. The columns were taken from the old building; one of them bears Pope Siricius' inscription about the building of the Theodosian basilica. There are eight in front, and four behind.
+
+This is the most convenient entrance to the church for most local people, since it is by the main road. It is best to start any visit to the basilica from the nave entrances, but to leave here via the north-west corner of the transept.
+
+=== Monastery ===
+The abbey has a mediaeval cloister next to the right hand end of the transept, and can be visited. The main part of the monastery is on the east side of this, a long and rather grim three-storey block which displays its mediaeval origins in its rather autistic civic presence. There is a larger cloister to the south of the mediaeval one and which shares its south range, but this has no arcades.
+
+The large (for Rome) monastery garden is south of the basilica's nave.
+
+===Façade===
+
+You should make a point of entering the church through the main doors - not only because it gives the right first impression of the interior, but also because the atrium is a good place to start your visit here. The gold mosaics are impressing, especially on a sunny day or in the evening when the façade is floodlit. The mosaics that were here at the time of the fire were moved to the arch over the apse. The present ones were made between [[1854]] and [[1874]] by Vatican workshops, based on designs by Filippo Agricola and Nicola Consoni. In the tympanum of the pediment Christ is shown between the Apostles Peter and Paul. Below is the Lamb of God on the mountain of Paradise. The four rivers flowing from it symbolize the gospels, and the twelve lambs drinking from the rivers symbolize the Apostles. The cities are Jerusalem and Bethlehem. The lowest section shows the Old Testament Prophets Isaiah, Jeremiah, Ezekiel and Daniel and these figures are separated by three large arched windows.
+
+== Doors ==
+
+=== The main door ===
+The door, of bronze with inlaid silver, is modern, made [[1929]]&ndash;1931 by Antonio Maraini after the old door had been damaged in the fire of 1823. It's 7.48 metres high and 3.35 metres wide. (The old door had been a gift from Pope Gregory VII, set up in 1070, and was made of the same materials. It is now on the inside of the Holy Door -see "Byzantine door" below.)
+
+The cross on the drawing represents a cross motif in curlicued silver, and this has on it plaques in lapis lazuli. Four on the horizontal bar show the symbols of the Evangelists, and on the vertical bar are the symbols of the Apostles.
+
+[[Image:Paolofuori_doorplan.jpg|thumb|250px]]
+The reliefs on the door show scenes from the lives, apostolates and martyrdoms of Sts Peter and Paul, according to the wishes of the abbot of the monastery, Bl [http://en.wikipedia.org/wiki/Alfredo_Ildefonso_Schuster Ildefonso Schuster]. Apart from the two central scenes, all of the events depicted took place in Rome. The reliefs depict (see drawing on the right):
+# Coat of arms of the Church
+# Coat of arms of Rome
+# The Crucifixion of St Peter
+# "Domine, Quo Vadis?"
+# Christ Giving the Keys to St Peter
+# Foundation of the Papal See
+# St Peter Baptizing in the Catacombs
+# The Beheading of St Paul
+# The Conversion of the Centurion
+# St Paul's Conversion
+# St Paul Teaching in Rome
+# St Paul Reaches Rome and is Welcomed by the Faithful
+
+Flanking the main door are 19th century statues of Sts Peter and Paul by Gregorio Zappalà.
+
+=== The Holy Door ===
+The Holy Door is to the far right. It is only open during Holy Years, <span style="font-style: normal">and its opening is a ceremony performed by the Pope. The present door is of gilded bronze sculpted by </span>[http://it.wikipedia.org/wiki/Enrico_Manfrini <span style="font-style: normal">Enrico Manfrini</span>]<span style="font-style: normal">, and was installed in </span>[http://romanchurches.wikia.com/wiki/2000 <span style="font-style: normal">2000</span>]<span style="font-style: normal"> to replace an ordinary wooden door. There are six composite scenes depicted in relief. From top left, from left to right, they are: Resurrection, Prodigal Son and Good Samaritan; the Benignity of the Pope (note the dog); Pentecost (note Our Lady in the midst of the Apostles); Preaching and Martyrdom of St Paul; Crucifixion; Preaching Office of the Episcopate. The Latin inscription at the bottom reads: </span>''Ad sacram Pauli cunctis venientibus aedem sit pacis donum perpetuoque salus ''<span style="font-style: normal">("May the gift of peace and salvation for ever be to all those coming to the holy temple of Paul").</span>
+
+=== The Byzantine Door ===
+It was one of the last wishes of Pope [[wikipedia:Pope_John_XXIII|John XXIII]] that the old main door be taken out of the museum and restored, and since [[1967]] it is used to close the inside of the Holy Door between Jubilee Years. An inscription reveals that it was commissioned by Pantaleone, consul of Amalfi in Constantinople, and was made by Teodoro in 1070. The metal founder was called Staurachio. Its 54 panels show scenes from the lives of Christ and the Apostles. There are three columns and nine rows on each of the two leaves.
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">The left hand leaf has, left to right and top to bottom:</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Annunciation; Nativity; Presentation.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Baptism of Christ, Transfiguration, Entry into Jerusalem.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Crucifixion, Deposition from the Cross, Resurrection.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Appearance to the Apostles in the Upper Room, Ascension, Pentecost.</p>
+
+<p style="margin-bottom: 0cm; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">The Cross, ''Tu quoque, ''Martyrdom of St Paul.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Christ with SS Paul and Panteleimon, Martyrdom of St Peter, St Peter.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Martyrdom of St Andrew, St Andrew, Burial of St John.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">St John the Evangelist, Martyrdom of St Bartholomew, St Bartholomew.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Eagle, St Thomas, Martyrdom of St Thomas.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">The right hand leaf has, left to right and top to bottom:</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Martyrdom of St Philip, St Philip, Martyrdom of St James.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">St James, Martyrdom of St Simon, St Simon.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Burial of St Matthew, St Matthew, Burial of St Luke.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">St Luke, Martyrdom of St Mark, St Mark.</p>
+
+<p style="margin-bottom: 0cm; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Moses, ''Paule beate, ''The Cross (again).</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">David, Isaiah, Hezekiah.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Jeremiah, Ezekiel, Daniel.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Elijah, Elisha, Jonah.</p>
+
+<p style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; font-style: normal; line-height: 0.48cm;">Obediah, Zephaniah, Eagle (again).</p>
+
+== Interior ==
+
+=== Nave ===
+[[Image:Paolofuori_nave1.JPG|thumb|250px|The nave]]
+[[File:San Paolo Fuori le Mura.png|thumb|220x220px]]
+The [[nave]], with two [[aisle]]s on each side and twenty Corinthian columns in each arcade of [http://en.wikipedia.org/wiki/Baveno Baveno] granite and with [http://en.wikipedia.org/wiki/Carrara_marble Carrara] marble capitals, was reconstructed 1831&ndash;[[1854]]. The plan remains as it was when the basilica was built, and the decoration is kept in the same style. Pasquale Belli made the first designs, and he was followed by Luigi Poletti in [[1833]].
+
+The counterfaçade has six [http://en.wikipedia.org/wiki/Alabaster alabaster] columns given by the Khedive of Egypt, [http://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt Muhammed Ali] , in [[1840]]; there are four more by the [[confessio]]. The two central columns bear the arms of Pope Pius IX, carved by Giosuè Meli (the angels supporting these are by Ignazio Iacometti and Salvatore Revelli). The other two columns support nothing. The Khedive gave ten of these alabaster columns, but the architects were not going to trust such a soft stone with any serious load-bearing and were puzzled as to what to do with them. The gift itself is of historical significance, since the Khedive was in the process of turning Egypt from a neglected Turkish province into a modern state and wished to demonstrate his country's willingness to join the international community of nations.
+
+The ceiling is decorated with the coats-of-arms of the popes who were engaged in the rebuilding, and is richly coffered in gold and white.
+
+The lower windows have fine alabaster panes, given by King [http://en.wikipedia.org/wiki/Fuad_I_of_Egypt Fuad I] of Egypt.
+
+In niches along the walls, there are statues of ten Apostles. They were made in 1882, together with the statues of SS Peter and Paul by the confessio. Among the artists who made them are A. Allegretti, F. Fabi-Altini, E. Gallori and E. Maccagnani. St Peter is by Ignazio Jacometti, and St Paul by Salvatore Revelli again.
+
+==== Paintings on nave walls ====
+Paintings high up on the walls depict scenes from the life and missionary travels of St Paul, taken from the Acts of the Apostles. The project was started by Pope Pius IX. It took twenty-two artists only three years to complete the work, from 1857 to 1860. The series of thirty-six fresco panels begins in the transept to the right of the apse, runs around the nave and concludes in the left hand part of the transept. It replaced the destroyed Cavallini frescoes. The series is in chronological order, starting with the Martyrdom of St Stephen at which St Paul (as Saul) first makes an appearance, and ends with his own Martyrdom.
+
+The windows and panels are divided by Corinthian pilaster strips. The paintings are best appreciated through binoculars.
+
+The subjects and artists are, in order:
+
+''Martyrdom of St Stephen,'' and ''Conversion of Saul'' by Pietro Gagliardi.
+
+''Ananias Heals Saul's Blindness'', and ''Saul's Baptism'' by Francesco Podesti.
+
+''Paul Preaches in Damascus'', and ''Paul Escapes from Damascus'' by Guglielmo De Sanctis.
+
+''Council of Jerusalem'' by Nicola Consoni.
+
+''Commission of Paul and Barnabas'', ''Conversion of Sergius at Paphos'', ''Paul and Barnabas at Lystra'' and ''Stoning of Paul at Lystra'' by Cesare Mariani.
+
+''Vision at Troas'' and ''Exorcism at Philippi'' by Luigi Cochetti.
+
+''Paul and Silas Flogged at Philippi'' by Vincenzo Morani.
+
+''Conversion of the Jailer at Philippi'' by Giuseppi Sereni.
+
+''Paul on the Areopagus at Athens'' by Giovan Battista Pianello.
+
+''Paul in Corinth'' by Domenico Tojetti.
+
+''Ephesians burning their Magic Scrolls'' by Casimiro De Rossi.
+
+''Resurrection of Eutyches'' by Natale Carta.
+
+''Paul Leaves for Miletus'' by Marcello Sozzi.
+
+''Prophecy of Agabus'' by Roberto Bompiani.
+
+''Paul and James at Jerusalem'' by Cesare Dias.
+
+''Riot at the Temple'' and ''Paul Speaking to the Rioters'' by Francesco Grandi.
+
+''Paul Declaring Himself a Roman Citizen'' by Natale Carta (again).
+
+''Vision to Paul in Jerusalem'' and ''Paul before Felix'' by Domenico Bartolini.
+
+''Shipwreck on Malta'' and ''Paul and the Snake'' by Achille Scaccioni.
+
+''Paul Cures the Father of Publius'' by Nicola Consoni.
+
+''Paul Meets Rome's Christians'' and ''Paul in Rome'' by Carlo Gavardini.
+
+''Paul's Elevation to the Third Heaven'' and ''Paul in the Mamertine Prison'' by Francesco Coghetti.
+
+''Peter and Paul Say Farewell'' and ''Martyrdom of St Paul'' by Filippo Baldi.
+
+==== Portraits of the Popes ====
+Along the nave above the arcades, there are roundels containing portrait mosaics of all the popes from Peter to Benedict XVI. Traditionally the series was started by Pope Leo the Great, and it was continued by Cavellini when he executed his fresco panels in the nave in the 13th century. Then there was a hiatus until Pope [http://en.wikipedia.org/wiki/Pope_Benedict_XIV Benedict XIV] commissioned Salvatore Monosilio to make portraits up to his time. Those portraits were destroyed in the fire in 1823, apart from forty-one kept in the museum.
+
+Pope Pius IX (1846-1878) restarted the project in 1847, specifying mosaics instead of frescoes, and since then it has been updated whenever a new pope is elected. There are currently eight spaces available.
+
+Many painters were involved in the restoration, including those involved in the St Paul fresco panels which are above the roundels on the nave walls. The process of converting the temporary fresco likenesses into mosaic was only completed in 1875, and 19th century critics of the rebuilding were unkind about the result. This was because the task of determining the likeness of each pope was left not to scholars, but to Filippo Agricola who was only the manager of the Vatican's mosaic studio. As a result, only the recent popes have true likenesses and the others are simply arbitrary portraiture.
+
+=== Triumphal arch ===
+The mosaic on the first arch you come to as you walk up the nave is originally from the 5th century. The head of Christ is in the centre, with his hand raised in blessing in the [http://en.wikipedia.org/wiki/Byzantine_art Byzantine] manner, and to the sides are symbols of the Evangelists, the 24 Ancients of the Apocalypse and angels. Below are SS Peter and Paul, the latter pointing toward his tomb. An inscription along the edge mentions the Emperor Theodosius, the Dowager Empress [http://en.wikipedia.org/wiki/Galla_Placidia Galla Placidia] (it is often referred to as the Arch of Galla Placidia) who donated the mosaic, and Pope St Leo I who was pope at the time. However, stylistic comparisons with the mosaic at [[Santi Nereo e Achilleo]] indicates that this mosaic was completely redone around the year 800.
+
+The mosaic was damaged in the fire, but has been restored. The columns supporting the arch are new, being of [http://en.wikipedia.org/wiki/Montorfano Montórfano] granite and 14 metres high. They replaced the equally enormous ancient ''cipollino ''marble columns which had been calcined in the fire -a serious loss.
+
+The inscription reads: THEODOSIUS COEPIT PERFECIT HONORIUS AULAM / DOCTORIS MUNDI SACRATAM CORPORE PAULI ("Theodosius started the church, Honorius finished it, it is made sacred by the body of Paul the teacher of the world").
+
+=== High altar and confessio ===
+The floor level of the transept was raised under Pope Gregory the Great. A crypt was opened behind the high altar at the same time but it was removed later, probably under Pope Leo III (795-816).
+
+The ''confessio ''is the most sacred spot in the basilica, since it is the nearest that you can get to the actual tomb of the apostle. It is below the high altar on the nave side, and is approached by a double staircase. <span style="font-style: normal; ">The balustrade in white marble surrounding the ''hypogeum ''(the area below floor level) was erected for the </span>[[1575]]<span style="font-style: normal; "> Jubilee. The bronze doors of the small entrance have likenesses of SS Timothy and Titus, disciples of St Paul, executed by [http://en.wikipedia.org/wiki/Pietro_Tenerani Pietro Tenerani]. </span><span style="font-style: normal; ">Bishops who visit the "</span>[[ad limina apostolorum|threshold of the Apostles]]<span style="font-style: normal; ">" (</span>''ad Limina''<span style="font-style: normal; ">) come here, and to the confessio at </span>''San Pietro in Vaticano''<span style="font-style: normal; "> where St Peter is buried, to kneel in prayer. The present arrangement was established in </span>1600<span style="font-style: normal; ">, under Pope </span>[http://en.wikipedia.org/wiki/Pope_Clement_VIII Clement VIII].
+
+<span style="font-style: normal; ">During archeological investigations just after the fire, a 1st or 2nd century tomb of St Paul was found. A slab found here is now behind a grille, but if the church is not too crowded you can ask an attendant to see it. The inscription says PAULO APOSTOLO MART., and it has been dated to the 4th century, although there is little to go by other than the crude style of the letters. The openings in the slab were used to send incense into the tomb, and to pass pieces of cloth nearer the body so that they could be taken away as relics. It is often impossible to get a chance to see it, but there is a copy in the museum is you want to get an idea of what it looks like.</span>
+
+The high altar is a papal altar, meaning that only the Holy Father and those with special permission may celebrate Mass at it. It stands directly over the tomb of St Paul, and under its porphyry slab are the relics of St Timothy the Martyr (a different Timothy to the one already mentioned).
+
+The [http://en.wikipedia.org/wiki/Baldachin canopy] is by [[Arnolfo di Cambio]] and was his first work in Rome, made in 1285. The inscriptions on the frontage facing the nave proclaim his authorship. He was assisted by a colleague identified as Peter ("cum suo socio Petro"), which recent scholarship has identified as [http://it.wikipedia.org/wiki/Pietro_di_Oderisio Pietro di Oderisio]. The work is in the [http://en.wikipedia.org/wiki/Gothic_art Gothic style], which is a bit unfortunate in this church, and the separate contributions of each artist are discernible. The porphyry columns are new, but the rest surprisingly survived the fire except for some details of the roof. In the restoration the whole structure was taken to bits, cleaned and restored and then re-assembled. In the process, it was found that some of the stonework included ancient inscriptions that had been re-used.
+
+The new porphyry columns are obviously not of the old imperial type, having a different hue and larger inclusions in the stone. They have Composite capitals embellished with angels and vine leaves, and support four trefoil arches. The spandrels of these contain little figures: Adam and Eve, Cain and Abel, the commissioning abbot offering the canopy to St Paul and finally two unidentified characters. Niches at the four corners contain statues of SS Peter, Paul, Timothy and Benedict. There are fretwork pinnacles above these statues, and a small shrine in the centre of the roof surmounted by a pyramidal spire. The interior of the canopy is adorned with rich mosaics, including depictions of animals, and four angels with candles and thuribles support the vault springers.
+
+By the confessio are four alabaster columns that support nothing but air. They were part of the set given to the church by the Khedive of Egypt, and formed part of a large [http://en.wikipedia.org/wiki/Baldachin baldacchino] that covered the altar area and overtopped the canopy. In this, the Corinthian columns supported an entablature with projecting cornice, and above was a hemispherical dome. Bronze angels occupied each corner, connected by metal curlicues, and there was more open scrollwork on the dome. The 19th century art critics were not the only people who hated this structure. It made a nonsense of the mediaeval altar canopy, and blocked the view of the apse mosaic from the nave. As a result It was taken down in 1912, but the columns remain.
+
+=== Paschal candlestick ===
+[[Image:Paolofuori Paschalcandlestick01.jpg|thumb|250px|Paschal candlestick]]
+The huge marble paschal candlestick in the right-hand transept, standing more than 5 metres high, is by Nichola dell'Angelo and Pietro Vassalletto, and was made in the 12th century. The base and top may have been reused from an older candlestick. The former is formed of a group of humans and animals, included sphinxes. The latter is a ring of monstrous animals supporting the calyx.&nbsp
+<span style="font-style: normal">The decoration on the shaft depicts seven scenes from Christ's Passion and Resurrection: C</span>''hrist before Caiaphas''<span style="font-style: normal">, the </span>''Mocking of Christ''<span style="font-style: normal">, </span>''Christ before Pilate, Pilate washing his hands, Crucifixion''<span style="font-style: normal">, </span>''Resurrection''<span style="font-style: normal"> and </span>''Ascension''<span style="font-style: normal">.</span>
+
+<span style="font-style: normal; ">Interestingly, the figure of Christ on the cross is clothed in a tunic. This is a very ancient iconographic tradition, which was dying out at the time when the candlestick was carved.</span>
+
+=== Altar of the Conversion of St Paul ===
+This is in the left hand transept. The altar was made in the 19th century, using [http://en.wikipedia.org/wiki/Malachite malachite] and [http://en.wikipedia.org/wiki/Lapis_lazuli lapis lazuli] provided by [http://en.wikipedia.org/wiki/Nicholas_I_of_Russia Tsar Nicholas I] of Russia. (If you take a guided tour, beware that some of the guides claim that the tsar was Nicholas II.) The malachite is bright green, and the lapis is rich blue. Next to it on either side are statues of Pope St Gregory the Great by Francesco Laboureur and St [http://en.wikipedia.org/wiki/Bernard_of_Clairvaux Bernard of Clairvaux] by Achille Stocchi. The altarpiece is by [http://en.wikipedia.org/wiki/Vincenzo_Camuccini Vincenzo Camuccini], <span style="font-style: normal">and it and the statues are framed by four Corinthian columns of </span>''pavonazzetto ''<span style="font-style: normal">("Peacock") marble supporting an architrave the frieze of which has a dedicatory inscription</span>.
+
+=== Chapel of St Stephen ===
+There are four large enclosed chapels flanking the apse, with a set of doors by Foschini of 1928. The first on the left is that of St Stephen. This 19th century new-build chapel is a reminder that before his conversion, St Paul took part in the stoning of [http://en.wikipedia.org/wiki/Saint_Stephen St Stephen], protomartyr of the Church. A statue of the saint by Rinaldo Rinaldi stands above the altar; he is described in art histories as a "mediocre disciple of [http://en.wikipedia.org/wiki/Antonio_Canova Canova]". The ''Stoning of St Stephen'' is by Francesco Podesti, and the ''Expulsion from the Sanhedrin'' is by Francesco Coghetti; both of these were executed in the 19th century. Part of the materials in the marble wall decoration are salvage from the early basilica. The wall pilasters are of red granite, and the dado of black and white Numidian breccia. The altar canopy has a pair of porphyry columns matching those of the altar canopy.
+
+=== Blessed Sacrament Chapel ===
+Left of the apse is the Blessed Sacrament Chapel, designed in the Baroque style in 1725 by [[Carlo Maderno]] and formerly known as the Chapel of the Crucifix. It is the only one of the four chapels with an apse, and survived the fire completely intact. The [[crucifix]], which is from the 14th century, is said to have spoken, or nodded, to St [https://en.wikipedia.org/wiki/Bridget_of_Sweden Bridget of Sweden] when she prayed here in 1370. It has been attributed to [http://en.wikipedia.org/wiki/Pietro_Cavallini Pietro Cavallini], but a recent restoration revealed remains of the original polychrome paintwork. It is now ascribed to the [http://en.wikipedia.org/wiki/Sienese_School Sienese school] of the early 14th century.
+
+The mosaic of the [[Blessed Virgin Mary|Blessed Virgin]] with the Christ child, in the style of a Byzantine icon, is from the 12th or 13th century. It was before this icon that St [http://en.wikipedia.org/wiki/Ignatius_of_Loyola Ignatius of Loyola] and his companions made their first public vows on August 22nd 1541 and hence began the history of the [http://en.wikipedia.org/wiki/Society_of_Jesus Society of Jesus] .
+
+On the right near the entrance is a wooden statue of St Paul, from the 14th or 15th century. The scratches are made by pilgrims wishing to take splinters away as relics. The depiction of the saint as a small man with a dark pointed beard is extremely ancient iconographically, and may be based on his actual appearance.
+
+On the corresponding left side, the 17th century statue of St Bridget is by [http://en.wikipedia.org/wiki/Stefano_Maderno Stefano Maderno] and depicts her vision before the crucifix just mentioned. Four gilded stucco angels are in the side niches.
+
+The 13th century painter Pietro Cavallini is buried in the chapel.
+===Apse mosaic===
+
+The apse mosaic, which barely survived the fire, is from about 1220 and was made by Venetian artists (stylistic confirmation has been obtained by comparing it with work in [http://en.wikipedia.org/wiki/St_Mark's_Basilica St Mark's Cathedral] in Venice ). Christ is flanked by the Apostles Peter, Paul, Andrew and Luke who stand in a field filled with flowers and little animals.
+
+<span style="font-style: normal; ">The tiny figure near Christ's feet is Pope </span>[http://en.wikipedia.org/wiki/Pope_Honorius_III Honorius III]<span style="font-style: normal; ">, who ordered the mosaic. In the Roman tradition, popes had been placed with the Apostles in mosaics and paintings almost as equals but the attitude of great humility displayed here is unusual. The artists, with their Venetian background, were influenced by Byzantine traditions, leading to this change. </span>
+
+Beneath Christ is a throne with the instruments of the Passion and a jewelled Cross; this ancient symbol is known as the ''Hetimasia''. In the centre of the cross is another depiction of the Teaching Christ. <span style="font-style: normal; ">The throne is flanked by a pair of angels as well as the Apostles carrying scrolls with the text of </span>[http://en.wikipedia.org/wiki/Gloria_in_excelsis_Deo Gloria in excelsis]<span style="font-style: normal; "> in a version slightly different to that used in Mass. From left to right are James the Great, Bartholomew, Thomas, Simon the Zealot, Matthias (replacing Judas Iscariot), Mark, John, Phillip, Matthew, James the Less, Jude and Barnabas. Note that Barnabas and Mark, not of the Twelve, replace Peter and Andrew already depicted above.</span><span style="font-style: normal; ">Beneath the angels are seven small figures representing the [http://en.wikipedia.org/wiki/Massacre_of_the_Innocents Holy Innocents] and the abbot and sacristan at the time of the mosaic.</span>
+
+The work was restored in 1747 by Pope [[Benedict XIV]]. Modern scholars consider that this restoration, and that after the fire, replaced most of the original [http://en.wikipedia.org/wiki/Tessera tesserae]. The certainly genuine portion that survives comprises the ''Hetimasia, ''the figure of Pope Honorius and Christ's feet. Other portions of the original work have been kept in the so-called "Gregorian Room" which is to the right of St Benedict's Chapel.
+
+Below the mosaic is the papal throne, framed by four Corinthian columns in the same style as the side altars. The tablets to each side list those bishops present for the re-consecration in 1854. The throne itself is by Poletti, and the relief on its back showing ''Christ Giving the Keys to Peter'' is by Pietro Tenerari. 19th century art critics described this work as "stupid".
+
+===Mosaics on the inside of the triumphal arch.===
+
+The mosaics on the inside of the arch, visible if you stand close to the railing and look upwards, are also from the 13th century. Some were apparently made by Byzantine artists, and some are by Pietro Cavallini. They were orginally on the outside of the nave façade, but were moved here after the fire. Unfortunately, they were already falling off the façade before the fire so the 19th century rebuilders had to restore them substantially. As a result, modern art historians cannot ascribe authorship with any certainty.
+
+=== Chapel of St Lawrence ===
+This chapel, the first on the right, was designed by [[Carlo Maderno]] in [[1629]]. It is also known as the Chapel of the Choir, as it is here that the [[Order of St Benedict|Benedictine]] community sing Office and celebrate Mass. It was originally built as a chapel for the Blessed Sacrament, and was decorated with eight paintings and lunette frescoes by [http://en.wikipedia.org/wiki/Giovanni_Lanfranco Giovanni Lanfranco]. The ceiling vault has a fresco depicting events from the life of [http://en.wikipedia.org/wiki/Lawrence_of_Rome St Lawrence], with lots of angels in attendance, and is by Antonio Viligiardi. The sybils and prophets on the vault are, however, by Anastasio Fontebuoni. Botched repairs to the roof have unfortunately lead to recent damage to the ceiling frescoes. The wooden stalls are a later addition, designed by Guglielmo Calderini in 1928 and made by Monteneri.
+
+The marble triptych above the altar is of the school of [http://en.wikipedia.org/wiki/Andrea_Bregno Andrea Bregno], 15th century, and used to be on the counterfaçade. From left to right, the saints are Anthony of Egypt, Dionysius and Justina.
+
+=== Chapel of St Benedict ===
+This is the last chapel on the right, and is a sumptious design by [http://en.wikipedia.org/wiki/Luigi_Poletti_(architect) Luigi Poletti], made to recall the cella of an ancient temple. It replaced an entrance passage which was the only way into the old basilica from the Via Ostiense, as well as two small rooms. The statue of the saint behind the altar is by [http://en.wikipedia.org/wiki/Pietro_Tenerani Pietro Tenerari], made in the 19th century. The twelve fluted Doric columns are ancient, from the [http://en.wikipedia.org/wiki/Portonaccio_(Veio) Portonaccio (Veio)] excavations at [http://it.wikipedia.org/wiki/Isola_Farnese Isola Farnese] , and have Composite capitals decorated with flowers. The marble used is ash-grey. One of the capitals is a copy. The barrel-vaulted ceiling is spectacularly coffered in white and gold, as is the tympanum of the recessed arch above the altar.
+
+=== Altar of Our Lady of the Assumption ===
+This is in the right-hand part of the transept. Like its twin in the left transept, this altar is made of malachite and lapis lazuli, again a gift from Tsar Nicholas I. Above the altar is a mosaic copy of the ''Coronation of the Virgin'' by [http://en.wikipedia.org/wiki/Giulio_Romano Guilio Romano], originally painted in 1492 and now in the Vatican Museum. The two statues to either side here are [http://en.wikipedia.org/wiki/Benedict_of_Nursia St Benedict] by Filippo Gnaccarini, and [http://en.wikipedia.org/wiki/Scholastica St Scholastica] by Felice Baini.
+
+=== Oratory of St Julian ===
+The frescoes of Apostles and martyrs here are from the 13th century, and part (SS Peter and Paul) has been attributed to [http://en.wikipedia.org/wiki/Antonio_del_Massaro Antonio da Viterbo], nicknamed ''Il Pastura''. They have been repainted several times, and are not now in a good condition. The oratory is also the direct route from basilica to the cloisters, with a turnstile installed, and is also used for the sale of souvenirs. An alternative name is ''Sala del Martirologio.''
+
+=== Baptistry ===
+This room is ancient, but the arrangement of the [[baptistery|baptistry]] is modern as it was restored in [[1930]] by [http://it.wikipedia.org/wiki/Arnaldo_Foschini Arnaldo Foschini] as the last phase of the restoration after the fire. It is has an entrance in the south-east corner of the transept; this entrance is also the main way into the monastery. 
+
+The room has vaulting supported by ''cipollino ''marble Ionic columns, and walls revetted in polychrome marble slabs in rectangular frames. All this work is ancient. The font, however, is modern, and is carved from a block of veined marble. The decoration is impressive, and freatures stylized animals in malachite, lapis lazuli and mother-of-pearl. 
+
+Unfortunately, the recent loss of parochial status on the part of the basilica means that the font will not be regularly used except perhaps at Easter for adult converts.
+
+== Abbey ==
+
+=== Old cloister ===
+The older of the two [http://en.wikipedia.org/wiki/Cloister cloisters] was built 1208&ndash;1235 by the Vassalletti family. 
+
+The arcades have coupled colonnettes of different forms, some round, some polygonal, some twisted and some intertwined. They, and the entablature they support, have [[Cosmatesque style|Cosmatesque]] decoration. The inscription in the mosaics is a poem describing the importance of his cloister in the life of a monk, and its use as a place of meditation and study. A few small carved animals survive between the columns, although most of these have gone. On the north side it is worth looking for a carving of Adam and Eve flanking a tree with the serpent snaking up it. The cloister garth is now occupied by a rose garden of high quality (for Italy, anyway). The walls of the walks are a display of items of ancient sculpture and epigraphy recovered in excavations, especially during the rebuilding. More of these are on the walls of the internal corridors of the abbey, which are only accessible to guests of the monastery.
+
+Modern scholars accept that the northern side of the cloister is by the Vassalletti and was completed after that at the [[San Giovanni in Laterano|Lateran]], about 1227. The other three sides are earlier, and not so stylistically accomplished. Their authorship is now disputed, although a date between 1208 and 1235 is accepted.
+
+=== Chapel of Relics ===
+The Chapel of Relics has a set of chains said to be the prison chains of St Pauls, used in the last days before his execution. They are exposed in the church on his feasts. There are also numerous other relics.
+
+=== Library ===
+The library has in its possession the Bible commissioned by King Charles the Bald for his wedding in 870, which is the oldest preserved Carolingian manuscript. It was made under the supervision of Archbishop Hincmar of Reims (845-875). It may have been given to Pope John VIII at Christmas 875.
+
+=== Museum and shop ===
+Continuing from the cloister, you reach a museum with paintings, icons and other objects, and a shop with souvenirs, postcards and products made by the monks. The liqueurs that they make are of very high quality; beware of the absinthe, which is 68% alcohol! There are also pharmaceutical items, toiletries and foodstuffs from other monasteries. See the abbey website for details of the products on offer.
+
+==Ancient cemetery==
+
+On the Via Ostiense to the north of the east end of the basilica are displayed excavated tombs of the cemetery in which St Paul was buried. These are sheltered under a pagoda roof. Closer examination is possible by means of occasional guided tours -search online for ''Necropoli di San Paolo.''
+
+Further rock-cut tombs lurk in the escarpment to the east of the road, but are not easily accessible.
+
+Those interested in Rome's transport history might care to note that the wide path to the west of the ''Necropoli ''is the line of the original tramway.
+
+== Access ==
+The basilica is open all day, every day: 
+
+7:00 to 18:30. 
+
+The public areas of the monastery have separate access arrangements, and there is an admission charge. Unfortunately the opening is later:
+
+8:30 to 18:00 (according to the basilica's website, June 2018). 
+
+Visitors in recent years have found the monastery's public entrance shut for lunch from 13:00 to 15:00, especially in August. This was apparently owing to difficulties over staffing (the monastery provides its own staff, and does not rely on the Vatican employees in the basilica).
+
+The monastery gardens are sometimes visitable via a guided tour. See the abbey website (link below).
+
+The number of visitors has certainly fallen substantially since the latter part of the 20th century. On the other hand, visitors tend to be genuine pilgrims rather than tourists and this is possibly the major basilica with the most prayerful atmosphere.
+
+The only reasonable way to get here is via the Metro. The parallel bus service on the Via Ostiense is unreliable.
+
+The basilica is part of the [[Seven Church Walk]].
+
+It is possible to combine a visit to the basilica with one to the Trappist abbey of [[Santi Vincenzo e Anastasio alle Tre Fontane]]. The 761 bus terminates and waits for passengers at the Largo Beato Riccardi which is south of the main crossroads west of the station at ''San Paolo''.
+
+== Liturgy ==
+According to the Diocese, Mass is celebrated:
+
+Weekdays 6:45, 8:00, 9:00, 10:30, 17:00 (18:00 Saturdays);
+
+Sundays and Solemnities 7:00, 8:00, 9:00, 10:30, 12:00, 18:00.
+
+Vespers is celebrated in the basilica at 18:00 or 18:30 on weekdays, and 17:00 on Sundays. The rest of the Divine Office celebrated in common by the monks is usually in one of the external side chapels, and is not publicised.
+
+The basilica is popular for the Sacrament of Penance.
+
+==External links==
+
+*[http://www.diocesidiroma.it/phpenti/ente/?ID=677 Official diocesan web-page]
+
+*[http://it.wikipedia.org/wiki/Basilica_di_San_Paolo_fuori_le_mura Italian Wikipedia page]
+
+*[http://commons.wikimedia.org/wiki/San_Paolo_fuori_le_mura More pictures of the basilica at Wikimedia Commons.]
+*[http://www.basilicasanpaolo.org/ Basilica's website]
+
+*[http://www.abbaziasanpaolo.org/ Abbey's website]
+
+*[http://www.romeartlover.it/Vasi100.htm "Romeartlover" web-page with 18th century engraving]
+
+*[http://www.info.roma.it/associazione_eventi.asp?ID_evento=150 Info.roma web-page]
+*[http://www.sacred-destinations.com/italy/rome-san-paolo-fuori-le-mura "Sacred-destinations" web-page]
+*[http://www.vatican.va/various/basiliche/san_paolo/index_en.html Vatican's website with virtual tour]
+*[http://www.matteocrespi.com/node/274 Engraving of the ruin after the great fire]
+*[http://www.thorvaldsensmuseum.dk/en/collections/work/E320 Piranesi engraving of the basilica before the fire]
+*[http://www.youtube.com/watch?v=XalOGvNH500 Youtube video of the basilica]
+*[http://www.youtube.com/watch?v=EPwTwa34qKA&feature=related Youtube video of an English tour of the basilica] (Recommended.)
+*[http://www.youtube.com/watch?v=YEdKzLiqpds&feature=related Youtube video of the cloister]
+*[http://www.youtube.com/watch?v=HbZd1HfdhXs&feature=related Youtube video of the bells being rung]
+
+{{sevenchurches}}
+[[Category:Patriarchal basilicas|Paolo fuori le Mura]]
+[[Category:Dedications to St Paul|Paolo fuori le Mura]]
+[[Category:Outside the walls - South-West|Paolo fuori le Mura]]
+[[Category:4th century]]
+[[Category:19th century]]
+[[Category:Convent churches and chapels]]

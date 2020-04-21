@@ -1,0 +1,90 @@
+{{Infobox church|
+name=  |
+image=  |
+caption= |
+englishname= St Vincent Pallotti|
+dedication= Vincent Pallotti|
+denomination= [[Roman Catholic]]|
+type= |
+clergy=  |
+titular= |
+national= |
+built= 1996|
+consecrated= |
+architect= |
+artists= |
+address= Via Matteo Tondi 80|
+phone= |
+fax = |
+e-mail= |
+url= |
+}}
+'''San Vincenzo Pallotti '''is a late 20th century parish church at Via Matteo Tondi 80 in the [https://it.wikipedia.org/wiki/Pietralata_(Roma) Pietralata] quarter, north of the Pietralata metro station. A picture of the church on Wikimedia Commons is [[commons:File:Pietralata_-_S._Vincenzo_Pallotti_05.JPG|here]] . 
+
+The dedication is to St [http://en.wikipedia.org/wiki/Vincent_Pallotti Vincent Pallotti].
+
+== History ==
+The parish was set up in 1977 and entrusted to the [http://en.wikipedia.org/wiki/Pallottines Pallottine] Fathers, whose founder was the patron saint -a native Roman.
+
+The project for a permanent church and parish centre was inaugurated in 1990. The parish centre was completed in 1993, and the church finally consecrated in 1996.
+
+The architect was [https://www.info.roma.it/personaggi_dettaglio.asp?ID_personaggi=521 Carlo Bevilacqua], assisted by [https://www.info.roma.it/personaggi_dettaglio.asp?ID_personaggi=3063 Ignazio Breccia Fratadocchi] and [https://www.info.roma.it/personaggi_dettaglio.asp?ID_personaggi=522 Anna Maria Feci].
+
+== Exterior ==
+
+=== Layout ===
+As is typical with the architect, the layout is geometrically irregular in a rather playful way.
+
+The church is part of a much larger edifice which comprises a parish and social centre. This is in two main blocks, arranged in approximately three sides of a hexagon around a paved piazza separated from the street by an area with grass and trees. The main ancillary block occupies the far and right hand sides, and has two wings at about sixty degrees. The near end of the left hand wing abuts the block containing the church. This itself is in two halves, the left hand half being the church proper and the right hand half containing the ferial chapel and sacristies etc. Overall the geometric outline of this block is irregular, very approximately square, divisible into two approximate longitudinal rectangles for the two areas just mentioned.
+
+The "rectangle" of the church is assembled from four geometric units. The main body is a large rectangle, but with the frontage at a diagonal -the acute angle of this is to the right. The outline of the left hand corner of the rectangle thus cut off is occupied by a floating canopy over the entrance. The second unit is a smaller and shorter rectangle on the left, also with a diagonal frontage sloping back from the near left hand of the first unit. The projecting far end of the latter forms a sanctuary apse. Then, further to the left, comes a very narrow rectangular unit also with a diagonal frontage sloping back to the left. This, third unit is much shorter than the second and ends against a fourth unit which is a small, broad rectangle rotated to the left from the major axis and with its near right hand corner hidden beneath units two and three. This is the baptistery.
+
+The description above might make better sense when looking at Google Earth.
+
+=== Fabric ===
+The fabric is in reinforced concrete. The exterior surfaces are in white.
+
+The three main rectangular units mentioned in the above description are bounded by massive piers and beams. The longitudinal beams are in the form of deep slabs, accommodating the interesting roof forms which they bound and support.
+
+The concrete roofs of these three units are the major design feature of the church. Each has a slope down from right to left at the frontage, but the slope at the back is down from left to right. So, each roof twists in a hyperbolic curve to change the direction its pitch. The roof of the baptistery, however, is flat and is much lower than the main roofs. The ancillary accommodation to the right of the church proper also has two flat roofs, and in between the church and this area is a very thin roofing strip bounded by support beams, part of which contains a skylight strip.
+
+The narrow sides of the rectangular units, at their near and far ends, are entirely occupied by fenestration. That in the near ends is perpendicular to the major axis, not diagonal like the rooflines above.
+
+=== Façade ===
+The façade of the church is not at all pretty.
+
+The block containing the church divides into to two frontages. That of the church proper, to the left, has the white fascia of the roof receding diagonally to the left over a void which contains a window screen with a red metal framework. The entrance doorways are also in glass, and the two are separated by a flat floating rectangular canopy inserted into the void and having its near left hand corner protruding. This has a red fascia.
+
+To the right hand side of the church frontage is a row of five enormous white concrete slabs. The first one marks the near right hand corner of the church proper, and is set back. The next three, in a row, front the ancillary accommodation. The last one is much deeper, and is the campanile. It has a tall projection on its near edge, and on the far side of this is attached a huge cross finial of steel girders painted red. The bells are in an open metal cage on the slab behind, also in red.
+
+== Interior ==
+The interior surfaces are in white, except for the roofs which are left in blank grey concrete and the floor which is in dark grey stone slabs.
+
+The ferial chapel is to the far right, separated from the main worshipping area by a glass screen. The baptistery is to the far right. This is unusual in having a plunge-pool as a font, with a fountain spouting from a travertine boulder.
+
+The Stations of the Cross are by [http://www.sotriffer.it/html/english/ebio_f.html Guido Sotriffer].
+
+Welcome colour is provided for the interior by huge stained glass windows occupying the far end of the church. There are three of these, including a small vertical strip in the far right hand corner. The theme is the empyrean, with heavenly bodies depicted in a semi-abstract style. The artist is [https://it.wikipedia.org/wiki/Costantino_Ruggeri Costantino Ruggeri.]
+
+The sanctuary furnishings (altar and lectern) are in pure white marble, carved in an abstract style by Ruggeri. Behind the altar is a blank white screen wall below one of the windows mentioned.
+
+== Liturgy ==
+According to the Diocese (July 2018), Mass is celebrated:
+
+Weekdays 8:30, 18:00 (19:00 in summer);
+
+Sundays and Solemnities 8:00, 10:30, 18:00 (19:00 in summer).
+
+== External links ==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=247 Official diocesan web-page]
+
+[https://svpallottipietralata.wordpress.com/ Parish website]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=4098 Info.roma web-page]
+
+[http://www.beweb.chiesacattolica.it/percorsi/percorso/999/Le+Chiese+moderne+di+Roma/chiesadiroma/11050/San+Vincenzo+Pallotti Beweb web-page]
+[[Category:Catholic churches]]
+[[Category:Outside the walls - North-East]]
+[[Category:Dedications to St Vincent Pallotti]]
+[[Category:Parish churches]]
+[[Category:20th century]]

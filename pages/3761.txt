@@ -1,0 +1,98 @@
+{{Infobox church|
+name=  |
+image=  |
+caption= |
+englishname=  Holy Trinity at the Chigi Villa|
+dedication= Holy Trinity|
+denomination= [[Roman Catholic]]|
+type= |
+clergy=  |
+titular= |
+national= |
+built= 1979|
+consecrated= |
+architect= |
+artists= |
+address= Via Filippo Marchetti 36|
+phone= |
+fax = |
+e-mail= |
+url= |
+}}
+'''Santissima Trinità a Villa Chigi '''is a later 20th century parish church with a postal address at Via Filippo Marchetti 36 in the [https://it.wikipedia.org/wiki/Trieste_(Roma) Trieste] quarter, just east of the Villa Ada and north of the Villa Chigi. The church entrance is at Viale Arrigo Bonito 36. Pictures of the church at Wikimedia Commons are [[commons:Category:Santissima_Trinità_(Rome)|here]].
+
+The locality is named after the [https://it.wikipedia.org/wiki/Villa_Chigi_(Roma) Villa Chigi].
+
+The dedication is to the [http://en.wikipedia.org/wiki/Trinity Holy Trinity].
+
+== History ==
+The parish was erected in 1962, and put into the administration of the [http://en.wikipedia.org/wiki/Stigmatines Stigmatine Fathers].
+
+The permanent church was completed in 1979, and was by Pietro Sanpaolo and Walter Vannelli.
+
+== Exterior ==
+
+=== Plan ===
+The plan is not easy to describe. 
+
+The design unit is the equilateral triangle, which represents the Trinity. Twenty-four of these are placed together in a hexagon to form the main body of the church, with opposite sides of the hexagon forming the front and back. The major axis of the church bisects the hexagon through these two sides. 
+
+In the geometry each side of the hexagon is two triangle-lengths long, and the hexagon is four rows of triangles wide between any two faces.  
+
+On the left hand triangle length of the far side of the hexagon is attached another, smaller hexagon of six triangles, and a seventh triangle is inserted on the right hand triangle-length of the same side so that there is a straight line along the sides of both hexagons to the far right. This line is extended by placing a larger triangle, of four triangle units, on the near right hand side of the larger hexagon. Finally, a lone triangle is attached to this straight line, one triangle length up from near right hand corner, so that it protrudes. 
+
+This complex tessellation of triangles forms the enormous flat roof, under which shelters ancillary areas as well as the church proper.
+
+A glance at an aerial photo may make this description clearer.
+
+The church proper occupies the large hexagon, as mentioned, but its back wall is actually three triangle-rows back and not four. Behind this wall is the sacristy accommodation, and then the parish office in the smaller hexagon. Also, the front row of triangles is an open walkway which runs the width of the church
+
+The appended large triangle, to the lower left in the plan, contains the entrance portico in its near part and the ferial (weekday) chapel behind, which also includes the single small protruding triangle. The portico is a continuation of the walkway just mentioned.
+
+=== Fabric ===
+The structure consists of the huge roof, the triangular units being delineated by deep reinforced concrete beams. These are supported by free-standing concrete columns bearing huge truncated cone-shaped bosses into which the ends of the beams insert. The roof has deep eaves all the way round.
+
+The columns used to be in raw concrete with the shuttering left showing, but are now rendered in dark grey. Each column is clasped by three equidistant thin cylindrical rods or pipes in white.
+
+The exterior walls are all infill, in white concrete. Each has a window strip at the top, below the roof eaves. The roof itself has a tetragonal skylight over the church altar, and three more in a row over the entrance portico.
+
+=== Profile ===
+The church has no façade to speak of, and a very low civic profile. It is quite well concealed behind a screen of mature trees of various species. The domain is sequestered from the street by vertical steel railings in grey, with the steel posts in red.
+
+The main entrance, to the bottom right of the structure, is approached by a flight of steps which leads to a patio in the high portico. Straight ahead is a side wall of the ferial chapel, which has two rows of large rectangular windows and a rather striking embellishment of vertical steel rods in red. The actual entrance to the church is to the left in the portico, diagonally set. It has two separate doors, each recessed under a flat concrete canopy and with a row of six vertical strip windows separated by concrete vanes. The two sets of windows are separated by a concrete slab which is a continuation upwards of the one separating the two doors.
+
+The poverty of the civic profile means that it is easy to overlook that this building is a church at all. In compensation, on the roof over the left hand end of the front walkway has been placed a massive concrete cross finial decorated with roundels. This overlooks the rather important street junction there.
+
+== Interior ==
+The interior walls are in white, and the concrete roof is left exposed and showing its triangular design units as large coffers. The interior support columns (unlike those outside) have been also left as raw concrete. 
+
+There is a set of glazed polychrome ceramic relief tablets of the Stations of the Cross, and also some stained glass windows showing New Testament scenes in a figurative style.
+
+The sanctuary has a blank back wall, bearing a simple metal cross (no crucifix).
+
+The ferial chapel has been decorated with pictures by [http://www.acquerellisti.net/portfolio-item/fiorenza-conforti-di-natale/ Fiorenza Conforti Di Natale].
+
+== Liturgy ==
+According to the Diocese (July 2018), Mass is celebrated:
+
+Weekdays 8;00, 9:00 (not August), 18:00 (19:00 in DST);
+
+Sundays and Solemnities 8:00, 9:00, 10:30, 12:00, 18:00 (19:00 in DST)
+
+== External links ==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=203 Official diocesan web-page]
+
+[http://it.wikipedia.org/wiki/Chiesa_della_Santissima_Trinit%C3%A0_a_Villa_Chigi Italian Wikipedia page]
+
+[http://www.sstrinita-villachigi.com/ Parish website] 
+
+[https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=4073 Info.roma web-page]
+
+[http://www.beweb.chiesacattolica.it/percorsi/percorso/999/Le+Chiese+moderne+di+Roma/chiesadiroma/11055/SS.+Trinit%C3%A0+a+Villa+Chigi Beweb web-page]
+
+[https://romandespatches.blogspot.com/2018/12/when-in-romesee-exterior-of-santissima.html Roman Despatches blog]
+[[Category:Catholic churches]]
+[[Category:Outside the walls - North-East]]
+[[Category:Dedications to the Holy Trinity]]
+[[Category:Parish churches]]
+[[Category:20th century]]

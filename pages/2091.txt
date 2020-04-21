@@ -1,0 +1,304 @@
+{{Infobox church|
+name= San Martino ai Monti |
+image=  |
+caption= |
+englishname= St Martin's in the Hills|
+dedication= Pope St Sylvester, St Martin of Tours|
+denomination= [[Roman Catholic Church|Roman Catholic]]|
+type= [[Titular church]], [[Minor basilica]] |
+clergy= Calced Carmelites |
+titular= Cardinal Kazimierz Nycz|
+national= |
+built=4th cent., rebuilt 6th and 9th cent., restored several times |
+consecrated= |
+architect= Filippo Gagliardi, Pietro da Cortona|
+artists= Stefano Castelli, Paolo Nadini, Gaspar Poussin, Giovanni Greppi et al.|
+address= 28 Viale Monte Oppio <br>00184 Roma|
+phone= 06 47 83 166|
+fax = 06 48 73 190|
+e-mail= |
+url= |
+}}
+'''San Martino ai Monti''' is a 9th century [[minor basilica]], a parish and titular church on ancient foundations located at Viale del Monte Oppio 28 in the [http://en.wikipedia.org/wiki/Monti_(rione_of_Rome) rione Monti] . Pictures of the church at Wikimedia Commons are [[commons:San_Martino_ai_Monti|here]]. There is an English Wikipedia page [[wikipedia:San_Martino_ai_Monti|here]].
+
+The parish is administered by the [[wikipedia:Carmelites|Calced Carmelites]].
+
+== Name ==
+The church has a joint dedication, to Pope St [[wikipedia:Pope_Sylvester_I|Sylvester I]] and to St [[wikipedia:Martin_of_Tours|Martin of Tours]], a 4th century monastic founder and bishop of [[wikipedia:Category:Tours,_France|Tours]] in France. Hence the official name is ''Santi Silvestro e Martino ai Monti, ''and this is used by the diocese and by some published sources. 
+==History==
+===3rd century building -''Aula a sei vani''===
+The oldest structure on the site is not actually under the church, but is under the ground outside the left hand side wall. The access is via a passage from the ''confessio ''or crypt, the entrance to which is in front of the main altar.
+
+The edifice dates to the first half of the 3rd century AD, and centres on a large hall measuring 11 by 18 metres. Two massive piers divide the space into two wings each of three bays (hence ''sei vani ''or "six spaces"), with the bays being cross-vaulted. To the south-west there used to be three large doors separated by two more piers, which exited into a vestibule that in turn used to exit into the original street (the ''Clivus Suburanus''). To the north-east is the chamber into which the passage from the church leads, and this has an archway into the central hall and also into a barrel-vaulted chamber to the east. The latter has two doorways into the central hall, and seems once to have formed three rooms.
+
+Despite the evidence of ancient Christian use to be found here, it is fairly clear that this was not built as a church. Rather, it is thought to have had a commercial function originally. A corner of it is shown on a fragment of the [http://en.wikipedia.org/wiki/Forma_Urbis_Romae Severan Marble Plan]. The fragments of painted decoration are all Christian, but the remnants of mosaic flooring, in black and white with a chequerboard pattern, is original.
+===Predecessors in written sources===
+As stated, the present church is a 9th century basilica. What was there beforehand is a tricky problem of interpretation of the sources. The first reference is in the ''[http://en.wikipedia.org/wiki/Liber_Pontificalis Liber Pontificalis]'' for Pope St [http://en.wikipedia.org/wiki/Pope_Sylvester_I Sylvester] (314-335), which reads:
+
+''Fecit in urbe Roma ecclesiam in praedium cuiusdam presbiteri sui, qui cognominabatur Equitius, quem titulum romanum constituit, iuxta termas Domitianas, qui usque in hodiernum diem appellatur titulus Equitii. ''("He made in the city of Rome, on a piece of land belonging to a certain priest of his called Equitius next to the baths of Domitian, a church which he set up as a Roman [http://en.wikipedia.org/wiki/Titulus_(Roman_Catholic) titulus] which is called the titulus Equitii to this day.") A ''titulus ''was roughly equivalent to an ancient parish church, usually in a private house.
+
+The trouble starts in the same source, which states that the same pope instituted a ''titulus ''in his own name in the same locality (''in regione III iuxta thermas Domitianas qui cognominantur Traianas''). So, we may have here two ''tituli, ''or one with two names which the scribes muddled somewhat, or one which changed its name, or one succeeded by another. The evidence does not allow a conclusion.
+
+In [[324]] and again in 326 the pope is recorded as holding local synods at ''titulus S.Silvestri'' to prepare for and implement the decrees respectively of the [http://en.wikipedia.org/wiki/First_Council_of_Nicaea Council of Nicaea]. The further tradition that he was resident here when the emperor [http://en.wikipedia.org/wiki/Constantine_the_Great Constantine] was baptized is false, being part of the confected mediaeval legend associated with the forged [http://en.wikipedia.org/wiki/Donation_of_Constantine Donation of Constantine].
+
+Then, Pope [http://en.wikipedia.org/wiki/Pope_Symmachus Symmachus] (498-514) is described as building "from the foundations" (''a fundamento'') a basilica dedicated to Pope St Sylvester and St Martin. The acts of a synod held in his reign, in 499, mention a church ''Equitii. ''The next bit of evidence is from the so-called ''Fragmentum Laurentianum, ''written about 516, which records the foundation of a church dedicated to St Martin only, near ''Sancti Sylvestri. ''The synod of 595 mention a church dedicated to St Sylvester.
+
+Pope [http://en.wikipedia.org/wiki/Pope_Adrian_I Adrian I], in 772, provided for the restoration of a ruined basilica dedicated to St Sylvester, and also for a church dedicated to St Martin ''iuxta titulum Sancti Silvestri. ''Two churches are distinctly mentioned in the ''Itinerarium Einsiedlense, ''but finally at the start of the 9th century Pope Leo III is described as endowing the ''diaconia Sancti Silvestri et Sancti Martini.''
+
+So, to summarize, it seems that there were two churches here, side by side. It is thought that the ''aula a sei vani ''was that dedicated to St Sylvester, and that the present church was originally dedicated to St Martin only. There remains some controversy over the location of the ''Titulus Equitii. ''It may have been located under the latter, or at another place in the area ([[Santa Maria in Aquiro]] has been suggested, for no good reason). No matter which is correct, it is the case that this church is historically and geographically linked to the titulus in tradition.
+
+===9th century basilica===
+
+The present church was built by Pope [http://en.wikipedia.org/wiki/Pope_Sergius_II Sergius II] (844-[[847]]) in 845. The [http://en.wikipedia.org/wiki/Basilica basilical] plan was preserved, and the twenty-four antique columns now in the nave were presumably re-used from the church built by Symmachus.
+
+Many [http://en.wikipedia.org/wiki/Relic relics] of early martyrs were then brought here from the suburban catacombs, which were threatened by raiders including Vikings and Muslims. Among these were the relics of St [http://en.wikipedia.org/wiki/Sophia_of_Rome Sophia of Rome] from the Catcomb of Gordianus and Epimachus. Also, the relics of SS Artemius, Paulina and Sisinnius, which were translated from the [http://en.wikipedia.org/wiki/Catacomb_of_Priscilla Catacomb of Priscilla], were put under the high altar. They were joined by the relics of Pope St [http://en.wikipedia.org/wiki/Pope_Martin_I Martin I] 649-655), who died as a martyr in the Crimea.
+
+In the crypt are the relics of many more martyrs, including those "whose names are known to God alone". Notable are those of Pope St [http://en.wikipedia.org/wiki/Pope_Soter Soter], which were brought here from a church on Via Appia before that church was destroyed in the 8th century. Also there are relics of Popes Sylvester, [http://en.wikipedia.org/wiki/Pope_Victor_I Victor I] and [http://en.wikipedia.org/wiki/Pope_Fabian Fabian].
+===Foundation of the monastery===
+Pope [http://en.wikipedia.org/wiki/Pope_Leo_IV Leo IV] (847-55), the successor to Pope Sergius, adorned the interior with frescoes and mosaics, now lost. However, an inscription by him in the apse was transcribed before its destruction in the 17th century. It read:
+
+''Sergius hanc caepit praesul quam cernitis aedem, cui moriens nullum potuit conferre decorem,'' ''sed mox papa Leo Quartus dum culmina sistit romanae sedes, divino tactus amore perfecit solio melius quam coepta manebat, atque pia totam pictura ornavit honeste coenobiumque sacrum statuit monacosque locavit qui Domino assiduas valeant persolvere laudes, talibus ut donis caelestia scandere possit regna, quibus Martinus ovans, Silvester at almus praefulgit, gaudetque simul cum praesule Christo quorum pro meritis haec templa dicata coruscant.''
+
+("Sergius the bishop began this house which you see, but he died and could not ornament it. However, when Pope Leo IV inherited the dignity of the throne of Rome he was touched by divine love and finished it better than it had been begun, and decorated all of it with holy images. Also, he founded a holy monastery and placed monks there who may be able to perform assiduous praises to the Lord. By such gifts may he be able to ascend to the heavenly kingdom, where Martin exultant and the holy Sylvester shine and rejoice together with the leader Christ. Because of the good deeds of them these famous temples shine.")
+
+The new basilica included two ancient pulpits or ''ambones, ''which dated back to Pope Leo. These were also lost in the 17th century, but had two original inscriptions which also survive in transcription:
+
+''Salvo Domino nostro beato Sergio Papa Iuniore. ''("To the blessed Pope Sergius the junior, saved by our Lord.")
+
+''Scandite cantantes Domino, Domino legentes ex alto populis verba superna sonent. ''("Go up, those singing to the Lord, those reading from on high to the people. May the exalted wordss sound out.")
+
+The first of the two hints that Pope Sergius had just died when it was carved.
+===Middle ages===
+In the reign of Pope [http://en.wikipedia.org/wiki/Pope_Innocent_III Innocent III] (1198-1216), the church was restored by Cardinal Uguccione, and the pulpits received another inscription, in verse:
+
+''Uguitio sumens a cardine nomen honoris, presbyter haec sponsae dedit ornamenta decoris. Tempus habes operis venientis salvatoris, annum millenum primum coniunge ducentis. ''
+
+The monastery concerned would have become [http://en.wikipedia.org/wiki/Order_of_Saint_Benedict Benedictine] in the 10th century. It seems to have failed in the Middle Ages, since it is recorded as being served by secular clergy when it was granted to the Carmelites in 1299 by Pope [http://en.wikipedia.org/wiki/Pope_Boniface_VIII Boniface VIII]. He simultaneously made the church titular, and established the parish. The Benedictines in Rome had suffered a massive and shameful collapse of religious life earlier in that century. The Calced Carmelites have been here ever since, and their tenure was confirmed in 1559.
+===16th century restoration===
+
+In [[1570]], St [[Charles Borromeo]] had some alterations made including the provision of a new ceiling. He had been appointed Cardinal here in 1559 when aged only twenty-one, and still a layman. Also, he paid for a new entrance doorway. The façade then was very plain, with a simple large rectangular window and a smaller round one in the gable. The new entrance had a pair of Ionic columns supporting an entablature decorated with swags. Above that were two halves of a broken segmental pediment, flanking a square tablet with a heraldic device and topped by a crown. This tablet had volutes on either side.
+===17th century restoration===
+
+A major restoration was effected in [[1650]] by [http://en.wikipedia.org/wiki/Filippo_Gagliardi Filippo Gagliardi], who was a painter by profession not an architect (and it shows). The General Curia or headquarters of the Carmelite Order had been established here, and the Prior of the Order, Giovanni Antonio Filippini, spent an enormous sum including his personal fortune on the project. The ceiling was dismantled, and the coffering panels obtained by St Charles were re-inserted into a new frame. The crypt of the martyrs under the high altar was given an [http://en.wikipedia.org/wiki/Baroque Baroque] makeover, and to focus attention on its entrance the floor of the nave was lowered. As a result, the columns now stand on rather stupid-looking box plinths. In the process of restoring the crypt, the old ''aula a sei vani ''was cleared of rubble and dirt and made sound. Unfortunately, the restoration entailed the loss of ancient decorations and fittings from the basilica.
+
+The façade had to be rebuilt shortly afterwards, in 1676, on the instructions of the then prior Francesco Scannapieco.
+
+From 1687 to his death in 1720, Bl [http://en.wikipedia.org/wiki/Angelo_Paoli Angelo Paoli] was resident at the convent. He was beatified in 2010, and his shrine is in the church.
+===Modern times===
+A further expensive restoration took place in 1780, paid for by Cardinal [http://en.wikipedia.org/wiki/Francesco_Saverio_de_Zelada Francesco Saverio de Zelada].
+
+In the 18th century, the church and convent were still surrounded by gardens and vineyards on all sides. The present Viale del Monte Oppio was a very narrow country lane, which led to the monastery. The main buildings of this were right in front of the church, where the piazza now is, leaving no view of the façade. A dead-end driveway led south from the present Via San Martino ai Monti to the staircase and entrance next to the apse (the present Via Equizia did not then exist).
+
+St [http://en.wikipedia.org/wiki/Benedict_Joseph_Labre Benedict Joseph Labre], who is now enshrined at [[Santa Maria dei Monti]], used to sleep at the convent's doss-house when it was too cold or wet for him to do so in the Colosseum (his usual practice).
+
+In 1873, in common with almost all other convents and monasteries in the city, the Carmelite convent here was confiscated by the government. The old convent was demolished to widen the road and create the piazza, and the Carmelite Curia moved to new premises just west of the church. They remain there. Also next to the church is the Social Centre of St Martin, an institution aiding the poor.
+===Cardinals===
+
+The church has been titular since 1299. A full list of cardinals is available in the External Links below.
+
+[http://en.wikipedia.org/wiki/William_Allen_(cardinal) William Allen], the English cardinal during the Reformation under Queen Elizabeth I of England, was the titular here.
+
+St [http://en.wikipedia.org/wiki/Giuseppe_Maria_Tomasi Giuseppe Maria Tomasi] was briefly cardinal here before his death in [[1713]]. He was initially buried in the church, but because he was a [http://en.wikipedia.org/wiki/Theatines Theatine] his order managed to exhume him and enshrine him in their church of [[Sant'Andrea della Valle]].
+
+In 1921, Achille Ratti became titular of the church. The next year, however, he was elected pope and took the name [http://en.wikipedia.org/wiki/Pope_Pius_XI Pius XI]. In his turn, Giovanni Battista Montini became titular of the church in [[1958]]. He was elected pope in 1963, taking the name [http://en.wikipedia.org/wiki/Pope_Paul_VI Paul VI].
+
+The next to last titular was H.E. [http://en.wikipedia.org/wiki/Armand_Razafindratandra Armand Gaétan Cardinal Razafindratandra], Archbishop of Antananarivo, who was appointed in 1994 and died in 2010. The current cardinal is [http://en.wikipedia.org/wiki/Kazimierz_Nycz Kazimierz Nycz].
+==Exterior==
+===Layout and fabric===
+This church has a classic aisled basilical layout, with the main nave under one long pitched roof and with the right hand aisle having a lower pitched roof. However the left hand aisle has a range of former convent rooms over it, with a flat roof. The church has no transept. There is an impressive semicircular external apse, which is a prominent feature on the Via Giovanni Lanza. 
+
+The fabric is mostly re-used brick and render, but if you go down the Via Equizia you will see that the lower part of the right hand side wall is made of large blocks of tufa. This is thought by some to be a remnant of one of the two churches set up here by Pope Sergius, and the blocks would have been robbed from some ancient structure such as the [http://en.wikipedia.org/wiki/Servian_Wall Servian Wall] nearby. It is more likely to have belonged to the church put up by Pope Symmachus.
+===Back entrance===
+Before the Viale del Monte Oppio was widened in the 19th century, access to what we would regard as the main entrance was not very convenient. The main entrance for visitors would have been at the far end of the right hand side aisle, to the right of the apse (left, if you are looking at it from outside), and the entrance arrangement here dates from the 17th century. There is a flight of stairs leading to a simple but tall and stately doorcase with a raised triangular pediment, and above this is a round-headed window partly hidden by the pediment. This window has been altered at some stage, as it was ellipitical in the 18th century. Also altered has been the staircase, which is now longer than it was owing to the building of the Via Giovanni Lanza. The ball finials at the bottom gate are late 19th century.
+
+The weeds growing on the staircase should warn you that this entrance is now very rarely used.
+===Apse===
+The large apse is very impressive. Nowadays there are two rectangular windows, protected by iron grilles, but if you look at the fabric you can see that there used to be three round-headed windows. In the 18th century, two of these were intact and the middle one had been converted into a rectangular window. The latter is now completely blocked, as is the little square window below it which used to light the crypt. Presumably the alterations were carried out in the 1780 restoration.
+
+On top of the apse on its left hand side (right, if you are looking at it from outside) is a two-storey Baroque bellcote with arched openings for three bells, two below and one above. There is a little triangular pediment on top, and two incurved volutes flanking the upper storey.
+
+[[File:2011_Martino_ai_Monti,_back.jpg|thumb|Apse of church.]]
+===Mediaeval towers===
+When looking at the apse, you cannot overlook the two mediaeval fortified towers which are adjacent. The ''Torre dei Capocci ''is the obvious one, standing on its own in the car park. It dates to about 1300, and has seven floors as well as a crenellated roof terrace. The other one is the ''Torre dei Cerroni, ''to the north-west on the other side of the road. It has been incorporated into a complex that is now a convent, and is about the same age. There are five storeys, as well as a basement and a terrace.
+===Façade===
+
+The Baroque stucco façade was thought to have been designed by [http://en.wikipedia.org/wiki/Pietro_da_Cortona Pietro da Cortona] in [[1650]], but is now ascribed to Filippo Gagliardi. It is rather old-fashioned for its time, and the overall design is poor. The nave frontage is designed independently, and the two side aisle frontages are added on in a way which leaves the composition rather incoherent. Further, the façade now needs some restoration.
+
+The nave frontage has two storeys. The first has four [http://en.wikipedia.org/wiki/Composite_order Composite] pilasters on high plinths, tripletted and supporting a deep [http://en.wikipedia.org/wiki/Entablature entablature]. The [http://en.wikipedia.org/wiki/Frieze frieze] of the latter has an inscription proclaiming the presence of the Carmelite Generalate, and the year 1674. The tall entrance doorway is approached by a flight of nine steps, and has a slightly oversized triangular [http://en.wikipedia.org/wiki/Pediment pediment] broken at the top and supported by [http://en.wikipedia.org/wiki/Volute volute] corbels. Into the break is inserted a scallop shell flanked by a pair of involuted crescent volutes; the motif recalls the earlier entrance set up by St Charles Borromeo.
+
+In between the two pilasters on either side are florid Baroque [http://en.wikipedia.org/wiki/Aedicula aedicules] carved in shallow relief, which contain trophy stands displaying two busts which face towards the entrance. These are of SS Sylvester (on the left) and Martin, and the stucco work is by Stefano Castelli 1667.
+
+The second storey has four tripletted pilasters in the same style as those below. They support an entablature with a dedicatory inscription on its frieze, above which is the crowning triangular pediment with a horizontal elliptical windown in its [http://en.wikipedia.org/wiki/Tympanum_(architecture) tympanum]. This is wrapped around by a pair of large volutes, tied at the top with a crown.
+
+The centre of this storey is occupied by a large round-headed window in a rectangular frame, which has a broken segmental pediment with corbels in the same style as the triangular pediment of the doorway below. To either side is a Baroque panel topped by an eight-pointed star (which features on the Carmelite coat-of-arms) and decorated with curlicues and swags. This pair of panels contain a device consisting of a crozier and processional cross in an X through a mitre and tied with ribbon.
+
+The aisle frontages are rectangular. They are symmetrical, but the right hand one is false as you can see if you peep around the church down the Via Equizia. The left hand one hides the convent rooms on top of the left hand aisle. In ascending order each has an [http://en.wikipedia.org/wiki/Oeil-de-boeuf oeil-de-boeuf] window, a large vertical rectangular window and a square tablet decorated with tassels and showing two palm fronds crossed through a crown. This device recalls the martyrs enshrined in the church. The tablet is flanked by a pair of square windows, and crowned by a segmental pediment without a cornice. On the left hand side these rectangular and square windows are genuine, but to the right they are false because there is nothing behind them.
+
+==Interior==
+===Layout===
+The nave has side aisles, and these are separated by colonnades.
+
+The presbyterium and high altar are raised above the level of the name, and this draws attention to the magnificent entrance to the crypt below. The entrance to the ''aula a sei vani ''is to the left in the crypt.
+
+There are three side-[[chapel]]s in the left hand aisle, set in shallow arched niches, and five in the right hand one. Additionally, there is a chapel at the end of the left hand aisle.
+
+The interior is richly decorated, but all the decoration dates from the 17th century and later.
+===Nave===
+[[File:San Martino ai Monti.png|thumb|220x220px]]
+The colonnades have twelve antique marble columns on each side, some of which are Corinthian and some Composite (note the capital volutes on the latter). These do not form a single set, and the buildings that they originally came from are unknown. It is now usually thought that they were looted for the church put up by Pope Symmachus, rather than that by Pope Sergius. The capitals have had some restoration. 
+
+The stones used for the columns are: Eleven of ''marmo imezio ''from Mount [[wikipedia:Hymettus|Hymettus]] near Athens (this stone also provided the colonnades at [[Santa Maria Maggiore]]), six of ''bigio antico ''from Africa, five of ''[[wikipedia:Pavonazzo_marble|pavonazzetto]] ''and two of ''[[wikipedia:Cipollino_marble|cipollino]]. ''
+
+The columns of the colonnades are ''trabeated, ''that is, the horizontal entablatures are placed directly onto their capitals instead of on arcades. This was slightly risky structurally, but the church has survived for centuries. They stand on high box plinths that look very odd, but this arrangement was necessitated by the lowering of the floor in the 17th century.
+
+The frieze of the entablature above the colonnades is embellished with rows of instruments of torture and martyrdom on a gold background; try to spot the [[wikipedia:Breaking_wheel|Catherine wheel]]. On each side the entablature is also decorated with four round plaques, which show scenes of Jewish worship in Old Testament times to the right, and the symbols of the four Evangelists to the left. 
+
+Above the entablatures the nave walls have ribbed Corinthian pilasters corresponding to the columns below, and these support an entablature lacking a frieze which in turn supports the ceiling. There are three widely separated windows on each side and, oddly, these are provided with projecting balconies which have pin balustrades. The window on the far left hand side is false. The central window on each side is rectangular, and is behind an aedicule formed by two Corinthian columns supporting a triangular pediment with its entablature missing between the capitals. 
+
+In between the windows are large statues of saints in ornate aedicule-niches, eight in all. Each statue is flanked by a pair of [http://en.wikipedia.org/wiki/Tondo_(art) tondi] containing heads of saints, affixed below the ceiling entablature. Below each of these is an amusing [http://en.wikipedia.org/wiki/Trompe-l'%C5%93il trompe-l'oeil] device in fresco, which gives you an impression of looking through an archway into a set of rooms and passageways beyond. These are by Filippo Gagliardi.
+
+[http://en.wikipedia.org/wiki/Paolo_Naldini Paolo Naldini] was responsible for these statues of saints. Anticlockwise from the near right, we have SS [http://en.wikipedia.org/wiki/Cyriaca Cyriaca], [http://en.wikipedia.org/wiki/Saint_Stephen Stephen], Pope Fabian, Nicander (a doctor of medicine beheaded at Alexander in Egypt in the early 4th century), [http://en.wikipedia.org/wiki/Theodore_Stratelates Theodore], Martin, [http://en.wikipedia.org/wiki/Pope_Innocent_I Pope Innocent] and [http://en.wikipedia.org/wiki/Justa_and_Rufina Justa].
+
+Naldini was also responsible for the large statues of SS [[wikipedia:Saint_Peter|Peter]] and [[wikipedia:Paul_the_Apostle|Paul]] on the counterfaçade (the interior wall containing the entrance).
+
+The flat wooden ceiling is coffered and painted in blue, white and gold. It displays the coats-of-arms of the authorities involved in the 16th century restoration, which were re-set when the ceiling was rebuilt in the 17th century. This explains the coat-of-arms of Pope [http://en.wikipedia.org/wiki/Pope_Pius_IV Pius IV].
+===Sanctuary===
+The sanctuary is elevated above the nave, and is approached by two staircases running up the sides of the ''confessio ''or crypt void. Along the top of the latter is an open pin balustrade, and in front of the altar the baluster pins are replaced by an interesting device of seven large gilded rings in a row over the arch into the crypt proper.
+
+The high altar has no altarpiece or canopy, but instead sports a large tabernacle in the style of a circular temple with six columns and a cupola. It and the accompanying six candlesticks were made by Francesco Belli, famous silversmiths of Rome in the 18th century. The columns are of alabaster, and the actual cupola is a single piece of green marble which matches the altar itself.
+
+The apse triumphal arch and the apse itself with its conch are decorated in white and gold scrollwork panelling, with frescoes inserted. The apse wall has two large windows, lighting the choir of the friars which is located here.
+
+The frescoes are by [[wikipedia:Antonio_Cavallucci|Cavallucci]]. Between the windows are depicted four Carmelite saints: [[wikipedia:Andrew_Corsini|Andrew Corsini]], [[wikipedia:Magdalena_de_Pazzi|Mary Magdalen De' Pazzi]], [[wikipedia:Peter_Thomas_(saint)|Peter Thomas]] and [[wikipedia:Teresa_of_Ávila|Teresa of Jesus]]. The apse conch has ''God the Father ''at the top, the ''Madonna and Child ''in the middle and SS Peter and Paul to the sides. The apse triumphal arch has Pope St Sylvester and St [[wikipedia:Charles_Borromeo|Charles Borromeo]] to the left, and SS Martin and [[wikipedia:Francis_Xavier|Francis Xavier]] to the right.
+===Confessio===
+
+The small ''confessio ''or crypt was completely re-ordered and provided with a ceremonial staircase by Gagliardi (not Pietro da Cortona, as alleged) in the 17th century. The reason why this restoration focused the layout of the church on the crypt is because relics of several sainted popes, among them Pope St [[wikipedia:Pope_Martin_I|Martin I]], as well as a large number of un-named martyrs are enshrined here.
+
+Straight ahead at the bottom of the crypt stairs is an aedicular shrine topped by an impressive device comprising a large porphyry disc in a ring in white marble and in a rectangular frame filled with ''verde antico.'' The aedicule is flanked by [http://en.wikipedia.org/wiki/Tuscan_order Tuscan] columns (an Italian form of the Doric style), and has a jewelled crucifix. The vaulted ceiling has bas-relief stucco decoration by Naldini, and there is an ambulatory or passageway running in a semi-circle behind the shrine. The marble work is by Benedetto Folchini.
+===Aula a Sei Vani===
+To the left in the ''confessio'', you will see the door of the passageway into the 3rd century underground edifice. This was provided again in the 17th century restoration, when the ''aula ''was cleaned out and restored. The restorers had the sense not to adorn the architecture, but left things mostly as they found them except for erecting an altar in honour Pope Sylvester.
+
+There have been complaints in recent years that the door is usually locked, and that nobody is available in the church to allow access to visitors. On the other hand, some recent visitors have tried the door and found it unlocked. It seems that the main worry on the part of the church administrators is that people will go in there, and then leave the lights on.
+
+At the end of the passage, the main hallway is straight ahead and the so-called vestibule is beyond that which was only discovered in 1930. To the left of the passage end is the ancillary chamber formed out of three former rooms.
+
+There are decayed remnants of 9th century frescoes on the walls and vaults, and old drawings show these more clearly. The most famous is a 9th century fresco fragment showing Christ flanked by SS Peter, Paul, [http://en.wikipedia.org/wiki/Martinian_and_Processus Processus and Martinian]. Also of the same age is Our Lady between two saints, the Lamb of God with St John the Evangelist, a jewelled cross on a vault and some other fragments. Recently discovered has been a large fresco panel of the early 6th century, showing the ''Denial of St Peter'', the ''Annunciation'', an angel with a saint, three scenes with unknown saints and a saint receiving a crown from Christ. 
+
+There are two mosaics of the late 5th century or early 6th century. The better preserved one is a mosaic of Our Lady with Pope St Sylvester.A badly damaged mosaic apparently of Pope Symmachus venerating Pope Sylvester has been preserved over a 17th century altar with stucco angels.
+
+Other ancient and mediaeval carved fragments of architecture are scattered about, including an interesting medieval tomb slab showing the full-length effigy of a Carmelite friar. There is a small ciborium with some [http://en.wikipedia.org/wiki/Cosmatesque Cosmatesque] decoration, and some fragments from the former medieval choir or ''schola cantorum ''that the restorers brought down here.
+===Aisles and side altars===
+The aisles have flat coffered ceilings resembling that of the central nave. The side altars are in almost identical arched niches with dumpy Doric piers and simple panelled decoration. In between these are several framed paintings, some large.
+
+The landscape paintings are by [http://en.wikipedia.org/wiki/Gaspard_Dughet Gaspar Poussin.] If you look, you will see that they actually illustrate scenes from the life of the prophet [http://en.wikipedia.org/wiki/Elijah Elijah]. The artist placed the little figures in sylvan settings, more romantic than devotional. The Carmelite Order claims the prophet as its spiritual founder; until as late as the end of the 19th century it went further and claimed historical continuity with him -a gross historical fantasy.
+
+The following description is anticlockwise, beginning to the right of the entrance.
+
+At the bottom of the right hand aisle is the attractive little baptistry, formed by providing a semi-circular balustrade with black marble baluster pins. The same stone is used for the font. The depiction of ''The Baptism of Christ ''is by Cavallucci (it is asserted that he overpainted a work by [[wikipedia:Fabrizio_Chiari|Fabrizio Chiari]]).
+
+The first altar in the right hand aisle has an altarpiece showing ''The Vision of St [[wikipedia:Magdalena_de_Pazzi|Maria Magdalen de' Pazzi]]'', a patron of Florence and Naples and a Carmelite mystic, which was executed by [[wikipedia:Matteo_Piccione|Matteo Piccione]] in [[1647]]. This seems to be the only work in Rome by this artist from Ancona.
+
+The second altar on the right displays ''The Ecstasy of St [[wikipedia:Teresa_of_Ávila|Teresa of Jesus]]'' by [http://it.wikipedia.org/wiki/Giovanni_Greppi_(architetto) Giovanni Greppi], who is more famous as an architect. Painting was his hobby.
+
+At the third altar on the right is a depiction of ''St Martin Dividing his Cloak with a Beggar'' by [http://en.wikipedia.org/wiki/Fabrizio_Chiari Fabrizio Chiari] 1645. The work refers to a story that the saint met a naked destitute man on a freezing day while on army service, cut his soldier's cloak in half and gave him one of the halves. The half that he kept for himself ended up, by tradition, in a special chamber at his basilica at [[wikipedia:Tours|Tours]] which was called the ''cappella ''(Latin for "little cloak") and was the first chapel. 
+
+The fourth altar on the right is dedicated to St [[wikipedia:Saint_Stephen|Stephen the Protomartyr]], and the altarpiece is by [[wikipedia:Giovanni_Angelo_Canini|Giovanni Angelo Canini]] 1645.
+
+The fifth altar on the right shows ''The'' ''Ecstasy of St Charles Borromeo  ''by [[wikipedia:Filippo_Gherardi|Filippo Gherardi]] 1693.
+
+At the far end of the left hand aisle is a chapel dedicated to [[wikipedia:Our_Lady_of_Mount_Carmel|Our Lady of Carmel]], which is the only proper side chapel that the church has. It was founded in 1593 by Catherine de' Nobili, but was restored in 1793 by Andrea De Dominicis. The venerated icon of the Madonna and Child is by [http://www.treccani.it/enciclopedia/girolamo-massei_%28Dizionario-Biografico%29/ Girolamo Massei] 1596, and is inserted into a painting of ''The Souls in Purgatory ''by Cavallucci. The latter also executed the picture of the prophet Elijah. The vault fresco of Blessed [[wikipedia:Simon_Stock|Simon Stock]] is by Giuseppe Sciacca 1793, overpainting a work by Cavallucci. (Simon Stock is venerated as a saint by the Carmelites, but this has no official approval. He is listed as a beatus in the revised [[wikipedia:Roman_Martyrology|Roman Martyrology]].)
+
+On the side wall outside the chapel is a fresco of the interior of the [[St Peter's|Constantinian Basilica of St Peter]] executed by Gagliardi about 1656. This has been treated as an important historical witness to the basilica's appearance in the past, but there are now serious doubts as to its accuracy.
+
+The third altar in the left hand aisle has an altarpiece depicting ''The Holy Trinity with SS Nicholas and Bartholomew ''which is by Canini.
+
+The second altar has a depiction of ''St [[wikipedia:Albertus_Magnus|Albert the Great]] ''by [[wikipedia:Girolamo_Muziano|Girolamo Muziano]], executed in[[1575]]. He is the patron of scientists. This altar differs from the other side altars in having a proper aedicule, with a pair of green marble Composite columns supporting a triangular pediment with a broken top. Into the break is inserted a tablet depicting ''The Dove of the Holy Spirit, ''which has its own segmental pediment. Below the altar is a glass case containing an effigy of St [[wikipedia:Giuseppe_Maria_Tomasi|Giuseppe Maria Tomasi]], which used to contain the relics of the saint before they were taken to [[Sant'Andrea della Valle]].
+
+Then comes a  fresco of ''Pope Sylvester Presiding at the Synod of 324 ''which is by Galeazzo Leoncino 1640.
+
+The first altar in the left-hand aisle has a depiction of ''St Angelus in the Wilderness ''by [[wikipedia:Pietro_Testa|Pietro Testa]]. He was a Carmelite from Jerusalem in the early days, when the order had been formed from hermits living on [[wikipedia:Mount_Carmel|Mount Carmel]]. He travelled to Sicily and was beaten up by a knight whom he had accused of incest, dying as a result.
+
+Another fresco by Gagliardi follows, purporting to show the interior of [[San Giovanni in Laterano]] before its Baroque re-modelling. There is doubt about the accuracy of this depiction, too.
+
+At the near end of the left hand aisle is a fresco by [http://en.wikipedia.org/wiki/Jan_Miel Jean Miel] depicting ''St Cyril Baptises a Sultan'', executed in [[1651]]. That is, St [http://www.newadvent.org/cathen/04595a.htm Cyril of Constantinople]. He was a Greek monk in the Holy Land in the early 13th century, falsely claimed as a Doctor of the Church and as a Carmelite superior. All the writings attributed to him are by others, and there is no evidence that he was a Carmelite.
+===Sacristy===
+
+The [[sacristy]] has its entrance between the second and third altars in the left hand aisle, but is not usually open to visitors. A 5th century votive lamp in sheet silver is kept here, which was once considered to have been made from the tiara of Pope Sylvester. Also here is a set of liturgical objects that probably belonged to Cardinal [[wikipedia:Guala_Bicchieri|Guala Bicchieri]] (1211-27). These comprise an episcopal mitre, and a [[wikipedia:Maniple_(vestment)|maniple]] and lavabo towel embroidered with gold thread.
+
+It may be noted here that the so-called [http://it.wikipedia.org/wiki/Tesoro_dell%27Esquilino Esquiline Treasure] was once thought to have been unearthed somewhere around the church, but this opinion is dubious (the location of the discovery is uncertain).
+
+==Access==
+
+The church is normally open (November 2017):
+
+Daily, 07.00-12.00 and 16.00-19.00. 
+
+It is part of the ''Centro Strorico ''marriage circuit, so you may find a wedding in progress -especially on Saturdays.
+==Liturgy==
+This is an active parish church. The times of Mass are (parish website, July 2018):
+
+Weekdays 8:30, 18:00.
+
+Sundays: 8:30, 10:00, 11:30, 18:00, 19:30.
+
+In summer, the 11:30 Sunday Mass is cancelled and the 18:00 Masses celebrated at 18:30.
+
+Lauds is celebrated after the 8:30 Mass, and Vespers after the 18:00 (or 18:30) Mass.
+
+The Rosary is said daily at 17:30 (18:00 in summer). 
+
+There is Exposition after the 18:00 (or 18:30) Mass on First Fridays.
+
+The feast of St Martin is celebrated on 11 November. Another important feast in this church is that of [http://en.wikipedia.org/wiki/Our_Lady_of_Mount_Carmel Our Lady of Mount Carmel] on 16 July, which is a solemnity as she is Patron of the Order. The prophet Elijah is also celebrated with a solemnity on 20 July, although he is now referred to as Father of All Carmelites rather than as their founder. Pope Sylvester has his feast on 31 December.
+
+Devotion to Blessed [[wikipedia:Angelo_Paoli|Angelo Paoli]], a Carmelite, is encouraged here and his feast is on 20 January. You should be able to pick up prayer cards featuring him, as the cause for his canonization is being promoted.
+
+This is the [[station church]] of Thursday after the fourth Sunday of Lent.
+
+==References==
+
+
+Armellini, M: ''Chiese di Roma''. Vatican, 1891.
+
+''Le Chiese Paleocristiane di Roma''. RomArcheolgica 2003.
+
+==External links==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=5 Official diocesan web-page]
+
+[http://it.wikipedia.org/wiki/Basilica_dei_Santi_Silvestro_e_Martino_ai_Monti Italian Wikipedia page]
+
+[http://www.sanmartinoaimonti.it/ Basilica's website]
+
+[http://nolli.uoregon.edu/map/index.html?xurl=-96.012&yurl=7.044&surl=2000 Nolli map]
+
+[https://www.flickr.com/photos/dealvariis/sets/72157619878775669/ "De Alvariis" gallery on Flickr]
+
+[http://www.giovannirinaldi.it/page/rome/sanmartinoaimonti/index.htm Giovanni Rinaldi's gallery]
+
+[http://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=555 Info.roma web-page]
+
+[http://www.romeartlover.it/Vasi124a.htm "Romeartlover" web-page]
+
+[http://www.romasegreta.it/s.martino-ai-monti.html "Romasegreta" web-page]
+
+[http://www.triposo.com/poi/W__52721562 "Triposo" web-page]
+
+[http://www.sotterraneidiroma.it/index.php?v=ipo&ipogo=7 "Sotteranei di Roma" web page]
+
+[http://www.ciceronline.it/content/complesso-adiacente-la-basilica-di-smartino-ai-monti "Ciceronline" web-page]
+
+[http://www.medioevo.roma.it/html/architettura/chiese-int/chiese-i01.htm "Medioevo.roma" web-page]
+
+[http://www.gcatholic.com/churches/cardinal/280.htm List of cardinals]
+
+{{DEFAULTSORT:Martino ai Monti}}
+[[Category:Catholic churches]]
+[[Category:Dedications to St Martin of Tours]]
+[[Category:Tituli]]
+[[Category:Titular churches]]
+[[Category:Minor basilicas]]
+[[Category:4th century]]
+[[Category:9th century]]
+[[Category:Rione Monti]]
+[[Category:Parish churches]]
+[[Category:Dedications to St Sylvester]]

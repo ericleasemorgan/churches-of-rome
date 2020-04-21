@@ -1,0 +1,76 @@
+{{Infobox church|
+name= Oratorio dell'Angelo Custode|
+image= |
+caption= |
+englishname= Oratory of the Guardian Angel|
+dedication= Guardian Angel|
+denomination= [[Roman Catholic]]|
+type= Oratory|
+clergy= |
+titular= |
+national= |
+built= 1730|
+consecrated= |
+architect= [[Carlo Rainaldi]]|
+artists= |
+address= 11 Piazza Poli|
+phone= |
+fax = |
+e-mail= |
+url= |
+}}
+'''Oratorio dell'Angelo Custode''' is an 18th century Baroque oratory at Piazza Poli 11 on the Via del Tritone, which is in the [https://it.wikipedia.org/wiki/Trevi_(rione_di_Roma) rione Trevi]. Pictures of the church at Wikimedia Commons are [[commons:Santissimo_Sacramento_al_Tritone|here]].
+==Name and status==
+This edifice used to be called ''Oratorio del Santissimo Sacramento al Tritone. ''However recently it has been renamed ''Oratorio dell'Angelo Custode, ''in reference of the lost church of [[Angelo Custode]] which used to be nearby. Hence, the dedication is now to the [https://en.wikipedia.org/wiki/Guardian_angel Guardian Angel]. 
+
+The old name is still used on the diocesan web-page.
+
+==History==
+The edifice was built as a headquarters of the Archconfraternity of the Blessed Sacrament (''Arciconfraternita del Santissimo Sacramento'') of the parish of [[Santa Maria in Via]].
+
+Construction started in 1576 during the pontificate of [https://en.wikipedia.org/wiki/Pope_Gregory_XIII Gregory XIII] ([[1572]]&ndash;[[1585]]), but the building was not completed until 1596. In 1681, [https://en.wikipedia.org/wiki/Carlo_Rainaldi Carlo Rainaldi] oversaw a restoration.
+
+The oratory was completely rebuilt by [https://it.wikipedia.org/wiki/Domenico_Gregorini Domenico Gregorini] between [[1726]] and [[1730]], during the pontificate of [https://en.wikipedia.org/wiki/Pope_Benedict_XIII Benedict XIII] ([[1724]]&ndash;[[1730]]) and under the patronage of Cardinal [https://en.wikipedia.org/wiki/Pietro_Ottoboni_(cardinal) Pietro Ottoboni].
+
+There was another restoration by Tito Armellini, father of the famous Roman church historian, in 1867.
+
+The western part of the present Via del Tritone was built as a completely new street at the end of the 19th century, and this entailed the demolition of the building abutting the church on its north side. As a result, the right hand side wall was re-faced in 1897.
+
+The edifice is now a centre of devotion to the Guardian Angels, and is a well-used place for private prayer.
+
+==Exterior==
+===Layout and fabric===
+The layout is a simple rectangle, with a little rectangular apse. Although the interior is domed, the dome is false. The roof is actually flat, with a parapet and a large central elliptical lantern which is invisible from the ground. There is a campanile or bellcote with a tall open arch and a triangular pediment, and this is on the left hand side wall just behind the façade.
+===Façade===
+
+The two-storey façade used to be described as being by [[Carlo Rainaldi]] in the style of Borromini, and completed in 1681. It is now regarded as being part of the 18th century rebuilding by Gregorini.
+
+The profile is wavy, with a convex central element flanked by two concave outer elements, all rendered in white. Above the entrance are two winged heads of putti below a cornice with a low ogee curve, and the entrance is flanked by two pairs of Corinthian columns with decorated Ionic capitals and supporting two halves of a broken and separated segmental pediment with entablature which intrudes onto the second storey. On the pediment halves are two reclining statues representing the virtues ''Faith'' and ''Hope, ''and these are by [http://www.treccani.it/enciclopedia/paolo-benaglia_(Dizionario_Biografico)/ Paolo Benaglia].[[File:2011_Sacramento_in_Trevi.jpg|thumb]]
+
+The plinths of these columns are angled inwards, following the concavity of the outer parts of the façade, so that these pediment halves stand proud of the vertical face of the façade. The first storey is framed by a pair of rectangular pilasters in the same style.
+
+The second storey has a round-headed central window topped by a winged putto’s head below a complex ogee curve, and having a pair of columns flanked by a pair of pilasters. The columns are in grey marble. Either side of the window are two pairs of conjointed rectangular pilasters with capitals, supporting a fanciful pediment formed of two halves of a segmental pediment joined onto a central triangular one. The outer elements of the second storey have capsule-shaped vertical windows (the shape is formed from a rectangle with a semicircle at either end), and these have short sections of balustrade below them. Finally, there is another pair of pilasters at the corners matching those of the first storey, and above these is a pair of flaming urn finials.
+
+==Interior==
+
+The interior plan is a chamfered rectangle (the corners are rounded), and is dominated by the dome. This sits on an entablature supported by ribbed Composite pilasters in light grey with gilded capitals.
+
+The wall and dome surfaces are richly decorated, with frescoes by [http://www.treccani.it/enciclopedia/luigi-martinori_(Dizionario_Biografico)/ Luigi Martinori] dating from the 1867 restoration. There is a pair of ''cantoria, ''or cantilevered opera-boxes for solo musical performers, flanking the apse.
+
+The altar is in a little apse, amounting to an arched niche. The large altarpiece depicting the ''Holy Family'' is by [https://en.wikipedia.org/wiki/Francesco_Trevisani Francesco Trevisani], and dates from the 18th century rebuilding. This artist was a favourite of Cardinal Ottoboni.
+==Access==
+According to the tourist website 060608 (November 2017), the oratory is open: 
+
+Daily 7:30 to 22:30. 
+==Liturgy==
+Mass is celebrated (''Centro Storico ''database, accessed May 2019):
+
+Sundays at 17:00.
+==External links==
+[http://www.diocesidiroma.it/phpenti/ente/?ID=792 Official diocesan web-page]
+
+[https://it.wikipedia.org/wiki/Oratorio_del_Santissimo_Sacramento_(Roma) Italian Wikipedia page]
+
+[http://nolli.uoregon.edu/map/index.html?xurl=-10.4&yurl=91.873&surl=2000 Nolli map (look for 239)] [[Category:Catholic churches]] [[Category:Oratories]] [[Category:Trevi]] [[Category:Dedications to Guardian Angel]]
+[[Category:Confraternity church or chapel]]
+[[Category:18th century]]

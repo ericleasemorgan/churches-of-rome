@@ -1,0 +1,83 @@
+{{Infobox church|
+
+image=  |
+
+caption= |
+
+englishname= St Nicholas of the Incoronati|
+
+dedication= Nicholas|
+
+denomination= [[Roman Catholic]]|
+
+type= Demolished|
+
+clergy=  |
+
+titular= |
+
+national= |
+
+built= 1762|
+
+consecrated= |
+
+architect= |
+
+artists= |
+
+address= Via Giulia (corner of Via San Filippo Neri)|
+
+phone= |
+
+fax = |
+
+e-mail= |
+
+url= }}
+'''San Nicola degli Incoronati '''was a small 18th century former parish church that used to stand on a lost piazza called Piazza Padella, where the Via Bravaria now joins the Largo Lorenzo Perosi. This is in the [https://it.wikipedia.org/wiki/Regola_(rione_di_Roma) rione Regola].
+
+== Name ==
+The dedication was to St [http://en.wikipedia.org/wiki/Saint_Nicholas Nicholas of Myra]. 
+
+Note that ''Niccolò'', an old spelling of the Italian for “Nicholas”, is often used in the name of this church rather than the more usual ''Nicola''.
+==History==
+The first mention of the church, together with several others in the vicinity, is in the bull of Pope Urban III of 1186 which conveniently listed the dependent churches of the parish of [[San Lorenzo in Damaso]].
+
+These churches would have been places where Masses were celebrated, but the mother church would have reserved the right to celebrate marriages, funerals and especially baptisms. Most of these dependent churches became parish churches in their own right in the Middle Ages, but this one struggled in the process. A major reason would have been that an independent parish church had to pay for its own priest, and the area here was a very poor and slummy neighbourhood before the building of the Via Giulia.
+
+The first name recorded is ''San Niccolò de Furcis, ''later also given as ''de Frecca ''or ''de Furca. ''The name derives from the Latin for a two-pronged fork or pitchfork, but in the early vernacular also came to mean a set of gallows. Armellini transcribes a [[1566]] visitation document retelling the legend that there used to be a well next to the church, with a convenient well-head (a crossbeam, supported by two uprights, over which the bucket-rope went) from which those condemned to death could be hanged. The association with the hanging of malefactors also gave rise to the later name of ''degli Iustitiati, ''or of those subjected to justice, although using a well for the purpose would have been very unlikely. 
+
+Poor parishes could sometimes obtain their priests by finding one with his own unearned income, or having a religious congregation provide one (especially common after the Counter-Reformation), or having a rich benefactor pay the salary of a priest as well as perhaps the cost of upkeep of the church. This happened here in 1512. The ''Planca Incoronati ''family, which had apparently taken over the failed parish church at the end of the 15th century, was authorized by Pope [http://en.wikipedia.org/wiki/Pope_Leo_X Leo X] to subsidize a full parish church with the right to baptize. Hence, the church was given their name.
+
+The visitation report of 1566 also mentioned that the parish had a few rich people but was mostly inhabited by poor and criminal types, prostitutes being specially mentioned. There was no graveyard, but people were being buried under the church's floor.
+
+The parish fell on hard times again in 1562, when the church again became dependent on ''San Lorenzo in Damaso. ''However, it took over the parish of ''Sant'Andrea d'Azanesi ''when that church was demolished for the Aragonese hospice attached to the church of [[Santa Maria de Monserrato degli Spagnoli|Santa Maria di Monserrato degli Spagnoli]]. 
+
+The church was rebuilt at the expense of the Incoronati family in 1728, and the parishioners arranged another restoration in 1759. 
+
+The parish was downgraded in 1804 as being unable to support a priest, and the church became dependent on [[San Giovanni in Ayno]] for its sacraments. A major re-ordering of the parishes of the ''Centro Storico ''took place'' ''in 1824, under the bull ''Super Universam ''issued by Pope [https://en.wikipedia.org/wiki/Pope_Leo_XII Leo XII]. This finally suppressed the parish attached to the church.
+
+Despite its proximity to the river, it was not demolished when the Tiber embankment was built but was restored again.
+
+It was finally demolished in 1939, a victim of a road scheme that would have linked the Ponte Mazzini with the Corso Vittorio Emanuele II. The same abortive scheme caused the deconsecration of [[San Filippo Neri a Via Giulia]] in 1940, and no work was ever done on the road beyond the present Via San Filippo Neri.
+==Location==
+The site of the church is on the north-west side of what is now called the Largo Lorenzo Perosi, where the Via Bravaria curves out to make a junction with the main road. The site was (until recently at least) enclosed on two sides by a rough concrete wall with bits of rebar sticking out of its top. However, the city wants to make something of this area and the authorities may have got around to it about now.
+
+==Appearance==
+For a parish church, this was tiny. The Nolli map of 1748 shows it to have had an almost rectangular  plan, aligned east to west. The far wall was at an angle to the major axis, making the left hand side wall shorter than the right hand one. There was no apse, but there was a pair of side altars facing each other.
+
+The façade had a single storey, topped by a triangular pediment with a blank tympanum. The central vertical zone, including the entrance doorway, was slightly recessed from the ground right up to this tympanum. The narrower side zones, at the corners, were bounded by a pair of Doric pilasters each which supported an entablature containing a dedicatory inscription on its frieze, which continued across the recessed portion mentioned. Above the doorcase was a floating triangular pediment broken at the top, and above this in turn was a horizontal rectangular window with its top edge touching the architrave of the entablature.
+
+The main altarpiece depicted the patron saint, and was by Filippo Zucchetti. The left hand side altar was dedicated to St [http://en.wikipedia.org/wiki/Ursula Ursula], and the right hand one to the [[Blessed Virgin Mary]].
+==External links==
+[http://it.wikipedia.org/wiki/Chiesa_di_San_Nicola_degli_Incoronati Italian Wikipedia page]
+
+[http://www.flickr.com/photos/dealvariis/sets/72157620194965022/ De Alvariis gallery on Flickr]
+
+[http://nolli.uoregon.edu/map/index.html?xurl=101.447&yurl=70.695&surl=2000 Nolli map (look for 664)]
+[[Category:Catholic churches]]
+[[Category:Demolished churches]]
+[[Category:Dedications to St Nicholas of Myra]]
+[[Category:Regola]]
+[[Category:18th century]]

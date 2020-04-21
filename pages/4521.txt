@@ -1,0 +1,68 @@
+{{Infobox church|
+
+name=  Sant'Elisabetta dei Fornari|
+
+image=  |
+
+caption= |
+
+englishname= Elizabeth of the Bakers|
+
+dedication= Elizabeth|
+
+denomination= [[Roman Catholic]]|
+
+type= Demolished|
+
+clergy=  |
+
+titular= |
+
+national= |
+
+built= |
+
+consecrated= |
+
+architect= |
+
+artists= |
+
+address= Via dei Chiaravari|
+
+phone= |
+
+fax = |
+
+e-mail= |
+
+url= |
+
+}} '''Sant'Elisabetta dei Fornari''' was a 17th century confraternity church in Via dei Chiavari, with its entrance just opposite that on the west side of [[Sant'Andrea della Valle]]. It is in the rione [https://it.wikipedia.org/wiki/Parione Parione], although the boundary with the rione Sant'Eustachio is in the street (so [http://en.wikipedia.org/wiki/Mariano_Armellini Armellini] mistakenly put it in the chapter on the latter rione in his 1891 book on Roman churches).
+
+The dedication was to St [http://en.wikipedia.org/wiki/Elizabeth_of_Hungary Elizabeth of Hungary].
+
+==History==
+The church was founded in 1481 by Pope [http://en.wikipedia.org/wiki/Pope_Innocent_VIII Innocent VIII] for a confraternity of German bakers, who established a small hospice for their members next door. The Nolli map of 1748 lists them as the ''Università dei Garzoni Tedeschi dei Fornari'' which implies that they actually worked in bakeries rather than owning them. The original church was dedicated to the [http://en.wikipedia.org/wiki/Visitation_(Christianity) Visitation] of the Blessed Virgin Mary.
+
+The church was rebuilt and rededicated in 1645, and so ended up with a Baroque plan and appearance. In the process, an important fresco cycle was executed for the interior by Alessandro Salucci (1590-1655).
+
+It was demolished when the Via dei Chiavari was widened as part of the ancillary works attending the construction of the Corso Vittorio Emanuele in [[1889]].
+
+Side altars dedicated to the Sacred Heart and to Our Lady were salvaged, and re-installed in the church of [[San Giorgio e dei Martiri Inglesi]].
+==Location==
+The church was on the north side of the junction of the Via dei Chiavari with the Via del Biscione. 
+
+The street to the north of this junction has been widened to twice its original width, and as a result half of the church site is in the roadway. The other half, with the main altar, is under the modern building now on that corner. The church façade aligned with the west side of the narrow portion of the street that continues from the junction, south along the side of ''Sant'Andrea''.
+==Appearance==
+The church had an elliptical plan, aligned on the major axis. There were two side altars, in little niches, and an attached semi-circular apse.
+
+Armellini transcribed the inscription over the doorway recording the 1645 rebuilding. It read: ''Sodalitas pistorum nationis Germanicae aedem Visitationis B[eatae] M[ariae] V[irginis] collabentem diruit, novam denuo a fundamentis extruxit A[nno] D[omini] MDCXLV.'' ("The sodality of bakers of the German nation demolished the ruined temple of the Visitation of the Blessed Virgin Mary, and once more erected it new from the foundations, AD 1645).
+==External links==
+* [http://nolli.uoregon.edu/map/index.html?xurl=56.603&yurl=54.751&surl=2000 Nolli map (look for 631)]
+[[Category:Catholic churches]]
+[[Category:Parione]]
+[[Category:Demolished churches]]
+[[Category:Dedications to St Elizabeth of Hungary]]
+[[Category:17th century]]
+[[Category:Confraternity church or chapel]]

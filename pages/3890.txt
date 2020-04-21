@@ -1,0 +1,76 @@
+{{Infobox church|
+
+name=  |
+
+image=  |
+
+caption= |
+
+englishname=  Holy Family at Sommacampagna Way|
+
+dedication= Holy Family|
+
+denomination= [[Roman Catholic]]|
+
+type= Demolished|
+
+clergy=  |
+
+titular= |
+
+national= |
+
+built= 1896|
+
+consecrated= |
+
+architect= |
+
+artists= |
+
+address= Via Sommacampagna|
+
+phone= |
+
+fax = |
+
+e-mail= |
+
+url= |
+
+}}'''Sacra Famiglia a Via Sommacampagna''' is a lost 19th century church at Via Sommacampagna in the rione [https://it.wikipedia.org/wiki/Castro_Pretorio Castro Pretorio].
+
+It was on the east side of the street, near the junction with Via San Martino della Battaglia.
+
+The dedication was to the [https://en.wikipedia.org/wiki/Holy_Family Holy Family].
+==History==
+
+This is probably the most obscure church of recent times in the ''Centro Storico''.
+
+It was designed by [http://www.treccani.it/enciclopedia/busiri-vici-carlo-maria_(Dizionario-Biografico)/ Carlo Busiri Vici], who is better known for [[San Giuseppe a Via Nomentana]], and built to serve a proposed parish in a suburban development in 1896. The instigators of the project were the [http://en.wikipedia.org/wiki/Canons_Regular_of_the_Lateran Canons of the Lateran], who made a charitable appeal to pay for it.
+
+At the end of the 19th century, Rome's suburbs were beginning their massive expansion. Those who had to think about providing churches for the new neighbourhoods initially imagined that Mass attendance would remain high. Tragically, the percentage of the total population attending Mass was in decline even before this church was built, and it was probably redundant before it opened
+
+So, it was demolished only about half a century later.
+==Appearance==
+The façade was panelled in brick.
+
+The church had a central nave with aisles, and three altars. The nave arcades were supported by alternate columns and piers (apparently), and the roofs were vaulted.
+
+The apse had frescoes by [https://it.wikipedia.org/wiki/Eugenio_Cisterna Eugenio Cisterna], the main altar had an altarpiece of the ''Holy Family'' by [http://www.istitutomatteucci.it/en/artisti-censiti/bravi-giuseppe Giuseppe Bravi] (1862-1901) and the right hand altar had one of ''SS Augustine and Ubaldo'' by the same artist. The left hand altar was to Our Lady.
+
+The nave side walls also had "sober" mosaic work.
+
+Archive photos of this forgotten building survive (see external link), but nothing online.
+==External link==
+[https://archive.org/details/lechiesediromagu00ange_0/page/134 Diego Angeli p. 134]
+
+
+[http://opac.iuav.it/ewar/ew_queryewar_isis.php????EW_HIL=ew_menu.html&EW_HFL=ew_copy.html&EW_FL=ew_limiti.html&EW4_DLL=20&EW4_DLP=10&EW4_CJL=1&EW4_NVR=&EW4_NVT=&EW4_NMI=&EW_RM=10&EW_EP=004237&EW_RP=10&&EW_T=R&EW_P=LS_EW&EW_D=W5006&EW=CR=ECAR00002559 Location of photos]
+
+{{DEFAULTSORT:Famiglia}}
+[[Category:Catholic churches]]
+[[Category:Demolished churches]]
+[[Category:Castro Pretorio]]
+[[Category:19th century]]
+[[Category:Dedications to the Holy Family]]

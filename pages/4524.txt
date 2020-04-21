@@ -1,0 +1,32 @@
+<p class="p1">
+{{Infobox church|englishname = St Stephen at the Fish Pool|dedication = Stephen the Protomartyr|denomination = [[Roman Catholic]]|built = 1752|address = Via dei Banchi Vecchi 135}}</p>
+<p class="p1">'''Santo Stefano in Piscinula '''was an 18th parish church at what is now Via dei Banchi Vecchi 135, which is in the westernmost corner of the rione Parione.</p>
+
+<p class="p1">It was dedicated to St [http://en.wikipedia.org/wiki/Saint_Stephen Stephen the Protomartyr].</p>
+
+<h2 class="p1">History</h2>
+The first mention of this mediaeval church is in the [http://en.wikipedia.org/wiki/Mirabilia_Urbis_Romae Mirabilia Urbis Romae] a pilgrims' guidebook written in the 1140's, and it is also in the 1184 list of churches dependent on the parish of [[San Lorenzo in Damaso]] which is included in a bull of Pope Urban III. The name ''piscinula ''originally meant "little fish-pool" in Latin, but there are several historical variants such as ''piscibus ''(fishes), ''pescivola ''(fish-seller) or ''piscina ''(fish-pool or plunge-pool in a bath-house). So, it is thought the name either came from an ancient artificial pond or from an adjacent fish-market which might have had a fish-tank for live fish.
+
+The parish was independent by the 14th century. The foundation legend of [[Santo Stefano degli Ungheresi]] was mistakenly attached to this church, alleging that it had been founded by St [http://en.wikipedia.org/wiki/Stephen_I_of_Hungary Stephen of Hungary].
+
+It was rebuilt at the expense of the parish priest, Filippo Pioselli, and re-consecrated in 1752 with a façade that was never finished. The architect was Giacomo Antonio Perfetti.
+
+A major re-ordering of the parishes of the ''Centro Storico ''took place'' ''in 1824, under the bull ''Super Universam ''issued by Pope [https://en.wikipedia.org/wiki/Pope_Leo_XII Leo XII]. This suppressed the parish attached to the church. After that, it seems to have had no function. Unusually, permission was given by the Papal government in 1860 to demolish the church and to replace it with a secular building; by this time, it was probably in a very bad state of repair.
+==Location==
+The location of this one is easy to spot. The church was on the corner of Via dei Banchi Vecchi and Vicolo Cellini, and is remembered by a portrait of the saint in a tondo attached to the corner of the building.
+
+==Appearance==
+The church was slightly smaller than [[Santa Lucia del Gonfalone]] which is only a few metres away. The plan was basically rectangular, with a segmental apse replacing the far wall. The first bay of the nave was taken up by an entrance narthex, and there was a little square chapel halfway down the nave on each side.
+
+The main altar had an altarpiece depicting ''The Stoning of St Stephen ''by [http://it.wikipedia.org/wiki/Pietro_Labruzzi Pietro Labruzzi]. One side altar was dedicated to the ''Crucifixion'' with an altarpiece by Gioacchino Paver, and had a depiction of St [http://en.wikipedia.org/wiki/Raphael_(archangel) Raphael] by Costantino Borti in a niche to the right. The other altar was dedicated to the [http://en.wikipedia.org/wiki/Immaculate_Conception Immaculate Conception], with an altarpiece by Gaetano Sciortini (or Sortini).
+
+==External links==
+[http://it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_in_Piscinula Italian Wikipedia page]
+
+[http://nolli.uoregon.edu/map/index.html?xurl=92.938&yurl=77.344&surl=2000 Nolli map (look for 660)]
+[[Category:Catholic churches]]
+[[Category:Dedications to St Stephen the Protomartyr]]
+[[Category:Parione]]
+[[Category:Parish churches]]
+[[Category:Demolished churches]]
+[[Category:18th century]]

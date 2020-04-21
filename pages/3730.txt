@@ -1,0 +1,86 @@
+{{Infobox church|
+
+name=  |
+
+image=  |
+
+caption= |
+
+englishname= Holy Saviour of the Gate|
+
+dedication= Jesus Christ|
+
+denomination= [[Roman Catholic]]|
+
+type= |
+
+clergy=  |
+
+titular= |
+
+national= |
+
+built= 17th century|
+
+consecrated= |
+
+architect= |
+
+artists= |
+
+address= Via Ostiense (in carriageway south of Porta San Paolo)|
+
+phone= |
+
+fax = |
+
+e-mail= |
+
+url= |
+
+}}
+'''San Salvatore de Porta '''was a small 17th century church, now demolished, that used to stand on the west side of the Via Ostiense just south of the [http://en.wikipedia.org/wiki/Porta_San_Paolo Porta San Paolo]. This is in the [https://it.wikipedia.org/wiki/Ostiense Ostiense] quarter.
+==History==
+===Problem of Sant'Euplo===
+This church has been confused with another one that used to be outside the Porta San Paolo, called ''Sant'Euplo. ''This was founded by Pope Theodore (642-9), and had a monastery attached. It falls out of the catalogue listings about 1400. As Hülsen points out, Armellini made some odd and confusing assertions in describing the two churches, claiming firstly that the monastery was a large hospital and, secondly, that both churches survived until the mid 19th century. Both of these statements are false, as is the identification of'' Sant'Euplo ''with ''San Salvatore.''
+
+Both source texts on this point are online; see "External links", below.
+===Origins===
+The first indication of the origins of this church is a damaged epigraph found in the crypt of [[San Saba]], dated in the period from the 9th to the 11th century. It is part of a papal bull, although the name of the pope is lost. It reads:
+
+''+ GGS EPS Servus Servorum dilecto filio nostro Eugenio, a nobis consecrato Egumeno, in subscripto loco qu[a]e nominat cella muroniana super portam beati Pauli apostoli ubi est ecclesia reco[g]nita ad honore imaginis Domini Dei..... ''("The servant of servants (i.e. the Pope) to our beloved sone Eugenius, consecrated hegumen by ourselves, in the place mentioned below [there is] the monastic cell mentioned, in the wall above the gate of the blessed apostle Paul, where there is the church under consideration to the honour of an image of the Lord God [i.e. Jesus].....")
+
+This means that there was a hermit's cell in one of the towers, and the existence of remnants of a rich cycle of frescoes in the eastern one indicates that it was there where an icon of Christ was exposed for veneration. The word "hegumen" is used instead of "abbot" because the monastery of San Saba, which was in charge, was of the [http://en.wikipedia.org/wiki/Byzantine_Rite Byzantine rite] at the time.
+
+The church seems to have been built as part of this small monastic foundation focusing on the gate, and might have been originally erected over an underground tomb. It is first mentioned in a bull of Pope [http://en.wikipedia.org/wiki/Pope_Gregory_VII Gregory VII] in the 11th century, and had monastic buildings between it and the gate. In the same century the complex is mentioned as having been granted to the monastery of [[Sant'Alessio all'Aventino]].
+===Later history===
+The church is listed in the Catalogue of Turin of 1320 as having no priest, and at the time would have served the very small population in a totally rural area as any monastic presence seems to have ceased. It had reverted to being the responsibility of ''San Saba, ''and this is known because in about 1600 it is listed as belonging to the [http://en.wikipedia.org/wiki/Collegium_Germanicum_et_Hungaricum German-Hungarian College]. This institution had possession of ''San Saba'' from [http://romanchurches.wikia.com/wiki/1573 1573].
+
+The church was rebuilt in the 17th century.
+
+Unusually, the church was demolished in 1849 on the orders of the revolutionary Republican government in order to clear the field of fire from the gate. This was in anticipation of attack by the French army intent on restoring papal rule, something that took place despite the leadership of Garibaldi in defence. It would have been doomed by road widening in any event, later on in that century.
+==Location==
+To locate the site of the church, take a straight line through the archway of the gate and across the Piazzale Ostiense. This traces the old road, which was narrow and bounded by vineyard walls. Then take a line due south of the southern corner of the [http://en.wikipedia.org/wiki/Pyramid_of_Cestius Pyramid of Cestius]. The two lines intersect in what was the old roadway outside the entrance of the church. 
+
+The site is now completely occupied by the new road. If you are in a vehicle going north on the Via Ostiense and entering the Piazzale Ostiense, and you are in the left hand lane, you will go over the site of the church just north of the pedestrian crossing where the traffic from the station forecourt feeds from the right.
+==Appearance==
+This was a very small church, having a plan based on a simple rectangle with a segmental apse.
+
+A painting by De Alvariis of 1834 shows a simple façade with a doorway having a raised triangular pediment. The latter was on volute corbels, and was over a dedicatory inscription (you can read ''SS Salvatoris''). Over the pediment was a tondo with a raised and molded frame containing some sort of inscription, and crowning the façade was a triangular pediment. There was a little campanile or bellcote, with a triangular pediment and an arched opening for a single bell, over the right hand roofline.
+
+This artist produced a series of watercolours of Roman churches. Comparing his depictions with existing buildings reveals that he was not very accurate in reproducing architectural details. Especially, he liked to paint façades much narrower than they actually were. This is the case here, although the detailing corresponds with the appearance of the church on the 18th century engraving by Vasi.
+
+The painting appears on a gallery on Flickr, titled ''San Salvatore de Marmorata. ''This is erroneous, as is the identification therein with [[Sant’Anna a Ripa]].
+==External links==
+[http://romeartlover.tripod.com/Vasi11.html "Romeartlover" web-page] (with Vasi engraving)
+
+[http://www.flickr.com/photos/dealvariis/sets/72157620850572563/with/3690181346/ De Alvariis gallery on Flickr]
+
+[http://penelope.uchicago.edu/Thayer/I/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/churches/_Texts/Armellini/ARMCHI*/3/3.html Armellini on the two churches]
+
+[http://penelope.uchicago.edu/Thayer/I/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/churches/_Texts/Huelsen/HUECHI*/2/DH.html Hülsen criticizing Armellini (p. 250)]
+[[Category:Catholic churches]]
+[[Category:Demolished churches]]
+[[Category:Outside the walls - South-West]]
+[[Category:Dedications to Jesus Christ]]
+[[Category:17th century]]
