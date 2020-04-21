@@ -1,5 +1,13 @@
 #!/usr/bin/env perl
 
+# xml2markup.pl - given an XML file of a specific shape, output both sets of SQL statements and plain text files
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# April 20, 2020 - first cut; during a pandemic
+
+
 # configure
 use constant XML       => './etc/roman-churches.xml';
 use constant TEMPLATE  => "INSERT INTO churches ( 'cid', 'name' ) VALUES ( '##CID##', '##NAME##' );";

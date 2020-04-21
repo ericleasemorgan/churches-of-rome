@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # infobox2sql.py - given a file (a wikimedia page), extract the infobox and output SQL update statements
-# Usage: find ./txt -name *.txt | parallel ./bin/infobox2sql.py > ./tmp/updates.sql
+# usage: find ./pages -name "*.txt" | parallel ./bin/infobox2sql.py > ./tmp/updates.sql
 
 # Eric Lease Morgan <emorgan@nd.edu>
 # (c) University of Notre Dame; distributed under a GNU Public License
@@ -56,21 +56,20 @@ for field in infobox.split( '|' ) :
 		value = pair[ 1 ].strip()
 		metadata[ name ] = value
 
-# get the church identifier, for the next step
+# for the next step, derive the church identifier
 cid = os.path.splitext( os.path.basename( file ) )[ 0 ]
 
-# output SQL update statements
+# process each metadata name/value pair
 for name in metadata :
 	
 	# check for desirable field and an associated value
 	if ( name in FEILDS and metadata[ name ] ) :
 	
-		# extract and escape the value
+		# extract, normalize, and escape the value
 		value = metadata[ name ]
 		value = value.replace( '<br>', ' ' )
 		value = value.replace( '[', '' )
 		value = value.replace( ']', '' )
-		value = value.replace( "'", "''" )
 		value = value.replace( "'", "''" )
 		
 		# create sql statement

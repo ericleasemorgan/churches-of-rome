@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+# titles2db.sh - given a set of insert statements, create an SQL transaction and execute it
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# April 21, 2020 - first cut; during a pandemic
+
 
 # configure
 DB='./etc/roman-churches.db'

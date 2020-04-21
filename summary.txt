@@ -1,0 +1,1636 @@
+
+
+Churches of Rome
+================
+
+This text summarizes the contents of a database, specifically a
+database of churches in Rome. On one hand, the database is rich
+with information. On the other hand, the values in the given
+fields need to be normalized. Can you say "authority control"?
+
+                                                             --
+                             Eric Lease Morgan <emorgan@nd.edu>
+                                                 April 21, 2020
+
+
+Database schema - What fields are here?
+---------------------------------------
+CREATE TABLE churches (
+
+	cid          INT PRIMARY KEY,
+	name         TEXT,
+
+	address      TEXT,
+	architect    TEXT,
+	artists      TEXT,
+	built        TEXT,
+	caption      TEXT,
+	clergy       TEXT,
+	consecrated  TEXT,
+	dedication   TEXT,
+	denomination TEXT,
+	englishname  TEXT,
+	fax          TEXT,
+	image        TEXT,
+	national     TEXT,
+	phone        TEXT,
+	titular      TEXT,
+	type         TEXT,
+	url          TEXT
+
+);
+
+
+Number of records - How many churches do we know about?
+-------------------------------------------------------
+1037
+
+
+Number of churches with English names - What are these churches called?
+-----------------------------------------------------------------------
+1034
+
+
+Number of churches with addresses - Where are the churches?
+-----------------------------------------------------------
+1022
+
+
+Counts & tabulations of dates - When were the churches built?
+-------------------------------------------------------------
+83	20th century
+30	17th century
+20	16th century
+17	18th century
+17	Mediaeval
+16	Late 20th century
+10	Mid 20th century
+9	1957
+8	1990
+8	1991
+8	Early 20th century
+7	1936
+7	1954
+7	1958
+7	1995
+7	2009
+6	15th century
+6	1932
+6	1950
+6	1955
+6	1956
+6	1968
+6	1979
+6	1992
+6	1996
+6	19th century
+6	2000
+5	11th century
+5	1937
+5	1953
+5	1960's
+5	1970
+5	1980
+5	2001
+5	4th century
+5	5th century
+4	1568
+4	1887
+4	1925
+4	1940
+4	1941
+4	1960
+4	1961
+4	1964
+4	1972
+4	1983
+4	1987
+4	1988
+4	1997
+4	1998
+4	2002
+4	2003
+4	2006
+4	2010
+3	1669
+3	1912
+3	1914
+3	1933
+3	1938
+3	1948
+3	1951
+3	1952
+3	1959
+3	1963
+3	1965
+3	1967
+3	1971
+3	1973
+3	1975
+3	1978
+3	1980's
+3	1986
+3	2012
+3	4th century?
+3	Early 17th century
+3	Late 19th century
+2	11th century, reconstructed 1937
+2	11th century?
+2	1220
+2	12th century?
+2	1599
+2	1600
+2	1610
+2	1614
+2	1616
+2	1617
+2	1631
+2	1640
+2	1644
+2	1673
+2	1675
+2	1700
+2	1723
+2	1725
+2	1726
+2	1730
+2	1731
+2	1735
+2	1741
+2	1878
+2	1888
+2	1889
+2	1892
+2	1898
+2	1902
+2	1906
+2	1913
+2	1915
+2	1916
+2	1920
+2	1926
+2	1928
+2	1929
+2	1930
+2	1934
+2	1935
+2	1939
+2	1942
+2	1945
+2	1969
+2	1974
+2	1977
+2	1981
+2	1982
+2	1989
+2	1999
+2	2004
+2	2007
+2	2011
+2	21st century
+2	2nd cent.,
+2	4th century, restored several times
+2	7th century
+2	9th century
+2	From 1506
+2	Late 15th century
+2	Later 20th century
+2	Mediaeval, 17th century
+1	1090, 1860
+1	1099, rebuilt 1472&ndash;1479
+1	10th century, rebuilt 17th century
+1	1101, rebuilt in 18th and 19th cent.
+1	1113
+1	1128, rebuilt 1599
+1	1141
+1	1161
+1	11th cent., rebuilt 1524-84
+1	11th century, 17th century
+1	11th century, rebuilt in 1680 and 1858
+1	11th century, remodelled 18th century
+1	1231, rebuilt 1603
+1	1238
+1	1296&ndash;1446, rebuilt 1479&ndash;1483, major work 1661&ndash;1162
+1	12th cent., rebuilt 1475 and 1538-1545
+1	12th century
+1	12th century, 18th century
+1	12th century, enlarged 17th century
+1	12th century, mostly rebuilt 1617
+1	12th century, rebuilt 1700
+1	12th century, rebuilt 1727
+1	12th century, rebuilt 1729
+1	12th century, rebuilt 17th century
+1	12th century, rebuilt in 16th and 19th century
+1	12th century, rebuilt in 17th century
+1	12th century, rebuilt several times
+1	12th century, remodelled 1611
+1	1303
+1	13th century
+1	1439
+1	1450
+1	1455 (palazzo)
+1	1466 (building); 1946 (consecrated as church)
+1	1473&ndash;1477
+1	1475
+1	1476
+1	1483
+1	1490
+1	1490-1580
+1	1491-1513
+1	1499, rebuilt 1657
+1	14th century
+1	14th century (palace), 1603 (decoration)
+1	14th century, 17th century
+1	14th century?
+1	1500
+1	1507
+1	1509
+1	1509-1734, facade 1738
+1	1511
+1	1513, restored in 18th century
+1	1518
+1	1518 - 1589
+1	1530&ndash;1579
+1	1538
+1	1543
+1	1544-7
+1	1552 to 1553
+1	1564
+1	1565-1775
+1	1568&ndash;1584
+1	1571
+1	1575
+1	1575 -1663
+1	1575&ndash;1599
+1	1576, rebuilt 1732 to 1737.
+1	1580
+1	1581
+1	1582
+1	1585
+1	1587
+1	1587&ndash;1597
+1	1588-1774
+1	1589
+1	1590
+1	1591 - 1601
+1	1592
+1	1592, rebuilt 1883
+1	1593-1610
+1	1594, mostly rebuilt 1817
+1	1597
+1	1598
+1	15th century?
+1	1603
+1	1605
+1	1605 - 1750
+1	1612
+1	1619
+1	1619, remodelled 18th and 19th centuries
+1	1622
+1	1624
+1	1625
+1	1626 - 1650
+1	1626 to 1631
+1	1628
+1	1629
+1	1630; 1938
+1	1631 (old), late 20th century (new)
+1	1632
+1	1634
+1	1634-1638
+1	1635
+1	1636
+1	1636&ndash;1638
+1	1637
+1	1638
+1	1638 (as chapel)
+1	1641-1646
+1	1643
+1	1645-1650
+1	1654
+1	1654-1660
+1	1658&ndash;1661
+1	1659- 1667
+1	1662
+1	1669 to 1698
+1	1676
+1	1676, 2004
+1	1677
+1	1682
+1	1684
+1	1689
+1	1695
+1	1696
+1	16th cent., restored in 1823 and 1967
+1	16th century?
+1	1703
+1	1704
+1	1724
+1	1727
+1	1731 t0 1736
+1	1735; 1889 as chapel
+1	1737
+1	1739
+1	1740
+1	1743
+1	1744
+1	1745
+1	1745 (old shrine church); 1999 (new shrine and parish churches)
+1	1745, rebuilt on different site 1950.
+1	1752
+1	1754
+1	1756
+1	1759
+1	1760
+1	1762
+1	1766-1770
+1	1768
+1	1773, 1853, 1933 (three churches)
+1	1783 (as chapel)
+1	1792
+1	1797
+1	17th century (ancient fabric below)
+1	17th century (body), 18th century (façade)
+1	17th century (building), 18th century (church furnishings)
+1	17th century (old), mid 20th century (new)
+1	17th century - 19th century
+1	17th century, 19th century
+1	1818
+1	1819
+1	1820
+1	1826
+1	1827
+1	1840-1843
+1	1848
+1	1851
+1	1855
+1	1880
+1	1880&ndash;1887
+1	1883
+1	1886
+1	1886&ndash;1889
+1	1889 (complex is 18th century)
+1	1890
+1	1893
+1	1894
+1	1896
+1	1899
+1	18th Century
+1	1900 (old), 1989 (new)
+1	1904
+1	1905
+1	1906 (fabric), 1923 (interior)
+1	1908
+1	1909
+1	1910&ndash;1930
+1	1923
+1	1927
+1	1930's
+1	1931
+1	1933&ndash;1937
+1	1940-1950
+1	1944
+1	1945-54
+1	1950 (edifice), 1978 (converted to church)
+1	1950's
+1	1950-59
+1	1959, 1995
+1	1960's (unfinished)
+1	1960, 2015
+1	1962 (old), 1987 (new)
+1	1963, 2012
+1	1966
+1	1967&ndash;1968
+1	1970's
+1	1970, rebuilt 2002
+1	1976
+1	1983 (apartment building converted)
+1	1985
+1	1988 (first building, 1966)
+1	1993
+1	1993 (rebuilt 2008)
+1	1994
+1	19th century?
+1	1st century BC (building), 872 (church)
+1	2005
+1	2005 (temporary building), 2016 (permanent church).
+1	2008, rebuilt 2016
+1	2014
+1	20th Century
+1	20th century (temporary building; new church awaited)
+1	21st century (temporary structure)
+1	27 BC
+1	275 (wall tower); 12th century (fitted out as church)
+1	2nd century, reconstructed 1601-1602
+1	2nd century; 7th century; c1400
+1	330, present church 1593 to 1603
+1	336, rebuilt several times until 1744
+1	342, later rebuilt
+1	395, rebuilt 1870
+1	3rd century, 4th century, early 20th century
+1	4-5th century
+1	4th cent., altered in 1588
+1	4th cent., rebuilt 6th and 9th cent., restored several times
+1	4th cent., restored several times, rebuilt 1751
+1	4th century (basilica), 13th century (chapel)
+1	4th century (catacombs), 11th century (church)
+1	4th century, church 10th century
+1	4th century, much rebuilt from 1824
+1	4th century, rebuilt 15th century
+1	4th century, rebuilt in 8th century and from 1529 until 1590
+1	4th century, rebuilt in 9th and 12th century
+1	4th century, reconstructed later
+1	4th century, remodelled
+1	4th century, restored in 12th and 19th centuries.
+1	4th century; 1638; 1922
+1	5th c., rebuilt 8th c., restored in 1191 and 20th cent.
+1	5th cent, restored in 8th, 15th, 16th and 19th cent.
+1	5th century, 19th century
+1	5th century, rebuilt in 17th century
+1	5th century, restored in 1453
+1	5th century?
+1	645, rebuilt several times
+1	6th cent.
+1	6th cent., rebuilt 16th cent.
+1	6th century, original fabric 1st century
+1	6th century, restored 1417
+1	755 or 770, rebuilt mid 16th century
+1	7th cent., rebuilt in 12th cent.
+1	7th century, rebuilt 17th century
+1	7th century, reconstructed 1742 to 1748
+1	8th cent., rebuilt in 17th and 18th cent.
+1	8th century
+1	8th century (church), 1st century (building)
+1	8th century, enlarged in 9th century
+1	8th century, rebuilt 1610
+1	8th century? Present church c. 1280
+1	998
+1	9th century, rebuilt 1481-1500
+1	9th century, rebuilt in 18th century
+1	9th century?
+1	9th, 12th, 18th centuries
+1	?
+1	AD 80 (Colosseum), 1519 (chapel, now demolished)
+1	About 100 BC (temple), 12th century (church)
+1	About 400
+1	Ancient, rebuilt 1582
+1	Before 8th cent., altered in 17th century
+1	C. 1450
+1	Church AD 630 (edifice c300 BC, rebuilt c300 AD)
+1	Completed 1575
+1	Early 12th cent.
+1	Early 12th century
+1	Early 13th century
+1	Early 16th century
+1	Early 16th century? 19th century
+1	Early 20th century (1st), 1965 (2nd)
+1	Early mediaeval, 1574
+1	End 16th century
+1	End 17th century
+1	End 18th century
+1	From 1563
+1	From 1566, replacing older church
+1	From 1590/1591&ndash;1650
+1	From 1921
+1	Late 16th century
+1	Late 16th century (incorporating part of ancient temple)
+1	Late 17th century
+1	Late 17th century?
+1	Late 4th century
+1	Late 8th century?
+1	Mediaeval, 16th century
+1	Mediaeval, 18th century
+1	Mediaeval, from 11th century
+1	Mediaeval, restored 1665
+1	Mid 16th century
+1	Mid 19th century
+1	Mid 20th century, 21st century
+1	Mid 4th century
+1	Mid C20th century
+1	Middle ages, rebuilt 1681
+1	Old basilica 5th century, rebuilt 19th century; new church 1937
+1	Original structure late 2nd century?
+1	Possibly 6th century, rebuilt 15th century and 1703&ndash;1705
+1	Probably c. 630
+1	Rebuilt 1209
+1	Rebuilt 13th century
+1	Rebuilt 1579
+1	Unknown
+1	before 377, rebuilt in 814, 15th and 16th cent.
+1	c. 1690s
+1	c. 200
+1	c. 460
+1	c1450
+1	c1600
+1	c1650
+1	c1690
+1	c2000 (fitted out as church; permanent church awaited)
+1	c2000 (temporary building; permanent church under consideration)
+1	c330
+1	c350-500, restored several times.
+1	c360, converted to church 1254
+1	c400
+1	ca. 400, rebuilt and renovated several times
+1	rebuilt in 1523
+0	
+
+Counts & tabulations of architects - Who designed these churches?
+-----------------------------------------------------------------
+7	Carlo Fontana
+6	Giacomo della Porta
+4	Francesco Borromini
+3	Carlo Maderno
+3	Carlo Rainaldi
+2	Aristide Leonori
+2	Carlo Rainaldi, Gian Lorenzo Bernini, Carlo Fontana
+2	Ferdinando Fuga
+2	Filippo Raguzzini
+2	Michelangelo (dome)
+2	Pietro da Cortona
+2	Tullio Rossi
+1	-
+1	<nowiki>Giovanni Antonio de Ross, Carlo Fontana, Luigi Poletti</nowiki>
+1	<nowiki>Paolo Marucelli, Carlo Fontana</nowiki>
+1	Amando Brasini
+1	Andrea Busiri Vici, Ottaviano Mascherino
+1	Andrea Fucina, Raffaele Ingami
+1	Andrea Sansovino
+1	Antonio Casoni
+1	Antonio Sangallo the Younger
+1	Antonio Sangallo the Younger, Carlo Fontana
+1	Antonio da Sangallo the Younger
+1	Antonio da Sangallo the Younger or Baldassare Peruzzi, Ottavio Mascherino.
+1	Antonio da Sangallo the Younger, Jacopo del Duca
+1	Baccio Pontelli
+1	Baccio Pontelli Carlo Rainaldi et.al.
+1	Baccio Pontelli, Gian Lorenzo Bernini
+1	Baccio Pontelli, Giovanni da Sangallo
+1	Baccio Pontelli, Meo del Caprina
+1	Baccio Pontelli, Pietro da Cortona
+1	Bernardo Rosselino
+1	Bernini
+1	Borromini
+1	Borromini, Alessandro Galilei, Virgilio Vespigniani
+1	Bruno Apollini Ghetti
+1	Carlo Bodini
+1	Carlo Buratti, Ferdinando Fuga
+1	Carlo Busiri Vici, Verhaegen
+1	Carlo Fontana, G.C. Quadrio
+1	Carlo Maderno Francesco Borromini
+1	Carlo Maderno, Domenico Fontana
+1	Carlo Maderno, Giovanni Battista Soria
+1	Carlo Maderno, Girolamo Rainaldi
+1	Carlo de Dominicis
+1	Cesare Bazzani, Clemente Busiri Vici
+1	Clemente Busiri Vici
+1	Cosimo Fanzago
+1	Domenico Castelli
+1	Domenico Navona
+1	Ferdinando Fuga, Bonoli
+1	Fernando Fuga
+1	Filippo Barigioni
+1	Filippo Colonna
+1	Filippo Gagliardi, Pietro da Cortona
+1	Filippo Jovarra Francesco Borromini
+1	Fra Sisto and Fra Ristoro of Arezzo, Carlo Maderno
+1	Francesco Berarducci
+1	Francesco Bizzaccheri
+1	Francesco Ferrari
+1	Francesco Peparelli
+1	Francesco da Volterra
+1	Francesco da Volterra, Antonio Manno
+1	Francesco da Volterra, Carlo Lombardi
+1	Francesco da Volterra, Carlo Maderno
+1	Gabrieli Valvassari
+1	George Edmund Street
+1	Giacomo Recalcati
+1	Giacomo della Porta, Carlo Lombardi, Flaminio Ponzi
+1	Giacomo della Porta, Carlo Maderno
+1	Giacomo della Porta, Giovanni Antonio de Rossi
+1	Giacomo di Pietrasanta, Francesco Borromini
+1	Gian Lorenzo Bernini
+1	Gianni Mazzocca
+1	Gioan Pietro Morandi
+1	Giovanni Antonio de Rossi
+1	Giovanni Battista Contini, Antonio Canevari
+1	Giovanni Battista Piranesi
+1	Giovanni Battista Soria, Francesco Ferrari
+1	Giovanni Matteo da Città di Castello, Giacomo della Porta, Martino Longhi the Elder
+1	Giovanni Muzio
+1	Giovanni Sallustio Peruzzi
+1	Giovannino dei Dolci(?)
+1	Girolamo Rainaldi
+1	Girolamo Theodoli
+1	Girolamo Vantaggi
+1	Giulio Romano, Guidetto Guidetti, Jacopo Barozzi
+1	Giuseppe Astorri
+1	Giuseppe Gualandi
+1	Giuseppe Passeri, Bonoli
+1	Guidetto Guidetti
+1	Gustavo Giovannoni
+1	Jacopo Sansovino Antonio da Sangallo the Younger, Michelangelo et al.
+1	Jacopo Vignola
+1	Jacopo del Duca
+1	Jacopo della Porta
+1	Jean de Chenevière, Domenico Fontana, Giacomo della Porta.
+1	Leo Favini
+1	Leon Battista Alberti, Giuliano da Maiano, Carlo Maderno
+1	Luca Carimini
+1	Ludovico Rusconi Sassi, Antonio Cipolla
+1	Luigi and Antonio Nervi
+1	Manoel Rodriguez dos Santos
+1	Marcello Piacentini
+1	Mario Paniconi, Giulio Pediconi
+1	Martino Longhi the Elder
+1	Martino Longhi the Elder, Francesco de Sanctis
+1	Martino Longhi the Younger Christoforo Schor
+1	Mattia de Rossi, Carlo Fontana, Ferdinando Fuga, Luigi Poletti.
+1	Mattia de Rossi, Virginio Vespignani
+1	Michelangelo Buonarroti, Jacopo Lo Duca
+1	Michelangelo Specchi
+1	N/A
+1	Onorio Longhi, Martino Longhi the Younger
+1	Orazio Grassi, Allessandro Algardi
+1	Orazio Torriani, Carlo Maderno, Pietro da Cortona
+1	Ottaviano Mascherino, Ludovico Rusconi Sassi
+1	Paolo Posi
+1	Pier Paolo Olivieri, Francesco Grimaldi, Carlo Maderno
+1	Pietro Camporesi
+1	Pietro Passalacqua
+1	Raphael, Baldassare Peruzzi, Flaminio Ponzio
+1	Romano Carapecchia
+1	Rosato Rosati, Giovanni Battista Soria
+1	Tullio Passarelli
+1	Vasselletti
+1	Vignola, Giacomo della Porta
+1	Virgilio Vespigniani
+1	Virginio Vespagniani
+1	Virginio Vespagniani Constantino Brumidi
+0	
+
+
+Counts & tabulations of artists
+-------------------------------
+3	See text
+2	Giovanni Lanfranco, Domenichino, Allessandro Algardi, Mattia Preti et al.
+1	-
+1	<nowiki>Andrea Sansovino</nowiki>
+1	<nowiki>Carlo Rainaldi, Orazio Borgianni, Ludovico Gimignani et al.</nowiki>
+1	<nowiki>Francesco Fontana, Antonio da Sangallo the Younger, Giovanni Battista Parodi et al.</nowiki>
+1	<nowiki>Francesco Nagni, Angelo Biancini</nowiki>
+1	<nowiki>Raphael, Lorenzetto,Luigi de Pace. Caravaggio et.al.</nowiki>
+1	<nowiki>Stefano Parrocel
+1	Adamo Tadolini
+1	Alessandro Algardi, Niccolò Menghini
+1	Alessandro Specchi, Bernardino Cametti, Vincenzo de Rossi et al.
+1	Ambrogio Parisi, Monacelli, Luigi Garzi,
+1	Andrea Camassei, Giovanni Battista Speranza
+1	Andrea Commodi
+1	Andrea Pozzo, Pierre Legros, Allessandro Algardi et al.
+1	Andrea Sacchi
+1	Andrea Sansovino, Cesare Mariani
+1	Annibale Carracci
+1	Antoniazzo Romano, Giacomo Triga
+1	Antonio Canova Arnolfo di Cambio Luigi Fontana et.al.
+1	Antonio Gherardi, Giovanni Antonio Grimaldi
+1	Antonio Moroni, Carlo Rainaldi, Antonio Canova
+1	Antonio Raggi
+1	Antonio Raggi Pierre Mignard et. al.
+1	Antonio Raggi, Francesco Cavallini, Rinaldo Rinaldi, Daniele da Volterra et al.
+1	Antonio Raggi, Il Lorenzone et al.
+1	Antonio Raggi, Pierre Legros, Carlo Maratta et.al.
+1	Aureliano Milani
+1	Bernardino Gagliardi Clemente Maioli et.al.
+1	Bernardino Ludovisi, Guido Reni
+1	Bernardino Nocchi, Pomerancio, Giacomo della Porta et al.
+1	Bernini, Carlo Saraceni
+1	Bernini, Enrico Haffner
+1	Biagio Biagetti
+1	Carlo Fontana, Andrea Camassei, Il Pomerancio
+1	Carlo Maderno, Raphael
+1	Carlo Rainaldi<nowiki>, Andrea Sansovino, Andrea Bregno et al.</nowiki>
+1	Cavaliere d'Arpino, Cesare Rosetti
+1	Cherubino, Giovanni Alberti, Lazzaro Baldi, Cavaliere d'Arpino et al.
+1	Cosimo Fancelli
+1	Cristoforo Casolani, Giacinto Gimignani, Giovanni Anguilla et al.
+1	Domenichino, Baldassarre Peruzzi, Agostino Carracci
+1	Domenichino, Gherardo delle Notti, Guido Reni et al.
+1	Domenichino, Guido Reni
+1	Domenico Bartolini
+1	Domenico Cresti
+1	Domenico Muratori et al.
+1	Eugenio Cisterna, Tommaso Righi, Virginio Monti.
+1	Francesco Bassano, Caravaggio
+1	Francesco Cozza, Ciro Ferri, Antoniazzo Romano
+1	Francesco Rosa, Carlo Marchionni
+1	Francesco Zucca
+1	Gaetano Lapis, Filippo Evangelisti
+1	Gaspare Celio, Sebastiano Conca, Giovanni Pirri
+1	Giacinto Brandi
+1	Giambattista Conti
+1	Gian Lorenzo Bernini
+1	Giovanni Antonio Lelli, Cavaliere d'Arpino
+1	Giovanni Antonio de Rossi, Agostino Corsini et al.
+1	Giovanni Baglione, Federico Zuccari, Taddeo Zuccari
+1	Giovanni Battista Lenardi, Lazzaro Baldi, Francesco Trevisani, Pasquale Marini, Gian Lorenzo Bernini
+1	Giovanni Battista Lombardelli (ca. 1540-1592),Nicolo Circignani (c. 1530-c. 1590)
+1	Giovanni Battista Naldini, Daniele da Volterra et al.
+1	Giovanni Coli, Filippo Gherardi, Francesco Grandi et al.
+1	Giovanni Lanfranco
+1	Giovanni di San Giovanni
+1	Girolamo Batoni
+1	Girolamo Troppa, Biagio Puccini
+1	Giuseppe Ranucci, Antonio Nessi, Giovanni Francesco Romano
+1	Gregorio Stasi
+1	Il Baciccia, Alessandro Algardi,
+1	Il Baciccio
+1	Il Baciccio ,Giacinto Brandi, Giuseppe Ghezzi
+1	Il Pomarancio, Antonio Tempesta
+1	Il Pomerancio
+1	Isaia da Pisa, Antonio Canova, Pietro da Cortona et al.
+1	Jacopo Sansovino, Gian Lorenzo Bernini, Giovanni Lanfranco, Isaia da Pisa
+1	Jean Bonassieu
+1	Luigi Simonetti
+1	Margaritone d'Arezzo, Bernini
+1	Mariano Rossi, Antonio Cipolla, Girolamo Pesci
+1	Melchior Cafà, Il Baciccia
+1	Michelangelo et.al.
+1	N/A
+1	Niccolò Bertoni
+1	Nicola Salvi, Ferdinando Fuga
+1	Paolo Morelli
+1	Paolo Romano
+1	Pierino del Vaga, Giulio Romano
+1	Pierre Legros, Andrea Bregno, Camillo Rusconi, Isaia da Pisa, et.al.
+1	Pietro Antonio Verchaffelt, Pierre Legros
+1	Pietro Cavallini, Domenichino
+1	Pietro Gagliardi
+1	Pietro da Cortona Agostino Ciampelli
+1	Pietro da Cortona, Francesco Salviati, Isaia of Pisa
+1	Sebastiano Conca, Guido Reni, Stefano Maderno
+1	Stefano Castelli, Paolo Nadini, Gaspar Poussin, Giovanni Greppi et al.
+1	Stefano Maderno, Baldassare Croce, Cesare Nebbia
+1	Taddeo Zuccari
+1	Vincenzo Felici, Francesco Cavallini, Antonio Raggi
+1	Virginio Monti, Eugenio Cisterna
+0	
+
+
+Counts & tabulations of clergy
+------------------------------
+22	Diocesan
+5	Society of Jesus
+3	Franciscan Friars Minor
+2	Augustinian friars
+2	Augustinians
+2	Canons Regular of the Lateran
+2	Cistercian Order
+2	Diocesan clergy
+2	Order of Minims
+2	Salesians
+2	Sylvestrines
+1	Archconfraternity of the Gonfalone
+1	Argentinian diocesan clergy
+1	Armenian clergy
+1	Bridgittine Order
+1	Calced Carmelites
+1	Camilliani
+1	Canons Regular of the Order of the Holy Cross
+1	Caracciolini
+1	Church of England clergy
+1	Clerks Minor Regular
+1	Clerks Regular of Somascha
+1	Congregation of the Holy Spirit
+1	Congregation of the Sacred Stigmata
+1	Conventual Franciscans
+1	Diocesan priest in charge
+1	Diocesan rector
+1	Diocesean
+1	Discalced Carmelite friars
+1	Discalced Carmelites
+1	Dominican Order
+1	Ethiopian Coptic
+1	Ethiopian clergy
+1	Franciscan Capuchins
+1	Fraternità di Gerusalemme
+1	Friars Minor Capuchin
+1	Friars Preacher (Dominicans)
+1	Friars of the Regular Third Order of St Francis
+1	Greek Catholic clergy
+1	Irish Dominicans
+1	Irish Pallottine Fathers
+1	Lazarists
+1	Legion of Christ
+1	Missionaries of the Precious Blood
+1	Missionaries of the Sacred Heart
+1	None
+1	None -church is closed down.
+1	Oblates of St Joseph
+1	Oblates of the Child Jesus
+1	Opus Dei
+1	Oratorians
+1	Order of Friars Minor (Franciscans)
+1	Order of St Benedict
+1	Pallotines
+1	Passionist
+1	Piarists
+1	Priestly Fraternity of St. Peter
+1	Priests of the Most Holy Sacrament
+1	Priests of the Sacred Heart
+1	Priests, Ministers of the Sick (Camillans)
+1	Rosminians
+1	Servite Friars
+1	Servite Order
+1	Sisters of Mary Reparatrix
+1	Society of St Paul
+1	Trappists
+1	Trinitarian Fathers
+1	Trinitarians
+1	Vallumbrosian Benedictine
+0	
+
+
+Counts & tabulations of consecrated
+-----------------------------------
+2	10th century
+2	1734
+2	1968
+1	-
+1	1 May 1959
+1	1 November 1917
+1	1116
+1	1306
+1	1446
+1	1553
+1	1584
+1	1585
+1	1592
+1	1599
+1	1623
+1	1660
+1	17 May 1561
+1	1721
+1	1728
+1	1736
+1	1781
+1	18 June 1889
+1	18 March 1859
+1	18 November 324
+1	1842
+1	19 March 1722
+1	1910
+1	1918
+1	1930
+1	1937
+1	1941
+1	1949
+1	1959
+1	1962
+1	1965
+1	2001
+1	28 January 1123
+1	324
+1	401/2
+1	467
+1	527
+1	7 July 1843
+1	?330, with later reconsecrations
+1	November 1954
+1	Reconsecrated 1139
+1	Unknown
+1	c. 608
+0	
+
+
+Counts & tabulations of dedication
+----------------------------------
+172	Blessed Virgin Mary
+16	Andrew the Apostle
+16	Jesus Christ
+13	Holy Cross
+11	?
+11	Blessed Virgin Mary (Immaculate Conception)
+8	Blessed Virgin Mary (Assumption)
+8	Michael the Archangel
+8	Nicholas
+7	Blessed Virgin Mary (Annunciation)
+7	Holy Family
+7	Holy Trinity
+7	John the Baptist
+7	Joseph
+6	Anne
+6	Anthony of Padua
+6	Blessed Virgin Mary (Our Lady of Sorrows)
+6	Blessed Virgin Mary (Our Lady of the Rosary)
+6	Holy Spirit
+6	Sacred Heart
+6	St Lawrence the Deacon
+6	Stephen the Protomartyr
+5	Blessed Virgin Mary, Immaculate Conception
+5	Clare of Assisi
+4	Blessed Virgin Mary (Our Lady of Graces)
+4	Francis of Assisi
+4	Jesus Christ (Corpus Christi)
+4	Mary Magdalen
+4	Philip Neri
+4	Rita of Cascia
+4	Sacred Heart of Jesus
+4	Teresa of Jesus
+4	Thomas the Apostle
+4	Unknown
+3	Blaise
+3	Blessed Virgin Mary (Our Lady of Consolation)
+3	Blessed Virgin Mary (Our Lady of Fatima)
+3	Blessed Virgin Mary (Our Lady's Birthday)
+3	Blessed Virgin Mary (Visitation)
+3	Cajetan
+3	Catherine of Alexandria
+3	Eligius
+3	Francis Xavier
+3	James the Great
+3	Jesus (Sacred Heart)
+3	Jesus Christ (Blessed Sacrament)
+3	Jesus Christ (Nativity)
+3	Jesus Christ (Precious Blood)
+3	Julian the Hospitaller
+3	Peter the Apostle
+3	Teresa of the Child Jesus
+3	Ursula
+2	Agatha
+2	Agnes
+2	Alexis
+2	Ambrose of Milan
+2	Anthony of Egypt
+2	Barbara
+2	Bartholomew
+2	Benedict Joseph Labre
+2	Bernard of Clairvaux
+2	Blessed Virgin Mary (Holy Name of Mary)
+2	Blessed Virgin Mary (Our Lady of Good Counsel)
+2	Blessed Virgin Mary (Our Lady of Loreto)
+2	Blessed Virgin Mary (Our Lady of Lourdes)
+2	Blessed Virgin Mary (Our Lady, Liberatrix)
+2	Blessed Virgin Mary (Presentation)
+2	Blessed Virgin Mary (Purification of Our Lady)
+2	Brigid of Sweden
+2	Clement I, Pope
+2	Cosmas and Damian
+2	Cyril and Methodius
+2	Dorothy
+2	Elizabeth
+2	Euphemia of Chalcedon
+2	Fidelis of Sigmaringen
+2	Frances of Rome
+2	Frances of Rome, Blessed Virgin Mary
+2	Francis de Sales
+2	Galla
+2	Gemma Galgani
+2	Gregory the Great
+2	Guardian Angel
+2	Helen
+2	Holy Wisdom
+2	Ignatius of Loyola
+2	Isidore the Farmer
+2	Jeanne Antide Thouret
+2	Jerome
+2	Joachim and Anne
+2	John XXIII, Pope
+2	Joseph (Joseph the Worker)
+2	Joseph Calasanz
+2	Jude the Apostle
+2	Lawrence of Rome
+2	Leo the Great
+2	Louis Grignion de Montfort
+2	Maria Goretti
+2	Mark the Evangelist
+2	Martin of Tours
+2	Matthew
+2	Monica
+2	Name of Mary
+2	Paul the Apostle
+2	Peter
+2	Peter and Paul
+2	Pope St Sylvester
+2	Romanus Ostiarius
+2	Romuald
+2	Rufina and Seconda
+2	Sebastian of Rome
+2	Simon and Jude, Apostles
+2	St Caesarius
+2	St Catherine of Siena
+2	St Francis of Assisi
+2	St John the Baptist
+2	St John the Evangelist
+2	St Joseph
+2	St Lucy
+2	St Rita of Cascia
+2	St Urban
+2	Thomas Aquinas
+2	Timothy
+2	Vincent de Paul
+1	<nowiki>Barbara, Thomas Aquinas</nowiki>
+1	<nowiki>Blessed Virgin Mary</nowiki>
+1	Achilles the Martyr
+1	Agatha?
+1	Agostina Pietrantoni
+1	Albert the Great
+1	Alexander of Bergamo
+1	All Apostles
+1	All Saints
+1	Aloysius Gonzaga
+1	Alphonsus Liguori
+1	Alphonsus de Liguori
+1	Anastasia
+1	Andrew Avellino
+1	Andrew Corsini
+1	Andrew Kim Tae-gon and Companions
+1	Andrew and Claudius
+1	Andrew, Francis of Paola
+1	Angela Merici
+1	Anianus of Orleans
+1	Anicetus, Pope
+1	Anne, Mother of Our Lady
+1	Annunciation to St Mary
+1	Anselm of Canterbury
+1	Anthony Mary Pucci
+1	Anthony Mary Zaccaria
+1	Anthony of Padua and Hannibal-Mary de Francia
+1	Anthony the Great
+1	Apollonia
+1	Aquila and Priscilla
+1	Ascension
+1	Assumption of Mary
+1	Athanasius
+1	Athanasius of Alexandria
+1	Augustine of Hippo
+1	Aurea of Ostia
+1	Balbina
+1	Barnabas
+1	Bartholomew the Apostle
+1	Bartholomew the Apostle and Alexander of Bergamo
+1	Basil the Great
+1	Benedict and Scholastica
+1	Benedict of Nursia
+1	Bernardette
+1	Bernardine of Siena
+1	Bibiana
+1	Blessed Sacrament
+1	Blessed Sacrament, Catherine of Siena
+1	Blessed Virgin Mary (Assumption) and Joseph
+1	Blessed Virgin Mary (Assumption) and Michael the Archangel
+1	Blessed Virgin Mary (Assumption), Pancras
+1	Blessed Virgin Mary (Causa Nostrae Laetitiae)
+1	Blessed Virgin Mary (Immaculate Conception), Vincent de Paul
+1	Blessed Virgin Mary (Our Lady Mediatrix)
+1	Blessed Virgin Mary (Our Lady of Bonaria)
+1	Blessed Virgin Mary (Our Lady of Carmel)
+1	Blessed Virgin Mary (Our Lady of Carmel) and Joseph
+1	Blessed Virgin Mary (Our Lady of Coromoto)
+1	Blessed Virgin Mary (Our Lady of Czestochowa)
+1	Blessed Virgin Mary (Our Lady of Divine Providence)
+1	Blessed Virgin Mary (Our Lady of Guadalupe)
+1	Blessed Virgin Mary (Our Lady of La Salette)
+1	Blessed Virgin Mary (Our Lady of Mercy), Hadrian of Nicomedia
+1	Blessed Virgin Mary (Our Lady of Mount Carmel)
+1	Blessed Virgin Mary (Our Lady of Pompeii)
+1	Blessed Virgin Mary (Our Lady of Providence)
+1	Blessed Virgin Mary (Our Lady of Revelation)
+1	Blessed Virgin Mary (Our Lady of Sorrows}
+1	Blessed Virgin Mary (Our Lady of Suffrage), Augustine of Canterbury
+1	Blessed Virgin Mary (Our Lady of Valme)
+1	Blessed Virgin Mary (Our Lady of the Angels)
+1	Blessed Virgin Mary (Our Lady of the Rosary), Portuensian Martyrs
+1	Blessed Virgin Mary (Our Lady of the Rosary), St Peter Chanel
+1	Blessed Virgin Mary (Our Lady of the Snows)
+1	Blessed Virgin Mary (Our Lady's Help)
+1	Blessed Virgin Mary (Our Lady, Mother of Mercy)
+1	Blessed Virgin Mary (Our Lady, Queen of the Angels)
+1	Blessed Virgin Mary (Visitation) and Francis de Sales
+1	Blessed Virgin Mary St Francis de Sales
+1	Blessed Virgin Mary and Anthony of Padua
+1	Blessed Virgin Mary and Aristides the Apologist
+1	Blessed Virgin Mary and St Philip the Apostle
+1	Blessed Virgin Mary, Assumption
+1	Blessed Virgin Mary, Gallicanus
+1	Blessed Virgin Mary, Immaculate Heart of Mary
+1	Blessed Virgin Mary, John Berchmans
+1	Blessed Virgin Mary, Joseph
+1	Blessed Virgin Mary, Petronilla, Michael the Archangel
+1	Blessed Virgin Mary, Philip Neri
+1	Blessed Virgin Mary, St Benedict Joseph Labre
+1	Body and Blood of Christ
+1	Bonaventure
+1	Bonosa
+1	Bruno
+1	Caius, Pope
+1	Celsus
+1	Celsus, Julian
+1	Charles Borromeo
+1	Charles Lwanga and Companions
+1	Charles of Sezze
+1	Christ the Divine Master
+1	Christopher
+1	Chrysanthus and Daria
+1	Clare
+1	Clement of Rome
+1	Cletus, Pope
+1	Constantia Augusta
+1	Corbinian
+1	Crispin of Viterbo
+1	Cyprian of Carthage
+1	Cyriac
+1	Cyril of Alexandria
+1	Cyrus and John (''Passera'' is a nickname)
+1	Damasus, Pope
+1	Denis of Paris
+1	Dominic
+1	Dominic Savio
+1	Dorothy of Caesarea
+1	Eligius of Noyon
+1	Elizabeth and Zacharias, Parents of John the Baptist
+1	Elizabeth of Hungary
+1	Emerentiana of Rome
+1	Fabian and Venantius
+1	Faustina Kowalska
+1	Felicity of Rome
+1	Felicity of Rome and her Seven Sons
+1	Felix of Cantalice
+1	Ferdinand, King of Spain
+1	Flavia Domitilla
+1	Forty Martyrs of Sebaste
+1	Forty Martyrs of Sebaste, Paschal Baylon
+1	Frances-Xavier Cabrini
+1	Francis of Assisi and Catherine of Siena
+1	Francis of Sales
+1	Frumentius, Apostle of Ethiopia
+1	Fulgentius of Ruspe
+1	Gabriel of Our Lady of Sorrows
+1	Gabriel the Archangel
+1	Gabriel-of-Our-Lady-of-Sorrows Possenti
+1	Gaudentius of Novara
+1	Gelasius I, Pope
+1	George the Great
+1	George, and English Martyrs of the Reformation
+1	Gerard Majella
+1	Giles
+1	God the Father
+1	Gregory Barbarigo
+1	Gregory the Great and Blessed Virgin Mary
+1	Gregory the Wonderworker
+1	Guardian Angels
+1	Hadrian of Nicomedia
+1	Hearts of Jesus and Mary
+1	Helena, Empress
+1	Henry II, Emperor
+1	Herculanus of Porto
+1	Hermes of Rome
+1	Hilary of Poitiers
+1	Hippolytus of Rome
+1	Holy Face of Jesus
+1	Holy Faith
+1	Holy Shroud of Turin
+1	Hugh of Grenoble
+1	Hyginus, Pope
+1	Ignatius of Antioch
+1	Immaculate Conception, John the Baptist and John the Evangelist
+1	Innocent I, Pope and Guy of Pomposa
+1	Irenaeus of Lyons
+1	Isidore of Seville and Eurosia of Jaca
+1	James Cusmano
+1	Jane Beretta Molla
+1	Jerome Emiliani
+1	Jesus (Precious Blood)
+1	Jesus (Resurrection)
+1	Jesus (as a Child)
+1	Jesus (as a boy at Nazareth)
+1	Jesus Christ (Blessed Sacrament) and Lawrence of Rome
+1	Jesus Christ (Blessed Sacrament), Holy Wounds
+1	Jesus Christ (Transfiguration)
+1	Jesus Christ and SS John the Evangelist and John the Baptist
+1	Jesus Christ as the Holy Child
+1	Jesus Christ in the Eucharist
+1	Jesus Christ the Good Shepherd
+1	Jesus Christ the Redeemer
+1	Jesus Christ the Saviour
+1	Jesus Christ the Worker
+1	Jesus Christ, Frances Cabrini
+1	Jesus of Nazareth
+1	Jesus of Nazareth (the hidden years of his life)
+1	Joachim, Father of Our Lady
+1	John Baptist de La Salle
+1	John Baptist de la Salle
+1	John Berchmans
+1	John Bosco
+1	John Calabria
+1	John Chrysostom
+1	John Leonardi
+1	John Mary Vianney (Cure d'Ars)
+1	John of the Cross
+1	John the Baptist; John of Kenty
+1	John the Evangelist
+1	John the Evangelist and Petronius of Bologna
+1	John-Baptist de La Salle
+1	John-Nepomucine Neumann
+1	Josaphat
+1	Joseph Cafasso
+1	Joseph Cotolengo
+1	Joseph Marello (not Joseph the Patriarch)
+1	Joseph Moscati
+1	Joseph of Cupertino
+1	Joseph, Ursula
+1	Joseph-Mary Escrivà
+1	Julia Billiart
+1	Julian
+1	Juliana Falconieri
+1	Julius
+1	Laurence of Brindisi
+1	Laurus
+1	Lawrence
+1	Lawrence the Deacon
+1	Lazarus
+1	Leo I, Pope
+1	Leonard of Noblac, Romuald
+1	Leonard of Port Maurice
+1	Leonardo Murialdo
+1	Leopold Mandic
+1	Liborius of Le Mans
+1	Linus, Pope
+1	Louis IX of France
+1	Louis Mary Grignon de Montfort
+1	Lucy
+1	Lucy of Syracuse
+1	Luke the Evangelist
+1	Luke the Evangelist and Martina (jointly)
+1	Magi
+1	Malo
+1	Marcella
+1	Marcellinus and Peter
+1	Margaret of Antioch
+1	Margaret-Mary -Alacoque
+1	Maria-Rosa Molas y Vallvé
+1	Marius and Companions
+1	Mark the Evangelist and Pius X
+1	Maro
+1	Martha
+1	Martin I, Pope
+1	Martin of Tours, Sebastian
+1	Mary Domenica Mazzarello
+1	Mary Magdalen de Pazzi
+1	Mary Magdalene
+1	Mary of Egypt
+1	Mary-Joseph-of-the-Heart-of-Jesus Sancho de Guerra
+1	Mary-Magdalen of Canossa
+1	Maurice
+1	Maurus
+1	Maximilian Kolbe
+1	Maximus of Turin
+1	Melania the Younger
+1	Michael the Archangel and St. Magnus
+1	NIcholas
+1	Nicholas of Myra
+1	Nicholas of Tolentino
+1	Nicholas von Flüe
+1	Nicholas, Bernardine
+1	Norbert
+1	Octavius, Solutor and Adventor
+1	Pancras
+1	Pantaleon
+1	Patrick
+1	Patrick of Ireland
+1	Paul
+1	Paul of the Cross
+1	Paul the Hermit
+1	Paula
+1	Paula Frassinetti
+1	Peregrine
+1	Perpetua and Felicity
+1	Peter Canisius
+1	Peter Damian
+1	Peter Martyr
+1	Peter, Paul and John the Baptist
+1	Philip the Apostle
+1	Pier Giorgio Frassati
+1	Pius V, Pope
+1	Pius X, Pope
+1	Pius of Pietrelcina
+1	Polycarp
+1	Pontian, Pope
+1	Pope Agapitus I
+1	Pope Gregory the Great
+1	Pope St Callixtus
+1	Pope St Gregory VII
+1	Pope St Sixtus II
+1	Pope St Sylvester, St Martin of Tours
+1	Portuensian Martyrs (Simplicius, Faustinus and Beatrice)
+1	Prisca
+1	Priscilla, Pope Sylvester I
+1	Protomartyrs of Rome
+1	Pudentiana
+1	Quiriacus of Ostia
+1	Quricus and Julitta
+1	Raphael
+1	Raymund Nonnatus
+1	Remigius of Rheims
+1	Restituta
+1	Roch
+1	Rosalia
+1	Rose of Viterbo
+1	Rufina and Secunda
+1	SS Cosmas and Damian
+1	SS Gregory the Great, Andrew the Apostle
+1	SS Joachim and Anne
+1	SS Marcellinus and Peter, jointly
+1	SS Margaret of Antioch and Emygdius
+1	SS Nereus and Achilleus
+1	Sacred Heart of Jesus and Immaculate Heart of Mary
+1	Sacred Heart?
+1	Saints Ildefonsus of Toledo and Thomas of Villanova
+1	Saturninus
+1	Sebastian
+1	Sebastian and Valentine
+1	Serena
+1	Sergius and Bacchus
+1	Sergius and Bacchus (Roman martyrs)
+1	Seven Holy Founders of the Servite Order
+1	Seven Sleepers of Ephesus
+1	Simeon the Prophet
+1	Simon and Jude
+1	Sixtus, Pope and Dominic
+1	St Agnes
+1	St Alphonsus Mary de'Ligouri
+1	St Anthony of Padua
+1	St Anthony the Great
+1	St Apollinaris
+1	St Augustine of Hippo
+1	St Basil
+1	St Benedict
+1	St Benedict of Nursia
+1	St Bernardine of Siena
+1	St Bonaventure
+1	St Bonaventure, Holy Cross
+1	St Bridget of Sweden
+1	St Camillus of Lellis
+1	St Cecilia
+1	St Charles Borromeo
+1	St Charles Borromeo, Holy Trinity
+1	St Chrysogonus
+1	St Clare of Assisi
+1	St Dominic Guzman and Pope St Sixtus II
+1	St Elizabeth (which one?)
+1	St Eugenius
+1	St Eusebius of Rome
+1	St Eustace
+1	St Francis of Paola
+1	St Gaspare del Bufalo
+1	St George
+1	St Giles
+1	St Giovanni Battista Rossi
+1	St Gregory Nazianzen
+1	St Homobonus of Cremona
+1	St Isidore of Seville
+1	St Isidore the Farmer
+1	St James the Great
+1	St Jerome
+1	St John Calabytes
+1	St Joseph (Joseph the Worker)
+1	St Joseph the Patriarch
+1	St Lazarus
+1	St Marcellus
+1	St Martha of Bethany
+1	St Michael the Archangel
+1	St Nicholas of Myra
+1	St Onuphrius
+1	St Paul the Apostle
+1	St Peter the Apostle
+1	St Philip Neri
+1	St Praxedes
+1	St Robert Bellarmine
+1	St Roch
+1	St Saba
+1	St Sabina
+1	St Sebastian of Rome
+1	St Stanislaus
+1	St Stephen the Protomartyr (St Stephen of Hungary, unofficial)
+1	St Teresa Benedicta of the Cross (formerly known as Edith Stein)
+1	St Ursus
+1	St Valentine
+1	St Vincent, St Anastasius
+1	St Vitalis and his family
+1	St Yves
+1	Stanislaus
+1	Stephen of Hungary
+1	Sts Ambrose of Milan
+1	Susanna
+1	Sylvia of Rome
+1	Tarcisius of Rome
+1	Teresa of Avila
+1	Teresa of Avila, John of the Cross
+1	Teresa of Calcutta
+1	Teresa of Lisieux
+1	The Apostles Andrew and Bartholomew
+1	The Holy Cross
+1	The Holy Names of Jesus and Blessed Virgin Mary
+1	The True Cross
+1	The name of Jesus Christ
+1	Thecla
+1	Theodore of Euchaita
+1	Thomas Becket
+1	Thomas More
+1	Unknown, perhaps Pope St Mark
+1	Urban I, Pope
+1	Urban I, Pope and Lawrence of Rome
+1	Ursula and Catherine of Alexandria
+1	Valentine
+1	Venantius of Camerino, Ansovinus
+1	Victorinus of Pettau
+1	Vigilius of Trent
+1	Vincent Pallotti
+1	Vincent and Anastasius
+1	Vincent the Deacon and Anastasius the Persian
+1	Vitus and Modestus
+1	Yves
+1	Zephyrinus Gimenez Molla
+1	Zoticus
+0	
+
+
+Counts & tabulations of denomination
+------------------------------------
+822	Roman Catholic
+165	Roman Catholic Church
+23	Catholic
+2	Ukrainian Greek Catholic Church
+1	Alexandrine Rite (Coptic)
+1	Anglican Communion / Church of England
+1	Armenian Catholic
+1	Armenian Catholic Church
+1	Catherine of Siena
+1	Greek Byzantine Catholic Church
+1	Greek Orthodox in use, Roman Catholic ownership.
+1	Roman Catholic (?)
+1	Roman Catholic (Latin Rite)
+1	Roman Catholic and Ethiopian Catholic
+1	Roman Catholic, Bulgarian Orthodox
+1	Roman Catholic?
+1	Russian Greek Catholic Church
+1	Syriac Maronite Church of Antioch
+0	
+
+
+Counts & tabulations of national
+--------------------------------
+18	No
+2	Ethiopia
+1	-
+1	1640
+1	Argentine
+1	Armenia
+1	Calabria
+1	Croatia
+1	Denmark (Chapel of St Knud)
+1	England
+1	Formerly
+1	Greece
+1	Hungarian
+1	Ireland
+1	Mexico and Latin America
+1	N/A
+1	Romanian
+1	Russia
+1	Spanish
+1	Sweden
+1	The Netherlands
+1	The Philippines
+1	United States of America
+0	
+
+
+Counts & tabulations of titular
+-------------------------------
+11	No
+5	Yes
+1	(Vacant)
+1	1517&ndash;1937
+1	1965&ndash;
+1	1985&ndash;
+1	<nowiki>Odilo Pedro Scherer</nowiki>
+1	Agostino Cacciavillan
+1	Andrew Yeom Soo-jung
+1	Angelo Cardinal Scola
+1	Antonio Cañizares Llovera
+1	Antonio Maria Rouco Varela
+1	Beniamino Stella
+1	Bernard Francis Law
+1	Camillo Ruini
+1	Card. Cipriani Thorne
+1	Card. Versaldi (since 2012)
+1	Cardinal Agustín García-Gasco Vicente
+1	Cardinal Betti
+1	Cardinal Cordes
+1	Cardinal Deskur
+1	Cardinal DiNardo
+1	Cardinal Francesco Montenegro
+1	Cardinal Franciszek Macharski
+1	Cardinal Gianfranco Ravasi
+1	Cardinal Glemp
+1	Cardinal James Francis Stafford
+1	Cardinal Kazimierz Nycz
+1	Cardinal Kitbunchu
+1	Cardinal Levada
+1	Cardinal Mahony
+1	Cardinal Maida
+1	Cardinal Marc Ouellet, P.S.S.,
+1	Cardinal Martínez Sistach
+1	Cardinal Montezemolo
+1	Cardinal Noè
+1	Cardinal Ricard
+1	Cardinal Rigali
+1	Cardinal Tauran
+1	Cardinal Terrazas Sandoval, C.SS.R.
+1	Cardinal Urosa Savino
+1	Cardinal Vallejo O.F.M.
+1	Cardinal Vingt-Trois
+1	Carlo Maria Martini, S.J
+1	Desmond Cardinal Connell
+1	Diaconate
+1	Eduardo Martinez Somalo
+1	Edward Idris Cassidy
+1	Ennio Antonelli
+1	Filippe Barbarin
+1	Francesco Monterisi
+1	Francis Eugene George
+1	George Alencherry
+1	Georges Marie Martin Cottier
+1	Giovanni Canestri
+1	Godfried Daneels
+1	Jean Zerbo
+1	Jean-Pierre Ricard
+1	Joachim Meisner
+1	Jorge Maria Cardinal Mejia
+1	Josip Bozanic
+1	Jozef Tomko
+1	Juan Sandoval Iñiguez
+1	Lorenzo Antonetti
+1	Lucian Mureşan
+1	Miloslav Vlk
+1	N/A
+1	Norberto Rivera Carrera
+1	Paolo Sardi
+1	Paul Poupard
+1	Péter Erdö
+1	Raúl Francisco Primatesta
+1	Roberto Tucci, S.J
+1	Salvatore De Giorgi
+1	Sean Cardinal O'Malley
+1	Stanislaw Dziwisz
+1	Vacant (+Cormac Cardinal Murphy-O'Connor)
+1	Vacant (2015)
+1	Velasio de Paolis
+1	Wilfrid Fox Napier
+1	c. 678&ndash;c. 1590 and 1959&ndash;2000
+0	
+
+
+Counts & tabulations of type
+----------------------------
+67	Demolished
+46	Deconsecrated
+33	Titular church
+21	Deconsecrated and demolished
+17	National church
+13	Titular church, Minor basilica
+9	Ruined
+7	Parish church
+6	Deconsecrated and ruined
+4	Minor basilica
+3	Convent church
+3	Oratory
+3	Titular
+3	Titular church,
+3	Titular church, titulus
+2	Confraternity church
+2	Guild church
+2	Papal basilica
+2	Papal chapel
+2	Patriarchal basilica
+1	Abbey church
+1	College chapel
+1	College church
+1	Convent chapel
+1	Convent church, titulus
+1	Deconsecrated and demolished (except for ancient bits)
+1	Deconsecrated, demolished
+1	Demolished.
+1	Former national church
+1	Major basilica and cathedral
+1	Minor basilica. Station church
+1	National church Minor Basilica
+1	National church, Titular church
+1	Parish and titular church
+1	Parish church, titular church
+1	Public chapel
+1	Titular church Minor basilica
+1	Titular church National church
+1	Titular church Parish church
+0	
+
