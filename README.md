@@ -2,7 +2,7 @@
 
 This suite of tools -- Churches of Rome -- is used to transform an XML file into a database and then report on the contents of the database. Like all software, the suite is never finished. That said, this is how the whole thing works:
 
-   1. Given an XML file of a specific shape ([roman-churches.xml](./etc/roman-churches.xml)), extract church identifiers, church names, and church pages. Output the identifiers and names as a set of [SQL insert statements](./tmp/inserts.sql). Output the pages as [plain text files](./etc/pages).
+   1. Given an XML file of a specific shape ([roman-churches.xml](./etc/roman-churches.xml)), extract church identifiers, church names, and church pages. Output the identifiers and names as a set of [SQL insert statements](./tmp/inserts.sql). Output the pages as [plain text files](./pages).
    
    2. Given the insert statements, create and initialize an [SQLite database](./etc/roman-churches.db).
    
