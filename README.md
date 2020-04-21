@@ -17,7 +17,7 @@ This suite of tools -- Churches of Rome -- is used to transform an XML file into
 
 ## Next steps
 
-The next steps multiple and listed in no priority order:
+The next steps are multiple and listed in no priority order:
 
    * geolocate - Additional fields can be added to the (database schema)[./etc/schema.sql] to included latitude and longitude, and a new script could be written to update those values.
    
