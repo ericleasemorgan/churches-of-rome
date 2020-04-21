@@ -18,7 +18,7 @@ After cloning this repository, and assuming a sane Linux computing environment, 
 
 The next steps are multiple and listed in no priority order:
 
-   * geolocate - Additional fields can be added to the [database schema](./etc/schema.sql) to included latitude and longitude, and a new script could be written to update those values.
+   * geolocate - Additional fields can be added to the [database schema](./etc/schema.sql) to include latitude and longitude, and a new script could be written to update those values.
    
    * normalize - Many of the values in the fields are not consistent and thus queries are not accurate; use something like OpenRefine to normalize content.
    
