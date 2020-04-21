@@ -14,7 +14,7 @@ This suite of tools -- Churches of Rome -- is used to transform an XML file into
    
    6. Summarize the content of the database, and save it to a file ([summary.txt](./summary.txt)).
 
-After cloning this repository, and assuming a san Linux computing environment, a person can do all of the above with a single command: [`./bin/build.sh`](./bin/build.sh)
+After cloning this repository, and assuming a sane Linux computing environment, a person can do all of the above with a single command: [`./bin/build.sh`](./bin/build.sh)
 
 ## Next steps
 
