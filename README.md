@@ -24,7 +24,7 @@ The next steps are multiple and listed in no priority order:
    
    * import narratives - So far, only metadata describing each church is included the database and the narratives need/ought to be imported as well. On the other hand, the narrative content is marked up in some way, and maybe we could use it directly.
    
-   * enhance database - Consider creating a field called "century" and another one called "year", and then derive the values of those fields based on the values in the field named "built". Once done, a timeline could be created. Similarly, consider creating an additional table called "architects", populate the table with the names of architects, and populate the table with URLs pointing to descriptions of the architectes. Once done, the architects could be put into context.
+   * enhance database - Consider creating a field called "century" and another one called "year", and then derive the values of those fields based on the values in the field named "built". Once done, a timeline could be created. Similarly, consider creating an additional table called "architects", populate the table with the names of architects, populate the table with URLs pointing to descriptions of the architects, and finally, join the churches and architects tables. Once done, the architects could be put into context.
    
    * index - Create a Solr instance, loop through the database to fill the Solr instance, and once done provide a full text index complete with faceted browse.
    
