@@ -6,13 +6,11 @@ This suite of tools -- Churches of Rome -- is used to transform an XML file into
    
    2. Given the insert statements, create and initialize an [SQLite database](./etc/roman-churches.db).
    
-   3. Given the plain text files, extract metadata ("infobox" content), and output sets of [SQL update statements](./tmp/updates.sql).
+   3. Given the plain text files, extract metadata ("infobox" content), and output sets of [SQL update statements](./tmp/updates.sql). Update the database.
    
-   4. Given the update statements... update the database.
+   4. Dump the database as a [CSV file](./etc/roman-churches.csv).
    
-   5. Dump the database as a [CSV file](./etc/roman-churches.csv).
-   
-   6. Summarize the content of the database, and save it to a file ([summary.txt](./summary.txt)).
+   5. Summarize the content of the database, and save it to a file ([summary.txt](./summary.txt)).
 
 After cloning this repository, and assuming a sane Linux computing environment, a person can do all of the above with a single command: [`./bin/build.sh`](./bin/build.sh)
 
